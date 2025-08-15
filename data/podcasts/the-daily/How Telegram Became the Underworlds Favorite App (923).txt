@@ -1,0 +1,122 @@
+
+This podcast is supported by Betterment. First came the wheel, then came the steam engine, and then came automated investing. Since the dawn of time, people have used technology to make their lives better and better is what Betterment is all about. While we may not be as famous as the Wheel, we did Pioneer a better way to invest because Betterment knows that being invested in better is pretty much the best investment you can make. Betterment be invested. Investing involves risk performance, not guaranteed.
+
+
+From The, New, York, Times. I'm Sabrina Tavern Sea and This is The Daily. A Times investigation has found that one of the world's biggest messaging apps with nearly a billion users is also a giant black market and gathering place for terrorists and white supremacists. Today, My colleague Adam Satariano on the extraordinary story of Telegram and how it's led to one of the first arrests of a social media CEO in history.
+
+
+It is Monday, September 23rd. Adam, welcome back to the show. Thanks for having me. So Adam, you and our colleagues just published a big investigation into what's going on inside this giant messaging app called Telegram, and it really came at the perfect time because the founder of the platform was arrested in France just a few weeks ago. So tell us what happened. So this was a fascinating case. So this guy, Pavel Durov, a Russian tech billionaire, his private plane lands at an airport outside Paris, and he is immediately picked up by the French authorities and detained.
+
+
+And the French authorities at first are providing very little detail about what happened. It happens over a weekend. There's not much public statements being put out. There's a few French media reports. And then a few days later, the French prosecutors put out a press release, one page long, and it just lists all these different things that he's been charged with complicity and crimes, including the spread of child pornography, drug trafficking, organized gang fraud, criminal conspiracy. And this was a shock and an important moment because Telegram is a massive platform that's used by almost a billion people around the world.
+
+
+And it raised this really fascinating question of to what extent does the head of a tech company be held responsible for what users of that service are now doing? Okay. So this is a huge platform. A big chunk of the world uses it, and its founder Dav is in trouble because of what's happening on it. So let's start with him. Dav, tell me about him. He's a fascinating character. He was born in the Soviet Union. He moved to Italy when he was a child. His father was an academic and was working there. And then after the fall of the Soviet Union, they moved back to St.
+
+
+Petersburg and he and his brother, who is a real engineering whiz, become fascinated with an IBM computer that they had brought back with them from Italy. And when Paval is in university, he's shown Facebook for the first time and he becomes fascinated by it. And he is like, I want to create my own. Hmm. And so they start their own version of Facebook geared towards Russia, A company known as VK Contact. Yeah, as it's known in Russian. Yes. And it explodes in popularity and Doff himself begins to develop a bit of a profile. On the one hand, he becomes known as Russia's Mark Zuckerberg.
+
+
+He starts a social media company. It's at a time when having a startup like that is cool. He's being written about in places like TechCrunch and other Western press. But on the other hand, he's sort of a loose cannon. He has this incident where he throws cash out the window of their offices in St. Petersburg and it leads to a street fight down below another instance, he hit a police officer with a car when he's trying to evade a traffic stop because he had driven onto the sidewalk to avoid traffic. And so he has this kind of trollish element to him, but he is one who has a lot of money and therefore a lot of power and influence at the time.
+
+
+So kind of like a tech bro with a trolley kind of contrarian attitude. But knowing Putin and Russia, that's probably a pretty dangerous position to take at that time in that country. Right? As the popularity of the service takes off, it's also drawing the attention of the Russian authorities who start coming to Doff and the company for information about users. And it becomes a source of tension. And it's also a point where you start to see do off's, anti-authority streak come forward. When the authorities were asking for information about some opposition politicians, he responded online by posting a picture of a hoodie wearing dog.
+
+
+And he said, this is my official response to the intelligence services. So thumbing his nose at the Russian authorities, which as we all know can be a little dangerous. Exactly. And it comes to a head over some Ukrainian activists that the Russian authorities want Doof to provide information about. And it becomes this moment where he is forced to decide whether or not he's going to cooperate with Russian authorities or if he is going to have to hand it over. So he's essentially forced to sell the company. He chooses that. So Dura is essentially forced to abandon his own darling here, his company that he built from scratch.
+
+
+And he chooses to do that rather than to see it become something that he doesn't agree with. Exactly. That must have been pretty painful. Yeah, it was. Obviously my first company was my baby. I created my stuff. There was a lot of creativity, time and effort invested in that platform. Doof doesn't really give many interviews, but a few months ago he had one with Tucker Carlson and they touched on this moment, But at the same time, you know, I understood that I would rather be free. I would want to take orders from anyone. And I left behind probably a comfortable life. And he makes it really clear that this was a dilemma.
+
+
+But the choice was clear for him. He knew what he had to do. For me, everything in my life was about becoming free. Yes. And to the extent it is possible, my mission in life was to allow other people to also become free in a sense. And using the platforms that we created or I created, my hope was that they could express their freedoms For Dural. This moment ends up being a really important inflection point in his life because in the middle of all this, getting all this pressure from Russian authorities in losing vk, he starts to build a communications platform that he hopes will sit outside any government and that they won't be able to crack down on it.
+
+
+And that tool is Telegram. So tell me about the birth of Telegram. How does it get started? DAF starts Telegram in 2013, and it's the next year in January, 2014 that they announced that he's lost vk and he decides to leave Russia and look for a new place to push ahead with this new project. And so he and a handful of engineers, they bounce around to different places. They become something like Digital Nomad. They're in Berlin, they're in London, they're in San Francisco. They even push out a software update from a boat in Southeast Asia. Wow. They eventually land in Dubai where Doof says that the government's given assurances that they won't meddle in what they're doing.
+
+
+And he feels it's a place can be a long-term home for Telegram. What does Telegram look like in those early days? So when Telegram first comes out, it's basically a simple messaging app like iMessage or WhatsApp. You can text your friends, you can start small group chats. But over the next few years, telegram becomes much, much more. In 2015, they added something called channels. And these are basically one way broadcasting features. Any user can start a channel, you send a message and anyone who subscribes will receive it. And governments, public figures and others begin to flock there.
+
+
+Ukrainian President, Flo Mayor Zelensky is there. You have government agencies that post updates there. But it's also all sorts of random quirky stuff too. You can get reality TV news from Brazil there. You can get math lessons in India there, prepare for civil service exams. It really runs the gamut. So Telegram is already beginning to sort of transition here from a pure messaging up to some kind of social media Platform. Exactly. And they continue down this path in 2015. They also introduce something called Super Groups, and it's like a typical group chat, but with a lot more people.
+
+
+And so these super groups start out with a thousand people user cap, but over the course of the next few years, telegram increases the cap exponentially. It's 5,000, then 10,000, then a hundred thousand all the way up to 200,000 in 2019. And how unusual is this, Adam? I mean, do the other tech companies have features like this? Not in the same way, no. In fact, as they were expanding the, the number of people who could participate in these kind of groups, others like WhatsApp, were going the other direction because of concerns that were being raised about the spread of misinformation or disinformation and So.
+
+
+you have Telegram really moving in a different direction from these other platforms and it helps distinguish it and it helps it grow. Right. And how much is it growing? How popular does Telegram actually get? So Telegram starts off with a hundred thousand users in 2013, and just three years later it's grown to a hundred million users. And today, telegram has nearly a billion active users. And so just to give you some sense of context, it's the fourth most popular messaging app in the world behind WhatsApp, WeChat, the giant Chinese messaging service and Facebook Messenger. That's just a wild number of people. It really is. And what's Wilder to me is that over the years, as Telegram is exploding in popularity, the company itself stays essentially the same size.
+
+
+So Telegram has around 60 core employees and it basically operates still like it's a small startup. There's no HR department, there's like a Stitch Together content moderation team, there's DAF at the top and some other core employees. And that's it. I mean, this is just so remarkable because when you think of big tech platforms, say like Meta for example, you think of them employing tens of thousands of workers, not fewer than a hundred like you have here with Telegram, Right? Absolutely. And it's really a reflection of what Telegram is. They don't have a large team of content moderators because they don't need one, they don't believe in it.
+
+
+They're not interested in limiting what their users say or do. Telegram builds itself as anti-establishment. It's anti-authoritarian. It's free speech. It's what Doff believes in. And he's become this sort of free speech folk hero in the tech community. And that ethos is what attracts hundreds of millions of users Telegram. But it's also what lays the groundwork for Dough's problems because some of those users who are flocking to Telegram are doing so for some pretty nefarious reasons. We will be right back.
+
+
+EBay powers America's small business economy. How? By providing millions of entrepreneurs and small businesses, the chance to transform their passion into a living, extending opportunities to people outside of big cities, which is why 43% of eBay sellers live in small towns and rural areas and investing billions into creating a seamless and trusted experience. For buyers and sellers, learn why eBay is America's Go-to small business platform@ebaysmallbz.com.
+
+
+My name is Audra Diaz Birch, and I am a national correspondent covering race and identity for The, New, York, Times. Race coverage is complicated. It can be joyous and affirming, it can be uncomfortable, but I feel like it's still absolutely necessary. Race and identity are not just understanding who you are, but who the person in front of you is, and wanting to understand more about them. We're trying to wrestle down these really hard subjects and maybe not answering the question, but asking the right questions and listening, listening, listening a lot The Times is dedicated to ambitious and deeply reported coverage of race and identity, and they're willing to back it up with resources. If you are curious about the world in which we live, if you're interested in who you are, where you come from and how you relate to others, I would encourage you to subscribe to The New York Times.
+
+
+So Adam, you said that Telegrams ethos created this kind of free for all, which ultimately led to Davs problems. And that is of course what you and our colleagues have been investigating. So what is actually happening on this platform? Yeah, so by the time Pavel Durov was arrested, getting off his jet in Paris, myself and some other colleagues, we were months into an investigation into Telegram. So using software, we were able to analyze 3.2 million messages on Telegram. Wow. Across 16,000 channels. And what we soon began to find as we look deeper is the volume of criminal and extremist behavior that is happening on there was really quite shocking.
+
+
+And Adam, when you started to look into these channels, what exactly did you find? One Of the main things that we found was the volume of sort of white supremacy and white supremacist groups that are operating in Europe and the United States especially. And they used Telegram for communication, for recruitment, for sharing their ideology. And in some respects you see that these groups are also in place for staging violence. There's a group called Terror Graham that's been designated a terror organization in the UK where they are plotting violence and sharing information about weapons in other ways to stage potential attacks.
+
+
+And it's really provided a haven for them to grow. So Adam, give me an example of a group that really has used all of these features of Telegram. As you're saying, One of the clearest examples that we found is Hamas. And so when Hamas attacked Israel on October 7th, it announced the assault on Telegram. You know, within a few hours of moving in, they began posting all sorts of videos of the carnage, and you've got over a three day stretch where they've posted something like nearly 700 times and they get over 54 million views.
+
+
+Wow. According to the analysis that we did, some of the videos of the hostages were shared over Telegram before some of these people were killed. Telegram was this key, key piece of the Hamas propaganda strategy. And so it provides this massive megaphone for Hamas to share its messaging. What Else did you find in your investigation? One of the most surprising things we were able to find is the extent to which Telegram acts as a black market.
+
+
+It is a clearing house for all sorts of illegal goods. You can buy handguns, you can buy machine guns, you can buy cocaine, you can buy MDMA, you can buy fraudulent ATM cards. The list goes on and on and on. So in other words, it really simplifies the process of buying or selling something illegal online. You don't have to be a specialist, you can just be anyone with the Telegram app. Exactly. And it's happening brazenly. I mean, they post videos of people opening their deliveries, which they will call touchdowns, and it has all sorts of slang that's used within a lot of these groups for buying drugs or guns.
+
+
+They act like salesmen like, oh, I can make a good deal for you. I can deliver to these 30 countries. They talk about how to make payments using cryptocurrencies. They'll have videos of packages of pharmaceuticals that they have for sale. So it's this kind of open air drug and gun market within an iPhone app. And So, you have to sort of step back and think like, oh, well, bad stuff is on the internet, who cares? But usually for this kind of stuff, you have to use the dark web, which requires a special kind of browser and then, and it has all sorts of hoops that you might have to jump through with Telegram.
+
+
+It's a simple to use app right there on your phone in your pocket, and people have called it the Dark web in your pocket. So Adam, this is pretty remarkable. I mean, just how much illegal activity is happening on Telegram, kind of in plain sight. What can governments and law enforcement do to combat this kind of activity? How are they dealing with this? The governments haven't been able to do much in large part because DAF and Telegram have refused to cooperate. We spoke to law enforcement and government agencies around the world who expressed extreme frustration in trying to get any sort of cooperation from Telegram.
+
+
+The NYPD told us that they don't even bother to send requests anymore because they don't get any help from Telegram. They stopped even trying. Yeah. And German prosecutors told us the same thing. I spoke to somebody who just conducted a bunch of research in Argentina, and there they have a, a prosecutor unit dedicated to child sexual abuse material. They can't get any help from Telegram. And so it's this black box where Telegram does not cooperate with law enforcement. And I think this is like a really important point. That is what has gotten Telegram into perhaps the most trouble, is that companies like Google Meta TikTok, they have teams of people who are responsible for responding to requests from law enforcement and thousands of moderators who will take down all sorts of material.
+
+
+Telegram doesn't have that. And so therefore you end up in a situation where there is a lot of illegal activity happening on the platform and nothing is being done about it. And, if you are a police department, if you're a prosecutor, that is immensely frustrating and infuriating. So This all brings us Adam to Paval D'S arrest in France and really helps me understand what the French government might have been trying to tell him. Bring me back to that case and and tell me where it stands now. So Pavo Duro is in France now awaiting trial, at least one of the charges carries a up to 10 year prison sentence.
+
+
+And you know the first word of the press release that the French prosecutors put out was complicity. And they're essentially saying that Pablo Doof is complicit in all these crimes that include child pornography, drug trafficking, gang fraud, criminal conspiracy, the list goes on. And so they're saying that because he and his company were so uncooperative in trying to deal with these different crimes, they say that there was an almost total lack of response from telegram to legal requests. And they finally had enough. And so when his plane landed in France, they grabbed him.
+
+
+And this is pretty unusual, right? I mean, when it comes to social media, we haven't really seen a big tech CEO held criminally responsible for something like this. Absolutely. I mean, his arrest is a big move by the French authorities. There's little precedent for something like this. They're essentially holding him as the CEO of the company responsible for the behavior of others, basically saying he's an accomplice, he's complicit. And this is not usually how governments have handled these sorts of crimes on social media. And what has Duv said in response? What's his defense? So his main defense seems to be I'm not responsible for what users do on my platform.
+
+
+He didn't sell the drugs, he didn't sell the guns. He's also said that Telegram is a victim of its success. It grew too fast. And he's expressed some contrition saying they were gonna put certain new policies in place to respond more quickly to certain law enforcement requests and to moderate more content. But beyond that, this arrest really cuts to the core of what Telegram stands for. It's like what they've been trying to achieve for daf. The whole point of telegram is to create a platform that's free from government interference. It's not gonna submit to government requests that it stands with its users, not with governments. And in places like Russia and Iran, telegrams been seen as a force for good.
+
+
+And that makes sense. If you're a guy who grew up in Russia where the government calls anyone, it disagrees with a criminal or a terrorist. But in a lot of the rest of the world, including France, people live by laws, not by the whims of an authoritarian leader like Putin. And if they break those laws, the government comes after them as it should, Right? I mean, DAF would have us believe that this situation is incredibly black and white. That in order to have a free space where anyone can openly express themselves, you have to have minimal moderation. It's like censorship or no. And he's arguing that the trade-off is worth it, that it's better to have Hamas broadcasting and understanding their point of view than to have a Russian police state.
+
+
+But the thing is, it's not totally clear that the situation is this black and white. Most of the tech sector doesn't work this way. Other social media sites like Facebook or YouTube, which are by no means perfect, they have fairly robust policies and teams in place trying to keep the worst activity off their platforms. And they do a fairly good job of cultivating a marketplace for ideas. But like you said, that isn't how Doof sees the world. He has a very black and white view, and there's a really good chance that he's gonna be held accountable for the consequences of holding onto those ideals so tightly.
+
+
+Adam, thank you. Thank you. We'll be right back.
+
+
+EBay powers America's small business economy. How? By providing millions of entrepreneurs and small businesses, the chance to transform their passion into a living, extending opportunities to people outside of big cities, which is why 43% of eBay sellers live in small towns and rural areas and investing billions into creating a seamless and trusted experience. For buyers and sellers, learn why eBay is America's Go-to small business platform@ebaysmallbz.com.
+
+
+I'm David Marzi. And I'm Lulu Garcia Navarro. And We're the hosts of the interview from The New, York Times. David and I have spent our careers interviewing some of the most interesting and influential people in the world, Which means we know when to ask tough questions and when to just sit back and listen. And now we've teamed up to have these conversations. Every week we'll try to reveal something about the people shaping our world, And we'll get some great stories from them too. It's The interview from The New, York Times. Listen, wherever you get your casts,
+
+
+Here's what else you should know today. Over the weekend, a devastating Israeli airstrike on the Lebanese militant group, Hezbollah in central Beirut on Friday killed at least 37, including two commanders. The attack leveled two apartment buildings and plunged Lebanon into further chaos. Days after pagers and walkie talkies belonging to Hezbollah members exploded on mass. The attacks appeared to Mark A. Stark shift in the calculations that have long governed the decades old conflict between Israel and Lebanon's most powerful militant group. Until last week, Israel had refrained from launching the kind of attacks that its leaders had feared, could provoke retaliatory strikes by Hezbollah, but Over.
+
+
+the past few days, Israel has crossed what had unofficially been considered red lines. The Times reports that Israel's moves seem to indicate that the country's leaders have decided they can no longer live with a threat of Hezbollah on their northern border. And the Georgia State Election Board voted on Friday to force counties to hand count all ballots cast on election day. A move that critics say could significantly delay the reporting of results in the battleground state and inject chaos into the post-election period. The new rule, which passed on a three to two vote, runs counter to extensive legal advice from election officials and law enforcement officials in the state.
+
+
+The new rule is the latest in a stream of right wing election policies passed by the State Election Board over the past few months. Today's episode was produced by Luke Vanderplug and Will Reed with help from Jessica Chung and Carlos Preto. It was edited by Brendan Klienberg contains original music by Marian Lozano, Rowan, NEMA Sto, and Diane Wong, and was engineered by Chris Wood. Our theme music is by Jim Broberg and Ben Landsberg of Wonder Lake.
+
+
+That's it for The Daily, I'm Sabrina Tavern. See you tomorrow.

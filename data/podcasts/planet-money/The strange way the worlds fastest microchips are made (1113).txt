@@ -1,0 +1,140 @@
+
+This message comes from NPR sponsor Ultra Software by UL Solutions. Ultra Software helps companies drive innovation, meet regulatory requirements, and get safer, sustainable products to market. Learn more@ultrus.com slash npr.
+
+
+Hey, quick word before the show. The 2024 election is over, and as a new administration prepares to assume power, it is our job across the entire NPR network to report on what they do with that power. That's why we're here. And your support makes it possible for us to break down big stories to fact check and to make sure you understand what's going on. When you donate, you make a difference in our ability to do this work. If you're already a supporter, we're gonna take this moment to just say Thank you truly. And if you're not, you can go to donate.npr.org to give. That's donate.npr.org.
+
+
+Okay, here's the show. This is Planet Money from NPR So. there is this technology that when I first heard about it, I thought, you gotta be kidding me. This is gotta be science fiction. It's this new way of making microchips. There is only one company that has figured out this technology. A Dutch company called A SML, and recently, Jeff, you went to their labs in San Diego. How many people have seen what we're about to see today? Well, a lot of A SML engineers. Okay. And that's most of the list. It's a working clean room, so it's, it's very rare for people to go inside.
+
+
+That's Sarah DiRenzo. She's a comms person for A SML, and she's about to show me the heart of one of their new microchip etching machines. A Microchip is basically a bunch of circuits that are etched onto a piece of silicon. The more circuits on the chip, the more powerful it is. And for almost the entire history of microchips, the circuits have been getting smaller and smaller, and the chips have been getting more powerful. But about 10 years ago, that progress slowed pretty dramatically. The industry was staring down a dead end Until A SML made a breakthrough. With this new technology, these new machines, they were able to etch billions and billions of circuits onto a single chip.
+
+
+But they're also incredibly delicate. Sarah says it's been more than a year since they've let a journalist inside this S lab. They don't love to do it. 'cause even the tiniest speck of dust could ruin the machine. And Journalists are not sterile. Absolutely not. So. we have to go through this whole decontamination procedure. there is a machine where you stick your foot into to clean your shoes. This was great. Okay. Oh, it untied my shoes. That's how powerful it was. Next, a technician named Blaine Haworth comes over to wipe down my microphone and recording equipment. This, This is all we gotta clean. Ah, yeah. All this equipment. What about the foam? Blaine is pointing to this black foam windscreen that's on my microphone, which I will admit was a little dirty.
+
+
+It had some cat hair stuck to it. What? What don't you like about it? The particles. It gives off what Particle? Oh, you mean this cat hair? Yeah, yeah, yeah. Cat hair is a problem for us. It really is. Okay. I put on what looks like a thin plastic space suit, and now I am ready to walk into the clean room. I'm about to see one of the most complicated technologies ever invented. And Jeff, at that point, you had been talking about this amazing microchip etching technology for like months. Yes. Because this is the technology behind all the new chips powering the most advanced AI models in the world.
+
+
+It is so important that the US has been lobbying the Dutch government not to let a SML sell any of these machines to China. They see it as a matter of national security, but most of all, I've just been fascinated by these machines themselves. Like, let me briefly explain how they work. Alright, Take it Away. You start with a laser. A laser that is so powerful, it could cut through a bank vault like butter and Then. you focus that massive laser on a tiny droplet of molten tin like the metal tin, and then almo the tin vaporizes into a plasma that gives off a beautiful, intense light. They call it extreme ultraviolet. And as light bounces off a series of mirrors, which have to be like the smoothest mirrors on the planet, and it etches billions and billions of tiny little microscopic circuits onto a wafer of silicon, which by the way is magnetically levitating.
+
+
+Wow. Culminating in the most powerful microchips that have ever existed. I mean, I can see why they're a little bit touchy about the cat hair. Yes. And Sally, this extreme ultraviolet technology for making chips, it is such an accomplishment. It is like our generation's moon landing For years. A lot of people thought it was impossible. And one of the things I've been obsessed with is I, how did we even do it? How did humanity pull this off? Hello, and welcome to Planet Money. I'm Jeff Quo, And I'm Sally Helms. It's easy to take for granted that microchips are just gonna get more and more powerful, but they don't get powerful all by themselves.
+
+
+It takes a lot of people over a lot of time. Often they make bets that in the moment seem unlikely, even foolish. Today on the show. How one of the most complicated, most improbable technologies in the world, this breakthrough in how we make microchips came to be and how it almost didn't. This,
+
+
+This message comes from Apple Card. Apple Card is the perfect card for your holiday shopping. When you use Apple Card on your iPhone, you'll learn up to 3% daily cash back on every purchase, including products at Apple, like a new iPhone 16 or Apple Watch Ultra. Apply now in the wallet Apple on your iPhone, subject to credit approval. Apple Card issued by Goldman Sachs Bank, USA, salt Lake City branch terms and more@applecard.com.
+
+
+This message comes from Grammarly. 88% of the work week is spent communicating. So it's important your team gets it right. Enter Grammarly. Grammarly's AI helps teams communicate clearly the first time it goes beyond basic grammar. To help teams instantly create and revise drafts in just one click, all without leaving the page they're on. Join the 70,000 teams and 30 million people who use Grammarly to move work forward. Go to Grammarly dot com slash enterprise to learn more Grammarly Enterprise ready ai.
+
+
+Every technology starts with an idea. And in the beginning, that idea is almost like a dream. One of the first people who believed in this revolutionary way of making microchips was Andy Haver luck. You're kind of a big deal in the world of microchips and stuff, right? That's for somebody else to decide. I don't, I don't consider myself a big deal. I just consider myself one of many. Andy's big idea was that he thought it was possible to etch microchips using extreme ultraviolet light. And this idea actually came to him when he was working on something completely different. It was the 1980s, and he was a young scientist at the legendary Lawrence Livermore National Labs in California.
+
+
+Yet at the dawn of the Cold War, the United States had started putting billions of dollars into science and research, and it created these big national labs. They were all over the place, and they all have different functions. The primary function for Lawrence Livermore is nuclear weapons research. Yeah. The government scientists at Lawrence Livermore have designed more than a dozen different types of nuclear warheads. They study nuclear reactions like nuclear fusion. A fusion reaction generates a lot of powerful light, including extreme ultraviolet. Andy and his team were working on new kinds of mirrors, mirrors that for the first time could reflect and control the light coming off of a fusion reaction.
+
+
+And Andy realizes that these new special mirrors might have a use outside the lab because extreme ultraviolet light is super precise. And if we can now control it with these mirrors, we could etch like the tiniest circuits ever and make microchips way more powerful. This is chapter one. In the life of many technologies, someone looks at a scientific breakthrough or A discovery in a lab and imagines how it might apply to something totally different, solve some problem in the real world. Andy goes to a conference to present this idea. He remembers feeling nervous. All the top microchip researchers are there.
+
+
+Do you remember the moment where you went up and presented it? What was that like? I remember the moment after I presented it, it was not well received. So many naysayers got up and basically said, stupid idea. Crazy idea. No, it'll never happen. Andy says, it was brutal. Just everyone piling on him, telling him all the different reasons why his idea wouldn't work. Like these mirrors would have to be the smoothest mirrors on the planet. And was it even possible to generate extreme ultraviolet consistently? It's all just too complicated. Andy goes back to his lab, his boss asks how his presentation went. I said, I don't wanna talk about it.
+
+
+I will never speak of it again. Oh, my gosh. I, I was just, I felt humiliated and embarrassed. But a few days later, Andy gets a phone call. It's from this guy Bill Brinkman. He'd heard about Andy's presentation and wanted to know more. Andy's like, who is this guy? And so I went to my boss and I said, who's Bill Brinkman? And he looked at me and said, he's the executive vice president of at t Bell Labs. And I went, oh, Bell Labs. It's the place where the laser was invented, where fiber optics was invented. It's one of the most famous private laboratories in the world. And Bill Brinkman was one of their top scientists.
+
+
+And I said, well, he just called me and, and my boss looked at me and said, he called you. And I went, yeah. And he said, tell 'em you'll be on the next plane out. The folks at Bell Labs were also looking into ways to etch microchips using extreme ultraviolet light. They flew Andy out to their headquarters in New Jersey. They Had an auditorium with, there were 50, 75 people there to listen to me. It was a huge reception for us. You know for that. And I went, holy crap. Andy had found a group of fellow believers, people who thought maybe this extreme ultraviolet technology really could work.
+
+
+There was also a researcher in Japan, hero Kenosha, who had started tinkering with the idea even before Andy. But most of the microchip industry doubted the idea What Andy and the other believers needed to do was to prove that this technology was possible. And to do that they needed someone to take a gamble. They needed seed money. This is the start of chapter two in the life of many technologies, and in this case, a lot of that early r and d money would end up coming from the US government. Yeah. You see, this was the 1980s, and the government was beginning to think differently about its role in r and d and science. They had been spending billions of dollars on scientific research, which gave 'em an edge in the Cold War.
+
+
+A lot of nuclear weapons stuff, right. But the Cold War was winding down. The Berlin Wall was about to crumble, And Congress realized that the national labs were sitting on all this research that could have a lot of practical applications, could stimulate the economy, help make us companies a lot more competitive. And so Congress told the national labs, we want you to partner up with us companies. We want you to work together to explore commercial uses for your research. And we will give you some seed money to do it. It was perfect timing for our band of believers. Andy and his team at Lawrence Livermore eventually signed a deal with several US companies to research extreme ultraviolet chip making.
+
+
+Bill Brinkman and at t Bell Labs signed a deal too, and it wasn't just them. By the early 1990s, a bunch of companies and national nuclear weapons labs were working together to see if this technology was viable. One of the people involved was Rick Tulin. Rick was in charge of the research at Sandia National Labs. Was there like a quarterback for all of this, or were you all just working on individual projects trying to chip away at this huge problem? Yeah, This, that's a great question. We did not have a quarterback. Yeah. Rick said the government seed money had unleashed all these different teams, each working on their own piece of the extreme ultraviolet puzzle.
+
+
+And bit by bit, they start to show that they can overcome the technological obstacles here using extreme ultraviolet to etch microchips. It looks like that's really possible, But. then in early 1996, Rick gets a call from Washington Saying, Rick, we're terminating the program. Congress is no longer interested and has some concerns about this looking like corporate welfare. So you basically have about six months to wrap things up and move on. President Clinton is trying to balance the budget and that seed money for projects like extreme ultraviolet research dries up, meaning that government scientists like Rick and Andy, they might have to go back to working on You know nuclear fusion or national security projects And So.
+
+
+we were stunned. And at the same time, we knew we were onto something I mean. We knew this was something that was gonna make a difference. So I was, you know, obviously scrambling Like the future of microchips was kind of hanging in the balance. The world had been transformed by faster and faster chips, faster and faster computers. But with the current technology, there was a limit to how fast chips could get. The industry would soon be facing a dead end. Rick Realizes that to save all the extreme ultraviolet research they'd been working on, they needed to raise a lot of money fast. So he goes to the big US microchip companies and says, the government is out.
+
+
+Will you make up the difference here? Take on all the financial risk yourselves. And it was incredible to watch them sort of sit up and say, this cannot happen. We're gonna figure out a way to continue to fund this because we think you're gonna make it. Wow. So they like made basically a giant industrial GoFundMe. They Well, they did. They did. That's exactly right. The government seed money had worked. The labs had made so much progress that the biggest companies in the US microchip industry, companies like Intel wanted them to keep going and were willing to make a much bigger investment in this extreme ultraviolet technology.
+
+
+Intel and other companies supersize the r and d budget from a couple of million dollars a year to more than $40 million a year. And they define a clear goal. They want the national labs to work together to build a prototype, an actual machine that can etch a microchip from start to finish using extreme ultraviolet light. It's called a lithography machine. Rick is appointed the chief operating officer for this huge kind of unprecedented partnership between the national labs and private industry. Basically, he is now the quarterback. Was that a daunting challenge? Yes.
+
+
+Yes it was. We'd never built a lithography tool in our lives. None of us. Right? And extreme ultraviolet light is so tricky to work with that it takes years, but by 2001, they pull it off. They have a prototype. Yeah. It looked very, very much like a research tool. Wasn't pretty, didn't have a pretty exterior. There were a lot of cables all over the place. We thought it was beautiful in every, every way. Rick remembers feeling just over the moon, like they had finally proven that this technology was really possible. The mood was giddy, it was exuberance, and it was a sense of pride.
+
+
+It was like a moonshot. And we, we landed right Now that the prototype was built, Rick's job was mostly over. But now comes the final chapter in the life of a technology. That kind of ugly cab prototype has to become a slick, real world machine. One that can sit on the factory floor in companies all around the world, etching tiny circuits onto reams and reams of microchips. And our original slogan for the program was on the floor in oh four. We wanted the these tools to be on the semiconductor manufacturer's floor in oh four. Well, that was ridiculous.
+
+
+We were way, way, way, way too optimistic. The toughest challenges would still be to come After the break. It is one thing to prove that a technology is scientifically possible, but to prove that a technology is commercially viable, that you can make money off of it. That is something else entirely.
+
+
+This message comes from Capital One banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply. See Capital One dot com slash bank for details. Capital One na member FDIC.
+
+
+This message comes from NPR sponsor, Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Fenner and Smith, incorporated. Registered broker dealer, registered investment advisor, member SIPC.
+
+
+Support for NPR in the following message, come from Edward Jones. What does it mean to be rich? Maybe it's less about reaching a magic number and more about discovering the magic in life. Edward Jones Financial advisors are people you can count on for financial strategies that help support a life you love. Because the key to being rich is knowing what counts. Learn about this comprehensive approach to planning@edwardjones.com slash find your rich Edward Jones, member, SIPC.
+
+
+You hear it all the time. Some lab announces a revolutionary breakthrough. Scientists have discovered a way to encode data using holograms, or they're able to levitate frogs using magnets. Or they've created nano wires stronger than maybe anything in the universe, But. then years later, like nothing seems to come of it. Where are the frog levitating machines? Where are they? Where are they? Where are they? Where are they? And the main reason that most technologies never make it into the real world boils down to economics. Like a lot of really cool technology just ends up being too expensive or too impractical or both. Yeah. And for extreme ultraviolet chip making that reckoning came in the early two thousands.
+
+
+By that point, the US microchip industry and the US government had spent hundreds of millions of dollars proving that this next generation technology could work in the lab. And now they turned to that final chapter in the life of a technology, getting it to market like some company needed to take all the research and the prototype and figure out how to make the technology profitable, basically make a commercial version of the machine. And for this challenge, the US effort turned to a Dutch company, A SML. I think people now in retrospect think, oh, like this could have been an American technology, but we passed on the torch to a Dutch company.
+
+
+Well, that's an expression, but you could also say that US dropped the ball on lithography. Sorry for being the The blunt in the Dutch way. He's Very Dutch. Yes. Mark Hink is a Dutch business journalist. He's kind of the world's expert on A SML wrote a book about it recently. Mark says, sure, some politicians wanted a US company to bring these machines to market. The problem was there weren't any great options in the us. The major players at the time were A SML and two Japanese companies, Canon and Nikon. But Canon and Nikon were out because the United States saw Japan as its main microchip rival. So the industry turned to A SML.
+
+
+A SML had been doing its own research into extreme ultraviolet. And in the early two thousands, it took on the challenge of making a profitable commercial machine. At the time, there was still quite a bit of work left to do. The prototype was a nice proof of concept. But in order to etch a single wafer of microchips, this prototype might have taken a whole day. A commercially viable machine needs to make hundreds of wafers an hour. Otherwise it just wasn't worth it. That's how brutal the economics of the microchip industry are. You have to have a machine that keeps on running day in, day out without too many troubles, without too many errors. So it's like crazy science and crazy economics in one machine.
+
+
+In the beginning, as SML was pretty sure they could get the science and the economics to work, they thought they could make a machine ready to go into factories. By 2006, not quite on the floor in oh four, but close enough, The main problem they had to tackle was gathering enough extreme ultraviolet light to etch microchips. You need a lot of light. The more light you have, the faster the machine can go. But for the longest time, A SML couldn't get that extreme ultraviolet light bright enough. And once you get to see one of their machines up close, you start to understand why We're gonna have to put on some hard hats now.
+
+
+Yes. Yes, please. That is Alex Shagan. He is the head of engineering at ASML's San Diego lab, which Jeff went to visit. He says, there just isn't any simple way to generate extreme ultraviolet light. Remember, this is the part that sounds like science fiction. First, you needed a giant laser. Alex takes me to one of their laser rooms. It has rows and rows of these like six foot tall beige cabinets. This entire room powers just one laser. Can I ask why that red light is, is rotating? It looks like an alarm light. Is that the lasers armed and can fire? Oh, good to know.
+
+
+But this laser itself did not produce extreme ultraviolet light. It was just a regular laser, albeit supersized But. then the laser had to hit that droplet of molten tin, create that super hot plasma, and that would give off a flash of extreme ultraviolet light. And in order to get enough extreme ultraviolet light, they needed these tin plasma explosions to happen 50,000 times a second. Yeah. Alex takes me to a test chamber. Looks like a big metal sewer pipe with a plexiglass window on one side. We're about to see something that very few people have seen inside is a nozzle spitting out these molten tin droplets.
+
+
+And we've lit up the chamber with a flashlight so that you can visually see this spiderweb looking string of droplets. Holy wait. Oh, It does. It looks like a, it looks like a very thin spiderweb. It took years to figure out how to make that thin silvery spiderweb. The engineers had to come up with clever ways to vibrate the nozzle. So every droplet would be the exact same size and shape. There were hundreds and hundreds of engineering challenges like this, and every time they solved one problem, another one would pop up. By 2006, their original deadline, they had a machine, but it was too slow and it broke down.
+
+
+Too often, A SML told the industry, its customers, its investors. Just give us another year, one more year. They said that year after year after year, By 2011, ASML's, Japanese rivals, Canon and Nikon had given up on extreme ultraviolet technology. And some of the execs at A SML were wondering if they should give up too. They went to their customers chip makers like Intel, and asked them, are you absolutely sure that you still want these machines? It's gonna take more time, more money. Maybe we should just call it now. But the chip makers are like, no, no, no, no, no. We still want these machines.
+
+
+'cause without them, progress will slow and we're not really sure how to make faster chips. So A SML forged ahead and in 2017, they did it back at the lab. I sued up to see the final product. Alex leads me into what looks like a cavern or A cathedral. We turn the corner and Oh, my gosh, This is the plasma vessel Ahead of us is this stainless steel sphere. It's the size of a car. Inside this sphere is where the tin droplet meets the giant laser. The plasma from the explosion gets 40 times hotter than the surface of the sun. A nearby screen shows what's happening inside.
+
+
+I can see a steady purple glow. This light source is currently making plasma So. we, this is running right now. It's running right now. Tell me that it's running right now. Standing there was kind of terrifying. All those violent explosions happening 50,000 times a second. Inside that chamber, you're Seeing just the glow of this hot plasma Oh, my gosh. Yep. We're making plasma. What we were looking at that purple glowing plasma. It was the culmination of almost 40 years of research started in the 1980s with people like Andy dreaming of this new way of making microchips. It was nurtured through the nineties by this partnership between the US microchip industry and US nuclear weapons laboratories.
+
+
+And then for almost 20 years, it was in the hands of A SML who finally brought it to market. And that final chapter tends to be the hardest and the most expensive part in the life of a new technology. In this case, the early research and prototype had cost US taxpayers and US companies maybe 300, $400 million. But A SML says, after they picked up the baton, they spent about 15 times that amount, more than $6 billion. It's funny. A SML execs say if they had known how much it cost, how long it'd take, they probably wouldn't have taken a bet on this technology.
+
+
+But their gamble paid off. A SML now controls maybe the most valuable technology in the world. Its latest, extreme ultraviolet machines go for about $380 million each. They're some of the most complicated objects that humans have ever built, and they've become indispensable. They're used by companies like Intel, TSMC and Samsung. They're producing the chips, powering the most advanced AI models, And, you know, advanced chip technology like this. It kind of feels like inevitable. It feels like one of the most basic underlying facts of our modern world, but this stuff almost didn't happen.
+
+
+This episode was produced by Willow Rubin and edited by Jess Jang. It was fact checked by Dania Suleman and engineered by Patrick Murray. Alex Goldmark is our executive producer. Special thanks to John Caruthers, Danny Brown, Andre Litvac, and Georgie Chenko. And if you're interested in Mark's book about A SML, it's called Focus, the A SML Way. I'm Jeff Go. And I'm Sally Helm. This is NPR. Thanks for listening.
+
+
+This message comes from NPR sponsor, Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Fenner and Smith Incorporated. Registered broker dealer. Registered investment advisor, member SIPC.
+
+
+This message comes from Ener gia, where everyone can invest directly in solar energy projects. Across the world's most profitable renewable markets. Since inception, ener GIA has helped investors realize a 12% return while earning steady monthly dividends. It's a smart, impactful way to diversify outside the stock market with real assets. Learn more at gia.com/npr. Past performance is not indicative of future results. All investments carry risk, including the potential loss of principal.
+
+
+And a special thanks to our funder, the Alfred p Sloan Foundation, for helping to support this podcast.

@@ -1,0 +1,68 @@
+1:
+TED Audio Collective
+
+2:
+You are listening to TED Talks Daily, where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. What if we could expand the capacity of our minds and ease cognitive decline that comes with old age or disease data and design? Expert p Oleum Garcia is working on it with the help of generative ai In his 2024 talk. Garcia sheds light on the work of transforming our actual memories into blurry, undefined images to make something called synthetic memories. The promise this holds after the break.
+
+Capital One:
+Support for the show comes from Capital One Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts and no overdraft fees. Just ask the Capital One Bank guy. It's pretty much all he talks about. In a good way. He'd also tell you that this podcast is his favorite podcast too. Oh really. Thanks, Capital One, Bank guy. What's in your wallet terms? Apply See Capital One dot com slash bank. Capital One na member ft. C.
+
+2:
+And now our TED talk of the day.
+
+3:
+A year ago I was in front of Carmen, a 90-year-old woman from Barcelona. I asked her, Carmen, what is your earliest memory? Now for someone who have almost seen a century in fault? This can be a difficult question. I was half expecting her to say, son, my earliest memories of you asking me this question. But the truth was that it was from 1941. She was 6-year-old and her mother will pay another family so they could enter their house and go up to their balcony. What was particular about the balcony was that it was facing La Modelo Prison.
+
+3:
+During that time, during the Spanish dictatorship in Spain, it was a political prison, and her father, a doctor for the Antifascist from was a prisoner. So the only way they could see each other was from that balcony to the window of the prison. And that was her earliest memory of him between bars through that street. I asked her, Carmen, would you like to have an image of that memory? And she said, yes, of course. I would love to show to my family what I experienced, the things that I went through so they can remember where we all come from.
+
+3:
+And this is how we started this experiment, trying to transform a memory into an image. In this case, using generative ai, we started by creating a de descrip, a description of the memory, a prompt to say, so then Carmen generated tens of images. You could see her going through all of them, but it was not until she saw these two images that something clicked in her. She pointed at the image and say, yes, this me and my mother in the balcony, I can see the haircut. It was as if she have found something long last. From there we did something else. We used the image as a starting point to generate a video.
+
+3:
+But this time, not only showing her and her mother, but also showing her father, looking back at them from the other side of the street when she saw it, there was a long silence. And later she told me that it had been a long time since she had seen an image of her father. These are not factual recreations of the past. These feels a bit more like dreams, right? And in fact, they are. They are visualizations based in memories, the with their imperfections and and definition. That's how we discovered that blurry and define images work much better than hyperrealistic ones when we are trying to construct memories.
+
+3:
+That's why early generative AI models work much better than the ultimate state of the art ones. It's not the factual accuracy that moves us, but the emotional truth that we find embedded into some of these systems. And we call these project synthetic memories. It's one of the several projects we are doing at domestic data streamers, a team of researchers, designers, and engineers, exploring the impact that generative AI can have in society, going from media literacy to cultural heritage, and of course memories. Now Memories are the architects of our identity, right? Memories remind us who we are, and visual memories are very important.
+
+3:
+We all have a picture of someone we love in our wallet, in our phones, in our homes. Visual memories shape our sense of self and they can shape our sense of belonging to specific place. They can teach us things from the past. And because all that they can actually make us understand in a deeper level how we react to things. And unlike organic memories which are form and stored in the human brain, synthetic memories are visual memories from a person past which have been never documented or lost. And that we can now using gene AI transform from a text or a neural description into an image.
+
+3:
+Now, there are many reasons why we can lose visual memories and memories itself. But the most common one is the one that comes with aging. And this disease is like Alzheimer or Parkinson. I myself have lived through that in my family. And I guess many of you have had similar experiences. It's a terrible disease as you not only see the memories fade away, but also the character and identity of someone that you love.
+
+2:
+And now back to the episode.
+
+3:
+So two years ago we started to like create these meetups to meet people from very different disciplines, trying to figure out how synthetic memories could be used in different social setups. And then I met Theit, a social worker in a nursing home. He was taking care of a group of Alzheimer patients and he was using a therapy called reminiscence therapy. Now, Ramini Sense Therapy is a kind of therapy that uses music and old photographs from a person past to trigger this very visceral emotional memories. Think of it as kind of lubricating an old rusty lock, making it much easier to open the doors of certain forgotten problems that we have in our head.
+
+3:
+And it has been proven to, for certain people, help very much in the prevention of depression, of cognitive decay, and in some cases even improve cognitive abilities. So we designed a pilot experiment using synthetic memories within ance therapy. And for over two months, two patients in both individual sessions and group therapy. And we could see a deliberative relation between the level of engagement and their cognitive abilities pointing out that this could not only be any way of doing therapy, but also it could be not another way to detect early signs of cognitive decay. Now this image was generated with Ria, a 96-year-old woman from a nursing home.
+
+3:
+And she was telling me about one of her favorite memories of her husband was during Sundays he would used to read the newspaper in the living room, and she will always play this old jumpy gramophone with some music. Just annoy him when when she saw the image, she was so happy her eyes light up. But after a while, she looked at me and she said, but P, we have a problem here. This man over here is not my husband. And I say, how come? And she said, have laughing. Well, my husband was much more ugly pointing. Once again, that love is not just blind, but also sweet her side, that this is far from being a cure of Alzheimer, but it could be a way of making the journey a bit less daunting.
+
+3:
+Another patient told me it feels a bit like finding your glasses in your head after searching for them everywhere. It's a small but very significant relief. And from a medical perspective, it could be a new way to temporarily enhance cognitive abilities, making it much easier for family members and and caregivers in moments of distress or disconnection. So the pilot experiment was promising enough to partner up with the H Well network here in Canada, together with researchers from the University of Toronto and the University of the British Columbia. And during the summer, we will be exploring and designing an ethical framework to protect both family members and patients, as well as comparing this therapy to other therapeutic interventions and exploring how we can make it truly accessible for both for families and institutions all over the world.
+
+3:
+But as you can imagine, synthetic memories in this project can go beyond the research on dementia. There are many other reasons why we can lose visual memories. There is the loss that comes from sudden displacement due to war, political prosecution or natural disasters, situations in which our photo albums hard drives phones, diaries can be lost damage or just left behind synthetic memories. It's a way to recover a part of this past heritage that have been lost, and that right now is at risk of being forgotten, is a new way of reconstructing a past that has been hidden to our eyes.
+
+3:
+Now, soon we will open the first public office for visual memory reconstruction in the city of Barcelona. With the support of the city Council idea is to make a city scale experiment, a place where any citizen will be able to generate their own memories to reconstruct a part of their past together in community understanding, which are the subjectivities of the past from different communities. This image was sent to me not long ago by the bit the social worker, and he did it with a dementia patient that for very long time had not spoken with his daughter.
+
+3:
+They were in kind of bad terms. And he told Abby that he was terrified about horses. But because his daughter loved them, he will bring her to ride every week during her childhood. He asked the beat to generate this image of both of them riding in this kind of dreamy landscape. This was not a memory. This never happened. It was a remembrance. It was a way that he wanted to remember his daughter with his permission that we'd send this image to his daughter, who, because of that, after almost 10 years without speaking to each other, came back to Barcelona to speak back to him Afterwards, she told a bit that when she saw the image, she realized that her father still had good memories of her.
+
+3:
+An image can work as a witness to the wall. We know that. But it can also change the way we see it. We have no tools that can help us understand a time that was not ours, experiences from others that have never been shown in images and breed realities that were hidden to our eyes. Ro, beloved Catalan writer one wrote, if there is an act of love, that is to remember. And that is truly my hope, that we all get the opportunity to love and be loved in that way.
+
+3:
+Thank you very much.
+
+IBM:
+Does your AI model really know code? Its specific syntax, its structure, it's logic. IBM's granite code models do they're purpose built for code and trained on 116 different programming languages to help you generate, translate, and explain code quickly. 'cause the more your AI model knows about code, the more it can help you do. Get started now at IBM dot com slash granite IBM. Let's create.
+
+2:
+That was p Oleum Garcia speaking at TED 2024. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Rezo. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feet. Thanks for listening.

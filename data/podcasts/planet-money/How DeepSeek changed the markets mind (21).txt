@@ -1,0 +1,146 @@
+
+This message comes from Capella University. With Capella's FlexPath learning format, you can set your own deadlines and learn on your schedule. A different future is closer than you think with Capella University. Learn more@capella.edu.
+
+
+This message comes from NPR sponsor Shopify. No idea where to sell. Shopify puts you in control of every sales channel. It is the commerce platform revolutionizing millions of businesses worldwide. Whether you are a garage entrepreneur or IPO Ready, Shopify is the only tool you need to start, run, and grow your business without the struggle. Once you've reached your audience, Shopify has the Internet's best converting checkout to help you turn them from browsers to buyers. Go to Shopify dot com slash npr to take your business to the next level today.
+
+
+Just a note in this episode, we will at some point talk about specific AI and tech companies, including Meta, Google, Microsoft, and Anthropic, all of which are current financial supporters of NPR. Here's the show. This is Planet Money from NPR. Imagine us At Planet Money Rolling out of bed late On Monday morning, still in our cozy pajamas. Yeah, we got our Teenage Mutant Ninja Turtle slippers on. We got our cup of coffee, Big on turn on the old tv, and oh my, what is happening in the stock market right now? This is moving so Fast.
+
+
+It's stunning. I mean, wow. It is shaking this entire industry to Its core crush, the nasdaq, which ppl 3.07%. Yeah. Ah, Single largest loss in a day of market capitalization in history. What was happening? It was apparently some kind of AI apocalypse. Okay, so AI apocalypse, not so sure about that. Okay, fine. Whatever. But without a doubt, this is a monumental shift. Yeah, because On Monday, AI related stalks started plummeting and TV related people started grasping for big metaphors. It was an earthquake.
+
+
+Today in the world of artificial intelligence, The Seismic AI event, a new-ish AI model from a company called Deep Seek. Hello and welcome to Planet Money. I'm Mary Childs, And I'm Kenny Malone. Today on the show, call it an artificial intelligence earthquake. Call it an AI apocalypse. But Monday was not just a market freakout. I mean, it was that markets lost the hundreds of billions of dollars, but it was also a teachable moment. Oh, yes. Because if we look at these specific companies that got slammed On Monday and a few that benefited, we can see pretty clearly what people with money are betting our AI future looks like.
+
+
+And This week, the AI model from Deep Sea has them betting on a very different looking future, Or has Jim Kramer. So artfully put it Ah, ah,
+
+
+This message comes from Charles Schwab. Financial decisions can be tricky. Your cognitive and emotional biases can lead you astray. Financial decoder, an original podcast from Charles Schwab can help listen today at schwab.com/financial decoder.
+
+
+This message comes from Charles Schwab. When it comes to managing your wealth, Schwab gives you more choices like full service, wealth management and advice. When you need it, you can also invest on your own and trade on Think or swim. Visit schwab.com to learn more.
+
+
+This message comes from Mint Mobile. Mint Mobile took what's wrong with wireless and made it right. They offer premium wireless plans for less. And all plans include high speed data, unlimited talk, and text, and nationwide coverage. See for yourself at Mint Mobile dot com slash switch
+
+
+This week has been a tectonic shift in assumptions about how the world is going to look. So let us first discuss how those assumptions became assumed we shall visit a simpler ancient time. Yes. Two years ago, roughly November, 2022, this is when the world got its first look at chat. GPT. You will recall, we all lost our minds chat. GPT could write poetry, it could tell stories, maybe it could take our jobs. We'd never seen anything like it. Now that AI model was developed by an American company called Open AI and, and their AI model chat. GPT had taken a ton of time to develop OpenAI had spent billions of dollars creating it, and as the model developed, it became clear that running better and better versions of GPT would be so expensive because it required the best semiconductors in the world.
+
+
+Lots of them. The American AI arms race began Google Meta, Microsoft all built giant expensive AI models and Newer companies got more competitive too. Anthropic perplexity also with gigantic AI models requiring unearthly amounts of compute, as they say, and money as they also say, They do say that. And what seemed to be true in all these cases was that in order to compete in the AI revolution, these companies needed unimaginable scale more and more computing power, more and more investment, billions and billions of dollars. If there was a way to win the AI arms race, I, it seemed pretty clear you needed the scale of a gargantuan company to do so.
+
+
+And then On Monday, all of those assumptions fell apart as did the stock market. Was Monday a bummer of a day for you? What's, what in the grand scheme of days, how does that shape up? Yeah, I mean, listen, as far As kind of Monday morning is concerned, it starts out off on a sour note. Angelo Zeno is an equities analyst at a company called CFRA research. Angelo's job in part is to look at the tech world and identify good and bad stocks for investors. And he says On Monday there were bad signs even before the stock market opened in the United States. I was up at four or 5:00 AM which is when I typically wake up. And I already had a number of inquiries in my inbox from investors out in Europe.
+
+
+So, And what are those investors like? Angelo, you told us American AI was the future. Yeah, I mean, listen, you know, who, who are the winners? Who are the losers from this? Yeah. What exactly is happening? Great questions. European investors, what exactly was happening? Well, so yeah, deep seek was happening. Here's the backstory. This Chinese company, a subsidiary of a hedge fund actually had been developing an AI model just, you know, for fun for its own hedge Fundy uses. I guess, and this was not a secret, lots of people in the AI tech world knew about this, Angelo included, because the hedge fund had been sort of open sourcing what it was doing after all, the parent company was not an AI company, it was a hedge fund, Right?
+
+
+So people generally knew that this AI model was likely more useful than just for hedge Bundy things. But what seems to have happened was seems to really have rocked The stocks were a few key things. Yeah. Number one, the deep seek AI had been training getting better and better. And it seems that the newest version released just 11 days ago had got real good. It hit certain benchmarks that showed it was possibly allegedly as good or nearly as good as the gigantic, fancy, expensive AI models being built by the American AI companies. Except, and here's the big thing, number two, deep seek is not a big fancy expensive AI model.
+
+
+It was reportedly built for a fraction of the cost and reportedly did not need top of the line chips and semiconductors and processors to run like the models from the American AI companies need. And then big thing number three, according to Angelo Zino news of all of this starts to spread. And over the weekend, last weekend, lots of people download a deep Seeq app, presumably to see what this buzzy new AI model is really like Deep seek topped the app store chart and kind of got ahead of open ai. I think it kind of, you know, put the technology right in the eye of this storm for investors out there. And then five hours after Angelo wakes up On Monday, markets open and whamo a bunch of stocks start plummeting.
+
+
+I've Been thinking about like, should Monday have a name like, like Black Friday had a name, you know, and I've been trying to make this one work. Yeah, Monday I apocalypse. It's not bad. It's not bad. Hey, you know, And so we shall now dissect and, and make meaning of the Monday I apocalypse starting with Angelo's specialty, the tech sector. So which tech stocks had an awful Monday? Ai. So when you kinda look at some of the names that got hit the most, I mean essentially chip makers that are heavily exposed to the data center market, and you know, that would include Broadcom, Marvell, micron. Is it Marvell? I've been saying Marvel this whole time.
+
+
+No, Mar like a nerd who reads comics. Okay. Yeah. Whoops. So, so Marvell specifically Nvidia was the one that got the most attention out there. Ah, yes. Nvidia. Nvidia manufactures top of the line processors that have become the not very secret sauce that American made AI models need in order to do the unfathomably large amounts of computing required to train and run AI models. If AI is the gold, Nvidia is selling the picks and the shovels. So for a lot of the people who were interested in investing in the brave new AI future, Nvidia seemed like a good place to do it, especially because it, it has actually been quite hard to invest directly in the AI companies.
+
+
+Like some of the biggest companies developing the models open AI anthropic, they do not have shares you can just go and buy. They're not publicly listed, not, not yet. At least all Of this is why Nvidia seemingly overnight has become one of the most valuable companies on the planet. In 2020, you could buy NVIDIA's stock for like six bucks last week, 142 bucks. That is like 23 x growth, basically. Because the only way the AI revolution can happen is with the fancy AI chips from Nvidia. And in fact, Nvidia was seemingly so important that in 2022, the United States banned NVIDIA's most powerful chips from being sent to China to preserve America's AI advantage for national security reasons.
+
+
+You could not overstate NVIDIA's value and then enter deep seek this Chinese hedge fund apparently building a top of the line AI model, even though they weren't allowed to build it on the very best AI chips from Nvidia because Chinese companies aren't allowed to buy them, Which the markets seemed to think perhaps meant Nvidia was not quite as important to the AI revolution as they thought. And On Monday, NVIDIA's stock price fell so much nearly 20% A near double decimation, if you will. The company's value dropped by almost $600 billion, the single biggest one day drop in American history.
+
+
+Now historically, had you been bullish on Nvidia, had you been telling these European investors like, Hey, go long Nvidia. So listen, we, we went bullish on Nvidia actually in March of 2020. Yes. We have, you know, continued to pound the table on Nvidia as recently as kind of a week or two ago. We do think they have the most important intellectual property probably in the world, right? But if you were a week ago telling people bullish on Nvidia and then On Monday it plummets. Yep. How does that, like, what's, what's that like when you're in your chair? It doesn't look good and it, it's definitely not an easy conversation to have.
+
+
+It is however, a conversation that many investors needed to have with themselves On Monday because deep seeks prevalence suddenly did seem to undermine the core assumption that in order to build God tier ai, you needed God tier AI chips. But deep seek had apparently pulled it off with cheaper chips and fewer of them, Which the markets interpreted as not good for Nvidia and the other chip makers in their future. As for Angelo, what did he tell his angry European investors and other investors during the Monday? I apocalypse, We didn't say sell your Nvidia shares, we continue to have a buy recommendation on this shares.
+
+
+Okay, so you didn't change that through the, the Cliff. Right. Especially on that day. I mean, the, when the stock was down, I believe it was 18 or 19%. We did think that was an overreaction because He says the AI revolution will still need lots and lots of processing power, just, you know, whose chips and how many and what kind. Well, the markets seem a bit less sure about all of that than they were one week ago. For our next lesson learned from the Monday I apocalypse, we turn to Jennifer Hiller of the Wall Street Journal. I'm gonna share my screen and I'm just gonna, okay, I'll explain in one second. All right, lemme, Okay. Jennifer's been reporting on the energy industry for over a decade.
+
+
+I I just want you to read a headline that, that you wrote from like about two weeks ago. Yeah. Once and Wanted. Constellation Energy is one of the hottest stocks. Once unwanted Constellation Energy is one of the hottest stocks. It's a story about how investors were pouring money into America's biggest provider of nuclear power. The value had been shooting up and Constellation Energy hit an all time high stock price just last week. Well, Jennifer, it, it seems, you know what I'm gonna do next, which is two weeks later, I'm just gonna pull up a graph of their stock price. It looks like it sort of fell off of a cliff and then bumped along the bottom and then dipped some more.
+
+
+Yeah, I'm obviously a big jinx. You don't want me to write a story about your all time high, But this was not Jennifer's fault. This was of course deep seeks fault. Yes. Okay. So in case you have not heard this, the AI revolution is gonna require a lot of energy. And this goes back to to the market assumption. We, we just discussed about how training AI models and running them requires really high tech processors, which use loads of electricity. And then AI uses loads of those fancy processors using loads of electricity and they put 'em all together. And I guess in giant big buildings, These, you know, really large data centers that are kind of often on the edge of town, great big buildings, Should we imagine it like having the electrical meter outside and it's just spinning so fast you can't see the hand.
+
+
+Like I, I like that idea. I don't know actually how they're metered, but it must be some very fancy version of that. Jennifer says that people have been talking about needing and building like Manhattan's worth of new power supply as in enough energy to power Manhattan 3, 4, 7 times over. And for reasons Jennifer says some of the tech companies have become fixated on nuclear as a great option for the huge AI powered needs. All of these big tech companies have climate commitments and climate targets that they've made. Yeah, Nuclear works on that front. It is carbon emission free AI and data centers need power consistently all the time.
+
+
+24 7. Apparently that is how nuclear power works. Consistent energy 24 7. And sure, you know, it has a notorious track record, but I think tech people just also kind of like the technology of nuclear, Nuclear is the tech bro of power. That makes total sense to me. A hundred percent. But anyway, the point is that we have a similar story here to what we had with Nvidia and other chip makers. People wanted a way to invest in the AI future and so they were pouring money into nuclear stocks, including of course our, our nation's biggest nuclear provider Constellation Energy. Over the last three years, constellation went from like 40 bucks a share to like $300 because the markets thought our AI future needs all the nuclear energy.
+
+
+And then On Monday, because of deep seek, the markets were forced to perhaps rethink that assumption. You had this high quality AI apparently needing less energy. The market starts selling constellation off of the cliff, and at one point On Monday the stock was down 20%. It's brought up this question of how much power does the AI industry really need? Yeah. So that Cliff you described the stock price of Constellation dropping off that is a market collectively saying, oh crap, maybe the future doesn't require as much electricity as I was betting on. Right. I think it's pretty safe to say that there's a few where we're using a lot more electricity than we use now, but are we using it at this, you know, extremely higher level.
+
+
+And to be clear, nuclear power has been getting lots of headlines, but the, the markets had also been pouring into really like any company that makes and sells any kind of electricity. And those companies, they got hit On Monday too, including a company called the Texas Pacific Land Corporation, which is basically just some giant chunks of land in Texas that have oil and natural gas even that got whacked by the deeps seek news On Monday. So yeah, that shows you like how how the tentacles of this stretch out. The Monday AI apocalypse was, was not about whether or not there will be an AI revolution. If anything, the introduction of deep seek means more AI lowering the barrier to ai, making it cheaper to use for, I don't know, whatever your AI mind can dream up All your great dias.
+
+
+There You go. Getting into it. And there are two categories that you'll see companies sorted into AI enablers and AI adopters. Enablers are the companies that are basically the supply chain to make AI models, chip makers, power companies, the AI model companies themselves, And then the AI adopters. Those are all the companies that stand to benefit from using ai. And, and really what This week was about was like a shift away from the enablers and arguably a bit towards the adopters. Yeah. The shift away from the chip makers and the energy companies was dramatic. You have to look a little bit harder, squint a little bit to see the market moves towards the adopters.
+
+
+But one example, people point towards Salesforce, they have basically made their whole thing their identity adopting and using ai and On Monday their stock was up 4%. And I think there is one other huge assumption that was challenged This week. Up until Monday, the markets seemed to be confident that American AI companies had a moat around this technology that like the barriers to entry were just so enormous that no one else was gonna win this arms race. But that moat, that was maybe the biggest assumption that the markets were scrambling to rethink On Monday. 'cause if a Chinese hedge fund that doesn't even make AI for a living was able to make deep seek as cheaply as they say, using fewer and less fancy processors.
+
+
+And if it's even close to as good as these American AI models, yeah, that probably does change everything. After the break we sit down with someone actively trying to build deep seek from scratch to see how much of all of this is real and did the world really change On Monday.
+
+
+This message comes from American Express. With Amex Business Platinum, pursuing your passions is even more rewarding. With 1.5 times membership rewards points on select purchases, you earn rewards that can take your business further. And with complimentary access to more than 1400 airport lounges globally, including this interior lounge, you can keep running your business while you're on the go. That's the powerful backing of American Express terms and points apply. Learn more at American Express dot com slash MX business.
+
+
+This message comes from Capella University. Learning doesn't have to get in the way of life. With Capella's game changing FlexPath learning format, you can set your own deadlines and learn on your own schedule. That means you don't have to put your life on hold to earn your degree. Instead enjoy learning your way and pursue your educational and career goals without missing a beat. A different future is closer than you think with Capella University. Learn more@capella.edu.
+
+
+This message comes from BetterHelp Therapy can be expensive, but at BetterHelp they believe therapy should feel accessible, not like a luxury, which is why they offer quality care at a price that makes sense and can help you with anything from anxiety to everyday stress. Your mental health is worth it. And now it's within reach. Visit BetterHelp dot com slash npr to get 10% off your first month. That's BetterHelp dot com slash npr.
+
+
+There is a company called Hugging Face. Their logo is like that smiley face emoji that's also giving you a hug with those two big emoji hands hugging face. You know, I can see that it is a very cute logo, but, but it is a kind of AI company where Leandro von Vera works and he describes the, the basic business model this way. So you can imagine it a little bit like GitHub, if you're familiar with GitHub. Yeah. Where people share code and everything's free, But there's an enterprise edition that costs money and that's how they make money. But like the point is hugging face cute logo, like an AI sharing platform. They do not build gigantic proprietary AI models to compete with open AI or Anthropic or Google or whatever.
+
+
+And the reason we got in touch with Leandro is that he heads up their research team. So we, our job is not to make money. Our job is mostly to To spend money, To spend money and build things that are very useful. And what's been useful lately is deep seek or you know, playing around with deep seeks, new chatbot that partially freaked the markets out about the future of AI Because there are really two reasons why the market freaked out. First, that it was made in a way that was cheaper and more efficient than how things like Chat GPT were made. And the other reason was that deep seeks model was allegedly really good. So the big question hovering over this entire week has been, is all of that real and true or were markets overreacting?
+
+
+So let's take these one by one. Is deep seek actually as good as the fancy American ais? Well, Landro says we have ways to test this. There are these like standardized tests, benchmarks for AI models. They used to be like pretty simple math problems or whatever, but as the models have been trained more and more and and have gotten better and better, We've upped the exams a little bit. So now we're closer to like PhD level exams and we can measure quite, quite well. Right? Like how many of the questions does the model get? Right? So is deep seek passing PhD level coding, PhD level math? Yeah. So those models are getting like really good at solving certain kinds of questions.
+
+
+So for example, these models can solve some of, for example, math Olympiad questions. And here I will just interject to note that we do have on staff one person who has a math degree. True. And it's Kenny True, not an Olympiad, but I was excited, quickly downloaded some math Olympiad questions, pulled them up on my screen for ro This is such a big day for you. I feel like, oh yeah, this never gets to happen The first, all right, hold on. Show that for each N we can find an end digit number with all its digits odd, which is divisible by five to the nth power. Yeah. Deep seek can do that Sometimes.
+
+
+I mean I can only sometimes do that, so yeah. Alright, fair enough. E, exactly. I I also, I'm like a physicist by training and it takes exercise to be, to be good at those questions. Yeah. Okay. So that's what we're talking about here, huh? Yeah. Okay. Capability wise, we don't see any benchmarks that show that they have like some gaps in the knowledge. Yeah. No apparent gaps between how Deep seeks model performs and how the other models perform. Leandro has also checked to make sure deep seek is getting its exam answers legitimately. So we test these models on kind of exams. If those exams are already in the training data, naturally the models are much better. Okay. So this is the classic are are they teaching to the test?
+
+
+Like that's the Exactly. Yeah. Yeah. And we haven't seen any indication of that either From what he's seeing, deep seek does seem to be in the same tier as the fancy American AI models. So Okay. Appears to be good. That answers everybody's first question about deep seeq, whether it was playing at the same level as other big AI models. But the second question is, do we really think that this thing is more efficient in some way? And to test that Leandro and his team are in fact attempting to build this themselves basically from scratch to replicate it. When you sit down to like replicate deep seek, I don't even know, like what do you do?
+
+
+You sit down and you open up a computer and you're like, all right, crack your fingers, open up a Microsoft Word document and you're like, deep seek V two, let's go. Yeah, I mean that's pretty much what we did. So Now the reason this is even possible is because unlike a lot of the recent American AI models, deep Seek has been pretty open about their methods. They actually put out a big report that was kind of a set of instructions for how the model was built. So we not like reverse engineering in the dark. We are actually more like following their recipe and translating their paper to code. And I think we're making good progress. So I think in a, in a few weeks the latest we, we are gonna have a pipeline that works that people can use and we are gonna see if we, if we get the same numbers.
+
+
+Yeah. So those numbers, again, deep see's latest version was reportedly much cheaper to train and much cheaper to run than the big American models. Are the claims that have been made about deep seek, the cheapness, the fact that it can run on less powerful processors? Do all of these things seem to be checking out? Yeah, so I think that's something that we wanna investigate a bit. So far it seems like napkin calculation, it's probably the right order of magnitude. Yeah. In the ballpark, which, which is notable because there had kind of been some murmurs of skepticism around the specific numbers Deep Seek was putting out. But Leandro is pretty convinced so far it really is way cheaper than the existing American models for basically the same thing.
+
+
+And I think one thing that people, underappreciate is an open model is kind of a leveling levels the whole field because everybody has access to the same level of knowledge, so everybody can immediately build on top of that. I've heard people talk about this moment as a shift towards AI models as a commodity, and that is a completely different vision than what markets seem to be betting on. Before This week, like seemingly overnight, we went from an imagined future where a handful of gigantic American companies controlled the most powerful AI models to a future where it seems very powerful. AI models can be built and used by maybe anyone anywhere someday.
+
+
+That is a lot to process. In one week, in just a few days, the markets for their parts have moved ever so slightly back towards where they were before Monday. Still shocked, but you know, NVIDIA's still one of the most valuable companies in the world. Yeah. Investors are of course still betting on a version of the AI revolution, which of course will be excitedly televised. If you want to nerd out more on what an AI future might look like, you can subscribe to our newsletter newsletter author Greg Alki is working on a piece about why the AI community is suddenly obsessed with a 100 and 60-year-old paradox.
+
+
+Jevons paradox. He's got the history of that idea and the latest AI ideas. subscribe@npr.org slash Planet Money newsline. This episode was produced by Willa Rubin with an assist from James Snead. It was edited by Keith Roamer and engineered by Neil Tivat, Research help from Sierra Juarez. Special Thanks This week to him, Israel from Bank of America. I'm Kenny Malone. And I'm Mary Childs. This is NPR. Thanks for listening.
+
+
+This message comes from Warby Parker. If you wear glasses, you know how hard it is to find the perfect pair, but step into a Warby Parker store and you'll see it doesn't have to be Find a Warby Parker store near you at warby parker.com/retail.
+
+
+This message comes from s and p Global s and p Global has private companies covered. Whether you're looking for your next investment or m and a target performing peer comparables, assessing counterparty credit risk, or monitoring your supply chain s and p Capital IQ Pros, extensive private company data can give you the insights you need to gain a competitive edge. Learn how you can dive into the companies that matter most to you at s and p global.com/private company.
+
+
+Data
+
+
+Support for the following message come from LinkedIn ads. With LinkedIn ads you can reach professionals relevant to your business. Target them by job title, industry company, and more by launching your next campaign with a free $100 ad credit at LinkedIn dot com slash results. Terms and conditions apply.

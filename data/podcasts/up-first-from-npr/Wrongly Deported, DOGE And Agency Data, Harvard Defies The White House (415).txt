@@ -1,0 +1,80 @@
+
+The Trump administration seems to have no plans to bring back a Maryland man mistakenly sent to a prison in El Salvador. Why don't you just say, isn't it wonderful that we're keeping criminals out of our Country? Is the administration defying the Supreme Court? I'm Michelle Martin. That's Layla Faddle. And this is Upfirst from NPR News. A whistleblower at the National Labor Relations Board tells NPR that after Doge, Elon Musk's cost cutting group gained access to their servers, records were deleted and security tools were deactivated. That doesn't just happen. Logs don't just disappear. Tools don't just turn themselves off randomly Was the agency's data compromised? And Harvard says it won't let the Trump administration dictate what it teaches, who it hires or who it admits.
+
+
+It's risking billions of dollars in federal funds by defying the demands. Stay with us. We'll give you the news You need to start your day From media to tech, to politics. The world around us is changing. Sometimes it's hard to know what You can rely on or trust. Your support means that NPR will be here for you tomorrow and the next day and the day after that. We're not going anywhere. Show up for public media. For public media giving days. Make your gift now@donate.npr.org.
+
+
+Imagine If you will a show from NPR that's not like NPR. A show that focuses not on the important but the stupid, which features stories about people smuggling animals in their pants and competent criminals in ridiculous science studies. And call it, wait, wait. Don't tell me because the good names were taken. Listen to nvs. Wait, wait. Don't tell me Yes. That is what it is called wherever you get your podcasts.
+
+
+There was Barb Inheimer summer, then Brat Summer. What will this season bring? Maybe it's the season of actual good superhero movies like the Fantastic Four Superman for a guide to the movies and TV we are most excited about this summer. Listen to the pop culture Happy Hour podcast from NPR,
+
+
+Despite a Supreme Court order to facilitate the return of a Maryland man who was wrongfully deported to a Salvador in prison. The White House appears to have no intention of doing that. Why don't you just say, isn't it wonderful that we're keeping criminals out of our country? Why can't you just say that? And Salvador and President Na Bule says he doesn't plan to release the man either. The Trump Administration has accused Kmar Abrego Garcia of being a gang member. His attorney says that is not true, and there's been no evidence presented publicly to support that. The Salvador and President was in the Oval Office yesterday meeting with President Trump. NPR Whitehouse correspondent Franco Ordonez is covering the story and he joins us now.
+
+
+Good morning, Franco. Good Morning. Layla Franco. Tell us more about the situation here involving Abrego Garcia. Yeah, he is a Salvador citizen who has lived in Maryland for about 15 years. He was granted some protections by the court, but then last month he was deported along with hundreds of other migrants to El Salvador and mega prison. But the court Supreme Court ordered the Trump administration to facilitate his return. So Wait, Franco, are they ignoring a Supreme Court ruling? Well, I mean, first the Trump team is downplaying this as a paperwork issue. They insist Alberto Garcia has ties to the MS 13 gang.
+
+
+Again, his lawyer says he's not a member. So with this meeting yesterday, attorney General Pam Bondy said the Supreme Court's order to facilitate simply means they need to provide a plane to return 'em, but first El Salvador has to release 'em. And it's clear the Trump administration has no intention of asking Buke to do that. Here is White House Deputy Chief of staff Stephen Miller, speaking from the EL office. He's a citizen of El Salvador. So it's very arrogant, even for American media to suggest that we would even tell El Salvador how to handle their own citizens as a starting point. And Secretary of State, Marco Rubio also described this as an international matter and said that no court in the US had the right to conduct US foreign policy.
+
+
+So what are the implications of this Attorneys say? There are more cases like Abrego Garcia, where people are wrongfully being accused of being gang members. Yeah, that's right. The American Civil Liberties Union is challenging the administration's use of a really old law to deport gang alleged gang members. It's called the Alien Enemies Act. I spoke with Lee Galler, one of their attorneys. This is a case not just about legal technicalities, but American values. We've admitted we sent this individual to El Salvador by mistake. We all know that he may spend the rest of his life in this brutal prison, and yet the United States is battling in court not to bring him back.
+
+
+Geller says the case goes well beyond just this one man, and really could have big implications on all these other cases. I mean, more than 200 migrants were deported to the prison without due process using the old law. And he argues that the US should not be using a system where people have no due process, especially if the US is not willing to correct its mistakes. So is Trump having any second thoughts about this? I mean, it doesn't appear that way. In fact, he was talking yesterday about expanding work with b Kelly Trump said he should build more prisons and even floated the idea of sending some US convicts to El Salvador. But it's not clear that would be legal.
+
+
+It's White House correspondent Franco Ordonez. Thank you, Franco. Thank you. Since President Trump took office again, members of the Department of Government Efficiency or those, that's that ad hoc cost cutting group led by Elon Musk have aggressively sought access to government data and computer systems. Today we're going to learn how they've done that. At one small agency, a whistleblower told Congress and NPR about what Doge did when it arrived at the National Labor Relations Board. We're joined now by N p's. Jenna McLaughlin, who covers cybersecurity and good morning, Jenna.
+
+
+Good Morning, Michelle. So what sort of things did the whistleblower see that made him want to come forward A lot? So the whistleblower's name is Daniel Baris, and he's one of the people who manages the nlrbs Cloud. That's the virtual servers that host almost all the agency's data. So when do derived, he says they demanded the highest level access, the so-called God tier accounts, and then weird stuff started happening. He saw a big spike in data leaving the agency something that almost never happens. Meanwhile, security and monitoring tools were turned off. A bunch of records were deleted. He even started to notice login attempts from a Russian IP address that had the right username and password.
+
+
+Listen to how he describes it, Why was that done? And that's a purposeful effort. That doesn't just happen. Logs don't just disappear. Tools don't just turn themselves off randomly. Everything in a computer has a cause and effect. That means it has to have a trigger. So it's difficult to prove exactly what happened. But Barla says he and his colleagues agreed it looked like a breach And that the agency's data could have been compromised. Let's back up for a second. For people who don't know, what is the National Labor Relations Board or the NLRB and what does it do and why is the data that it holds sensitive? Yeah, So it's a small independent agency, but it is really important for workers' rights. It investigates and adjudicates unfair labor practice complaints.
+
+
+So if a group of employees believes they were wrongfully fired, they might call in the NLRB to look into it. It also protects the rights of employees to unionize. So in the course of their investigations, Michelle, they gather really sensitive data from list of people interested in forming a union to witness statements, maybe even corporate secrets. So this Department of Government efficiency or Doge is led by Elon Musk. Does he fit into this story? Yeah, so there currently are several ongoing NLRB cases involving Musk's companies, including SpaceX and Tesla. That was really concerning to some of the labor law experts that I spoke to. He said that he will recuse himself from anything involving his companies, but we haven't really seen any evidence that's true so far.
+
+
+If he got access to information about how the government was building those cases or private statements from witnesses even, it could give him a real leg up in court for one. Do we have any evidence that Doge is acting this way in other parts of the federal government? Absolutely. Michelle. According to my reporting and a lot of public evidence, this seems like a trend. First, there are over a dozen court cases where government witnesses have outlined Doge mishandling of sensitive data at agencies like the Treasury Department or the IRSI also heard from AIDS in Congress and they say there are ongoing investigations into other reports of Doge removing data from agencies for unknown reasons. Part of the reason Brules came forward was to inspire others to speak up.
+
+
+I believe with all my heart that this goes far beyond just case data. Brules provided a lot of technical data we have not seen before, but this could be just one piece of the puzzle. That was NPR cybersecurity correspondent Jenna McLaughlin. Jenna, thank you. Thank you. You can find a lot more of Jenna's reporting@npr.org and hear more about this story on all Things Considered tonight. Last night, the Trump administration froze more than $2.2 billion in contracts and multi-year grants for Harvard University.
+
+
+This move came hours after Harvard said it will not comply with the administration's demands that it drastically change. Its hiring, admissions and other policies in exchange for federal money. NPRs Janaki Metta has been following this. Hi, Janaki. Hey, Layla. Okay, so what does the Trump administration want Harvard to change? Exactly. Yeah. There are a range of demands. They include ordering the university to screen international students for what they call supporting terrorism or antisemitism, eliminating diversity, equity and inclusion programs, and making sure they're hiring and admission practices are solely based on merit rather than race-based preference. For example, Now Harvard is refusing to comply, which is very different than what we saw at Columbia, which did comply with a list of demands from the administration to keep its funding.
+
+
+Tell us why. Yeah, That's right. On Monday, Harvard's president Alan Garber wrote a letter to students and staff that said, no government, regardless of which parties in power should dictate what private universities can teach whom they can admit and hire, in which areas of study and inquiry they can pursue. He also went on to say that even though some of the demands outlined by the government were aimed at combating antisemitism, the majority were trying to regulate what he called intellectual conditions at Harvard and threatening free speech. And then just hours after that response, the Trump administration froze that $2.2 billion and said, Harvard's statement today reinforces a troubling entitlement mindset that's endemic in our nation's most prestigious universities and colleges.
+
+
+That federal investment does not come with the responsibility to uphold civil rights laws. Has Harvard said anything in response to the funding freeze? Yeah. So minutes after the announcement about the freeze spokesperson from Harvard pointed me to one specific part of the president's letter, which said, for the government to retreat from these partnerships now risks not only the health and wellbeing of millions of individuals, but also the economic security and vitality of our nation. Okay, So in what way, Janaki, just break down what this 2.2 plus billion dollars that's already frozen does, and this other 6.7 or so billion that's on the line, what are they used for? Yeah, so Harvard actually updated the homepage of its website to reflect how federal dollars support research they do.
+
+
+They list research on treatments for several forms of cancer, heart disease, organs, and transplantation, and they say federal funding as a university's largest source of support for what Harvard calls cutting edge groundbreaking research. Now, it's not just Harvard, the Trump administration has sent similar threats to dozens of universities. How are leaders of those institutions responding? Yeah, the administration has threatened billions of dollars of funding for other universities. Some of whom say they will cooperate with the government's demands you you pointed to Columbia, but that has created a lot of anxiety for college leaders who are in this unprecedented bind, change their policies or lose money for important research.
+
+
+My colleague, Alyssa nad Warney recently spoke to some of those leaders. Here's Andrew Martin, the Chancellor of Washington University in St. Louis. We are in a moment with great uncertainty about what the future of the relationship between the federal government and American institutions of higher education look like. Uncertainty is challenging, And a lot of these leaders said that's made it really hard, not just to focus on budgets, but also on students, faculty, and education itself. I'm PR education reporter, Janaki Metta. Thanks Janaki. Thank you. Layla. Peace talks to end the Civil War in Sudan are happening in London today.
+
+
+It's been two years of war. A hundred thousand people have been killed and 15 million are displaced. This is the world's largest humanitarian crisis. The UN says famine. There is the worst the world has seen in decades. Sudanese officials have criticized the negotiations in London. They say their representatives weren't invited, And that even as talks were happening, massacres were still taking place in the western region of Darfur. NPRs Emmanuel Kintu has been covering this since the beginning. He's at that conference in London and he's on his way back to Sudan. You can follow his ongoing coverage of the conflict on npr.org, and that's upfirst for Tuesday, April 15th.
+
+
+I'm Layla Fadden. And I'm Michelle Martin.
+
+
+Your next listen is consider this from NPR. We hear at upfirst give you the three big stories of the day, or consider this colleagues take a different approach. They dive into a single new story and what it means to you. And less than 15 minutes, listen now on the NPR app or wherever you get your podcasts.
+
+
+Today's episode of Upfirst was edited by Roberta Rampton, Brett Elite, Steven Drummond, Mohamed de Bari, and Janaya Williams. It was produced by Ziyad bch, Carla Estevez, Ashley Montgomery, Nia Dumas, and Christopher Thomas. We get engineering support from Arthur Laurent And our technical director is David Greenburg. Join us again tomorrow.
+
+
+Wanna hear this podcast Without sponsor breaks? Amazon Prime members can listen to Upfirst sponsor free through Amazon Music, or You can also Support NPR R'S Vital Journalism and get upfirst plus at plus dot NPR dot org. That's plus do npr.org.
+
+
+When Malcolm Gladwell presented NPR R'S Throughline podcast with a Peabody Award, he praised it for its historical and moral clarity on throughline. We take you back in time to the origins of what's in the news, like Presidential power, aging, and Evangelicalism Time. Travel with us every week on the Throughline Podcast from NPR ER.
+
+
+Do you think you have a DHD? You're not alone. After the pandemic hit, there was a huge jump in A DHD diagnoses among adults. And at the same time, the internet is more and more obsessed with saying everything is a sign of it. You Might have ADHD To identify the red flags when a diagnosis goes viral. Listen to the, it's been a minute podcast today.

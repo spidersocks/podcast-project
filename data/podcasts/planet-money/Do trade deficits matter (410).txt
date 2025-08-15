@@ -1,0 +1,131 @@
+
+This message comes from a DP. Whether it's a last minute policy change or adding a new company holiday, anything can change the world of work. From HR to payroll, A DP helps businesses take on the next anything a DP always designing for people.
+
+
+This is Planet Money from NPR. James Wicki is an economics writer for the Atlantic and a lover of one particular imported good. I drink coffee, I like Sumatran coffee. He buys his coffee from Indonesia. So last week when President Trump announced surprisingly high, surprisingly broad tariffs on almost every country in the world, including Indonesia, James thought of his coffee. One of the bizarre things about these tariffs is they're imposed on goods that we are never, the United States can't make. To Be fair, Hawaii does make coffee, but it's not even close to enough. So a new tariff on Indonesia means James's coffee is going to cost more.
+
+
+And James was looking at this new tariff, it was 32% and wondering how did they come up with that number? So he sets out to see if he can figure it out. We're putting a 32% tariff on imports from Indonesia because they say Indonesia's tariff rate is 64%. They said the Trump administration had said these new tariffs were reciprocal. They were supposed to be the combination of the tariffs a country charges us, plus whatever other trade barriers they have on like regulations or fees. And the Trump administration said Indonesia was effectively charging us 64%. But those numbers, they just did not seem right and not just for Indonesia.
+
+
+So I don't know Vietnam at 90% or South Korea at 50%. And if you knew anything about the global trade regime, you knew those numbers just seemed totally out of whack. Totally out of whack because Indonesia does not actually charge the US a 64% tariff. It does have a tariff on US imports of less than 10%. And it does have other trade barriers like people selling goods to Indonesia have to pay inspection fees, they have to get their food and beverage imports certified halal. But the cost of those barriers, no reasonable calculation can get you to an additional 50%. So it was like, okay, that doesn't make any sense.
+
+
+What's happening here? So James is like, let me see something. Is there something else here is maybe there're a different kind of math going on. So then I just started messing around with numbers like, well, is it some, I don't know, does it have something to do with our its relationship to GDP and or is it like imports divided by total trade or I don't, whatever. And nothing you Think Excel? No, I was just doing, no, I was literally just doing it like with with the calculator on my computer. I mean these are like simple numbers. And James starts plugging in numbers to do with our imports and exports. He looks at how much does the US import from this country versus how much do we export to it, our trade deficit.
+
+
+Okay, wait, trade deficit. All right, then divided by total trade it, you know, imports and no, that's not it. Our trade deficit is the difference between how much we import and how much we export. And that includes both goods and services. Yes. So stuff we make and buy and sell, but also invisible stuff. Services like banking and management consulting and Netflix. And James randomly tries excluding services from his calculations, which Honestly is kind of a weird, the logic of it is a little weird. And then it was like, oh yeah, 64%, 64%. He arrived at the magic number that the Trump administration had assigned to Indonesia.
+
+
+I only check like three. I did, I did Indonesia, I did South Korea And I did Vietnam because like Vietnam, it was 90%. So it was like, whoa. And Then you actually looked at Vietnam and and you realized, oh yeah, actually we really do have a huge trade deficit with them. James had discovered the basic calculation behind these tariffs. They were trade deficit divided by imports, but only imports of goods apparently. And Later that night, the Trump administration released their formula that basically confirmed that they had calculated these tariffs with the goal of closing our trade deficits with every single country. James's suspicion seemed to be right. These weren't just matching any trade barriers other countries had on us.
+
+
+They weren't just reciprocal. They were about trade deficits For decades. Trump has railed against trade deficits, says that other countries are taking advantage of us by selling us a lot of their stuff, but not buying as much of our stuff in return. I think that he, in his ideal world, wants to get rid of every trade deficit we have with every single country in the world. Fam, is that bad? Are we cooked In the wake of the tariff announcements and the subsequent panic surrounding us? We got a lot of questions from you, our listeners. Hello And welcome to Planet Money. Hello and welcome to Planet Money. Hello and welcome to Planet Money.
+
+
+I'm Jeff Go. I'm Mary Childs and we are here to answer your biggest questions Today on the show. Trade deficits. Why are they important? What do they mean for us? This was the thing that everyone wanted to know about. So what are they? Do trade deficits matter? And why would a person, a president want to close them And are other countries really ripping us off? Let's find out. Yeah,
+
+
+This message comes from Charles Schwab. When it comes to managing your wealth, Schwab gives you more choices like full service, wealth management and advice when you need it, you can also invest on your own and trade on Think or swim. Visit schwab.com to learn more.
+
+
+This message comes from Capital One. With the Capital One Saver card. Earn unlimited 3% cash back on Dining and Entertainment. Capital One. What's in your wallet terms? Apply details at Capital One dot com.
+
+
+This message comes from Capella University. Imagine an education that teaches you the skills you need to succeed at Capella University. You'll get a competency-based education where you can take what you learn from your courses right to the workplace. They'll teach professional skills that'll help you pursue the goals you hope to achieve. And you can apply those skills right away. A different future is closer than you think with Capella University. Learn more@capella.edu.
+
+
+As we are recording this episode on Wednesday, we are less than one day into a new world of big tariffs. They went into effect after midnight, one week after President Trump held up a poster board with all these shockingly high tariff numbers and things escalated incredibly quickly from there, Europe and China announced their own new retaliatory tariffs on us. Then we added another new tariff on China. Importing stuff from China is now gonna be twice as expensive. And then literally after we wrote that last paragraph that Jeff just read, Trump announced a whole new pause on some of the biggest tariffs for 90 days except for China, who will have an even higher tariff than the one we just mentioned.
+
+
+Okay, so we have to draw a line as we write this. It is 1:36 PM Eastern on Wednesday, April 9th. That is where the tariffs stand. It may well change by the time you're hearing this. So the bottom line is, after the first announcement of tariffs, the stock market absolutely tanked. It's feeling better now. Everyone from bankers and CEOs of retail companies and prime ministers to my personal group chats, people everywhere were freaking out about these tariffs. And as all of this was kicking off, listener Don Randall in Seattle wrote into us. I thought, well, you know, here's a question I have. I'm bet other people have it, but I had no idea that you guys would write right back. So that was a, that was a huge surprise.
+
+
+I've been waiting for you Don. Don wanted to know, actually, a lot of people wanted to know about trade deficits. So my question is, why are they important? What do they mean for us? You know, when I balance a checking account, being out of balances has a bad consequence. Is that true for trade deficits? And are other countries really ripping us off? Okay, so that's actually a lot of questions. We will take them in sort of that order. First off, on a very basic level, what even is a trade deficit? Yeah. And and the easiest way to think these things through is with a hyper simplified, imaginary example. So let us imagine that there are only two countries in the world, the United States of America and the republic of foreign landia.
+
+
+Foreign Landia you should know, is really good at making mittens. They have vast natural mitten resources and we don't have any of that in the us. So we start trading, say we order a million dollars worth of mittens from foreign landia, they ship us the mittens and we hand over suitcases full of dollars, US dollars. And in this bilateral world, foreign landia is gonna want some of our stuff too. Let's say, I don't know, they love American made nerd clusters, the very popular candy made right here in Chicago. Now, if the foreign landan spend as much money buying stuff from us as we did buying from them, then we have balanced trade.
+
+
+But if they only want $500,000 worth of nerd clusters, we've got ourselves a trade deficit. And that is what a trade deficit looks like. We end up with a lot of stuff, a lot of mittens from foreign landia, they end up with some of our stuff as well. But also they end up holding a lot of leftover suitcases full of US dollars In the non imaginary world. In the real world, we have trade relationships with just about every country and territory on earth. And in general, we tend to run trade deficits with those countries. We are a nation of consumers. And the global economy has been shaped around that.
+
+
+And Don wanted to know, okay, great. What does this mean for us, for our country? For this, we called up one of the world's experts on trade and trade deficits. Can you please say your name and your job title for Me? Yeah. Kenneth Rogo. I'm a professor of economics at Harvard University. Now, when we're talking about our trade deficit, there are kind of two types of trade balances to think about. There's our big overall global trade deficit, and then there are a lot of smaller trade relationships with each individual country that comprise the overall big one. Those are our bilateral trade relationships. So Ken says, let's first talk about those bilateral relationships for a second.
+
+
+Okay, so Ken, if I'm like a big fan of Japanese snacks, which is true, And I want to go buy a matcha Kit Kat bar, which is now much easier than it used to be. So I like go buy it and my dollar goes into space into Japan. Right? No, that's right. And and, and that mere action is you're contributing to the trade deficit when you do that. And Ken says, normally it's okay if say we're buying more stuff from Japan, then we're selling to them. So it is fine for me to just buy a matcha Kit Kat. You don't have to run balanced trade with Japan. And one of the reasons individual countries run trade deficits with each other is because different countries make different things and also want different things.
+
+
+Like in the US we just can't grow a lot of coffee or bananas because of climate. But we do actually export a lot. And what we are comparatively better at is invisible stuff, less tangible things. We actually have a trade surplus in services. We export cloud storage tickets to a show in Vegas, an HBO subscription, a JP Morgan bank account, or a seat at Ken's class at Harvard. We just kill it in that stuff. We dominate. On the other hand, if you're looking at bicycles, no, we import them. But you know, I mean not everybody's good at everything. It is sort of the basic idea of trade, Right trade.
+
+
+Ken says, we do what we're good at doing, which in my case is, you know, comparatively making podcasts. And then we purchase the yield of what someone else is better at doing, which is making matcha kit cat bars. We don't have to sell them the same thing. We can sell 'em tech services, we can sell them banking. We don't have to sell them candy bars back. What two countries buy from or sell to each other. It's probably never going to match up perfectly. We can buy crates full of matcha KitKat bars from Japan, while Japan buys boatloads of vanilla from Madagascar. And Madagascar buys vegetable oil from us. So each individual trade relationship can look whack in scale or in kind.
+
+
+This is why the US trade deficit is generally considered in the aggregate, the big global overall number as opposed to the 200 some individual bilateral trade relationships we have. So when President Trump last week announced these new tariffs that aimed to close each bilateral trade deficit, Ken says he thought that was nuts. I'm not somebody who just automatically assumes if Trump did it, it's stupid, or if Trump did it, it's wrong. And actually, if he just put 10% tariffs on everyone, it's a tax. It's bad. Maybe I don't agree with him about who he's taxing and who he's not. If he just put the tariffs on and went home, not a great idea, but let's not all get worked up about it.
+
+
+This, they just seem to pull this out of thin air because the boss doesn't like bilateral trade deficits. And Ken even said there may be some method, some logic behind putting tariffs on every single country in the world Just to be a little bit generous. He's concerned that if I just slap tariffs on China, they'll route it through somewhere else that's been happening through Mexico. So he wants to stop gap that Ken used to be the chief economist at the IMF trying to lend two developing economies to help them grow. So balancing trade with all of these tiny countries where people don't have money to buy lots of stuff from us in the first place seemed also nuts.
+
+
+My heart really bled for Sri Lanka. They've had a horrible financial crisis. It's just terrible situation there. We put a big tariff on them for what? I mean, how are they gonna dig their way out of their debt problem if they have those tariffs? But the administration is not concerned with Sri Lanka. They are concerned with the us, with closing our trade deficit with individual countries and also the overall trade deficit. And if you look at our overall trade deficit, it is pretty big. The biggest in the world actually. And is that bad? That's after the break.
+
+
+This message comes from American Express. With Amex Business Platinum, pursuing your passions is even more rewarding. With 1.5 times membership rewards points on select purchases, you earn rewards that can take your business further. And with complimentary access to more than 1400 airport lounges globally, including this interior lounge, you can keep running your business while you're on the go. That's the powerful backing of American Express terms and points cap apply. Learn more at American Express dot com slash MX business.
+
+
+This message comes from NPR sponsor Vanta. Whether you are a startup founder navigating your first audit or a seasoned security professional scaling your GRC program, proving your commitment to security has never been more critical or more complex. A new IDC white paper found that Vanta customers achieve $535,000 per year in benefits and the platform pays for itself in just three months. Join over 9,000 global companies like Atlassian, Quora, and Factory who use Vanta to manage risk and prove security in real time. Visit vanta.com/ planetmoney today to receive $1,000 off.
+
+
+This message comes from Capital One with the Venture X Card. Earn unlimited double miles on everything you buy. Plus get premium benefits at a collection of hotels when booking through Capital One travel. What's in your wallet terms? Apply details at Capital One dot com.
+
+
+America is running a global trade deficit since the late 1970s. We have been importing more goods and services from everywhere than we are exporting to everywhere. And you know, it is fair to wonder a lot of people have. Is any of this okay for our economy Or as our friend listener Don Randall put it, will there be bad consequences for not balancing our trade? Well done. There is one thing, trade deficits due that we haven't talked about yet. It has to do with where the money goes. When we run trade deficits, when we buy stuff from other countries, they end up with our dollars. So our trade deficit spreads dollars all over the world. So allow us to briefly return to our overly simple hypothetical example with just the United States and foreign landia, the only two countries on the earth.
+
+
+And picking up where we left off, we were running a trade deficit with foreign landia. We were buying more of their mittens, but they were buying less of our nerds clusters, which meant that the folks of foreign landia, they had all these extra US dollars lying around. And what can the citizens of foreign landia do with those leftover dollars? They could stuff them under their mattresses or they can spend them in a place that takes US dollars. So the US and if they're not using those dollars to buy our stuff, then the only thing left to do is invest those dollars in the United States, Right? They might put those dollars into our banks and our banks would then lend those dollars out to other people. They might put those dollars into our stock market or buy into a fancy Silicon Valley startup.
+
+
+Or they could loan those dollars to American businesses or to the US government. And this is basically how it goes in the real life world. 'cause if you have US dollars, there are still really only three things you can do with them. You can stuff 'em under your mattress. You can buy stuff or invest in stuff in US dollars. The only difference is here in the real world, you can trade them for another currency, but then someone else has the dollars and they still have to stuff 'em, spend them or invest them. And our economist extraordinaire, Ken Rogo, he says, what eventually tends to happen with all these dollars that end up in the hands of foreigners is that they invest them. They invest them back in the American economy.
+
+
+The mirror image of the trade balance is that these countries can take that dollar and they can go in, they can buy stock, they can buy treasury bonds, whatever. And over the past half century, the prices of basically all those assets have gone up and that has contributed to their wealth and to ours. We've been doing amazing in producing wealth. Ken actually has a book coming out called Our Dollar. Your Problem. When people think about trade, often they're just thinking about the goods and services countries are selling to each other, but in that mirror image, on the flip side of this, there are dollars. The more we import from other countries, the more US dollars end up in foreign hands.
+
+
+And if people from other countries are not spending those dollars buying our goods or services, then they are investing it in our assets because it all has to balance out. And so if you want to assess who is winning and losing, whether trade deficits are good or bad, whether anyone's getting ripped off, you have to track where those US dollars are going And you can actually look up where those US dollars are going. The Bureau of Economic Analysis publishes these charts as of 2024. Foreigners owned about $62 trillion of US assets. They own almost a quarter of our government debt and about 20% of our stock market. So is any of that good or bad for the overall economy?
+
+
+Well, all that investment does make some people uncomfortable. It does intertwine us with our trading partners, including ones that may not be aligned with our political goals. But from the perspective of the health of our economy, it kind of depends on where they invest the money and how we end up spending that money. Take government debt, for instance. Other countries are eager to buy our government debt to lend to us at low rates. The right question is why is your government running a dataset? Is it doing great investments? Is it building infrastructure? Is it doing schooling? Is it doing things that you want it to do? Are you happy with how you're borrowing?
+
+
+The same goes for companies. Are those companies taking all that money they're getting from investors and spending it on productive things like building factories or funding high tech research and development? And the answers to these kinds of questions, you're not gonna find them by looking at the trade deficit itself. You kind of have to look at the American economy as a whole. And Ken says, look at our GDP. By that measure, we've been growing faster than basically any other advanced economy. We have just danced over the rest of the world. The last 20 years we have been the envy of the world. Our economy is not terrible. It or at least wasn't until a couple days ago. It is fantastic.
+
+
+And part of why we have a trade deficit is everybody wants in. They want to invest in the United States. Yeah, what Ken is saying is that in other countries, they're using less of their US dollars to buy stuff from us because they'd rather buy a piece of Apple or Nvidia or or other companies, which can help companies maybe buy more equipment and hire more workers. It makes our trade deficit worse, but it might help our overall economy grow faster. In fact, we were doing so well, they wanted to have a bit of surplus with us so they could get in on the action. It's a complex system, but it hasn't worked badly for us.
+
+
+It hasn't worked badly for the economy overall. But there have been trade-offs, like all this money flowing in has been great for the federal government because all that demand for our debt means we get charged lower interest rates. It's been great for companies and people who own stocks and bonds, But if you don't own any of that stuff, maybe that's not great for you. And the trade situation itself has created winners and losers. All the cheaper imports that fuel the trade deficit. Those were very hard for us manufacturers to compete with. And so lots of us manufacturers and manufacturing jobs are gone. So listener Don asked us, is a trade deficit bad or good?
+
+
+And the answer is, it really depends on what is underlying the trade deficit. Yeah, A trade deficit can be a sign of bad things. Like maybe your economy is consuming too much stuff or your economy isn't making anything that people wanna buy. But a trade deficit can also indicate that good things are happening For us, part of why we have a trade deficit is as a nation, we buy a lot of stuff. But also like Ken says, because countries out there are really eager to sell us stuff for lots of reasons, like to build up their own manufacturing industries, but also because they want our dollars, want to invest in our economy. And that's why Ken says that most of the time, the trade deficit isn't the most useful metric.
+
+
+We tend to think it doesn't matter a heck of a lot unless it's a giant and very big compared to what it was a year ago or two years ago. Now I have worried when it was really big, Yeah, like 20 years ago, around 2005 when all of a sudden our trade deficit jumped. It Was much bigger and it had gone up very, very sharply. And I thought, I thought something was wrong With other economists. He wrote papers about this alarming sudden growth in the trade deficit. And what Ken eventually realized was that the real problem wasn't this sudden rise in the trade deficit that was just a manifestation of the problem.
+
+
+The real problem was in the mirror image. It was about where those dollars on the other side were going. We had relaxed our regulation too much, our banking regulation, our mortgage regulation, and we're making it too easy for people to borrow. And so that was sucking money in from the rest of the world. And they were investing All that foreign investment was showing up in the trade deficit. People in other countries, instead of using their dollars to buy our airplanes or our oil, they were using it to invest in our housing market and financial markets. And those markets kept going up, up, up until they crashed. In the financial crisis of 2008, the trade deficit had been a sign one of many.
+
+
+You could argue that something was off overheating. So Ken says, the trade deficit, it's more of a diagnostic tool. It's just a way to measure to see what role a country is playing in the global economy. Think of your body, okay, you know, something hurts a little. One day doesn't the next day. And you know, you go along, you get used to it. You don't even think about it. Think of that as a small trade deficit. And then one day, ah, you know, my arm hurts. Okay, you want to go? You know, why is it hurting? What change? What's different? As with your body, a sudden change might mean something's wrong, but if it's just daily aches and pains, it's probably fine.
+
+
+And those pains might even be good. It could mean that you just worked out really hard and are a little bit sore. Right? The economy was getting swollen. This episode of Planet Money was produced by Emma Peasley and edited by Marianne McCune and Kenny Malone. It was Fact checked by Sarah McClure and engineered by Kwesi Lee. Alex Goldmark is our executive producer. I'm Mary Childs. I'm Jeff Lowe. This is NPR. Thanks for listening.
+
+
+This message comes from Ameriprise financial proud sponsor of public media. For over 130 years, clients have relied on the strength and stability of Ameriprise to help them feel more financially confident. Learn more at ameriprise.com/advice. Member FINRA And I PC,
+
+
+This message comes from s and p Global s and p Global has private companies covered. Learn how s and p Capital IQ Pros extensive private company data can give you the insights you need to gain a competitive edge at s and p global.com/private company data.
+
+
+This message comes from Tourism Australia. No matter what you're into, Australia has something for everyone all year round. Like the Dane Tree rainforest, this spring, Melbourne's music scene in the summer and the wineries of OSA Valley in the winter. Come and say Good day. more@australia.com.

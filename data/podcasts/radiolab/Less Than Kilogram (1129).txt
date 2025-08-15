@@ -1,0 +1,728 @@
+Progressive Insurance (1s):
+Radiolab is brought to you by Progressive Insurance. Do you ever think about switching insurance companies to see if you could save some cash? Progressive makes it easy to see if you could save. When you bundle your home and auto policies, try it@progressive.com. Progressive casualty insurance company and affiliates. Potential savings will vary. Not available In all states.
+
+Dark Cars Toyota (21s):
+I am general manager Ethan Al at Dark Cars Toyota in Silver Spring. having trouble finding a car. Come to Dark. HARs. Toyota in Silver. Spring Dark Cars. Toyota is the central Atlantic region's number one Toyota dealer year after year. We are here to help you with all your car buying needs. Take advantage of our large inventory and pricing. Come. visit us at Dark Cars Toyota in Silver. Spring or online at Dark Cars Toyota dot com.
+
+4 (54s):
+Listener supported WNYC. Studios.
+
+0 (59s):
+Hey, it's Laev. This is Radiolab. I'm thinking today In, the aftermath of American Thanksgiving about all the people who got together with their families sat down for a nice little meal and then, oh God, politics came up somehow and they found there was just something they couldn't agree on. And you can't even reckon like, like how does this other person not even understand the basic facts of the situation? And so if you're leaving this holiday feeling like you need something concrete, something apolitical, something objective in this moment, this episode is for you.
+
+0 (1m 41s):
+It's an episode we originally broadcast in 2014 about a project to make something everlasting. Something that everyone everywhere could agree to follow. And we actually have kind of a dramatic update at the end. So stay tuned for that. Here you are. Less, Than, Kilogram. Yeah.
+
+3 (2m 3s):
+Wait, wait, you're listening. Okay.
+
+1 (2m 6s):
+All, right. Okay. All. right. You.
+
+5 (2m 10s):
+Are listening.
+
+4 (2m 10s):
+Listening to Radiolab.
+
+3 (2m 12s):
+Radiolab from
+
+5 (2m 15s):
+WNYC
+
+3 (2m 15s):
+C. Yeah.
+
+1 (2m 18s):
+Rewind.
+
+0 (2m 22s):
+Hey, I'm
+
+3 (2m 22s):
+Jad, I Borad. I am Robert Krulwich. This is Radiolab the podcast. And this I
+
+5 (2m 27s):
+Actually brought a list.
+
+3 (2m 28s):
+Okay, let, what's, why don't you share with me your list. Where is this thing? This is Andrew Morantz. He's a writer and editor at the New Yorker magazine.
+
+5 (2m 37s):
+Oh, I might have gotten
+
+3 (2m 38s):
+Lost. Who occasionally pops onto our show. Maybe you were mugged by
+
+5 (2m 42s):
+A, ah, here it is.
+
+3 (2m 44s):
+And he recently got obsessed with a, it's a list of measurements,
+
+5 (2m 48s):
+Base units, they're called, there's, they're si base units. The system international, you know,
+
+3 (2m 54s):
+So lemme do it this way. Have you ever wondered how long an inch is I Exactly how long?
+
+6 (3m 2s):
+I know I just look at a ruler.
+
+3 (3m 3s):
+Well, but how do you know that your ruler and my ruler do have the same amount of inch space or that someone in China that their inch are inch is your inch is my inch.
+
+6 (3m 12s):
+I haven't really thought about it, but I I'm just assumed that there's like a master inch somewhere.
+
+3 (3m 17s):
+I, I say it in French for a reason and which you'll feel in a moment. That is what was on this list that Andrew was looking at. It's a list of standard measures for everything we have around how big something is, how far something is, how hot something is. It's all on this list.
+
+5 (3m 30s):
+Okay. So when you go down the list of the system, international, the unique, here's
+
+3 (3m 36s):
+What you get,
+
+5 (3m 37s):
+A meter. A meter is a fraction of a second of the distance traveled by light in a vacuum. Okay, what a second is how much radiation corresponds to the transition between two hyperfine levels of the ground state of the cesium. 1 33 Adam.
+
+6 (3m 55s):
+That's the definition of a second.
+
+3 (3m 56s):
+How many times does a particular atom jiggle? Yeah. Wow.
+
+5 (4m 0s):
+An amp pier, which measures electric current,
+
+3 (4m 2s):
+You know, an amp
+
+5 (4m 4s):
+Is a constant current, which if maintained in two straight parallel conductors of infinite length would produce between these conductors. A force equal to two times 10 to the negative seven per meter of length. I have no idea what that means. See that's
+
+3 (4m 16s):
+The thing. If you look at the actual definitions of any of these things, amp meter second, whatever you go. But there is one standard on the list that is unique for its simplicity.
+
+5 (4m 27s):
+The definition of the standard unit of measurement that is a kilogram is no
+
+3 (4m 32s):
+Math, no
+
+5 (4m 32s):
+Numbers. It is a thing,
+
+3 (4m 37s):
+A particular thing,
+
+5 (4m 39s):
+A plum sized thing.
+
+3 (4m 44s):
+It is the only thing we use to measure things. It's the last one standing, the only physical standard left.
+
+6 (4m 52s):
+Why is it the last and why were there? Is it what? Wait, what?
+
+3 (4m 56s):
+Lemme just take you back to the beginning of the story.
+
+0 (4m 60s):
+Like, I must admit that I, I expected this story to be a lot more boring than I found. It's like an epic story. It's really
+
+3 (5m 8s):
+That is La Nasser science historian regular on our show. And he says, if you go all the way back to the very first farmers back in Mesopotamia,
+
+0 (5m 16s):
+All of the earliest measurements were super intuitive. And
+
+3 (5m 19s):
+He says a lot of them came
+
+0 (5m 20s):
+From the body
+
+3 (5m 21s):
+As in that bunny is coming close to the net. How close dad? Two
+
+0 (5m 26s):
+Hands. But it's not just like, because we think of like hands and feet, but it was also, there were so many other kinds of measurements, like you would say, oh, something is as far as, you know, my voice can carry or something is as far as I can see sitting on the top of a camel or something is as far as I can throw a stone.
+
+3 (5m 50s):
+So that would mean like say, okay I'm going to build a farm here and I'm gonna do it three thrower rocks across.
+
+0 (5m 57s):
+Yeah. Yeah. The way I read about it was like travelers, like if you're a Saharan traveler, you know, and you're, you need to know where the next watering hole is. That's kinda a life and death measurement. Yeah. They would say it's, you know, three thrower rocks away or it's 10 thrower rocks away. But,
+
+3 (6m 13s):
+But you know that there might be some built in uncertainty there because if you ask Achilles, yeah it could be two throw rocks away. But if you ask me it would be like 78. You
+
+0 (6m 22s):
+Have nailed exactly the problem with the throw a rock system.
+
+3 (6m 26s):
+And these problems kind of came to a head In, the 17 hundreds, it's
+
+0 (6m 30s):
+The eve of the, of the French Revolution in
+
+3 (6m 32s):
+A little town called Paris. It's
+
+0 (6m 34s):
+A pretty cosmopolitan place, which means that people are coming from different places and they all have their own measures. Approximately 250,000 different units of measurement in regular use,
+
+3 (6m 45s):
+250,000.
+
+0 (6m 46s):
+Every commodity has its own measure. So you have grain, wine, oil, salt, hay, coal, wood, fabric, ev everything. And it's extraordinarily confusing.
+
+3 (6m 56s):
+Not to mention it's extraordinarily bad for trade. So if I came to you and I said, miss you, I have a bit of cloth, you would say how much cloth you got? And I'd say, I have a two yard. And you'd say, what's a yard? I'd say it's this match. And the other guy said, no, no it's this match. They was No, no, it's this match. And they went, no, no it's this match. And you could see the frustrating. It was frustrating. Yeah. And make it matters worse.
+
+0 (7m 22s):
+In, the 1780s there was a famine. So there was a shortage of grain and people were hungry and people were angry, which I am gonna call that they were hangry.
+
+3 (7m 35s):
+They were hangry. They
+
+0 (7m 37s):
+Were very hangry. So the bakers at the time, they knew that if they raised the price of bread, like an angry mob would basically come and kill them.
+
+3 (7m 44s):
+But they also knew that with no absolute standard, there was no way to be sure that what you were getting is what you were getting.
+
+0 (7m 50s):
+And so what they started doing was they started just lightening their bread loaves by just a little. So as the famine got worse, people would be waiting in longer and longer lines to pay the same amount of money for smaller and smaller loaves. So they were getting hungrier and hungrier. And so one of the things that people are like crying out for is that they want standardized weights and measures. If I go to the bakery and I buy a loaf of bread, I want a whole loaf of bread. Right? Don't short me on this. This is serious.
+
+3 (8m 21s):
+Well you, you know what happens next?
+
+0 (8m 26s):
+The Bastille is stormed and the king is under house arrest and then under the guillotine.
+
+3 (8m 33s):
+And as soon as the revolutionary government takes over they say All. right?
+
+0 (8m 37s):
+Okay. This is one of our first priorities. We are going to make a new standard
+
+3 (8m 41s):
+But not based on something arbitrary like a king. This is the enlightenment.
+
+0 (8m 45s):
+Why don't we draw on some kind of totally different authority? The authority of nature,
+
+3 (8m 53s):
+Of nature
+
+0 (8m 53s):
+Of nature.
+
+3 (8m 57s):
+So long story short, they took the circumference of the earth, they took a quarter of that circumference, divided that by 10 million and they got the meter. The meter. They then divided by 10 cubed. It filled the cube with water, took the mass of the water, minted a cylinder of metal with that mass and voila, they created the world's first kilogram.
+
+0 (9m 14s):
+The idea of this was if we make this thing that is so beautiful and perfect and everybody can see it that way, then not only will France use it, but the whole world will use it then goods and ideas can be exchanged everywhere by all people and it will be beautiful,
+
+3 (9m 33s):
+Glorious.
+
+0 (9m 35s):
+Exactly. They wanted something that would be eternal and unchanging for everybody for all time.
+
+3 (9m 45s):
+So now I guess you want to see it? No? Yeah. Okay. Okay. So it's in here. We ended up visiting the National Institute of Standards and Technology in Maryland. And this is where we'll be going in, but we're gonna go into this. This guy Patrick Abbott physicist was our guide. They took us three stories down into the bid rocks of the state of Maryland. 'cause they want things down here to be totally still. We've just gone through one double door. Here comes another double door. Oh, then we stepped into this vault of a room and near it was. But what we're looking at then is a glass jar with a handle on top and then inside that is another glass jar with a little handle on top.
+
+3 (10m 28s):
+And inside that is is the thing. The thing, it's kind of gorgeous really. The shiniest little cylinder you've ever seen. Very small. And it looks very clean, doesn't it?
+
+5 (10m 45s):
+Yeah. It's almost hard to tell where the like Russian doll glass jar stops because it's so reflective.
+
+8 (10m 51s):
+This might be a crazy question, but can we hold a kilogram
+
+3 (10m 54s):
+That's our producer Lynn Levy. No,
+
+8 (10m 58s):
+I'm just curious to know what it feels like. We've been talking about it so much.
+
+3 (11m 1s):
+They are very careful with the kilogram. And this isn't even really the real one. The original of the original of the original of the original LA
+
+5 (11m 9s):
+Go Ka, as they
+
+3 (11m 10s):
+Call it, lives in a basement in France. You can't get anywhere near that one. I could. No you couldn't. I could get all Tom Cruise on that. You die trying. Here's how it works. The international prototype is big kahuna. That's the one used to calibrate six identical platinum cylinders, what they call witnesses or Tamir in French. Those witnesses are then used to calibrate another set of cylinders, which are then used to calibrate the US standards, which is what we saw. And that one is used to calibrate all kinds of things. The weight of your lemons, the scale in your bathroom green
+
+9 (11m 43s):
+Team, you lost 34
+
+3 (11m 45s):
+Pounds every time somebody loses a pound on that TV show, biggest loser,
+
+9 (11m 48s):
+5.87%.
+
+3 (11m 52s):
+You can actually trace that like a
+
+10 (11m 54s):
+Bloodline if you will, or an unbroken chain back to the international prototype kilogram
+
+3 (11m 59s):
+To a single object in a basement in France, the holy of Holies. That is the kilogram.
+
+6 (12m 5s):
+But you're telling me that when something is weighed In the world, often it goes all the way back to this one hunk of metal.
+
+3 (12m 11s):
+That's what I'm saying. Which was why the next part of the story is so disconcerting.
+
+5 (12m 17s):
+What happened in 1989
+
+3 (12m 18s):
+Is that according to Andrew, the folks who take care of the official kilogram,
+
+5 (12m 22s):
+The Big K,
+
+3 (12m 23s):
+They took it out of its jars,
+
+5 (12m 24s):
+They put it in a steam bath. Ah,
+
+10 (12m 28s):
+Hit it with the steam that rinses everything,
+
+5 (12m 31s):
+Weight for it to dry. Then
+
+3 (12m 34s):
+They commence a ceremonial weighing, right? Well how do you weigh the thing that is the standard of weight?
+
+5 (12m 39s):
+Well you weigh it against the copies
+
+3 (12m 41s):
+Like the US copy for example. So they get one of those and they put it on one side of the scale and then they put the que on the other. And
+
+5 (12m 49s):
+The IPK the the one is light.
+
+3 (12m 59s):
+What? It's
+
+5 (12m 60s):
+Light It doesn't it.
+
+3 (13m 1s):
+How many, how many, how much light is it than its sisters? Roughly
+
+5 (13m 5s):
+The mass of a grain of sugar. Yeah.
+
+3 (13m 11s):
+So is that gigantic?
+
+5 (13m 13s):
+It's measurable.
+
+6 (13m 13s):
+Wait, how do they know that it was light and not that the other ones were heavier,
+
+5 (13m 16s):
+Right? Well they didn't. So they used the second sister copy still light and the third sister copy still
+
+3 (13m 23s):
+Light.
+
+5 (13m 24s):
+And the fourth and fifth and sixth
+
+3 (13m 25s):
+In comes the man from Germany. Light in comes the man from Canada Light in comes the man from Spain Light, which led them to the troubling possibility that the international standard for weight was losing weight.
+
+10 (13m 37s):
+Well we think that we think the big guy's the problem
+
+5 (13m 40s):
+As far as how it lost that weight, really no one knows
+
+3 (13m 43s):
+One possibility is it got cleaned too much and maybe some of it got scraped away.
+
+5 (13m 47s):
+Although it's disputed, whether cleaning it more would make it lose weight or gain weight. The other theory is outgassing,
+
+3 (13m 53s):
+Like maybe a little hydrogen is seeping outta the metal. And then
+
+5 (13m 56s):
+There was one thing I read that said foul play cannot be ruled out.
+
+3 (13m 59s):
+Well see, I was thinking maybe the Taliban, what's clear is we may have a slightly trippy situation here. We got a hunk of metal losing weight and yet, because it is the standard,
+
+5 (14m 8s):
+It still weighs exactly a kilogram, right? If the definition of a kilogram is the mass of the international prototype kilogram, whatever happens when you put that thing on the scale, that's a kilogram. You
+
+3 (14m 17s):
+Can't do that. And
+
+5 (14m 18s):
+Then everything else In the world is wrong.
+
+3 (14m 20s):
+No, you can't do that. It's
+
+5 (14m 21s):
+Ridiculous. It's like that doesn't sit right. That's like something that like the North Korean government would do. Just be like, no more cash like that. We can't just go around capriciously doing stuff like that.
+
+6 (14m 32s):
+All. right? So if the standard of weight is, as you're saying, losing weight. So how do you fix that?
+
+3 (14m 37s):
+An answer to that question after the break?
+
+11 (14m 43s):
+I'm Pat Walters, I'm the managing editor of Radiolab Radiolab. I kind of think about it like a big, beautiful team sport. If we think about a Radiolab episode as a sports game, it does feel like we're like always underdog. Every time we do wander off into places and ideas and communities of people that we've never been to like literally never been to. In fact, if we've ever been to one before and we get like the slightest sense that we've been there before, even if it's happened like 20 years ago, we won't go there because we wanna go to the new places.
+
+11 (15m 25s):
+And me and the rest of the team are able to do all of that Thanks to you. If you rely on Radiolab and the work that we create, the best way to support us is to become a lab member. To learn more about the lab and our exclusive member perks, go to radiolab.org/join. That's radiolab.org/join.
+
+Progressive Insurance (15m 45s):
+Radiolab is brought to you by Progressive Insurance. Do you ever think about switching insurance companies to see if you could save some cash? Progressive makes it easy to see if you could save. When you bundle your home in auto policies, try it@progressive.com. Progressive casualty insurance company and affiliates. Potential savings will vary. Not available In all states.
+
+Dark Cars Toyota (16m 5s):
+I'm general manager Ethan Al at Dark Cars Toyota in Silver Spring, having trouble finding a car. Come to Dark. HARs Toyota in Silver. Spring Dark Cars. Toyota is the central Atlantic region's number one Toyota dealer year after year. We are here to help you with all your car buying needs. Take advantage of our large inventory and pricing Come. visit us at Dark Cars Toyota in Silver Spring or online at Dark Cars Toyota dot com.
+
+Endless Thread (16m 34s):
+The internet is a dumpster fire And we are dumpster diving. Mm Ice cream. So good. It's almost like watching a slap fight between a bunch of nerds. I have to give you credit for being dogged with this boy. How often do you think about the Roman Empire? Sorry, what? I was just thinking about something. Unsolved mysteries, untold histories Every Friday on our podcast. Endless thread. So go wherever you get your podcasts And follow endless thread.
+
+0 (17m 12s):
+Hey, I'm la di Naster. You're Listening to Radiolab. Before the break, we learned that the international standard for a kilogram, which is a tiny platinum cylinder is, is ever so slowly losing weight. A problem witch. Our emeritus host, Robert Krulwich and New Yorker writer Andrew Morantz, went to Maryland to investigate. Well,
+
+5 (17m 36s):
+I'm getting zero cell phone reception down here. That means we're really deep.
+
+3 (17m 39s):
+When we were down in that underground room in Maryland, we met a guy who has some thoughts about this. Oh, there he is.
+
+11 (17m 45s):
+Okay.
+
+3 (17m 45s):
+His name's John P. Pratt.
+
+18 (17m 47s):
+I'm the leader of the fundamental electrical measurements group at the National Institute of Standards and Technology.
+
+3 (17m 52s):
+Hi John. John walked us through even more high security doors and then we walked into this, oh my god, amazing room. It's big. It is big. About three stories tall. Yeah, it's, and it's made of, it's like a silver room. It has a silver gray floor, it has silver, shiny walls. And your hair is on the silvery side.
+
+18 (18m 14s):
+Very much so. Yes. You
+
+3 (18m 16s):
+Probably wouldn't be allowed in here if you were a redhead. No,
+
+18 (18m 18s):
+No.
+
+3 (18m 19s):
+I don't even know how to describe it. It looks like a wheel turned on its side with all
+
+5 (18m 24s):
+The thing itself looked sort of just like a, like a massive round metal cauldron or like a big metal pot. But then there are all these weird little gizmos and parts and then all these coiled up wires and it's just
+
+3 (18m 37s):
+A stunning machine.
+
+5 (18m 39s):
+But it's all just for the benefit of the one,
+
+18 (18m 42s):
+The one measure, the one
+
+5 (18m 43s):
+Kilogram. Yep.
+
+3 (18m 44s):
+Because inside that giant cauldron, there is an extremely, extremely sensitive balance.
+
+18 (18m 52s):
+An equal arm balance,
+
+3 (18m 53s):
+Which is basically like a seesaw
+
+18 (18m 55s):
+Or a teeter totter. And usually you would set that up so that you would literally put kid on one side of the teeter totter kit on the other side of the teeter-totter.
+
+3 (19m 4s):
+Now you've been in a playground, so you know how this goes. But what they've done here is on one side of the teeter-totter, they've got the kilogram, like the ground K, that's kid number one on the other side, dead of another kilogram. Or kid two
+
+18 (19m 15s):
+Will have a highly variable magnet.
+
+3 (19m 18s):
+Now here's the thing, the magnet won't be touching that side of the scale. It'll be exerting a force, an invisible force on that side.
+
+18 (19m 25s):
+It'll produce a force. And we could use that to hold the balance still.
+
+3 (19m 31s):
+And the force it takes to hold up the balance. That of course, is the same as the weight of the sitting on the other side. And if you can convert that force into a number that everybody agrees to,
+
+18 (19m 41s):
+Voila.
+
+3 (19m 43s):
+You have just redefined the kilogram. You have wrenched it from the world of things and it's become attached to the fundamental forces of the universe.
+
+18 (19m 52s):
+Yep. You've grasped the gist of it. You wanna see that happen right Now I can show you this All, right, with our Lego version of the watt balance. Okay. If I can fire it up.
+
+3 (20m 4s):
+Lego, Lego one. Well see the, the the, the big one was being tested or something. So they took us over to look at the little one.
+
+18 (20m 11s):
+Okay, so we have
+
+3 (20m 13s):
+Have a little scale and everything
+
+18 (20m 14s):
+You can see I, I just disturbed the balance and it's, you know, tickling around a little. It floating. It's free floating.
+
+3 (20m 20s):
+Okay, so you're now going with your tweezers and you're plucking a itty bitty
+
+18 (20m 24s):
+Yep. Two gram mass.
+
+3 (20m 25s):
+He puts this tiny little thimble thing on the balance. And now it's going to, he says levitate.
+
+18 (20m 31s):
+Now it's, it prompts me mass on, mass
+
+3 (20m 34s):
+On,
+
+18 (20m 34s):
+Yeah, I'm gonna put the mass on.
+
+3 (20m 37s):
+He pushes a button.
+
+18 (20m 38s):
+All, right? And
+
+5 (20m 44s):
+Wait, but when do we see the levitation
+
+18 (20m 46s):
+That? was it,
+
+3 (20m 46s):
+I didn't, I missed it. Do it again. It was floating. It was floating.
+
+18 (20m 50s):
+It is floating sitting on the balance. Okay.
+
+3 (20m 54s):
+That's not floating.
+
+18 (20m 56s):
+That is floating. No idea. Does it fall to earth? That's
+
+3 (20m 60s):
+A different idea of Levi. No, the truth is that once I finally figured out what this guy was doing, it was actually sort of cool. He had taken a little metal weight. He put it on one side of the scale and on the other side of the scale it was just empty. But yet the thing didn't tip over because the empty side actually had a magnetic force equivalent to the metal holding it just perfectly still.
+
+6 (21m 22s):
+Right. So if they're able to do that, does that mean that the Grand K's reign is, is
+
+3 (21m 26s):
+Done? Not yet. No, because first of all we, you have to get straight with a lot of math
+
+18 (21m 30s):
+Mc squared equals h new work backwards.
+
+3 (21m 33s):
+You gotta divide by E and then by m
+
+18 (21m 34s):
+Measure the B field. Woo, let's go.
+
+3 (21m 37s):
+And then you get your amp peers and your watts and your planks
+
+18 (21m 39s):
+Constant classical bore model of atoms and stuff. Anyway, it
+
+3 (21m 42s):
+Is actually way more complicated this whole thing than I frankly will ever understand. But here's where we are at. You got all these different teams around the world. You've got John's team in Maryland with his seesaw. You got another lab, actually a couple of them that have their seesaws. You've got a third lab. It's literally counting the Atos. They're all doing experiments, comparing numbers, trying to get the numbers to agree so that by whatever route everybody agrees on exactly what a kilogram is. Right now they're close, they're, they're in agreement out to about six decimal places and that's not good enough. They want the numbers to agree out to eight decimal places. But if they can do that, then and only then will the grand K be no more.
+
+18 (22m 26s):
+Yeah,
+
+3 (22m 27s):
+Because instead of defining the kilogram as whatever's equal to the grand K, now you have a new definition.
+
+18 (22m 34s):
+The new definition of the kilogram. The kilogram is the si unit of mass. Its magnitude is set by fixing the numerical value of the plank constitute be equal to exactly 6.6 2, 6 0 6 9. And we have Xs 'cause we haven't all agreed what the final,
+
+5 (22m 49s):
+Those are the missing decimals.
+
+18 (22m 51s):
+Those are the li missing decimal places. Times 10 to minus 34. When is expressed In, the unit for action? Juul seconds, which is a meter squared. Kilogram per second square per second.
+
+5 (23m 2s):
+Whew. That'll be such a simpler definition.
+
+18 (23m 4s):
+Oh yeah, no, you
+
+6 (23m 7s):
+And what and what's, what will happen to the grand K when the new definition goes into effect? Well,
+
+3 (23m 12s):
+So this is the sad part. Looks like a church
+
+21 (23m 17s):
+You will, we'll see after the end, the church where the,
+
+3 (23m 21s):
+The ground key may eventually end up in a, in a place like this. That's a big deal where so many standards have gone to die. This is the mu de in Paris. So
+
+18 (23m 34s):
+This is the beginning.
+
+3 (23m 36s):
+Faso is our tour guide. Yeah, what is this? He showed us the original leader. Wow. Some early thermometers. Yeah.
+
+21 (23m 47s):
+There's
+
+22 (23m 48s):
+One funny object
+
+3 (23m 48s):
+Here. One room, he showed us the original, I think it was the Parisian meter. So in Paris, this was the infallible, the absolute standard from
+
+21 (23m 56s):
+1801.
+
+3 (23m 57s):
+I think it's in a wooden box with a velvet packing and it's got silk ribbons at either end. And it's just a very beautiful looking silver rod. I, it looks like,
+
+6 (24m 15s):
+Oh, to imagine like the, the thing, the grand thing being in this place, sort of like seeing the pope in shorts or something. It makes me a little, a little uncomfortable.
+
+0 (24m 32s):
+So while we were over here singing the praises of this object, how beautiful it is to have something real you can hold in your hands. There's a group of people for whom the kilogram situation was unacceptable.
+
+23 (24m 46s):
+This is scandalous.
+
+0 (24m 48s):
+For example, bill Phillips here from the National Institute of Standards and Technology. He's speaking to a big gathering of people who care about this stuff. If this
+
+23 (24m 56s):
+Were the real kilogram that I was holding in my hands, the fingerprints that have been put onto this kilogram would increase the mass. But of course it can't increase the mass because this is by definition a kilogram. That means all of you would lose weight
+
+0 (25m 14s):
+For the people in this room. The fact that we In the 21st century are basing our most finely tuned measurements on a hunk of metal cast in 1889. Now
+
+23 (25m 25s):
+That's a situation that is clearly intolerable.
+
+0 (25m 28s):
+After years of work, researchers figured out that new definition they were looking for in 2018. Representatives gathered together in France, hello
+
+22 (25m 36s):
+On.
+
+0 (25m 37s):
+And they voted to replace the physical kilogram with that abstract bit of math.
+
+22 (25m 44s):
+South Africa. Yes. Germany. Yes. Yes. Saudi. Saudi Arabia.
+
+12 (25m 56s):
+Yes.
+
+22 (25m 56s):
+Thank you. Argentine, Argentina.
+
+0 (26m 2s):
+The physical kilogram was relegated to the dust bin of history.
+
+22 (26m 8s):
+Australia. Australia,
+
+12 (26m 10s):
+Yes.
+
+22 (26m 13s):
+Austria.
+
+12 (26m 15s):
+Yes.
+
+22 (26m 18s):
+Beji. Belgium.
+
+12 (26m 21s):
+Yes.
+
+22 (26m 23s):
+Brazil. Brazil.
+
+12 (26m 26s):
+Yes.
+
+22 (26m 27s):
+Thank you.
+
+3 (26m 32s):
+Special thanks to Harry Adland and Eric, her and also to Terry Quinn. And we don't want to forget Richard Davis. And Ken Bobs
+
+12 (26m 43s):
+Palm. Michael Newman. And finally
+
+6 (26m 45s):
+Thank you to our math Angel Soprano, Melissa Hughes.
+
+12 (26m 51s):
+It's very weird to sing my own
+
+6 (26m 52s):
+Name. Also big props to reporter Andrew Morantz, Latif Nasser, and our producer Lynn Levy.
+
+24 (27m 0s):
+Hello, I'm Natalia and I'm from New York City. And here are the staff credits. Radiolab was created by Ja Abumrad and is edited by Soren Wheeler, Lulu Miller and Latif Nasser are our wonderful co-host. Dylan Kee is our Director of Sound Design. Our staff includes Simon Adler, Jeremy Bloom, Becca Bresler w Harry Fortuna, David Cable, Maria Pasco Direz, Duam Samon, Matt Kti, Rebecca lax, Annie McKeen, Alex Neeson, Sarah Ka, Sarah Sandbach, Anisa Za Arianne Wack, pat Walters and Molly Webster.
+
+24 (27m 43s):
+Our fact checkers are Diane Kelly, Emily Krieger, and Natalie Middleton. Thanks for Listening to Radiolab.
+
+25 (27m 57s):
+Hi my Michael Smith. I'm calling from Pennington, New Jersey. Leadership support for Radiolab s science programming is provided by the Gordon and Betty Moore Foundation Science, Sandbox Simons Foundation Initiative, and the John Templeton Foundation. Foundational support for Radiolab was provided by the Alfred P Sloan Foundation.
+
+Dark Cars Toyota (28m 24s):
+I'm general manager Ethan Al at Dark Cars Toyota in Silver Spring. having trouble finding a car. Come to Dark. HARs Toyota in Silver. Spring Dark Cars Toyota is the central Atlantic region's number one Toyota dealer year after year. We are here to help you with all your car buying needs. Take advantage of our large inventory and pricing Come. visit us at Dark Cars Toyota in Silver Spring or online at Dark Cars Toyota dot com.
+
+Verizon (28m 53s):
+No matter what happens to your phone this holiday, whether it crashes down the chimney or gets broken, like a New Year's resolution, Verizon's got you this Black Friday trade in any phone, any condition from one of our top brands. And get a wonderful new iPhone 16 Pro with Apple Intelligence on unlimited, ultimate, and iPad and Apple Watch Series 10. That's up to $2,000 in value. So you'll save big on three amazing Apple gifts. Hurry into Verizon, this Black Friday service plan required for iPad and Apple Watch up to $2,000 value based on iPhone, iPad, and Apple Watch trade in and additional terms. Apply Verizon for details. Apple available Now.

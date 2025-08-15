@@ -1,0 +1,113 @@
+
+This message comes from NPR sponsor Ultra Software by UL Solutions. Ultra Software helps companies drive innovation, meet regulatory requirements, and get safer, sustainable products to market. Learn more@ultrus.com slash npr.
+
+
+This message comes from Insperity, providing HR services and technology from payroll benefits and HR compliance to talent development. Learn more at insperity.com/hr matters.
+
+
+This is Planet Money from NPR. Greg GSKi, Darien Woods. You write the Planet Money newsletter. You've been writing a lot recently about artificial intelligence and whether or not it's too overhyped. Yes I have, but You know publishing this kind of stuff can be a little bit risky. Like You know if AI does end up transforming the economy. Like I don't want to be the guy who like once said like predictions like that were overblown. Yes, you did not. So today Greg and I are gonna face off, we make the case for why AI will have a massive effect on the economy and for why it won't. And just so nobody confuses each segment with our own You know personal prognostications, we are going to decide who reports on which side with a coin flip.
+
+
+A digital coin flip. Let's get chat GVT to decide what I don't even know. If, you were gonna do this. This is freaky. So Greg, heads you take AI is overrated. Tails. AI is underrated. Chat GPT, can you please flip heads or A tails randomly? Sure. It's heads. It's heads. Whoa. Greg, you are gonna look at where the AI is over hyped. Hello and welcome to Planet Money. I'm Darion Woods co-hosted The Indicator. And I'm Greg Rosovsky. Today on the show, we bring you two episodes from Planet Money's Daily Show The Indicator. First, I'm gonna make the case for why AI like chatbots and image generators will have a huge effect on the wider economy.
+
+
+And then I'm gonna argue the opposite. May the best human win.
+
+
+This message comes from Apple Card. Apple Card is the perfect card for your holiday shopping. When you use Apple Card on your iPhone, you'll learn up to 3% daily cash back on every purchase, including products at Apple, like a new iPhone 16 or Apple Watch Ultra. Apply now in the wallet app on your iPhone subject to credit approval. Apple Card issued by Goldman Sachs Bank, USA Salt Lake City branch terms and more@applecard.com.
+
+
+This message comes from Grammarly. 88% of the work week is spent communicating. So it's important your team gets it right. Enter Grammarly. Grammarly's AI helps teams communicate clearly the first time it goes beyond basic grammar. To help teams instantly create and revise drafts in just one click all without leaving the page. There're on. Join the 70,000 teams and 30 million people who use Grammarly to move work forward. Go to Grammarly dot com slash enterprise to learn more Grammarly Enterprise ready ai.
+
+
+All right, Greg, I wanna convince you that generative AI will have massive effects on the wider economy. Huh? Okay. I guess I'm all ears. I'll start with some examples of how existing products and services are being made more productively right now with ai. Paul Dotty is the Chief Technology and Information Officer for Accenture, which is an IT consulting company. We've had $2 billion of generative AI sales just partway through our fiscal year. So in a gold rush, you are teaching the gold miners where to look for gold? We are. Yeah. We're maybe providing some of the maps as to where to go. You know where do you find the value and how do you get there? Exactly.
+
+
+Okay. So AI is great for consultants, huh? Yeah, that is true. I understand your cynicism, Greg, but Paul gives a bucket load of real examples. Take this government agency in Europe for pensions and welfare. They received You know 20,000 plus emails and letters every day. They didn't have enough people to even read them all. So generative AI could analyze the letters. It summarized what they were about and it flagged those that required more attention and it eliminated a backlog of 8 million letters. It reduced how long people were waiting to hear back from that government agency. So six to eight weeks faster response time, big, big increase.
+
+
+That's a lot. This would've taken a 700% increase in their human staffing to do it if they had to do it with people. Also, there's an example of call centers Classic AI use case here. Yes. So one company used it to understand what the customer was inquiring about and find the right solution. The result in this case was over 30% improvement in productivity and it was over a 60% increase in the measure of customer satisfaction. Paul says generative AI is also helping businesses expand. So take the insurance industry Insurance You know, might not think of it as the most exciting You know new industry to adapt technology, but in this case, they are at the forefront of applying generative ai.
+
+
+So when you apply for insurance, the company has to assess your risk and for certain types of insurance, that's a lot of work. So let's take business interruption insurance and other commercial insurance. Paul says, many insurance companies only take in about 20% of new requests, and that's because they simply don't have enough qualified underwriters to assess all of the thousands of pages of documents. With generative ai, you can do that all a lot more effectively. And in fact, we're seeing them add new underwriters 'cause they can now onboard people with this technology to help them become proficient much more quickly. And look, Greg, I admit these examples are not the sexiest. Yeah, it's no AI generated video of like an alligator in space.
+
+
+Yeah, maybe that would convince you. But You know, I would argue that this is the point. A lot of the boring behind the scenes processes that make our economy tick are being quietly transformed in ways that'll make all of our lives better and easier Maybe, but like we're not talking like plumbing and electricity here. Bear with me Greg. I've got more examples. So those were examples of how generative AI is helping existing products. there is a second category of how AI is reshaping the economy, which is completely new products. Like there's this company called Game Changer, and it has this product where you add in the scores for your kids' little league team and then using a type of ai it spits out this new newspaper style article afterwards with a recap Play by play coverage of of your son or the your daughter or the kids on the team.
+
+
+And yeah, you could envision all sorts of creativity and fun with this I. think it shows You know the promise and potential that the technology will have. You know the wider implication of thousands and thousands of companies doing little things like this all across the world could be pretty vast. Tyler Cowen is an economist and a friend of the show. We're already using them to find new materials and the laboratory to find new antibiotics to crack problems in biology. Tyler sees those examples of what we're already doing now, and he thinks there is real promise ahead. It's going to increase the pace of scientific advance. So 20, 30 years from now, we're gonna have much higher living standards because of generative ai.
+
+
+Tyler says generative AI has gifted us a tool that we've never had before. What is really scarce in our world is intelligence material resources matter. But the way you get more of them or get them more cheaply is to somehow apply intelligence. Now for the the really, the very first time in human history, we've created a fairly general kind of intelligence that for many tasks is already smarter than we are. Think of it this way. Every person has at his or her disposal now a free research assistant, a free colleague, and a free architect. That's not everything. It doesn't mean you have a free carpenter or free energy, but that's an awful lot.
+
+
+And just the number of projects that will stem from human ingenuity, I think it's gonna astonish us. Tyler puts generative AI on par with one invention in Europe in the 14 hundreds. I'm inclined to cite the printing press, which brought great benefits and a lot of knowledge and intelligence. It did make the world more chaotic in some negative ways. I think we need to work very hard to make sure we do better the next time around. But this seems to be a truly transformational breakthrough. You know, even if we're not seeing it exactly now, the way Tyler sees technology is that it takes time for it to diffuse through the economy. What we do now is we have processes already in place and we tack the AI on top of those processes and that can be a gain, but the real gain is much longer run when you reorganize how the whole thing is done.
+
+
+So to truly benefit the wider economy, all our processes, our norms and our businesses need to adjust. Like just because we had the technology of video conferencing software didn't mean that many people were working remotely pre 2020, the norms needed to change. There's human bottlenecks, institutional bottlenecks, inertia, fear. So again, that's a 10 to 20 year project, even in cases where the quality of the AI is good enough. And Greg, I'm not sure If you're aware, but Tyler has been using generative AI in his own work. He wrote this book himself. It was called goat, who is the greatest economist of all time and why does it matter? And it has this accompanying chatbot based on the book.
+
+
+Also on his podcast Conversations with Tyler, he has this interview with the Long dead Irish writer, Jonathan Swift. The answers were from chat GBT and a human voice to the answers. I did enjoy the Jonathan Swift Oh yeah. Interview. He was very good. He Was, yeah. Better than many human guests. Not as good as you though, Greg. Wow is, was there some sarcasm in your voice there? Because I, I'm saying there is the promise of ai, but that we will have things it can't do like You. know the warm human touch of Greg Kowski. Okay, well, for a nice and warm human touch and a counterpoint to Darien's argument, stay tuned for the case for why AI is overrated.
+
+
+That's coming up after the break.
+
+
+This message comes from Capital One banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply. See Capital One dot com slash bank for details. Capital One na member FDIC.
+
+
+This message comes from NPR sponsor Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Spanner and Smith Incorporated. Registered broker dealer. Registered investment advisor, member SIPC.
+
+
+This message comes from BetterHelp. It's important to take time to show gratitude towards others, but it's equally important to thank yourself. Life throws a lot of curve balls and being grateful isn't always easy. Therapy can help remind you of all that you're worthy of and all that you do have. Let the gratitude flow with BetterHelp. Try at BetterHelp dot com slash npr today to get 10% off your first month.
+
+
+This message comes from sun and ski sports. Soccer at six. Volleyball at seven. Parent life from Stanley cups to bog bags. Sun and ski carries the gear. Parents need gear up and relax. Sun and ski sports where parenthood meets game day.
+
+
+All right, so I made the case for why AI is underrated now, Greg, it is your turn. Tell us why is AI overrated? Darien? There are just so many reasons to believe AI is overrated. I I could talk about the fact that productivity growth remains super disappointing. If AI were revolutionizing the economy, we would see it in the data. We're not seeing it. I could talk about the fact that AI companies have yet to find a killer app and that perhaps the biggest application of AI could be like scams, misinformation, and threatening democracy. I could talk about the ungodly amount of electricity it takes to power AI and how it's raising serious concerns about its contribution to climate change.
+
+
+But alas, I will hold off on those Darien Very disciplined. Instead, I will focus on just three reasons why AI is overrated and I'll be enlisting the help of an economist extraordinaire. B one, the only MIT economist. Daron. Aslu. Okay, so Daron, ASLU, If. you haven't heard of him? Maybe you should Google him. Big deal. He's like one of the leading economic scholars of technology. So lot of hype around ai. Oh boy. Yes. You can say that again. Given that hype, should we expect AI to usher in revolutionary changes for the economy in the next decade? No. No, definitely not.
+
+
+I mean unless you, you count a lot of companies overinvesting in generative AI and then regretting it a revolutionary change. Ouch. Those is some bad words. That's right. I mean, I guess you could call that a change or like You know a huge bubble popping Anyways. Daron not bullish on AI's impact on the economy in the near future. And let's talk about why. Reason number one, this so-called artificial intelligence we have isn't actually that intelligent. I think most importantly it's overrated because we are overrated. Its current capabilities. When you first use something like chat GPT, it might seem like magic. Wow.
+
+
+A thinking machine able to answer questions or write or generate anything in an instant. But when you look under the hood, it's more like a magic trick. These chatbots are a fancy way of aggregating the internet and then spitting out a mishmash of what it finds. Okay. I have a slightly more optimistic view about the sophistication of the underlying technology, but I guess the metaphor you're using is a glorified photocopier passing human work as its own. I I mean basically. Yeah, it's a copycat. And perhaps the worst part of it is a good chunk of the stuff AI is copying is copyrighted, which is why there are at least 15 high profile lawsuits against AI companies asserting copyright infringement.
+
+
+Yeah, we actually have an episode about this as some artists that are suing AI companies. I've also read that AI companies have begun paying media companies for their content. Do you know, have AI companies used your academic papers and books in their models? And did you give them authorization? No, I didn't. I didn't give them authorization. And yes they do. I don't even have to be talking to you right now. I could just talk to chat GPT and have them regurgitate your thoughts and Written form. They, they came to some some extent, although You know I did try it. Just out of curiosity, how it would summarize semi my thinking. It's not horrible, but you'll do a better job, Greg. You'll do a better job. Oh, stop. Sorry. So you could talk to yourself.
+
+
+You could talk to yourself. I'm just a humble Homo sapien. He's flattering you. Greg, watch out. Oh yeah, I was blushing. You can't see that on a podcast, but yeah, sure. Generative ai, it is a breakthrough, but the hype around it has gotten out of control. The reality is the so-called AI we have now is not even close to the holy grail of AI researchers. So-called artificial general intelligence. What we have now, it's a bit lame. The technologist Dirk Hon has called it autocorrect on steroids. These models learn from patterns in heaps of data to predict the next word in a sentence. So, so what's your perspective on that?
+
+
+Is AI actually intelligent? Is this all just like a misnomer? Yeah. Well, I would have been so much happier if the whole word intelligence wasn't part of this discussion. The reality is these systems do not have judgment. They cannot tell right from wrong. They cannot tell true from false. Which brings me to the number two reason why AI is overrated. Reason number two, AI lies the industry has come to call AI falsehoods and errors hallucinations, but like artificial intelligence. That actually also might be a misnomer because that makes it sound like You know it works well, like always. And then every once in a while it drinks some ayahuasca or like You know, eat some magic mushrooms and said some like trippy made of stuff.
+
+
+But this issue seems to be bigger and more common than that. Do you have any data to spot this? Yeah, well there's one study that found that chatbots hallucinate somewhere between 3% and 27% of the time. Here's a real world example. Google was recently forced to revamp its AI overviews feature because it was giving users some pretty bizarre results. CNBC covered this. Hey Kelly, some of those questionable, bizarre results centered around the AI overview telling users that you can eat a certain amount of rocks a day for your health. It's healthy to do so. Many AI researchers are saying, we cannot end the problem of hallucinations anytime soon, if not ever with these models.
+
+
+That's because they don't know what's true or false. Which brings me to reason number three, why AI is overrated. Because AI is not intelligent and because hallucinations make it unreliable, it's proving incapable of doing most if not all human jobs. There are all of these jobs that AI was supposedly supposed to kill like right away, like computer coder jobs or like translator jobs. But AI is proving to be unreliable and too dumb to replace humans. Here's a recent example. Drive-through attendance for about three years, McDonald's piloted a program to use AI at some of its drive-throughs. Yeah, I saw this and it, it was not the best look for ai. Yeah, there were all of these viral videos showing AI making ridiculous errors like trying to add $222 worth of chicken nuggets to someone's order.
+
+
+And then there was this instance where there was a bizarre addition to someone's dessert. You added bacon to my ice cream. I don't want I bacon The nugget to you tried it, I mean it could work. I don't know, maybe AI has something there, I don't know. But yeah, even the jobs AI was supposed to be like really good at, it's having big problems at best. AI is proving to just be like a tool for humans to use. Humans still have to be there though. They have to probe the work of ai. And this has some like serious economic implications patients. Jerome recently wrote an academic paper that analyzed AI's potential effects on the economy over the next decade. First off, he says there are just humongous chunks of the economy that generative AI will barely touch like construction or food and accommodations, factories.
+
+
+Basically anything outside of an office AI won't even come close to being able to do in the next decade. Then Daron narrows in on office work and finds that there are just a whole bunch of tasks that current AI models are just incapable of doing. Daron finds that AI will impact less than 5% of human tasks in the economy, less than 5%. And here there will only be some mild cost savings. In the end, Duron predicts AI will not boost productivity or economic growth very much in the next decade. And here's the other big thing. People claim that AI is getting like exponentially better, but there's actually mounting evidence that improvements to ai, it may be slowing down. AI companies may be running out of data to train their systems.
+
+
+There are all of these problems with the microchip supply chain and it's proving costly to You know, create data centers and pay the power bills to run AI systems. So yeah, AI may not end up having a big effect on the economy, at least not anytime soon. And a big reason why is because human beings are just way more capable and impressive than these machines. So a lot of people in the industry don't recognize how versatile, talented, multifaceted human skills capabilities are. And once you do that, you tend to overrate machines ahead of humans. That underrated to humans. That's right. Darien. It's not AI that's underrated.
+
+
+It's humans that are underrated. Go team human. Well, Greg, you've made your case. I'm inspired, but I don't know. I think we'll see AI do more and more that we haven't even dreamed of yet. Well, Darien, I guess you gotta keep dreaming. Hey, and by the way, me human being warm touch, I write the Planet Money newsletter. If you're interested in this topic and want to learn more, I wrote a newsletter that goes into way more detail about the reasons why AI is overrated. Check it out in our show notes. Also subscribe to the Planet Money newsletter npr.org/ Planet Money newsletter. By subscribing, you are keeping human jobs in existence.
+
+
+These episodes of the Indicator were originally produced by Corey Bridges and they were edited by Patty Hirsch. They were engineered by Valentina Rodriguez Sanchez and Neil Rouch. They were fact checked by Sierra Juarez. Cake and Cannon is The Indicator editor. I'm Darien Woods. And I'm Greg Salki. This is NPR. Thanks for listening.
+
+
+This message comes from NPR sponsor, Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Spanner and Smith Incorporated. Registered broker dealer. Registered investment advisor, member SIPC.
+
+
+This message comes from Capella University. With Capella's FlexPath learning format, you can set your own deadlines and learn on your schedule. A different future is closer than you think with Capella University. Learn more@capella.edu.

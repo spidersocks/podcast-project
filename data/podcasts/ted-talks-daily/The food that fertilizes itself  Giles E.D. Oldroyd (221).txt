@@ -1,0 +1,65 @@
+
+This message is brought to you by Apple Card. Apple Card is a no fee credit card that gives you daily cash back every day. That's 3% back at Apple and 2% back on every purchase made with Apple Card using Apple Pay. Apply for Apple Card in the wallet app on your iPhone today. Subject to credit approval variable. APRs for Apple Card range from 18.24% to 28.49% based on credit worthiness rates as of January 1st, 2025. Apple Card issued by Goldman Sachs Bank, USA, salt Lake City branch terms and more at Apple Card dot com.
+
+
+Hey, prime members. Are you tired of ads interfering with your favorite podcasts? Good news With Amazon Music, you have access to the largest catalog of ad free top podcasts included with your prime membership. To start listening, download the Amazon music app for free or go to amazon.com/ad free podcasts. That's amazon.com/ad free podcasts to catch up on the latest episodes without the ads.
+
+
+Hey, it's me, Paige DeSorbo, and I'm so excited to share my new shoe collection at DSW filled with my favorite styles and trends for spring because If you know me, you know I'm kind of obsessed with shoes and by kind of obsessed, I mean head over heels. You're going to love these shoes. So snag super cute styles, like cute flats, fun heels, and cool sneakers. From the page to Sobo Collection right now at your DSW store or dsw.com,
+
+
+You're listening to TED Talks Daily where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. We're about to get a little geeky about soybean plants. That's right. In his 2024 talk plant, Dr. Giles Oldroyd lays out the rather magical way soybean plants work and the important role they can play in sustainable agriculture. Enjoy. So I believe this soybean plant is a prototype for sustainable food production on this planet. So on the roots of this soybean plant, our nodules and these nodules do an amazing thing. They harbor millions of bacteria inside the cells of the nodules, and those bacteria are able to capture nitrogen out of the atmosphere and feed it to this soybean plant.
+
+
+Now all plants require a source of nitrogen. They need it so they can make D-N-A-R-N-A and proteins, but plants can't access the most prevalent form of nitrogen on the planet. The 78% of the air that you're currently breathing, that is molecular dye nitrogen only bacteria that possess the enzyme nitrogenase can convert this very inert form of nitrogen and convert it into ammonia, a reactive form of nitrogen that bacteria and plants can use to make their D-N-A-R-N-A and proteins. So the bacteria inside the nodules of this soybean plant are fixing nitrogen out of the air, converting it into ammonia, and then feeding that ammonia to this soybean plant.
+
+
+In return, the soybean plant is feeding the bacteria with a source of carbon in the form of sugars derived from photosynthesis in the leaves. This is what we call a mutualistic symbiosis. It's beneficial to the soybean plant, but it's also beneficial to the bacteria inside those nodules. Now, the roots of the soybean plant are doing a second amazing thing, and to see that we have to look under a microscope, the roots are heavily infested with a beneficial fungus called microrisal fungi, and these fungi are heavily colonizing the soil and make a much greater contact with the soil surface than the plant root alone is able to achieve.
+
+
+In so doing, they create a much more efficient platform for the uptake of nutrients. Nutrients such as phosphates, nitrates, potassium, and water. The fungus isn't only out there in the soil. It's also colonizing the roots of this soybean plant where it makes these highly branched fungal intrusions into the cells of the root that we call our cul. So the fungus is out there in the soil capturing nutrients from the soil, and it feeds those nutrients to the soybean plant through these muscular intrusions. In return, the soybean is feeding the fungus with carbon from photosynthesis. Again, it's a mutualistic symbiosis.
+
+
+So this soybean plant can get almost all of its phosphate and the totality of its nitrogen needs met through these beneficial microbial associations, and that provides a free and sustainable means to support its crop production and out in nature. Most plants are engaging with one or more of these beneficial microorganisms to help them capture these limiting nutrients from the environment. But in agriculture, it's a really different situation. There we are applying these nutrients at high concentrations in the form of inorganic fertilizers to support our crop production. And while inorganic fertilizers have underpinned global food security for the last 60 years, they cause significant environmental pollution.
+
+
+They cause significant greenhouse gas emissions. They contribute to a lot of the cost in our crop production. And at the other end of the spectrum, smallholder farmers lack access to those fertilizers and their productivity suffer as a result. For all of these reasons, myself and my colleagues in the NSA project are working to eradicate or at least greatly reduce our reliance on inorganic fertilizers. To do that, we want to make all of our crop plants, particularly our cereal crops, behave like this soybean plant, able to get their nutrients through these beneficial microbial associations. Now, the fungal symbiosis is not limited to legumes like that soybean.
+
+
+It's actually pretty widespread within the plank kingdom, and it's already present in our cereal crops. However, when we fertilize our fields, the crop doesn't engage with the fungus. Why PGA the fungus with carbon if the nutrients are not limiting? So while soils in natural ecosystems are packed full of a complex network of these microrisal fungi fed by their host plants, our agricultural soils are greatly depleted for these beneficial fungi. If we wanna really maximize the utilization of this fungal symbiosis in agriculture, then we need to get our crop plants to gauge with the fungus much more proactively and even when we fertilize our fields.
+
+
+If we can do that, then we can reduce the levels of fertilizers we use and we'll lose less of those nutrients out into the environment. So to achieve that, we set about identifying the genetic regulators that control when the plant engages with these beneficial fungi, and we discovered that these pro tenacious regulators are only present when the plant is star for nutrients, and we were able to rewire that system so that now the plant engages with the fungus much more proactively, and even when the plant is fertilized. In our field trials, we find that these rewired barley plants get 10 times as much fungus inside their roots. That's a lot more fungus in the crop, but it's also a lot more fungus out there in the field.
+
+
+So now we can control when the plant engages with these beneficial fungi. The next step for us is to test. Does that mean we can lower the fertilizer levels and still maintain good production? I believe this is a first step to really getting that fungal association working for us much more proactively in agriculture, and that's gonna be really important, especially for how much phosphate we have to apply to our fields. But if we're going to really cure our addiction to inorganic fertilizers, we also need the nitrogen fixing bacterial symbiosis. Now, unfortunately, the nitrogen fixing symbiosis is limited to legumes like that soybean and their relatives, so we are working on transferring that nitrogen fixing symbiosis from legumes to our cereal crops.
+
+
+Myself and my colleagues have spent the last 30 years undertaking genetic dissection to try to identify all the genes that in soybean allows it to engage with those nitrogen fixing bacteria. During that time. We've identified many genes that are involved in that process, but surprisingly, we haven't yet identified a single gene that is novel to that soybean plant. In fact, the genes are already present. Most of them are already present in our cereal crops. Let me give you an example, the symbiosis signaling pathway. This is a set of proteins that are expressed on the cells on the surface of that soybean root that allow the soybean plant to recognize the nitrogen fixing bacteria out in the soil.
+
+
+When they've recognized the bacteria, they oscillate their calcium in the nucleus. This is essentially the cell saying, I've seen these beneficial bacteria out in the soil. Now turn on the gene expression that's necessary to let those bacteria in. This symbiosis signaling pathway that in the soybean plant allows it to perceive the nitrogen fixing bacteria. It's already present in our cereal crops, and that's because it's the same signal transduction pathway that allows all plants to recognize michal fungi. What we now understand is that when legumes evolved this capability to engage with nitrogen fixing bacteria, they didn't invent anything new.
+
+
+They used the preexisting genetic components associated with engagement with beneficial fungi to also allow engagement with beneficial bacteria. Essentially, the nitrogen fixing symbiosis is really just a modified form of the Michal fungal symbiosis with a few tweaks, and one of the really important tweaks is to link that symbiosis signaling pathway to root organogenesis to make the nodules that are able to accommodate those nitrogen fixing bacteria. But even there, these apparently unique nodule structures are not that novel.
+
+
+They use preexisting developmental genes that are already present in our cereal crops. So essentially, nitrogen fixation uses a whole set of preexisting genetic pro components, but they renet them in a novel way to create the apparent novelty of nitrogen fixation. Now, from an engineering perspective, it's much easier to renet a set of preexisting genetic components than it is to build those genetic components from scratch. Now, this work is not yet published, but using this knowledge and getting the networking of those preexisting genetic components, right, we have now been able to engineer nodules in non legumes.
+
+
+Now, unfortunately, at the moment, those nodules don't get infected with the nitrogen fixing bacteria. That's the step that we're currently working on. However, I believe we are well on track to delivering nitrogen fixing cereals, and because we're re networking preexisting genetic components as opposed to having to build those genetic components from scratch, I'm pretty confident that we can deliver those nitrogen fixing cereals. Within my career, nature has already shown us how to sustainably feed this planet. I believe the next Green Revolution is gonna be the microbial revolution, using beneficial fungi to deliver phosphates and beneficial bacteria to deliver nitrogen, providing a much more sustainable means to support our food production systems and providing technology that's accessible to all of the world's farmers.
+
+
+Thank you. That was Giles Ed Oldroyd at Ted's Countdown Dilemma series on the Future of Food in 2024. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today's show. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, Lucy, little Alejandra Salazar, and SanMar Nivo. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Bezo.
+
+
+I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feed. Thanks for listening.
+
+
+Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts and no overdraft fees. Just ask the Capital One Bank guy. It's pretty much all he talks about. In a good way. He'd also tell you that this podcast is his favorite podcast too. Ah, really? Thanks. Capital One Bank Guy. What's in your wallet? Term supply. See Capital One dot com slash bank. Capital One, NA member FDIC.
+
+
+Hey folks, it's Mark Marin from wtf. It's spring a time of renewal, of rebirth, of reintroducing yourself to your fitness goals, and Peloton has what you need to get started. You can take a variety of on demand and live classes that last anywhere from 10 minutes to an hour. There are thousands of Peloton members whose lives were changed by taking charge of their fitness routines. Now you can be one of them. Spring into action right now. Find your push, find your power with peloton@onepeloton.com.
+
+
+This episode is brought to you by Progressive Insurance. Do you ever think about switching insurance companies to see If you could save some cash? Progressive makes it easy to see If you could save. When you bundle your home and auto policies, try it@progressive.com. Progressive casualty insurance company and affiliates. Potential savings will vary. Not available in all states.

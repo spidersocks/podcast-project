@@ -1,0 +1,83 @@
+
+You know, as a busy mom, there are lots of ways you can help yourself fall asleep. You could stare blankly at the ceiling and replay every conversation you've ever had. Count sheep, have a debate with your pillow. Give up caffeine. Try acupuncture and buy a weighted blanket that will make you sweat profusely. Or you could try some milk, which has nutrients that support healthy sleep. Is it gonna need milk.com for more info? And for everyone's sake, please don't give up caffeine. You know, as a busy mom, there are a few ways you can build strong muscles. You could get a gym membership, which you'll never use. Buy all sorts of expensive equipment for your garage that you'll forget you have. Pay for a personal trainer that you'll never have time to meet with. And buy a fitness watch that only makes you sad every time you look at it. Or you could go for an easy run and try some milk, which helps build strong muscles. Visit gonna need milk.com for more info. And please don't make yourself sad.
+
+
+Oh my God, it's the coolest thing ever. Hey guys, have you heard of GoldBelly? Well check this out. It's this amazing site where they ship the most iconic, famous foods from restaurants across the country, anywhere nationwide. I've never found a more perfect gift than food. They ship Chicago deep dish pizza, New York Bagels, Maine lobster rolls, and even ina garden's famous cakes. Seriously. So if you're looking for a gift for the food lover in your life, head to goldbelly.com and get 20% off your first order with promo code gift.
+
+
+You are listening to TED Talks Daily where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. Fish is nutritious and part of a fast growing food system. Also, if I may add, delicious, but feeding the fish of the world costs farmers a lot of money and resources. Aquaculture tech entrepreneur, Gibran Huzaifah came up with a solution for this In his 2024 talk. He explains how a technological solution led to a much healthier ecosystem for fish and farmers. It is followed by a brief q and a with head of TED, Chris Anderson. All of that is coming up. So my time in university changed my life, but not the way you might think.
+
+
+There are two life-changing experiences when I was there. The first one is actually when I got it. So the, when I was accepted in Bandung of technology around 2007, my family had financial problems. I moved to a new city when I didn't have any friends and relatives. I ran out of money, slapped in a mosque, and at some point went three straight days without eating. I felt so hungry. I had ex experienced hunger before, but never like this. You know, my head felt dizzy, my vision was blurry. I couldn't stand up. So I knew I only laid down in the moss, look up at the ceiling and said, oh, this might be it.
+
+
+You know, this could be it. This is the end of my line. But I thought since I was in the moss, if I died there, I would go straight to heaven, right? But luckily, someone gave me money to eat. So I survived the morning after, still in the moss, I read in the paper that a man found dead because of starfish. Somebody just like me in Indonesia, which is known as a research rich country, I cried my eyes out, imagining him feeling the hunger pain that I felt just last night. But he had to endure it until the second he died.
+
+
+Throughout that experience, I found my life purpose. I want to solve hunger problems. The second experience was when I got into a class. So I, I was a biology major and there was this optional class called Aquaculture. It was one of the most popular class in my uni, almost as popular as computer science 1 0 1, but not because everyone was interested about Aquaculture, but because it was guaranteed to get an A, you just had to show up. Now, I'd love to tell you that I took the class because I saw it as a tool to eliminate hunger. But no, I had my own noble cause to improve my GPA.
+
+
+However, exactly after that class, I was convinced that Aquaculture is the future of food production. Fish is the most resource efficient of our farm animals, and the most nutritious Aquaculture itself at the sector is the fastest growing food system globally with major growth still ahead of it. And currently the seafood would that we consume globally, only slightly higher than 50% come from the farms. The rest is still hunted from the ocean, where we're actually taking more than the ocean can handle. But if we learn from history, humanity will transition from hunters to farmers.
+
+
+I was so inspired by that class, especially after the last statement. Exactly after the course, I decided to be a farmer myself. So I rented out a small catfish pond for $20 a year, and then grew it out from one point in 2010 to 76 months when I graduated in 2012. But my dream was to have a thousand ponds. That's why I learned from many farmers that operate and owns hundreds of ponds, just to learn from them how they grow the business. But surprisingly, from that discussion, I learned that all farmers face the same problems. Feed costs is 70 of and 90% of the total cost, and it's done manually by labor.
+
+
+So sometimes the labor forget to fit the fish. The other times they steal the feed and sell it to the other farm. And for the most part, they overfit the fish and create pollution to the water. I was a farmer myself, so I knew the problem pretty well. But knowing that all farmers faced exactly the same challenges was quite eye-opening. So it got me to an idea to think that it was an opportunity. So that was, I threw out an idea to one of the farmer, Hey, what if I can solve this? Why? What if I can build a machine that you can feed the fish automatically from your phone? Would you like that? And his answers changed everything because he said, well, if it's existed, each of my pond will use your product.
+
+
+And it struck me because in Indonesia, there are more than 3 million of fish and stream farmers and more than 10 million pond all across the country. Imagine if those millions of farmers then we can build a technology to that can be used by all. It would be massive, right? And especially because back then technology like that was, was very little and almost nonexistent in Indonesia because the pond are murky with no feasibility on what's going on in the pond. And most of the fish and stream forms are in Asia. And our small holders and those small holders were struggling financially stressed out, highly dependent on middlemen with no real power to change things.
+
+
+So I thought that technology might be able to solve this. So I really wanted to start a tech company. The first thing I did to start a tech company, which is very scientific and productive, was to ask a friend to borrow his garage. Because I learned that all successful tech companies started from a garage. So that's the mandatory next step to start a tech company. And there I was in a garage building an automatic feeding machine from a secondhand aluminum tank and used CD only for $200 and two months. It was nothing fancy because using SMS, the phone was still black barrier using SMS and sensor data sense, SMS, and then the machine was active.
+
+
+It was pretty simple. I proudly bring this crappy prototype to farmer and the first thing that he said is, it looks so ugly, right? Why is it look so ugly? We still prototype, but try it out. But he was intrigued because this technology never existed before. And I took another farmer and then he, he was intrigued as well, but they didn't want to use it because it's using text base. They didn't want to send hundreds of texts per day just to feed the fish. So I knew that I needed to change the architecture of the system. It was around the same time where the internet was starting to take off Indonesia. So all of the e-commerce, right?
+
+
+Hailing and FinTech were striving. So I ha, I got an idea, what if I can put internet on the machine and then build internet business on top of it? And I was sold, I sold my fish farm, found a technical co-founder and started a fish tech business. I named a fishery. So I redesigned the product itself to look prettier, but to be a bit bit more durable. And I connected to a sensor that can sense the appetite of the fish and stop the feeding when they're already full based on the movement. When they're hungry, they tend to be aggressive when they're full, they tend to be calmer just like us in a way. So with that sensors and connected to mobile app and sense the data to the cloud, it was much better product than it started.
+
+
+But farmers still didn't want to adopt it because it needed to be a ridiculously affordable to sell it to the small holder farmers. Then I changed the model to subscription, and it works. Farmer use it. Their feeding costs is more efficient. They shortened the harvest cycle, grow more, better quality of fish and healthier fish. And it grew from only 10 farmer and 10 pond. In our first year in 2013 to currently we have more than 200,000 farmers and 400,000 pond connected to the platform.
+
+
+Once we reached a certain scale, the magic started rolling With more farm data, we could consolidate volume from farmers and bypass the middlemen. We solved supply chain disadvantages for small holders through a platform that enabled them to purchase affordable feed, receive formal financing, and send the produce directly to the buyers. What, what started as a feeder? Now it evolves to a solution that's similar like a cooperative, but where farmers are digitally connected, giving small scale farmers the rights and purchasing power of the big guys. We've expanded to India and soon we'll be another country commercially.
+
+
+So we're becoming a fully integrated model, just similar like big conglomerates in other industry. But it's not one family who gets everything. No success, access and control are equally distributed amongst hundreds of thousands of farmers. We're currently the largest feed distributor and fish suppliers in the country. Without owning and operating any single pond, just surfing the farmers, there are many big environmental, economic and social winds with eliminating feed waste, which otherwise would cause pollution, degradation, and disease.
+
+
+The data itself brings transparency and traceability to the supply chain and farmers double their income. I remember one of the farmer, tilapia farmer from Java, who never graduated from primary school, couldn't read well, had been doing fish farming for two decades, only managing two pond for the 20 years before joining a fishery. Right now he's managing six times more pond, 10 times more income simply by joining a fishery four years ago. And because of that, he could take his two daughters to graduate from Top Tech University in Indonesia.
+
+
+And what amazed me is that those two daughters took over the business and grew the business by 20 times. So the impact were generational, and we have tens of thousands of stories like this. But we realized that for this impact to be long lasting, the farmers need to benefit from the system redesign. That's why our, we hope to extend our cooperative model to ownership in the business. So when we go public and hopefully the stock rises, the wealth created will be distributed to farmers as well.
+
+
+And we all know that the tech stocks have been successfully, effectively one of the ways to create wealth, but mostly for FES founders and early employees. But now it has a chance to create new thousands of fish farmer millionaires who used to be small holders. And that's how we truly redistribute wealth and change many, the way many see the opportunities and their own potential, which is really necessary to get to a healthy planet and thriving humanity.
+
+
+It's wildly exciting that we got here, but one in nine of us still goes to bed hungry. And it remind me, reminded me of, of myself because I went to bed hungry for days. So that's why we're taking this cooperative model to establish communities in the area where hunger issues are apparent so the farmers can strive, but the communities and households around them will get access to affordable protein, which eventually will help reduce hunger in that area. We're just getting started, but still a lot of work ahead.
+
+
+Over the past 17 years, I've often thought about a guy who died from starvation that night. I was lucky enough that I survived, which led me on a path to solve hunger problems through systemic change on the food production. You know, I wonder what he would've achieved had he lived, if it weren't for the small money than somebody give me to eat, or the simple inspiration that my professor shared in the class, I wouldn't be doing what I do today. Everything is consequential, however small our deeds. As long as we stick to the good intentions and progressive action, we can build an imaginably better future.
+
+
+Thank you. Is such an inspiring story. Now I've, I've been thinking a lot about infectious generosity and it, it just strikes me, this is one of the best examples ever of it, the person it was. So who, who, who was this person and what did they actually give you? Who saved your life? Yeah, Just money for me to, So it was just like, like a dollar or something like this, or Like, yeah, like $2, yeah. Couple of dollars. Do you, you've never seen him again. Never Seen him again. If you could know that that $2 gift not only saved your life, but actually has eased hunger for I I guess literally millions of, of people.
+
+
+If you look at the people who your Aquaculture farmers are supplying, what a, what an amazing thing. Yeah, that's, so look, there's a lot of people here who are entrepreneurs of different kinds, business entrepreneurs, social entrepreneurs, or maybe they are thinking about it. It is a hard road to go on. What would you say to someone who right now is just they want to do something and they're, and they're struggling. What would you say? Yeah, I think one of my most favorite TED Talk ever is from Simon Heineken. You need to start with why. And I watch it during my, my time in college.
+
+
+And I was lucky enough that during those tragedy, I found my why to solve hunger problems. So when my company was in, in the edge of bankruptcy, I always remember, well, we, I can't stop here. I haven't even put, pushed through to actually solve hunger problems. So, so I think start with why, and then me, the universe will help you to show the road. Giran, thank you so much. Thank you. It was incredible. That was Giran who? Zafa speaking at TED 2024. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines.
+
+
+And that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Bazo. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feet. Thanks for listening.
+
+
+So good. So good. So good. Perfect gifts. We've got 'em at Nordstrom Rack Stores now. Ugg, Nike, barefoot Dreams, Kate Spade, New York and more. Finds everything on their wishlist all in one place. Steve Madden. Yes, please. It's perfect. Did we just score the greatest gifts of all time? Yeah. Head to your Nordstrom Rack store to score great brands, great prices, the greatest gifts of all time,
+
+
+Shorter days and chillier nights can make it tough to keep up your fall workout routine. Thankfully, there's aloe moves, the app that brings health and wellness to the comfort of your home. Aloe moves, offers yoga, Pilates, strength, workouts, and other fitness classes, plus wellness offerings like meditations, sound baths, and more. Whether you have five minutes or an hour aloe moves has a class or flow that saves you from a frigid trip to the gym, get a 30 day free trial and 20% off an annual membership with Code A cast@alomoves.com.
+
+
+Hey guys, have you heard of GoldBelly? It's this amazing site where they ship the most iconic, famous foods from restaurants across the country, anywhere nationwide. I've never found a more perfect gift than food. They ship Chicago deep dish pizza, New York Bagels, Maine lobster rolls, and even Hena Garten's famous cakes. So if you're looking for a gift for the food lover in your life, head to goldbelly.com and get 20% off your first order with promo code gift.

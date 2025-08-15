@@ -1,0 +1,149 @@
+
+Support for NPR and the following message come from ID Tech. Id Tech is where kids ages seven to 17 find their people, the battle bots, game design and more people. Go to id tech.com and use code ID tech to save $150 this summer.
+
+
+This is Planet Money from NPR. In the mid 1990s, a group of people thought they'd finally achieved this dream that had existed since the dawn of financial markets. They'd figured out how to take risk. They built a model that could help them generate great investment returns consistently over time, perhaps unsurprisingly, they were math nerds. We were mostly cut from the same cloth. This is Victor Haghani. He was the youngest of the group. Like we were all, you know, kind of gameplay, geeky kind of kind of people. And we just really felt attracted to the same kinds of problem solving and the same kinds of thought processes and intellectual challenges.
+
+
+Victor was part of this new crew of traders on Wall Street, where before people had made investment decisions based on like what they thought about a company's prospects or, or maybe just based on a hunch, these guys used data, lots of data and computers. It was math over emotions. Risk taking had always been an art, but now they could turn risk taking into a science To a large extent, you can get rid of certain risks, but if you're gonna make money, Then you have to be taking risk. Victor Had gone from working at an investment bank to getting hired into this elite illustrious group. A group that included Myron Shoals and Bob Merton.
+
+
+The guys who'd figured out how to mathematically derive prices for stock options bets on a stocks future price for this work, Myron Scholtz and Bob Merton would go on to win a Nobel Prize in economics. Myron and Bob's model provided them with like this x-ray vision. They could spot all these discrepancies in the market where what the price should be didn't quite match what the price actually was. And the idea was those were opportunities to make money And Victor and his friends made so much money. I think that we averaged like 40% annual returns. I dunno, over 30%. Way, way higher than what we ever anticipated was possible.
+
+
+They were doing amazing and part of their investing strategy was sometimes not investing. When the opportunities aren't good, you just shouldn't do very much. So sometimes they didn't do very much. Were there like game nights? I mean It was constantly, well it was like game afternoon and game night. What games? Well, well a lot of poker. Poker during the day, poker at night, different types of poker. They would turn their desk chairs away from their computer screens of price charts and yield curves to face each other and up. They got to play games of risk and probability with actual living legends. Bob Merton and Myron sch.
+
+
+Well, playing poker with Bob Merton was terrifying because he was really a poker expert. Like he had programmed and written and solved aspects of poker very early on. So, you know, like we, you know, we played with Bob but we just knew that Bob was gonna walk away with some of our money and Okay, okay. It, it wasn't all just for fun. I think We kind of felt guilty about it at the time, but it was like giving an outlet to risk taking so that if you kind of like to take risk, it was good to take the risk here and be very risk averse in what we were doing for the firm. So it was an an interesting and fun example of risk taking and risk not taking, Yeah, it was like they could take their risks in the game.
+
+
+But when it came to the markets, Victor and his friends only wanted to take the smart profitable risks. They applied their lofty, perfect academic models of cold rationality to the busy, chaotic, real financial markets. Two great, great profit. I just always felt that, you know, this was all just sort of too good to be true. It was amazing. I was so happy, I was so grateful and so on. And then it all came crashing down. Hello and welcome to Planet Money. I'm Mary Childs. And I'm Jeff Quo. Today on the show, it's maybe the most famous story in all of finance. The legendary rise and fall of long-term capital Management.
+
+
+A story of perfection gone spectacularly wrong when risk taking should have been risk. Not taking Perfect, safe, clever bets that turn into a perfect disaster that threatened the entire financial system and how we have learned perfectly nothing from IT.
+
+
+Support for this podcast and the following message come from LinkedIn marketing solutions. One of the hardest parts about B2B marketing is reaching the right audience. So when you wanna reach the right professionals, use LinkedIn ads. Target your buyers by job title, industry, company role, seniority skills, company revenue, all the professionals you need to reach in one place. LinkedIn will even give you a $100 credit on your next campaign. So you can try it yourself. Just go to LinkedIn dot com slash money. Terms and conditions apply only on LinkedIn ads.
+
+
+This message comes from Capital One with the Venture X card. Earn unlimited double miles on everything you buy. Plus get premium benefits at a collection of hotels when booking through Capital One travel. What's in your wallet terms? Apply details at Capital One dot com.
+
+
+Victor Haghani and his poker playing coworkers at the fund, long-term Capital Management had cracked the code of how to invest using their perfect mathematical models. The way they went about it was like this. First they would find something cheap That wasn't very difficult. If you were looking it was pretty easy to see it. But finding something cheap actually means finding two things. If we were gonna buy something that was cheap, we had to find something that was, that it was cheap relative to otherwise it didn't mean anything. Yeah, What is cheap? If it's not, if it's just Relative to something else. Yeah, because They weren't just buying a stock 'cause they thought it was gonna go up. They were betting on a discrepancy. They saw that one bond or stock cost too little relative to another very similar bond or stock.
+
+
+They were balancing the price of one thing off of another. Like some kind of asset price parkour. Like for example, they bet on Russian debt denominated in rubles because everyone else was more scared of it than they needed to be. And they bet against Russian debt denominated in dollars because it was overpriced. That is called a relative value trade. So that's step one, find something underpriced and find something similar that's overpriced. Then they have to figure out why those discrepancies might exist. You Had to explain it like, okay, what? Why is this the case? And Then you had to decide whether the reasons that were causing it were going to get stronger and make it go further apart, or whether they were going to dissipate over time and whether there would be a convergence.
+
+
+In many cases, the idea was just to hold it long enough so that they had to converge Hold on to the trade for the long term. That's how they managed the capital. You get it Nice. Now, often a reason for these price discrepancies was that people were being irrational. They were pricing these things wrong and long-term capitals, mathematical models could show just how wrong these other people were. So long-term capital could take the other side of the bet. They take the rational empirically correct position and then wait. So step one, find an opportunity like Russian debt in dollars is overpriced relative to Russian ruble debt.
+
+
+Step two, explain why that opportunity exists. Come up with a good explanation and understand what directions the prices should go. But these opportunities, these price discrepancies, they were generally not that big. 'cause you know, everyone else is also out here in these financial markets looking for underpriced things. So the big discounts aren't gonna happen. Whatever you find is gonna be little, Hence step three. And Then you use leverage to try to give yourself a good return on investor capital. What is Leverage? Well leverage means that you're borrowing money so that you can have more of the trade on than just investing the capital that you have.
+
+
+Borrowing money to double up on the trade or triple up. So if you have $1, you could invest $2 or $3 or $20. And if your bet is correct, you get, you know, 20 times the profit you were gonna with your just $1 leverage, amplifies whatever you're doing. You can win that much more, but you can also lose that much more. Most hedge funds do this, but long-term capital did it to the extreme because Come on, if you have a great trade opportunity and you believe in it, you should bet big. You shouldn't be limited by your funds little bank account. You should bet as big as humanly possible. I Forget who said that.
+
+
+Relative value trading is like picking up nickels in front of a steamroll Nichols because these are teeny tiny opportunities to profit steamroller. Because what if something goes wrong? You've borrowed so much more than you have, all your leverage could flatten you. So the idea is to grab all the nickels, avoid the steamroller. So step four, put on the trade, take the opportunity. They'd call their bank or broker and say hello, I have $20 19 of it borrowed and I'd like to use it to bet on this bond or option or whatever, please. And so that is a game that Victor and the group at Long-Term Capital Management were playing and it was working for The first three years plus of their fund.
+
+
+The world moved exactly the way they thought it would move. This is Roger Lowenstein. He wrote the book on long-term Capital Management and he says in the beginning, this fund was verging on mystical. You know, they seem to have a formula. People are always looking for a formula, a technique, a model, you know something they can say, I just plug this in, right? And, and tomorrow I'll be X percent richer the day after tomorrow I'll be, you know, x plus y percent richer Clients loved them so much so that they had too many people calling them up, hitting up their pagers, begging them to take their money to invest. They were turning clients away And in its first few years their bets were right.
+
+
+Nichols upon Nichols upon Nichols, long-term capital started in February, 1994 with $1.3 billion of investor money by late 1997. That was over $7 billion. But with all that success came a few problems. If you own a stock and it triples that stock that you own is a lot more expensive than it used to be. Now it might still be a good investment, but it's probably not as good an investment as before. It tripled. Yeah, the opportunities for the future, were looking a lot less profitable. And Roger says at some point, you know, a prudent money manager would say, okay, it's all played out just like I thought it would. Now I should adjust what I'm doing.
+
+
+Reevaluate. It's just that it's difficult to know when to adjust. All you know is, hey, the math isn't as good as yesterday. Well the richer today, but that means tomorrow doesn't, doesn't look as enticing. And, and they could and should have adjusted their portfolio. They'd rung so much profit out of the markets. In 95 they generated 43% in returns. And the next year, 41%. And another thing about too much success, everyone else notices, everyone else started copying them, trading desks at other hedge funds at banks. Long-term capital now had more competition, more people buying up the same stuff, scooping up those nickels.
+
+
+It was the hot thing, you know, so it just was attracting money just as we were making a lot of money. Those trading desks were making a lot of money. So the bank management gave them more money and said, do make me make even more. Here's more capital. And it expanded really quickly and the opportunity set just looked a lot less attractive than, than it had looked. There was a smaller and smaller set of opportunities. Fewer were nickels to pick up. We, we could see that sadly, we probably didn't make the right, we didn't respond in the right way to it. All That phenomenon was starting to show up in the returns for their clients. Instead of 40 something percent returns in 1997, they generated just 17%, which didn't even beat the s and p 500.
+
+
+And right about then, by 1998, things had started happening around the world that would fundamentally change long-term capital's. Future First financial markets were getting interesting. There was a financial crisis, roiling Asia sparked in Thailand, now hitting Indonesia and South Korea. Long-term capitals models hadn't really predicted that, but so far not that big a deal. The trouble was pretty contained. There were these currency devaluations, stock markets dropping, but we weren't super active in these emerging Southeast Asian markets. We had some little things on here and there, but very, very small and we weren't too worried about it. Okay, Little stuff all fine.
+
+
+Not that big a deal for long-term capital management. What Was happening in the spring of 1998 was that Citigroup was shutting down their proprietary trading operation. And we didn't really know it. Citi was shutting down the group that had been doing the same basic strategy that long-term capital management was, meaning they had owned very similar things to long-term capital and were now having a going out of business sale. So prices were going down, Which, okay, maybe some buying opportunities in there, you know, And everything was starting to behave a little bit differently. But we didn't realize, you know, it, it created a reshuffle. And I think it kind of got things started In August of 1998. Things really got started.
+
+
+Russia acted in a way that was unexpected. It defaulted on its rubal debt and devalued its currency. We didn't actually have much exposure in Russia. I mean we lost money in Russia, but not a lot. Not a lot losses they could handle. That wasn't the problem. When that happened, that triggered all kinds of risk managers all over the financial system to say, Hey, you know, we're gonna take, we gotta take risk off the table. And this is when and why things went so sideways for long-term capital risk managers. People whose jobs were to make sure their firm wasn't doing anything crazy. They were suddenly acting in a way that no model had predicted.
+
+
+They were like, whoa, this Russia default really surprised us. That's scary. Can we ratchet down how much money we have out there? Can we sell the riskier stuff until we feel Better? And it just freaked everybody out. And all of a sudden everybody was like, we gotta reduce risk. Where can we reduce risk? And then that started to, to to set something in motion at that point. So the partners of Long-Term Capital Management, they're at their desks. Nobody's playing poker. They are watching their nickels evaporate. Some of the prices are dropping, all of them are moving faster than they normally do. We're losing money. The market is much more volatile than it's been. Lots of different positions we have.
+
+
+We're losing money, but not all of them. That was very disturbing. It was, it was very stressful. And we were trying to figure out how to react to different things. But the market was still functioning. The Group was still able to function to sell things to other people into a very falling market. Stock markets in Europe dropped more than 5% in a day for the month of August. The Dow Jones Industrial average dropped 15%. And then the dynamic of the market selloff changed. And then one day we look at our screens, Their screens start showing something weird. Some of the things they owned their positions that shouldn't be affected at all by Thailand or Russia. They're also having huge swings.
+
+
+And some of the exact positions that we had all of a sudden, you know, made a huge gap move, just got repriced instantly and you know, very far away from where it had been. Long-term capital's, bets were wrong and, but they were getting too wrong. Like this one bet, which You know, I mean it would never move by more than 1%, but it moved by 12% up against us. And then their offsetting bet in the other direction. Shouldn't that bet be working out? It was not. When we just saw things that didn't make any sense anymore, where, okay, when we saw the thing went down, when it should have gone up, then we knew what was happening. For sure. And it was like that was like that stomach dropping moment.
+
+
+It wasn't that one asset went against them or another did, but that every asset, every asset that they traded went against them. Roger Lowenstein says basically everything long-term capital owned was going against them. It was no longer just a market selloff sparked by panic over world events. Now it was a market selloff swirling around long-term capital Because in all their beautiful, perfect mathematical models of risk taking and risk not taking, Roger could see that long-term capital had failed to account for something a big thing. You had what I call the human factor, which tilted the odds. Yeah, the selloff may have started with Russia, but then the human factor people got spooked across the board.
+
+
+And then when long-term capital started to stumble, wall Street saw an opening. The street knew what their basic trade was. So the street either for self-protective reasons because they were in the same trades as LTCM and they said, Hey, I don't wanna be exposed to the kinda losses they're having. I'm gonna get out. Which move markets against them. Or sort of more aggressive posture saying, I think LT seven is vulnerable what they own. I'm gonna bet against The Wall Street banks that long-term capital traded with knew their trades, the funds who'd been copying them, basically knew their trades. And all of these banks and competitors were now taking the opportunity to bet against long-term capital in order to topple Them.
+
+
+And this was something else that their perfectly rational models had failed to predict that their peers and competitors had been jealous and were more than willing to help them fail. Now There was still a way to get through this. It's in the long-term part, long-term capital just had to have enough money and enough capital so that they could ride this out until prices recovered. And it was like, we've gotta raise this capital fast, you know, otherwise there's no, you know, this is, this is not going to end well. So They called up all their clients and all the people who had been beating their door down to give them money to invest. So we went out to all these people that were begging to invest with us and said, okay, here you go.
+
+
+Here's your, here's your big opportunity. Yeah, Your big opportunity, right? Just like you wanted to invest your money with long-term capital management. And people were interested even at that point, but not if they were gonna be the only ones doing it. People would say, I'll give you $200 million, but only if you raise $3 billion. I don't want to give you $200 million. If you only raise 500 million, that's not going to be enough for you to survive this Long-term. Capital needed a lot of money 'cause they borrowed so much to invest in their smart, perfect trades, which were now all upside down. And this chapter, this is the steamroller part. Their model had not predicted the panic over Russia's default.
+
+
+It didn't understand how people act when they're scared. And now, by the summer of 1998, people were too scared to save them. And we just never quite got there. And a lot of you know, there was, it was just the whole thing was in motion very quickly. Some days they lost hundreds of millions of dollars. It was dizzying and it was spreading. Wall Street stocks were crashing credit all around Wall Street was drying up. 'cause nobody knew how far or deep the reverberations from LTCM would run. By late September long-Term Capital Management was effectively over because sometimes emotions triumph over math.
+
+
+In four years, they'd quadrupled their investors' money. They seemed to have the black box. Over the next month they lost half their assets. And in the ensuing couple of weeks, they lost virtually all the rasp. It was all over. After the break, we find out just how far the reverberations of long-term capitals collapse would go.
+
+
+This message comes from Charles Schwab. Financial decisions can be tricky. Your cognitive and emotional biases can lead you astray. Financial Decoder, an original podcast from Charles Schwab can help listen today at schwab.com/financial decoder.
+
+
+This message comes from Charles Schwab. When it comes to managing your wealth, Schwab gives you more choices like full service, wealth management and advice when you need it, you can also invest on your own and trade on Think or swim. Visit schwab.com to learn more.
+
+
+This message comes from NPR sponsor Vanta. Whether you are a startup founder navigating your first audit, or a seasoned security professional, scaling your GRC program, proving your commitment to security has never been more critical or more complex. A new IDC white paper found that Vanta customers achieve $535,000 per year in benefits and the platform pays for itself in just three months. Join over 9,000 global companies like Atlassian, Quora, and Factory who use Vanta to manage risk and prove security in real time. Visit vanta.com/ Planet Money today to receive $1,000 off.
+
+
+This message comes from Mint Mobile. Mint Mobile took what's wrong with wireless and made it right. They offer premium wireless plans for less. And all plans include high-speed data, unlimited talk and text, and nationwide coverage. See for yourself at Mint Mobile dot com slash switch.
+
+
+There is this saying attributed to industrialist, j Paul Getty, if you owe the bank a hundred dollars, that's your problem. If you owe the bank $100 million, that's the bank's problem. And by the fall of 1998, long-term Capital management had loved leverage so much that the fund had borrowed from the banks over $100 billion. They weren't just the bank's problem, they were everyone's problem. The entire financial market was destabilized, which is why Roger Lowenstein says on September 22nd, the Federal Reserve stepped in. Bill McDonough, the president of the New York Federal Reserve called in the 16 biggest banks.
+
+
+The Fed president said, please come in for a visit. He gathered the banks in a conference room and said, let's figure this out. Long-term capital was not invited. Now the banks were not required to help here, But, but when the Fed calls you, you go, you go obviously. And he said, it's up to you guys, it's private money, but I don't wanna see these guys fail chaotically. Is there a way that we can, we can, you know, orchestrate their funeral, so to speak? I envision this Fed meeting as a group of somewhat guilty children like their siblings. They're cousins or something, and a parent has locked them in a room and said, okay, maybe you didn't make the mess, but you have a mess. How are you gonna clean it up?
+
+
+Victor Haghani says that at first each individual bank was kind of behaving like children. They were like, this isn't my problem. They were like, I don't know, we just see what happens. You know? And the Fed said, no, no, no, this is, this is a risk to the market. You guys have to do something about this. We think that you should all put in a couple hundred million dollars each and take over the fund and resolve this crisis in that manner. A couple of the banks were still like, thank you for this opportunity, but no, and left the room. But 14 of the banks agreed to do this and put in about $3.6 billion. In the end, the 14 banks bought all the stuff that long-term Capital had at an enormous discount.
+
+
+Eventually those prices would recover and the banks made money Just a few years before Long-term Capital had been the toast of Wall Street. They were geniuses throwing around over a hundred billion dollars, only a little bit of it theirs. And now it was no more For the partners at Long-Term Capital, including Victor. This was personally and financially painful. It was very sad for ourselves. It was very sad for the investors that we lost all this money for, you know, it was really painful for several years afterward, you know, we had built something and we made mistakes. And, you know, it was unfortunate.
+
+
+Victor's professional reputation was invested in the fund. His career was in the fund, and he'd had money in the fund. Well, I lost, you know, call it 80% of I, I lost about 80% of my net worth. But that fed orchestrated funeral, it worked, it stopped the panic. And Roger says, there are two main reasons why it worked. The Federal Reserve chief had his thumb on their necks. And, and, and the other thing is, they, they each had the comfort that no one potential investor would've had a loan, which is, I'm not going in alone. So they could put in enough capital, presumably to withstand more market moves against him.
+
+
+It it took a group effort to staunch the bleeding. But Victor wants to make something clear about what happened here. He and his fellow partners of the now defunct long-term Capital Management lost money. Nobody swooped in to make them whole again. And certainly the government did not send taxpayer money to fill in their losses. The rescue effort was a rescue of the financial system, not of long-term capital management. We didn't get bailed out. You know, there was no government money involved. You know, there was, there was just no, there was no bailout as we would commonly think of a bailout. Victor says this was a private recapitalization. The 14 private banks got to buy a bunch of assets at buyer sale prices from a private company.
+
+
+Victor says, while the Fed did babysit, it was just hosting a hedge fund yard sale. Now to Roger, whether the Fed just babysat or the government used its actual money, ultimately ended up being kind of a matter of semantics. I think it Was better from a public policy, certainly that there was no, you know, they didn't take money from food stamps and give it to ltcm. So, yeah, that does sound bad. Yeah, That, that would sound worse. But I think from the standpoint of the example it set for markets, it it, it didn't make you know much difference. By intervening the Fed set a precedent because just 10 years later in 2008, the financial system would again be on the brink of collapse.
+
+
+Except this time the problem was much bigger. Yeah. The big banks, Lehman Brothers and Bear Stearns and Merrill Lynch and Deutsche Bank and all the rest of them had been gleefully using leverage to bet on mortgage debt. Mortgage debt that was way riskier than their models predicted. And in this case, the government really did bail out some banks and financial institutions. I feel, I feel that somehow, I feel that somehow the LTCM experience had to be unheated for 2008 and oh nine to have unfolded the way that they did. Victor and Roger agree on this point.
+
+
+Yes, the Fed or the government has some interest in a stable financial system, but because in 1998 the Fed intervened and orchestrated long-term capital's funeral, we didn't see what would have happened had it been allowed to fail chaotically. We didn't really feel the consequences of all that risk taking and all that leverage. So we didn't really learn that maybe that was too much risk. I Think that's a bad example. I think capitalism works best with real traders taking real losses when they occur. It, it disciplines the way people try to make real profits. Because if the government is gonna come in and fix everyone's mistakes, is there really any difference between risk taking and risk not taking?
+
+
+And Roger says, it is folly to think that anyone would ever solve that age old dream of a perfect mathematical solution to risk of being able to predict the future. 'cause you can't, that's the only thing that history does promise us. It It, it was just sort of the height of, of financial hubris. IIII don't mean hubris in a personal way that they were bad people. I don't mean that at all, but, but I think, I think they were wrong on a key point, which is the assumption that any black box, any formula based on the historic patterns of how prices have moved, can be a guarantee and therefore can give you license to take such a tremendous leverage.
+
+
+That black box has not been invented. But maybe this time, Roger, Maybe this time, maybe this time, This episode of Planet Money was produced by Sam Yellow Horse Kessler, and edited by Jess Jen. It was fact checked by Sierra Juarez and engineered by Robert Rodriguez. Alex Goldmark is our executive producer. I'm Mary Childs. I'm Jeff Glow. This is NPR. Thanks for listening.
+
+
+Support for the following message comes from LinkedIn ads as a B2B marketer, you know how noisy the digital ad space can be. If your message isn't targeted to the right audience, it just disappears into the noise. By using LinkedIn ads, you can reach professionals who are more likely to find your ad relevant, target them by job title, industry, company, and more. Get a $100 credit on your next campaign at LinkedIn dot com slash results. Terms and conditions apply.
+
+
+This message comes from Warby Parker. What makes a great pair of glasses At Warby Parker, it's all the invisible extras without the extra cost. Like free adjustments for life. Find your pair@warbyparker.com or visit one of their hundreds of stores around the country.
+
+
+This message comes from Tourism Australia. No matter what you're into, Australia has something for everyone all year round. Like the Dane Tree rainforest, this spring, Melbourne's music scene in the summer and the wineries of OSA Valley in the winter. Come and say G Day more@australia.com.

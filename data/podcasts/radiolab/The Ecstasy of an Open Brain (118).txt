@@ -1,0 +1,164 @@
+
+WNYC Studios is supported by Chicago Humanities, presenting live events with Nicole Hannah Jones, author Claudia Rankin, musicians Tegan and Sarah, and conversation with Patty Smith and Lynn Goldsmith. Plus an evening of music with the Center for Contemporary Composition at the University of Chicago. Tickets for these events and more conversations on arts, culture and current affairs@chicagohumanities.org.
+
+
+Radiolab is brought to you by Progressive Insurance. You chose to hit play on this podcast today. Smart Choice. Make another smart choice with auto quote explorer to compare rates from multiple car insurance companies all at once. Try it@progressive.com. Progressive casualty insurance company and affiliates. Not available in all states or situations. Prices vary based on how you buy
+
+
+Listener supported WNYC Studios. Hey, it's LA to here with a quick note. Today we have the second installment, In, the series where we just sort of let ourselves fall into a conversation between our own senior correspondent, Molly Webster and a scientist who's working on the front edge of something, if not exactly news. Something deeply and delightfully new. So here we go. Oh. wait. You're listening. Okay. All. right. Okay. All. right. You. Are listening. Listening to Radiolab lab.
+
+
+Radiolab from WNYC. Yep. I don't know about you, but I found being a teenager and you know, going into puberty, very difficult. You know, I, I was bullied by the mean girls, the popular girls at school, and had to eat lunch by myself. And I remember having a tearful conversation with my mother and she was like, don't worry, it'll pass. You think that this is the whole world right now, but in a few years you'll be off In the bigger world and you'll see that there are a lot more people and you'll fit in better and it'll be fine.
+
+
+I'm Molly Webster. This is Radiolab. And That was Gould Dolan a neuroscientist and former teen. But unlike maybe the rest of us, former teens, ghouls very familiar teenage struggle would end up at the center of her scientific work and lead to new ways of seeing the moments in our lives when our most basic habits and behaviors emerge and then get locked in. And it all starts with something called critical periods. Okay. So for like us, you know, yokels over here, like what is a critical learning period?
+
+
+Yeah. So critical periods are windows of time when the brain is especially sensitive to its environment and it can learn really well and really strong from that environment. Probably the best way to understand that is to think about the first critical period That was described. I think a lot of people have heard of it. It's imprinting behavior in geese. So this is Oh, so cute. We did a sto an episode on it at one point. Yeah, yeah. So yeah. So Conrad Loren, what he noticed is, is that within 48 hours of hatching a little geese will goose, well, Gosling, I don't know, goss Go goose. I Dunno.
+
+
+Geese. Anyway, yeah. Geese will form a long lasting attachment to whatever is moving around in their immediate environment. And so typically this is their mom, but if the mom isn't there, it could be another mom. Or if it's, you know, Conrad Lorenz, it could be a scientist. But then after that 48 hour time window is over, they can be exposed to all kinds of things in their environment and they won't form that lasting attachment. So that little window of time where they're so sensitive to their environment and they can form this lifelong attachment is what he coined the phrase critical period. And when was that discovered? So That was in I think 1935.
+
+
+And then since 1935, we've discovered dozens of other critical periods. Wow. There's critical periods for language, there's critical periods for vision, there's critical periods for touch, for, you know, motor learning. There's, there's critical periods, basically for everything that the brain has to learn that isn't encoded in your genes. And do we associate those critical periods with being a baby? Yes. Mostly it's I mean not just babies. There are, you know, different windows depending on what you're trying to learn at the time. So, you know, vision, the critical period peaks around three or four years old by five or six, it's closed language stays open probably 6, 7, 8, and then it's closed.
+
+
+Motor learning is a little bit longer 'cause you're still learning a lot of motor things pretty far along. And then, you know, it's like, you know, Neuroscience off often makes me feel like I just started falling behind at like three months old because you're just like, oh, that window closed and that window closed and that window closed. I'm like, I'd like to think I'm 40 and the world is still my oyster. But, but perhaps not. Yeah. Well, I mean, I, I definitely, when I've talked about this with some people, they get a little offended 'cause they're like, what do you mean I'm open-minded, I'm open-minded, and I'm 40. And it's like, yeah, you're open-minded, but you're not a sponge the way that a child is a sponge.
+
+
+Right? Like, if you've ever watched a kid try and get out the door on a snow day, it's brutal. You know, like they're noticing everything. It's like shoes. What shoes? Look at this dust bunny. You know, every single leaf is like a magical kingdom full of possibility. And they're just noticing it all. And so, you know, they need to close because it's not, it's not very adaptive to, to be always in that open, vulnerable state forever. And if you're trying to make your way through a saber tooth tiger infested area, it's probably better to be, you know, a a habit based efficient, you know, and you're Like, oh, look at the flower.
+
+
+Right? Oh, Look at the Butterfly. I love your tooth. It's awesome. You know? Right. Like, But the ability to reopen critical periods has been something that neuroscience has been looking for for almost a hundred years because we realize that, you know, the reason that we're so bad at curing diseases of the brain is because by the time we get around to fixing the underlying problem, the relevant critical periods have all closed. Wow. This is like creating such a feeling of like urgency in me. Yeah. So critical periods are great for learning and learning fast.
+
+
+They make us super spongy and absorbent to the world around us. But the fact that they close makes it hard to relearn something we've lost or to unlearn something that's getting in our way. But goul in her first lab at Johns Hopkins University actually uncovered a whole new way of thinking about that problem. And weirdly, it all comes down to peer pressure. My postdoc, who had studied very early brain development, was really interested in studying, you know, how social behavior changes over maturation.
+
+
+And he was like, what if critical periods is the basis of this change in peer pressure behavior in juveniles versus adults? And at first I was like, that's kind of a boring project, really. And he was like, no, no, I really wanna do this development thing. And then I was like, well, you know, I do, I do remember being bullied as a teenager. You know, maybe there's something here. You were peer pressured into peer pressure. Yeah. Basically. Yeah. I mean, it was, just to, to take it back a second, I mean, part of the reason that I, I think I've gone back and tried to interpret why did I struggle so much with fitting in when I was in middle school. And, you know, if I really think about it, it's because when I was younger, I was so obsessed with being In the right in-group and knowing the exact right shade of acid washed jeans the cool kids were wearing.
+
+
+And I had this idea that maybe we care so much more about who's in our social group and our social environment because we're learning from our social environment much more when we're younger than when we're older. And so That was sort of my own personal intuition about why there might be such a thing as a critical period for social reward learning. Hmm. But of course, In the human literature, they can't do, you know, a comprehensive study of, you know, one type of social behavior across 15 different ages. You know, looking at hundreds of people at each age, it would cost way too much money.
+
+
+Hmm. But I knew that we could do that kind of experiment in mice. So Goul and her team, they get a bunch of mice at all different ages, and they observe them very, very closely. And she basically confirms sort of what we see anecdotally in humans, that teen mice pay attention to their friends more. They learn from their friends more. But then they opened the tiny mouse brains. And what they saw is that mice, just like humans have Oxytocin this sort of feel good chemical that's released when we're around friends or loved ones.
+
+
+And they saw that the neurons In, the teen mouse brains were more susceptible and sensitive to Oxytocin. And so it seemed like, oh, this is a biological neurological critical period. And then right away we were like, okay, we need to figure out a way to reopen it. Wait, so they reopen? Yes. And that's interesting because one of the earliest ways that people figured out that you could reopen from critical periods was deprivation. Hmm. So visual deprivation, for example, can reopen visual critical periods, auditory deprivation can reopen auditory critical periods, sensory deprivation can reopen, touch critical periods.
+
+
+It's just not a very clinically useful way of doing it. Right. Like it's just not, yeah. I Was like, how long do I have to be deprived Mo Molly's over here looking at her calendar? Like, what do I Wanna fix? Yeah. And so we were, we were looking around for different ways to reopen it. And we knew that MDMA was a psychedelic drug, That was special and different from most other psychedelics because it had this ability to induce pro-social behavior. You know, kids were taking these, these drugs and going to raves and doing, you know, 60 person cuddle puddles, but also that love A cuddle puddle. Yeah. I mean it is, it's a very powerful, powerful drug.
+
+
+And it, it does have these very profound effects on people. So then we thought, well, if MDMA is able to induce a massive release of Oxytocin, which there was some evidence from other labs showing that we thought maybe this would be a really cool way to reopen this critical period by triggering this massive Oxytocin release that can prepare the neuron to learn from its social environment again. So they go back to the lab, back to the mice, who this time are gonna go on a little trip.
+
+
+In this experiment we were giving the MDMA and then waiting for two days. So they're no longer actively tripping. They're no longer actively cuddle, cuddling or doing anything like that. Would You like peek in with like a secret telescope to to, to see what their behavior was like in those two days? No. We could have, but we didn't. Okay. I don't know if you've seen people on psychedelics, but unless there's a dj, you know, they can look very boring on the outside. Right. I mean, I'm not sure. Maybe the mouse got acid washed jeans or something Unbeknownst to us. So no. So it wasn't like that.
+
+
+Basically what happened was is that then they had a, how much do you care about social interaction quiz, essentially, like we, we tested them on can you learn from your social group again? So we say, okay, here's two new types of betting and we want you to tell us which one you like better by how much time you spend on them. And when we did that test, these were adult animals. But the ones that had gotten MDMA two days later when they go into the bedding, it's like, oh, I like this bedding because I, I remember that all my buddies like this bedding. And that's where I found my buddies is on this bedding.
+
+
+So I like this bedding, not this other betting. Right. When they received the MDMA in a social context with their friends, suddenly they all cared. Right? Like they suddenly, they were learning from their social environment again, as if they were teenagers. And what gool and her team saw is that the adult brains on MDMA, they actually went back to that sensitive teenage like brain state. So can I tell you what we were wrong about there? I don't know if I told you this already. Oh my god, sure. Yeah. So at the end of that paper in 2019, we were like, okay, great, we understand this now it's because MDMA is pro-social, but we also knew that MDMA belonged to this larger group of compounds that are all psychedelic, right?
+
+
+And so I was like, let's just test it with LSD. And suddenly all of the animals who had received LSD were also doing social reward learning, like they were juveniles again. And I was like, okay, this is weird. I don't understand why this is because, you know, nobody's doing LSD and then, you know, doing a 30 person cuddle puddle. You know, people who do LSD don't have this like acute pro-social effect that MDMA has, right? So it's, that's strange. Let's test a couple of others in case. So then we did it with psilocybin and we got the same thing. And then we were like, okay, well what about like ketamine?
+
+
+And IT did it. And basically all of the psychedelics are doing it. Like the fact that it's a drug that induces social behavior is not why you're seeing social results. It's about the, it's about the class of drugs of psychedelics. That's right. That's right. It's the psychedelics part of it. Not the pro-social effects of MDMA that make it able to reopen this critical period. You know, when I first started working on psychedelics, so this was about 10 years ago, the fad was, look, everything cool that psychedelics do you really have to study in a human?
+
+
+There's no way that you're ever gonna be able to get at that mystical experience that what is a mouse seeing God even look like, you know, you're just not gonna be able to, you're just never gonna be able to get to the heart of the cool stuff if you study it in animals. And I think that this critical period explanation is the first one where we can really challenge that worldview. And what I think it is that this, this seeing god, this mystical experience is really just what it feels like to reopen critical periods. Just to put that in context, it's like a dude tripping in a corner is, in a way having the same experience is like a wide-eyed baby soaking up their world or a teenager who cares so much about what everyone else thinks of them.
+
+
+And it's not just that they're experiencing it In the same way. It's that there's an underlying deep biological mechanism that's being shared in all of those situations. And if you can tap into that mechanism, there are some very real world practical things that you might be able to do, which we'll get into right after this break.
+
+
+Radiolab is supported by Z Biotics, a pre-cool probiotic. Believe it or not, the holiday season is sneaking up on us. If you've been looking for some help waking up refreshed after a fun work party or family get together, Z Biotics is here to help. Z Biotics drink is the world's first genetically engineered probiotic invented by scientists to help tackle rough mornings after drinking. Think of biotics as the first drink of the night for a better tomorrow. As it works to break down the byproduct of alcohol, which is responsible for rough mornings after. Go to z biotics.com/radiolab to learn more and get 15% off your first order. When you use Radiolab at checkout z biotics is backed with a hundred percent money back guarantee. So if you're unsatisfied for any reason, they'll refund your money. No questions asked.
+
+
+Radiolab is supported by BetterHelp. As many of us are reflecting on what we're thankful for this month. We often forget to express gratitude to someone very near and dear to us ourselves. It can be hard or not always at the top of our minds to remind ourselves that we are doing our best to make sense of the world and to live our lives. And that it's not easy. So let this be a reminder to send some love and thanks to the people in your life, including you. If you need some guidance with this therapy can help. Working with a therapist can be a great way to reflect and develop coping mechanisms among other valuable tools. If you're thinking of starting therapy, give BetterHelp a try. It's entirely online designed to be convenient, flexible, and suited to your schedule. So just fill out a brief questionnaire to get matched with a licensed therapist and switch therapist anytime for no additional charge. Let the gratitude flow with BetterHelp. Visit BetterHelp dot com slash radiolab today to get 10% off your first month. That's BetterHelp hlp.com/radiolab.
+
+
+elap.
+
+
+How to turn a democracy into a dictatorship? Step one, plant a big lie and help it take off A key false narrative this election season. Perhaps the key false narrative, despite a lack of evidence, is that there's a risk that non-citizens could vote in large numbers. I'm Kai Wright. On the next notes from America, we talk about how all the extreme rhetoric and lies you hear now set the stage for what comes next no matter who wins. Listen wherever you get your podcasts.
+
+
+I'm Molly Webster. This is Radiolab, we are back In the Saddle with neuroscientist Goul Dolan. She's been telling us about how psychedelics can reopen critical periods In the brain. And where it goes from here, in a way it just gets more practical because I think we've all been hearing about studies in which psychedelics are curing various afflictions. So like MDMA is helping with PTSD or psilocybin AKA magic mushrooms can help with depression. And Goul says that she thinks her study the one that she did with mice, that it might be able to provide a clue about how those treatments are doing what they do.
+
+
+If we gave MDMA in a social context, then it was able to reopen the critical period, but not if we gave MDMA in an isolation context. So In the case where they were by themselves having MDMA, they did not reopen their social critical period. Context matters, right? It's not like people are going to burning Man and just having a dance party and coming back cured of their PTSD. It's the right if you give MDMA In the right context. So if you pair MDMA with therapy, then you get these remarkable results. That's very interesting that in a way it's not the psychedelic that I mean, it is the, it's the, the presence of the psychedelic is allowing something else In the brain, like an experience or whatever to have an action.
+
+
+Well, so let me just unpack that in two different ways. 'cause I do think that this is, to me where the crux of the debate right now is I think there's sort of, I, I mentioned who Knew I'm settling in. Okay. Yeah. Settling. So the, the crux of the debate seems to be, you know, what I call the biochemical imbalance model of psychiatric illness and the learning model. And so the biochemical imbalance model is, it basically says if you are depressed, it's because of a biochemical imbalance in serotonin. And all we have to do to make you undepressed is restore that balance. Right? The problem is, is that that approach has only provided symptomatic cures, right?
+
+
+So people who are on SSRIs, you know, when they come off of them, they go back to being depressed. People who are on Wellbutrin, when they go off of Wellbutrin, they go back to smoking. And people who follow that model find that to be an acceptable solution. But the psychedelics, they have these remarkable results where people, instead of taking, you know, one a day for years and years and years, the MDMA assisted psychotherapy trials, it's three pills total. Hmm. And those no longer adaptive habits become available for relearning, for updating to the current circumstances.
+
+
+And six months later, the underlying condition is resolved. So what people describe with psychedelics is it's like it was 20 years of therapy in one day. Mm. And I think that our critical period idea really provides an explanation. It's not just that something is happening at the receptor level that is rebalancing a biochemical imbalance. It's that it, that thing that's happening is enabling a reconfiguration of all of the synapses that are relevant to the trauma.
+
+
+And that is the cure. It's the reconfiguring that's the cure. It's the learning that's the cure. Go says that when you use a psychedelic In, the right context, it actually opens up the brain at a cellular level so that the neurons can reorganize themselves. And in that reorganization they can create new patterns and new pathways that allow for learning and maybe even healing. So really what these drugs do is create a window of opportunity. How long was that period seemingly open for?
+
+
+This is probably the coolest part of this paper. There's this proportionality between the duration of the acute subjective effects of the psychedelics in humans and AKA The trip. The Trip, right. The length of the trip. The Length of the trip is proportional. The length of the trip in humans is proportional to the duration of the open state that we can induce of this social critical period in mice. So, for example, ketamine keeps the critical period open for, you know, two days and then, you know, by a week it's closed. Psilocybin and MDMA keep it open for two weeks and it closed by three weeks.
+
+
+LSD keeps it open for three weeks, closed by four weeks. And then there's sort of a rockstar psychedelic, which most people haven't heard of called Iboga. And that the trip lasts anywhere from 36 to 72 hours. Wow. Okay. And I began reopens the critical period for at least four weeks. And we haven't tested the, the closure, we haven't found the time close. 'cause everyone had to like, go home for dinner and you're like, we can't, yeah. We can't test this anymore. I mean, it's just sort of interesting because you think even four days, four days, two weeks more than a month, like, are you just in those moments, like vulnerable to everything are like, it just feels like the, the, the next couple of weeks, like solidly matter Yes.
+
+
+Solidly matter and solidly vulnerable. So it's possibly a missed therapeutic opportunity, but it's also possibly a time when we could do great harm to people because they're suggestible. They're sort of vulnerable to information coming In the way that children are. And then we've, you know, kind of thrown them back into their lives and possibly re-expose them to whoever's been traumatizing them and that we could potentially lock in some, some really bad things. It's funny, I, it's, yeah, I think about I mean recreational psychedelics use.
+
+
+People are doing it all the time. At least in my world. And like now, I, I just like wanna be like, okay, for, for the next two weeks if you could, you know, be careful or maybe go, if you go take a yoga class, if you really wanna learn that Yeah. That technique or something. I don't know. It's just there. The, the vulnerability part of it feels, and vulnerability is, it has such a negative connotation. But I do think it goes both ways of like, it just, you're vulnerable, you're malleable, you're open. That feels like a double-edged sword.
+
+
+Yeah. To me, these drugs are extremely powerful medicines and we need to treat them with respect. I, you know, really feel like if you see these drugs as powerful ways to restore, you know, that childlike sense of wonder and vulnerability, In, the two weeks after you do a psychedelic, you should take care of yourself like you're four. Right? Like, don't expose yourself to anything that you wouldn't take your 4-year-old to. Hmm.
+
+
+You know, from my point of view as a neuroscientist, maybe these psychedelics are master keys for unlocking all kinds of critical periods. What a crazy scientist phrase. Master key. Yeah. Right. All we have to do to change which critical period gets reopened is change the context. So if you wanna reopen a social critical period, you give it in a social context. If you wanna open it in a motor critical period, you give it in a motor context. Right? So maybe the rave is a great way to open a motor context critical period, but not necessarily an inner directed PTSD kind of critical period.
+
+
+Wow. Okay. But you know, when I first started talking about this master keys idea, people were just like rolling their eyes and they, oh really? We've, yeah. Oh, for sure. The, your critical period is just a baby critical period. It's not like the serious, hardcore critical periods that matter clinically, you know, you're just, it's just easy to open because it's, the door isn't closed that hard on that one anyway, because It's like social, we mammals are social. Yeah. Like, and we still care about social, it's just, you know, social, it's an emotion. It's not that what's like The hardcore critical period that Would, so the hardcore one is vision. And since we first started making the case that psychedelics are reopening this critical period, there have been a couple of other papers from other labs showing that actually they can reopen.
+
+
+Well, ketamine is the one that people have looked at. But I think there's now another paper out about LSD suggesting that they can reopen ocular dominance critical periods. So the visual critical period can also be reopened, but the most hardcore one is motor. Right? So movement, and this is the one that matters for stroke. And just so you know, reopening this motor critical period after stroke has been, you know, a goal of clinicians and it's kind of where good ideas go to die. Right? Like, people have been trying to do this for stroke for a long time because roughly a million Americans a year get a stroke and half of them are debilitated for life afterwards, right?
+
+
+They, it's just, it's just horrible. 500,000 people a year are debilitated In, the United States. And stroke is, you know, much more common in other countries. So it's a worldwide massive burden. And when, and just real quick, why is motor neuron like, like the top of the mountain for critical periods? I mean, we don't really understand how it happens, but basically what we think is, is that when the stroke happens, the brain region that is encoding, let's say it's a hand movement, that those neurons that are in encoding that hand movement die.
+
+
+Whoa. And neurons die In, the In, the motor cortex are not able to regenerate. So once they're gone, they're gone. And so what we think has to happen in order to recover from a motor injury is, is that the nearby neurons that are encoding, say the arm or the elbow or the upper arm, those neurons have to get repurposed and have to learn how to do finger, even though they're normally doing elbow elbow. Hmm. That's a hard thing because, you know, they've got a job already and They've been doing that job for 70 years potentially.
+
+
+You know, That's, that's right. That's right. Yeah. And so that's why we think it's so hard. Okay. And, and it, right after a stroke, if you wanna reopen the critical period again, so far, the best way to do that is to give another stroke, which is not clinically useful. Right? Like, nobody wants to cure stroke by getting another stroke. So the main thing that Ghouls team is focused on right now is designing a clinical trial for stroke patients. What they know is that generally after a stroke, the critical learning window is open for about two to three months, and then it closes.
+
+
+So we think that after they've, you know, done as much as they can during that two months, three months after the stroke with the physical therapy, but they haven't recovered full motion yet. We can give them psychedelics and keep it open a little bit longer, keep The PT going, keep It going. Actually though, In the first version of this trial, what we're gonna do is we're gonna take people who had a stroke over a year ago. So their critical period is closed down hard And fast shut, Hard closed. Hmm. And then we're gonna try and reopen and those people and see what happens to their ability to pair that, that psychedelic with physical therapy this time instead of psychotherapy And say, say your trial works, that you see that if you have a stroke and I give you MDMA and for two weeks we do stuff and you can gain motor neuron skills back, that's great.
+
+
+But imagine that you don't gain all your skills back. So then you're like, okay, well I'm gonna do MDMA again, keep the window open for two weeks, so I get a month out of this. Right? Two doses I get a month where I'm open. I'm wondering is if you hit a point where the MDMA, your brain's like used to it, There is evidence that there is only so many times that you can take these psychedelics before they stop working in this way. There's evidence seriously, you know, anecdotally from recreational users who estimate that you've got about 20 or 30 really big MDMA trips and then you're done and it loses its magic after that.
+
+
+Yeah. It's, it's like makes me think that, you know, depending on how your stroke stuff comes out, that I want everyone to save at least one MDMA trip for themselves, you know, for when they're older. Right, right. Yeah, I agree. I'm hopeful I mean we don't know. This is, this is really, I'm speculating now, but if this is the case, maybe you use up all of your MDMA slots, but you've never done iga. Oh. And so you can still have an IGA in reserve that you could tap into to reopen, but you know, this remains to be seen.
+
+
+Hmm. I sort of wanna run out of here and I'm not sure if I wanna do MDMA with a therapist or if I just want to do MDMA and cuddle with people for two weeks, you know, or if I just don't wanna do MDMA at all, like maybe go hide in a cave for a while. Yeah, totally. I don't know. For me personally, the thing that I'm most excited about is, you know, if we're right about this master key business, then what it means is, is that there's a lot of other diseases that psychedelics are not being explored for that really we should be thinking about.
+
+
+Right. So as a whole new avenue that will have implications for, you know, people with cochlear implants, people with traumatic brain injury, you know, all kinds of other diseases that really right now we just don't have any therapy for.
+
+
+This episode was reported by me, Molly Webster. It was produced by the amazing Sindu nana. There was production help from me and Timmy Broderick and fact checking was by Emily Krieger. I want to give a huge thank you. Shout out to Goul Dolan, who's now at the University of California Berkeley, and talk to me multiple, multiple times. Special thanks. Also go to Charles Philip and David Herman, and a special shout out to Roman Nadu. Who is In the lab of Gould. Dolan is the postdoc we referenced earlier. In the piece, the one who said, you know, let's study peer pressure. Finally, if you want that spongy brain juice, you should check out our newsletter.
+
+
+It's got content, extra content, insider content, fun pictures, staff recs. You can go to radiolab.org/newsletter and sign up or check out the link on the show notes. That's the show folks. I'm Molly Webster. This is Radiolab. Catch later. Hi, I'm David and I'm from Baltimore, Maryland. Radiolab was created by Jad Abumrad and is edited by Soren Wheeler. Lulu Miller and Latif Nasser are our co-hosts. Dylan Keefe is our Director of Sound Design. Our staff includes Simon Adler, Jeremy Blum, Becca Bresler w Harry Fortuna, David Gable, Maria Poz, Gutierrez Du Nu Sam, Bandon Mac, Kielty Kte, Annie McKeen, Rebecca Lax, Alex Neeson, Sarah Kari, Sarah Sandbach, Arianne Wack, pat Walters and Molly Webster.
+
+
+Our fact checkers are Diane Kelly, Emily Krieger, and Natalie Middleton. Hi, this is Ellie from Cleveland, Ohio. Leadership support for Radiolab Science programming is provided by the Gordon and Betty Moore Foundation. Science Sandbox Assignments Foundation Initiative, and the John Templeton Foundation Foundational support for Radiolab was provided by the Alfred Peace Loan Foundation.
+
+
+There's a lot going on right now. Mounting economic inequality, threats to democracy, environmental disaster, the Sour Stench of Chaos, In the Air. I'm Brooke Gladstone, host of WNYC's on the Media. Want to understand the reasons and the meanings of the narratives that led us here, and maybe how to head them off at the pass that's on the media specialty. Take a listen wherever you get your podcasts.

@@ -1,0 +1,80 @@
+
+TED Audio Collective You are listening to TED Talks Daily, where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. Whether you're trying to change an airline ticket, online shopping, or signing into the doctor's office, the experience can be really tedious. Much better tailored experiences could simplify and improve our lives. Right? Well In his 2024 talk personalization, pioneer Mark. Abraham takes us through how and what he's learned about how well companies can really match our preferences and do personalization better.
+
+
+That's coming up after the break.
+
+
+Support for the show comes from Capital One Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts and no overdraft fees. Just, ask the Capital One bank guy. It's pretty much all he talks about. In a good way. He'd also tell you that this podcast is his favorite podcast too. Oh really. Thanks. Capital One, Bank guy. What's in your wallet terms? Apply See Capital One dot com slash bank. Capital One na. Member FDI C.
+
+
+Support for the show comes from Justin Wine. Get celebration ready with Justin wine. Enjoy exceptional wine all season long with Justin. Whether it's for seasonal celebrations, festive dinner parties, or gift exchanges, Justin Wine is sure to make your holidays memorable. If, you are looking for special wine to serve at your holiday table. Try ISAs. Justin's flagship Bordeaux style red blend. Pick up Justin wine today at a store near you or order it online because gifting with Justin is effortless. You just pick up your wine, select a box, add a personal message, and leave the rest of them. Visit justin wine.com and enter daily 20 for 20% off your order. Justin offers the perfect holiday gifts for clients, colleagues, friends, or family. Be sure to check them out@justinwine.com to receive 20% off your order for a limited time.
+
+
+Support for TED. Talks Daily comes from Aons Health Solutions. A thriving organization starts with a thriving workforce, but providing quality health and benefits today requires bold action. Aon is your ally in challenging the status quo with predictive analytics to forecast your health risks, expertise to transform insights into innovative and financially sustainable solutions and tailored strategies to meet the unique needs of your people and organization. The time for convention is over the time for better benefits decisions is now. Visit aon.com to learn more.
+
+
+Hey, it's Adam Grant, host of Work Life, another podcast from the TED, Audio. Collective, as the work landscape keeps changing, work life is a show about making your job work for you. This season, you'll hear about status and what it takes to improve your standing in relationships and groups. There's a sequence that we can see that If, you are surrounded by people who respect, admire, and value us. Then one, it doesn't matter how much time we have, and two, getting power becomes a whole lot easier. Find work life with Adam Grant, wherever you listen to podcasts, And now our TED talk of the day.
+
+
+It was a bright sunny day and I was out for a run when the large dog escaped from behind his fence, attacked me, bit me, right in the leg. I fell, sprained my wrist, and to make matters worse, I find out he's not up to date on his rabies shots, okay, off to the local urgent care. I go, I'd been there a bunch of times before, so I figured they'd have my information on file and quickly admit me. Instead, I got this the same form that I filled out so many times before and now I had to do so with a busted wrist, and then I sat there waiting and waiting and nothing beats, waiting in a waiting room.
+
+
+Then thinking, did I just get rabies? This is the opposite of a personalized customer experience. You see it all around you, don't you? And it makes you wanna go. Ugh. There's the hurtful. My friend Sanjeev, his dog died six months ago, and his online marketplace is still sending him email recommendations for his dog's favorite treats. Then there's the inaccurate. I bought my uncle a cane online and now I'm getting trolled with ads for hearing aids and senior citizen discounts all over the internet. I'm not that old.
+
+
+And then there's the, I don't want another one of that. I just want one that works. I bought a dishwasher and it arrived after nine months damaged, so I was waiting and waiting and the same company sent me an email and then another and another with recommendations for more dishwashers. It's infuriating, and it doesn't have to be this way. I lead a team of over a thousand people around the world dedicated to helping brands build better customer experiences, what we call true personalization. I've been geeking out about this for years, so much so that I even wrote a book on it.
+
+
+Check it out, and I wanna share with you what I learned because I think we need to be demanding better experiences from the brands we interact with, especially now in this day and age when companies should be competing on the scale of insights they have about us at a speed enabled by AI and technology. Okay, but let's start with what true personalization even is. Unlike customization, which is about tailoring products, say a custom fabric for a sofa, personalization is about tailoring experiences. True personalization is when a brand takes what it learned about you in one interaction and makes your very next interaction better, faster, cheaper, or more convenient.
+
+
+Sounds simple on paper, but in all my work I found there's not really a great way to measure personalization, and it's really hard to improve what you can't measure. This is why my team and I built the personalization index. It's a simple score, zero to a hundred, and it tells you exactly where a brand stands. You can score any company on it in any industry, and it's really a first measure of its kind. We did exactly this for hundreds of companies around the world, and the findings kind of shocked us. What may not surprise you is some of the companies at the top of the personalization index scoreboard.
+
+
+Of course, we have Netflix and we all know they provide great feeds of movies that you love to watch and they match your preferences. Then you have Starbucks when you open their app, they provide personalized offers for your favorite drinks, but there are other lesser known companies at the top of the personalization index. Take Sonder mind their mental health app, and they actually score you on 12 different BA brain functions, and then they might match you up with your perfect therapist or they would just give you helpful everyday advice. Now, some of the companies at the bottom of the personalization index also won't surprise you.
+
+
+They hail from industries like financial services insurance, B2B distribution, and yes, US healthcare, including my local urgent care. But what did surprise us is the extent to which personalization can boost growth. My research shows that personalization leaders grow 10 points faster than laggards 10 points, and they're building competitive moats. They're achieving the highest customer satisfaction scores. In fact, combined personalization leaders will capture a $2 trillion prize in incremental growth over the next five years.
+
+
+Yes, that's trillion with a T. Okay, so with all this potential upside, you might ask, what's the secret sauce to making customer experiences truly personalized? Here's the secret, and this was the most counterintuitive finding from our research with true personalization, less is more, less is more. Fewer ads, fewer offers, fewer messages, less spam. Because when a brand truly respects you and knows you, it's only gonna show you what's relevant for you. With this, less is more approach.
+
+
+A brand can build trust. Okay, so let's look at how companies actually put less is more into action. A brand that's perhaps less talked about in this regard is Fidelity, and for those of you watching outside of the us, they're a financial services company and they do two things really well to live up to. The less is more mantra. Number one, fidelity really gets to know you. They don't just send you email and blast you and then make decisions off of open rates. No, they actually wanna get to know the investment goals of each and every client.
+
+
+They might do this with a one-on-one meeting with an advisor or by sending you an online survey. Now, this survey is really interesting because the companies designed it with their future outreach efforts in mind, so they're really thinking about your next experiences from your very first interaction. They even have this cool thing called the gratitude question where they ask, what are you grateful for in your life? And then they personalize your investment goals accordingly. Imagine what my experience would've been like in that local urgent care had they been thinking about my future experiences from the first time I walked in. Second, fidelity, once they get to know you, uses personalization to delight you teams.
+
+
+Look at your investment goals along with data from your every next interaction to decide what to do next. Say you had a baby and you updated the beneficiaries on your life insurance, they would take this data and educate you on the benefits of opening a college savings account. They would even choose how to educate you. Say you are new to investing, they might show you a brief video or If, you were really a savvy investor wanting to dig into the details. They'll send you an in-depth article. Next, and this is key. They would decide what not to do. For example, they might suppress that previously scheduled email about the newly launched Bitcoin fund.
+
+
+In this way, fidelity massively reduced the scheduled outreach and shifted to a much more triggered and personalized approach. The result, engagement and opt-in rates shot up. Okay, so customers are happier, but what if I'm the guy at Fidelity in charge of brokerage transactions? What about me? If I can't spam my customers, I won't be able to meet my monthly goals? Right? Wrong. Fidelity actually saw transactions increase with this new approach, but unfortunately, fidelity is in the minority.
+
+
+The saddest part of our personalization index results is that only 10% of companies qualify as personalization leaders. As a result, we live in a world of spam. 360 billion emails are sent every day yet conversion rates and open rates are down. We downloaded 250 billion apps last year, but uninstalled half of them within 30 days, and I'm afraid this is about to get much, much worse. Why you ask? Because with Gen ai, companies can deliver an order of magnitude more content at a fraction of the cost.
+
+
+In a fraction of the time. We're at the precipice of a content explosion and the jury's still out on how this is gonna go. And now back to the episode. So as business leaders, we need to stop myopically focusing on sell selling stuff. These people don't want more dishwashers and build trust with personalization. My research is clear. When you personalize customers experiences, they will give you their data much more willingly.
+
+
+In fact, the percentage rates go up from 30 to 90%. With this data in hand, companies can build a virtuous cycle. So if you're that email marketer out there still spamming customers, stop for a second. Look at your unsubscribe rates and think about how you feel getting all that relevant, relevant content. And as consumers, now is the time to make our voices heard. You can feel it when a brand isn't doing right by your attention, your dollar, your data, can't you So break off that relationship, or at a minimum, give them a thumbs down in that survey after you had a bad experience, companies are paying much more attention to this aspect of their digital relationship, so it's worth the two seconds to send that signal.
+
+
+I wanna leave you with something that I think a lot about as I do this work. Have you noticed people are a little bit angry actually. They're a lot angry. They're angry about big government and big corporations about flying. They're angry about how everyone else is angry. Look, I'm not gonna stand here as the personalization guy and tell you I have the answer to all the world's problems, but I do have to think underlying a lot of this simmering anger is a sense of not being heard of being a cog in an unresponsive, impersonal world.
+
+
+I get it. For much of human history, the world was personal. We knew our butcher baker and candlestick maker, and they knew us. It's only been in the last century or so with the rise of mass commerce and digital advertising that businesses got impersonal. The fact is, we have taken personalization out of our lives. It's time for businesses and us as consumers to work together to put it back in, to make us feel seen and heard Once again.
+
+
+Thank you.
+
+
+This episode is brought to you by Progressive Insurance. Do you ever think about switching insurance companies to see If? you could save some cash. Progressive makes it easy to see If you could save. When you bundle your home and auto policies. Try it@progressive.com. Progressive casualty insurance company and affiliates. Potential savings will vary not available in all states.
+
+
+OMGS is a website of new findings from the largest ever research study into women's pleasure and intimacy in partnership with IU and Yale researchers. When you see such an open, honest evidence-based discussion of what feels good and why it becomes so obvious, that's how it should be. The techniques are beautifully organized and presented with women of diverse agents. Sharing from experience, no blushing, no shame. Binge watch OMGS solo with your partner or discuss it with friends, like a book club. See it for yourself@omgyes.com.
+
+
+That was Mark Abraham speaking at TED at BCG in 2024. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Rezo. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feet. Thanks for listening. PR.

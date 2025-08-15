@@ -1,0 +1,89 @@
+0 (1s):
+TED Audio Collective
+
+1 (10s):
+You are listening to TED Talks Daily, where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh What. if you could take something as tiny as a grain of sand and as common as a glass bottle to address something as big as the climate crisis, Francisco Troutman calls herself a waste alchemist because that's exactly what she's doing with her glass recycling company, glass half full in a talk straight from this year's TED. Next conference, she shares how one small idea turned into a large scale operation that's now helping restore the eroded shores of the Louisiana Bayou after the talk. Stick around to hear my interview with FCA right off the TED stage.
+
+1 (51s):
+But first, a quick break to hear from our sponsors.
+
+Mint Mobile (57s):
+Support for this show comes from Mint Mobile. Oh, my daughter is actually on a Mint mobile plan. And you know when you discover a new binge-worthy TV show or a song that just becomes an earworm that you play on repeat and you have to share it with your friends? Well, that's what it feels like when I talk about Mint Mobile because we discovered as a family that Mint Mobile offers premium wireless for a wait for it $15 a month when you purchase a three month plan, which is exactly what I did. Friends, don't let friends overpay for wireless. You can say goodbye to your overpriced wireless plan and switch to Mint Mobile as our family did to get this new customer offer and your new three month premium wireless plan for just $15 a month, go to mint mobile.com/talks. That's mint mobile.com/talks. Cut your wireless bill to 15 bucks a month@mintmobile.com slash talks. $45 upfront payment required equivalent to $15 a month. New customers on first three month plan only speed slower, above 40 gigabytes on unlimited plan. Additional taxes, fees and restrictions. Apply cement min mobile for details.
+
+Jira Service Management (2m 8s):
+Teams with big ideas start in Jira, the only project management tool you need to plan and track work across any team. Jira even helps our team here at TED keeping us in sync to deliver the big ideas our listeners love. And there's a lot more that teams will love about Jira. It keeps cross-functional tasks organized with a project's timeline that's always really key so that we make our deadlines and cross-functional teams like TED. Working in one tool gives leaders the important visibility they need to make better business decisions. Get started on your next big idea today in Jira
+
+Aon (2m 43s):
+Support. For TED. Talks Daily comes from Aons Health Solutions. A thriving organization starts with a thriving workforce, but providing quality health and benefits today requires bold action. Aon is your ally in challenging the status quo with predictive analytics to forecast your health risks, expertise to transform insights into innovative and financially sustainable solutions and tailored strategies to meet the unique needs of your people and organization. The time for convention is over the time for better benefits decisions is now. Visit aon.com to learn more
+
+1 (3m 19s):
+and now our TED talk of the day.
+
+2 (3m 22s):
+As a kid growing up on a Louisiana Bayou, the boogeyman was the existential threat of my state being washed away. With the Mississippi River, Louisiana loses a football field's worth of land every 100 minutes due to coastal erosion. It's an unimaginably large amount to a kid, but in my lifetime so far, we've lost over 600 square miles. That's more area than New York City, San Francisco, DC and Atlanta combined. It's due to sea level rise, warming waters, increasingly severe storms and exploration of the oil and gas industry.
+
+2 (4m 10s):
+Fast forward to 2020. In my last full semester as an engineering student and over a two buck chuck, my boyfriend and I lamented over the lack of glass recycling in Louisiana. My state was landfill about 295 million pounds of glass annually. The bottle we just finished would likely end up in a landfill. It felt like a total waste, and we wanted to figure out how we could get all of this glass recycled the next day. It took a quick Google search to remember that glass comes from sand and that sand is an increasingly finite resource. We also learned about everything sand is needed for including toothpaste, by the way.
+
+2 (4m 54s):
+And the last puzzle piece we found was this small human sized machine that could crush one bottle at a time into sand, and we jumped into action setting up a GoFundMe campaign and a pilot project in the backyard of a fraternity house. Now you might be thinking to yourself, how in the world would two college kids ever be able to make a dent in these problems? And that would be valid. Plenty of people told us the exact same thing, but we didn't listen because we knew that no matter how small of an impact we made, it would be worth it. It felt like we could alleviate two problems with one solution, convert the otherwise landfill glass back into sand and use it in restoration projects across the state.
+
+2 (5m 40s):
+Easy, right? But we didn't listen to the haters, which is actually why we named our company Glass Half Full. But that glass half empty mindset might actually be one of the biggest threats we face today because climate apathy might be the new climate denial, meaning that the biggest threat to our environment may no longer be people who deny our part in the changing climate, but people who deny that we can actually make a difference. Now climate change is happening right before our eyes. It's terrifying. I've witnessed firsthand the severity of rapidly intensifying hurricanes like Ida, but dread, doom and gloom tend to get us nowhere.
+
+2 (6m 27s):
+Whereas hope combined with action can be one of the most powerful tools to enact change. Since that late night wine fueled idea over four years ago, we've been able to divert more than 8 million pounds of glass from our landfills. We quickly grew out of that small tiny machine and upgraded a lot along the way. We continued to work with over 50 scientists and engineers across the Gulf South and they helped me learn if this is good smelling mud or not, but also understanding the interactions of our sand with the plants, animals, and even fungi of our region.
+
+2 (7m 16s):
+We've also answered difficult scientific questions as well as questions like, can you actually walk on Sand Made from glass? And I exposed my toes to the internet to answer that. In a few short months, we'll be opening up our new facility, enabling us to recycle the 295 million pounds of glass entering our landfills annually. And with a combination of biodegradable sandbags and native marsh grasses, we've already restored thousands of square meters along our coast converting open water back into thriving wetlands.
+
+2 (8m 6s):
+But the key to our success so far isn't that we had all of the answers in the beginning or tons of money to try this thing out. The key was that we simply started and we kept going somewhere. The belief that we as individuals could enact change trumped our doubts, and for us finding a way to help with a problem much, much bigger than us meant taking that first step. And in our case, it was a step in the sand and an eroding, but once Magnificent Swamp. Thank y'all.
+
+1 (8m 51s):
+And now I'm so excited to share with you my conversation with FCA on site at TED next 2024 in Atlanta, Georgia. That was a lot to say that you packed into five minutes and it was very warmly received. How do you feel now?
+
+5 (9m 7s):
+I feel like a million bucks. The audience was so incredibly kind and supportive and welcoming and I felt like it was all of us. Like it wasn't just me speaking, it was kind of like an audience and me combined experience. It was really incredible.
+
+1 (9m 25s):
+It feels like that about your project too, that it's very community driven. Can you talk a little bit about how building community and nurturing that is really involved in the work that you're doing?
+
+5 (9m 34s):
+Oh, absolutely. I mean, if I could, if I had to thank everyone who had been involved in my project, right? Like we would've been there all night, we started Glass Half Full with community in mind and with community backing us from the get right? Like I mentioned that we started with a GoFundMe campaign, so the very first dollars that we used to start Glass Half Full was money from the community, right? Like five, $10 here and there. Moving on from there. Some of the most influential people in how I was able to grow and scale were like my initial advisory board that I formed right from like people in the community, some of my old professors, people who had started businesses before in New Orleans.
+
+5 (10m 14s):
+And so just in ingrained in everything we do has been how the community can support and help us and continue to allow us to grow.
+
+1 (10m 22s):
+Is Louisiana and its coast the only place a project like this is applicable or are there more places that you would love to see Glass Half Full be?
+
+5 (10m 31s):
+There's definitely more places this could be applicable. Obviously we've been focusing on Louisiana Wetlands, but simultaneously our team has been doing research on beach environments, which we see being able to work in coastal Alabama, coastal Florida. So we already have research teams and projects in coastal Alabama. But yeah, it's very different from like the wetlands of Louisiana, the marshes, right? Like these are beach environments where people would actually walk on the sand. But it's definitely in our eyes and and something that we hope to be able to do.
+
+1 (11m 1s):
+What do you feel are are the biggest challenges or what you need in order to scale?
+
+5 (11m 7s):
+I mean, this is a really capital intensive business and project. We need a lot of machinery. We use people for everything, right? Like we're going around, we're collecting glass. It's very physical. And so for us it's been being able to access capital, which we were able to do to build this new facility that we're building. Now it's, it's what's that next step? What's that next facility that we need to build? Where does that need to be and how do we continue to to grow and scale to collect more glass?
+
+1 (11m 33s):
+Fantastic. Well, thank you so much.
+
+5 (11m 35s):
+Thank you.
+
+Progressive Insurance (11m 38s):
+This episode is brought to you by Progressive Insurance. Do you ever find yourself playing the budgeting game Well with the name your Price tool From Progressive, you can find options that fit your budget and potentially lower your bills. Try it@progressive.com. Progressive casualty insurance company and affiliates. Price and coverage match limited by state law, not available in all states.
+
+Dayforce (11m 59s):
+Something about the way we're working just isn't working. When you're caught up in complex A requirements or distracted by scheduling staff in multiple time zones or thinking about the complexity of working in Monterey while based in Montreal, you're not doing the work you're meant to do. But with Dayforce, you get hr, pay time, talent, and analytics all in one Global people platform so you can do the work you're meant to do. Visit dayforce.com/do the work to learn more.
+
+1 (12m 32s):
+That was Francisco Troutman at TED Next 2024. TED Next is our brand new conference, exploring what's next and propelling future you to drive change at every level from personal to global. Stay tuned for more talks from this year's event. If. You're curious about Ted's curation. Find out more at TED dot com slash curation guidelines. And that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Bazo. I'm Elise Hugh.
+
+1 (13m 12s):
+I'll be back tomorrow with a fresh idea for your feet. Thanks for listening.
+
+0 (13m 21s):
+PRX.

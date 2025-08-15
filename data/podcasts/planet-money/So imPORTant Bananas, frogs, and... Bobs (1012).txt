@@ -1,0 +1,143 @@
+
+This message comes from NPR sponsor Ultra Software by UL Solutions. Ultra Software helps companies drive innovation, meet regulatory requirements, and get safer, sustainable products to market. Learn more@ultrus.com slash npr.
+
+
+This message comes from NPR sponsor Comcast. Every day thousands of Comcast engineers and technologists put people at the heart of everything they create because when products are designed with people first, they have the power to connect. Everyone. Visit comcast corporation.com to learn more.
+
+
+This Is Planet Money From NPR. My eyes have been opened. I am A changed man and It all stems from Just. A Few days last week when there was A Port, Strike A port shutdown of Course. This was not the first port disruption we have dealt with recently. look at you. Covid, Ports mess. But Yes. You may recall the longshoremans on the eastern seaboard walked off the job. Those are the people In charge of basically everything to do with loading and unloading cargo containers, And, those cargo containers are Like the, the blood cells of our entire economy.
+
+
+And, you know, Amanda It is very scary. When, the old blood cells stopped pumping suddenly. Which, of course, was the point of the strike. Yeah. You know exert economic pressure and And pressure. they exerted You know people were freaking out during this shutdown. Like, would this cause toilet paper shortages? Would this cause inflation Is this going to ruin Christmas Kenny? You are saying people but I think, actually, maybe you were the one freaking out. Possible I mean did I stockpile dog food and diapers? No. And show up to staff meetings. Did you raving about ports. Who can say, oh boy. But I did start making a lot of port related phone calls. Hello Kenny. Hello Steve. Thanks for reaching out.
+
+
+You Were pitched to me as the man who knows all there is to know about ports. Okay, now I'm really in trouble. Stephen Flynn is a professor of political science at Northeastern University, a former Coast Guard officer and has become a ports obsessive. I visit about every port in the world, a major port in the world, Something like 80% of the world's stuff by volume moves by ship in and out of ports, a constant water ballet of commerce to, to keep food and fuel and, and life moving. Oh, this is like an incredibly complex but efficient system that everybody's taking for granted, Unless let's say it's suddenly stopped overnight or something.
+
+
+Yes, Yes. And, and look, when that port strike ended or, or was suspended, it was about three days in And. you know, I found a place to store my, my panic purchase dog food. And Amanda, I decided I am not going to take ports for granted. Like, like yes in the You know it really matters. And I hadn't thought about it way, but also in the way that you suddenly see new beauty and fascination after a near death experience. Near death. Kenny. Yeah. Really I Mean, maybe overstating it. But, but I do, I do find myself stopping to smell the, the port roses to, to appreciate the system more. Like, for example, You know, when I was talking to Steve Flynn, he had these great tidbits about ports that I cannot get enough of.
+
+
+I cannot stop telling people about them. And, and would you, would you like to hear some of them? Yeah, sure. Okay. Number one. Yeah. Did You know that luxury goods often ship in refrigerated containers? So What are we talking about? What's a luxury? Good? Oh, I, I guess leather handbags, fancy belts, fancy shoes. I, things that are very expensive. Okay. Maybe leather, maybe smells if it's not refrigerated. That was my guess also. But no, maybe they Do that. That's, are You intrigued, Amanda? I'm intrigued. Okay. Okay. It is not because you need it cold, they're not necessarily even using refrigeration. It is because Steve says Because on a ship and on a terminal, the boxes you keep track of are the refrigerated containers.
+
+
+Oh, better idea. Just put it in a box that doesn't need refrigeration, but just you have the assurance that along the way there is control. Refrigerated containers. Get more monitoring, have more safeguards. Okay. And does it, I assume it costs more to have it done shipped that way. Costs costs more, but the goods are so expensive you don't care. It's Worth it. Okay. Super interesting fact. PortFacts one. I love it. What is Port? You want more port PortFacts? I would PortFacts another PortFacts, please. Well, hello and welcome to Planet Money. I'm Kenny Malone. And I'm Amanda Arran. Today on the show Ports Ports, I learned so much about ports during the shutdown and I cannot keep it all to myself.
+
+
+Today we investigate why so many of our Bananas come from Delaware did not know. We discover a way to see virtually every single thing that gets shipped into the country and learn how cookies and ice cream built a furniture empire. And Amanda, are you game to hashtag learn some hashtag PortFacts through this hashtag episode You Know? I am. Yes I Am. We're gonna have a little sound for every PortFacts we have. It's gonna sound like this. Insert here. Heyo. That's the sound of Commerce baby. Wow. Commerce is loud of Course.
+
+
+This message comes from Apple Card. Apple Card is the perfect card for your holiday shopping. When you use Apple Card on your iPhone, you'll earn up to 3% daily cash back on every purchase, including products at Apple, like a new iPhone 16 or Apple Watch Ultra. Apply now in the wallet app on your iPhone subject to credit approval. Apple Card issued by Goldman Sachs Bank, USA, salt Lake City branch terms and more@apple.com.
+
+
+This message comes from Grammarly. 88% of the work week is spent communicating. So it's important your team gets it right. Enter Grammarly Grammarly's AI helps teams communicate clearly the first time it goes beyond basic grammar. To help teams instantly create and revise drafts in just one click all without leaving the page they're on. Join the 70,000 teams and 30 million people who use Grammarly to move work forward. Go to Grammarly dot com slash enterprise to learn more Grammarly Enterprise ready ai.
+
+
+Okay, let's make a distinction right now because I can feel the anticipation. Yes, it's building. We are gonna have some hashtag PortFacts sprinkled through this episode. They are amazing and I have been saving them up to surprise my cohost, Amanda. Can't wait. I know nothing of PortFacts. Very excited to learn more. You Do not sound excited. You Will be. I'm excited. I'm excited by your excitement. Kenny. Great. And you are excited. Okay. PortFacts, that's gonna be the seasoning through this episode, but the meat, the meat is really I guess three questions that, that we had when we were suddenly reading lots and lots about the ports when they were shut down, right?
+
+
+We Began with the first, and I guess the most obvious question, what is on those boats? Yeah. What's coming in? Can we know specifically like what is getting imported through the ports? And to answer this, we got in touch with Michael Kenko, CEO of a company called Import Genius. Let me ask, are you the titular import genius? Our users are the import geniuses Spoken like a true CEO Import. Genius is a company that provides import and export data to its users. And, and to give us an example, Michael and I pulled up this big old spreadsheet that that is apparently a list of some of the stuff that came in through the New York, New Jersey port one day back in September.
+
+
+So what am I looking at? Tell me what these fields are. Well, the product description is the, the general description on the shipping manifest of what's in that shipment. Okay. So, so I'm looking there and I can see like quote upholstered furniture. And then another column it says that there's almost 13,000 pounds worth of upholstered furniture. Another column says it came from Turkey and another says that it was imported by a company called Empire USA. But also that very same day, you can see a big shipment of food Biscuits purchase order number is 7 6 4 3 1 7 coming In from Spain, Going to Goya Foods, Love Goya biscuits, happy those are coming in.
+
+
+Glad to see it. Also that same day, Bubble milk tea drink, Boba tea, an 86,000 pound shipment of just the bobas or the T Do You know, I think, I don't know, it's other, it might be other stuff too. Like some of these fields are not totally clear, but like You know, you can see hotel soap and shampoo being imported by the Hyatt in Times Square Knitted garments coming into Vera Bradley bathroom stuff coming in for big lots, I think to sell, not to put in their bathrooms for customers, although it doesn't say, I have no idea, I don't either. And, and one line item is literally just 36,000 pounds of quote Men's slim jeans, Just a bunch of tight jeans coming in And, and it totally unnecessary qualifier that is that CBP does not care whether they're slim or baggy.
+
+
+Right? That's CBP, customs and border protection. It Occurs to me that you get, when you look at this stuff and if you guys are looking at this stuff, you get, it's almost like seeing the matrix code for the whole economy. It, It's endlessly fascinating and that's a good analogy. Now, the reason Mike has all of this is because according to federal law, import information is technically public information, but like It's public, it's not free and it's unusable in the format that it comes in. For years, the data came to us by CD rom delivered by mail every day from some, some office in Northern Virginia. Yeah. And, and apparently some records are paper only still.
+
+
+So some guy called Grant is in charge of getting those for the company once a week. But you can see why collecting all this data and making it usable is a business model. Import genius is one of a number of companies that do this. Then other companies pay money to have easy access to all of this information. And Like, look, looking at that big spreadsheet with the CEO of a tech data company, this feels very modern. But in fact, Michael says this is one of the like oldest traditions in America. Strangely, Back in the 17 hundreds, the local newspapers and gazettes in the port towns during the colonial era would publish shipping manifests, detailing what's about to arrive on a vessel.
+
+
+So It'd be like here, here he new shipments of, I don't know, cured beef have arrived for all. That's exactly how I imagine it. It Is shockingly not far off. We, we found a copy of a newspaper from 1795 and front page quote, imported in the ship. Sophia and Carolina hemp Gin in casks, Cables and cordage Looking glasses. And then obviously the best thing here, quote velvet for lining and capes. Oh, you could make such a dapper cape if you just had the right lining. Not enough Capes anymore. No, We all need to wear more capes. Now look, obviously you can understand why this information was in the newspaper.
+
+
+Like since virtually everything was imported into the country back then, customers would be wondering like, Hey, when can I finally line my cape? Or whatever Carpe diem for the capes. But also this information would be really useful to other merchants to know what they should be importing. Like what do their competitors already have? What things aren't being imported yet? And really that is the same role this data plays 200 years later today when companies use a service like Import Genius and oh wait. Oh, what is, what's that? Amanda, do you hear something? Oh, goodness. Whoa, so Loud. The sound of our, we probably gotta turn that down so people are gonna crash their cars.
+
+
+That is the sound of our next hashtag. PortFacts, are you ready When my ears stop ringing? I will be ready. Okay, I'm ready. Okay. So Michael and some of the other folks at Import Genius sent me a list of a very specific kind of shipment that they have noticed happening over time. And I would love to show this to you. Can, can you see this I mean? It says live bullfrog. It does say live bullfrog because about six times a month, no shipments of live bullfrogs come in. Why? Well, well for for eating for frog, frog legs. No. You don't like that hashtag PortFacts.
+
+
+I don't like, I don't, I don't like frog's legs. Like I, I All I'm saying, all I'm saying is hashtag PortFacts. There are giant shipments of bullfrogs coming in monthly. Like this is what's happening. This is just what's Happening. Unbelievable. It is a lot of bull frogs. Okay, port question number two is about Bananas Bananas. Yes. If you look at the import data, you will see a peculiar banana pattern. A huge chunk of the country's Bananas come in through a single port Wilmington Delaware. Now most of America's Bananas come from Central America and like, I dunno, maybe this is naive, but, but I guess I must've assumed that they would then come into the country through like Florida or some ports on the Gulf.
+
+
+But, but no Wilmington Delaware of all places. So our producer Sam spoke with someone just outside of Wilmington. Sam joins us now. Hello, Sam. Hi Kenny. Hi Amanda. Sam is waving over Zoom. You cannot hear that But Yes. Welcome Sam. It's True. I do wave. Yeah. So I got in touch with Tracy Levin. So Bananas are in my family's blood. In 1906, my great-grandfather opened up a ripening cellar on Dock Street. Bananas would come off the ships, we would cut them off the stocks and ripen them in a cellar. So why Wilmington? Why do the Bananas go through Wilmington? Well, First the logistical answer, if you just used a port in Florida, yes, that is close to where the Bananas come from, but Wilmington is close to where the Bananas need to ultimately go to population hubs.
+
+
+They're at centrally located people from New York actually come down to Port of Wilmington to pick up Bananas here. People from Canada come down to Port of Wilmington to pick Bananas up pier. People from Virginia, North Carolina, South Carolina are still also coming up here to pick up Bananas at the port of Wilmington. Amanda, your Canadian childhood Bananas may have come through Wilmington. Amazing. I've learned so much. Okay, so location good for Wilmington. This is great. Yeah. And back in the 1970s, Del Monte Foods first started sending most of their Bananas to port of Wilmington, that nice central location. But here is what I think is the more interesting lesson. Once you have Bananas going in through a port that did something special, and here's how I think about it.
+
+
+Let's say you are shipping something different like skinny jeans or pencils or scooters. Once those hit the ports, they're more or less ready to hit the shelves. But items like fresh produce need another stage before they end up in your and my smoothies. They need to ripen. And that is where Tracy's operation comes in. They are fourth generation ripers. And to do that, they have special ripening rooms for Bananas. So people, when they see it, they're kind of blown away by the entire process. What do you mean you've ripened Bananas? They don't just appear on the shelves. Yellow. As Bananas started coming into Wilmington, a bunch of ripening centers cropped up to support that incoming produce. And now that those ripers were nearby, Dole and Chiquita You know famous banana companies, they wanted to take advantage of those too.
+
+
+So they also set up contracts with Port of Wilmington. I, I love this. This is the classic econ idea of the cluster effect. If, if banana ripening infrastructure gets built around the port of Wilmington. Well now the region around Wilmington has a comparative advantage for banana ripening. And please, Sam, tell me that you got access to a banana ripening room. I think I need to know everything about banana ripening. Yeah, so Kenny, I did get to visit one of the ripening rooms. We are looking at Bananas that are placed three tiers. High airflow is going around them. there is ethylene gas in the room as we sweep, you can kind of smell it.
+
+
+It's a little sweet. Now, ethylene gas is just, the gas Bananas already produce as they ripen. So the idea is that the Bananas ship firm and green, so they travel well. And then once they arrive, you add more of this gas to help them ripen quickly and consistently. And that's when they go into these ripening rooms. Every single piece of this banana room is designed for optimal banana ripening. The room itself sort of looks like a giant walk-in cooler with stacks and stacks of Bananas in boxes. And it's chilly around 70 degrees, but it feels colder. It's very windy. It's like you're Basically in a wind tunnel. And, and I'll say it sounds very windy. It sounds like you are any windy place. Yeah. That wind though, is important. The boxes are actually designed to allow for the gas to flow in them.
+
+
+And between the Bananas Tracy, I do have a confession, and I should have told you earlier, I'm actually allergic to Bananas, Allergic to the skin. I'm allergic to eating them to the to the fruit. To the fruit. Yeah. Okay. I don't know if I've ever heard anyone be allergic before to Bananas themselves, but I have heard people being allergic to the skin And in some senses, the worst reporter that they could have sent along to, to do this Story seems like throwing us under the puss. I, this is the first I'm hearing about a banana allergy. We would, we would have not sent you in if we thought you could be harmed. Sam, this is right. Sure, sure. Yeah. This is unfair. I, I I am. Okay. Thank you for asking. But, but back to why I was risking life and limb in the first place.
+
+
+Tracy did tell me that Bananas aren't the only produce that needs a whole production ecosystem. You know mangoes, tomatoes, apples, pears, plums, avocados and Kiwis all have their own special ripening facilities near their top ports. Okay. So Bananas come in through Wilmington in part because I, i, at this point, all the banana infrastructure is now clustered around Wilmington and Sam, thank you so much for I mean. I guess this heroic reporting we didn't know, but thank you. Yeah, sure thing. Kenny, time to peel out. No, no, he did not do that. Get outta here. Get Outta here. Go get outta here. Oh, Amanda PortFacts.
+
+
+Oh, it's so loud. Okay. But I'm recovering all. Yes. Yes, it is the PortFacts. You now dread them. It's a shame you now dread them because of the sound effect, but Whatever. It's just a little triggering, but I'll, I'll recover. It's fine. All Tell me. Well, so while Sam was at the old banana ripening place, he talked to a guy named Lou who has been there for ages and said that in the olden days there was a risk of banana shipments also coming with critters. I was crawl on a pallet of Bananas and I heard like a scratching noise. And there goes a scorpion crawled right into the banana box. We had to take the whole pallet apart. Finally found it.
+
+
+And we kept it for a pet for a while and then, then it died in the jar. Scorpion. Scorpion, yeah. of Course. You love it. Hashtag PortFacts I mean. Do I love it. Will it keep me awake tonight? Yes, both. Okay. After the break, a final port mystery about a, a surprisingly big importer. And also we'll talk about cookies and ice cream and, and candy I mean, come on.
+
+
+This message comes from Capital One banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply. See Capital One dot com slash bank for details. Capital One na member FDIC.
+
+
+This message comes from NPR sponsor Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Spanner and Smith Incorporated. Registered broker dealer. Registered investment advisor, member SIPC.
+
+
+This message comes from BetterHelp. It's important to take time to show gratitude towards others, but it's equally important to thank yourself. Life throws a lot of curve balls, and being grateful isn't always easy. Therapy can help remind you of all that you're worthy of and all that you do have. Let the gratitude flow with BetterHelp. Try at BetterHelp dot com slash NPR today to get 10% off your first month.
+
+
+This message comes from sun and ski sports. Soccer at six. Volleyball at seven parent life from Stanley Cups to bog bags. Sun and ski carries the gear. Parents need gear up and relax. Sun and ski sports where parenthood meets game day.
+
+
+And we're back. So for our final segment, we're, we're going to name a bunch of companies for a reason that will become clear in a second. One of them is Amazon, which is among NPRs financial supporters and pays to distribute some of our content. With that out of the way, our final port question, it, it stems from this thing that we kept seeing, like a, a list that we kept seeing. Yes. There was a list of the biggest importers to the Eastern seaboard. And actually this was calculated using import genius' data. Shout out import Genius again. So the biggest importer on this list was Walmart, which makes sense. They are the biggest retailer in the country.
+
+
+Also up there in the rankings was Amazon, again, giant company. Got it. Heineken is also in the top 20. They ship a lot of beer from Europe, so sure, bring it in through the Eastern seaboard. But admittedly, we were pretty surprised to see that number four on the list was roll the Campy and Bob's Discount furniture. It's Bob's discount Furniture. It was Bob's discount furniture. Bob's discount Furniture. What? You're putting the emphasis on the wrong sable. It's Bob's Discount Furniture. All right. All right. However you say it. I, I think our final big ports question kind of boiled down to like, really Bob's, Bob's is a big company.
+
+
+I mean Bob's is a $2 billion business. That is Bill McLaughlin's estimate. He's the editor-in-chief of the furniture trade publication furniture Today. I'm a kind of a furniture geek. Why do you love furniture so much? How do you not love furniture? I mean, does anybody not have furniture in their house? Think about it. Yeah, Think about it. And I thought about it. It's true. We all have furniture. Okay. But. Yes. So quiet while you're thinking. So You know, Bob's is much bigger than I knew. They are massive 186 stores mostly on the East Coast. I also did not know this. These are stores that Bill says also famously serve snacks, Popcorn, and cookies. Not a lot of folks have done that before.
+
+
+So you can have a little snack while you shop. I mean, I love that. Well, the smartest thing about it is most parents shop with their kids. Right? And, you know, if somebody's tugging on your shirt going, I want to go, I want to go Eat this cookie kid, Eat this. Cookies have some popcorn. Isn't this fun? I did reach out to Bob's for this story and, and they wanted to clarify that the food offerings are actually cookies, candy, and ice cream. So, so no popcorn. But look, the bottom line is that, that Bob's is, is bigger and snacker than I knew. And, and that's on me. But like, look, here is what really caught our attention as like a port insight. So Ikea for example, they are a massive East coast importer.
+
+
+The second biggest one, and that makes sense. Ikea is shipping from Europe. And so importing to the East Coast makes sense, But Bobs, they are making discount furniture, which is largely made in Asia, China, Vietnam, Malaysia. Bill says, Our question then is, is it not impractical to have to ship that stuff all the way to the East Coast? Like why not just land it in California? And I will admit, did not expect this answer from Bill Furniture is is kind of like a cold sore, right? You don't want to touch it a lot. Okay. So every time you move a piece of furniture, you run risks, you run the risk of it breaking, you add an expense because in order to move it, that means somebody is moving a container.
+
+
+Right? And every time you touch it, it costs you more money. Yeah. The reality is it is just so much cheaper to keep things moving on a ship because a ship is a bulk method of transportation. Cargo is measured in what the industry calls tus or 20 foot equivalent units, which is half of one of those big old metal containers that you're probably picturing a cargo ship can carry 24,000 tus That is so many giant metal cargo containers all at once moving in bulk. I think the average person, you think, oh wow, they're bringing in a a, a big container. Yeah. And you think of it in terms of one, right?
+
+
+Well, if I was shipping one container from China to New York, the shortest way is to ship it to California and then take it and move it. Drive it, or, yeah. Right. That might be true if you do it one time, But if you're the fourth largest importer on the East Coast, like Bob's, we are talking so many cargo containers worth of stuff. It's just a different scale. And keeping all those containers on a ship for as long as possible just makes sense. And, you know, I mean, I think this actually really gets at what I have come to appreciate maybe most from my short-lived port strike port shutdown panic, which is that when I thought about how the world's economies have become globalized, I, I guess I was really picturing like zooming jets and bustling airports.
+
+
+But, but it is all about moving things cheaply on ships to and from the ports And, you know, for better and worse. Like that is what turned the entire planet into one giant marketplace where customers and importers and and manufacturers can scour the globe for a place that makes the cheapest widget, which Amanda brings us to our final hashtag PortFacts. Ah, I was ready for that sound that time. Okay. Lay it on me. Alright, so this one comes from the professor that I, that I first called when I was You know stockpiling dog food and freaking out about ports or whatever that is.
+
+
+Professor Steven Flynn and Steve had this example that I, that I think is kind of globalization in a nutshell. There Are places in China where they stack the clothes in the container exactly how they're gonna come out of the container onto the retail shelf, As in You know you, you like, send this place a carefully put together list. You know, don't just load these shirts on the container willy-nilly. I want them loaded in the exact order that they're going to go onto our shelves or our rack or whatever. Yeah. I want these dresses of this size being put in these colors and that is sorted through at its very low labor cost overseas.
+
+
+Yeah. It is just that much cheaper to have someone in another country spend the time organizing the things instead of having American workers do it here. Globalization in A nutshell, This episode was produced by Sam Yellow Horse, Kessler It was edited by Audrey Quinn and fact checked by Donya Solema, engineering by Sena Laredo and Quai Lee with an assist from Valentina. Rodriguez Sanchez. Alex Goldmark is our executive producer. Special thanks. This week too, will chase for tracking down so many banana facts. Who knew there were this many Banana facts? So many facts. Bananas, I could've guessed.
+
+
+There's a hashtag. Banana Facts. Oh, Coming up, think you came up with our next episode. I'm Kenny Malone. And I'm Amanda oric. This is NPR. Thanks for listening.
+
+
+This message comes from Capella University. With Capella's FlexPath learning format, you can set your own deadlines and learn on your schedule. A different future is closer than you think with Capella University. Learn more@capella.edu.
+
+
+Support for the following message. come from LinkedIn ads. With LinkedIn ads. you can reach professionals relevant to your business, Target them by job title, industry, company, and more by launching your next campaign with a free $100 ad credit at LinkedIn dot com slash results. Terms and conditions apply.
+
+
+This message comes from NPR sponsor Mint Mobile From the gas pump to the grocery store, inflation is everywhere. So Mint Mobile is offering premium wireless starting at just $15 a month. To get your new phone plan for just $15, go to Mint Mobile dot com slash switch.

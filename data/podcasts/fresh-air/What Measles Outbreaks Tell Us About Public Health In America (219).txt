@@ -1,0 +1,191 @@
+
+Hey, it's a Martinez, a lot of short daily news podcasts. Focus on one story, but sometimes you need for up first on NPR, we bring you the three top world headlines every single day and under 15 minutes because no one story can capture all that's happening in on any given morning. So listen to the Up First podcast from NPR.
+
+
+This is Fresh Air. I'm Tanya Mosley. Last week the Senate confirmed Robert F. Kennedy Jr. Who has historically been a vaccine skeptic as President Trump's head of the Department of Health and Human Services. Today we're gonna be talking about the importance of vaccines amid the growing avian bird flu and measles spread with pediatrician and infectious disease expert Dr. Adam Ratner. 25 years ago, measles was declared eliminated in the United States. It was a long fought win for pediatricians and researchers and those who work in infectious diseases. Today, however, measles is back and Dr. Ratner says the resurgence points to a larger, more significant problem for public health.
+
+
+Measles isn't just inconvenient, it is highly contagious and can lead to serious complications including pneumonia, brain inflammation, blindness, and even death. Dr. Ratner's new book Booster Shots, the Urgent lessons of Measles and the uncertain future of Children's Health warns that as the number of vaccinations in children decreases and the lack of public trust in science increases the resurgence of illnesses like measles is a foregone conclusion. Measles, like many communicable diseases, Ratner says, is a biological agent that preys on human inequity, thriving on conditions of chaos, colonialism, and war.
+
+
+Dr. Adam Ratner is a professor of pediatrics and microbiology at NYU Grossman School of Medicine, and the director of the Division of Pediatric Infectious Diseases at Hassan Field Children's Hospital and Bellevue Hospital Center. We recorded this conversation last week. Dr. Ratner, welcome to Fresh Air. Thanks so much. Delighted to be here. Well, your book is very relevant. President Trump has announced significant funding cuts for the NIH, the National Institutes of Health, which will have a direct impact on medical research. The anti-VAX movement continues to grow. There's still this disbelief in science and research that we are seeing, and you have made it your life's work to study and treat infectious diseases.
+
+
+Why did you wanna tell the larger implications of what we're seeing through this story of measles? When I first started writing the book, the question that I got most often was, why measles? Because right. I think a lot of people I talked to thought of measles as a solved problem and really, so did I. And, and that's kind of the encapsulation of the, the measles story in, you know, put very simply in the sense that Measles thrives on being underestimated. So all throughout my training, I learned to take care of children with all sorts of diseases, and then I, as I focused on infectious diseases, I learned to take care of kids with complicated infections and sometimes with unusual infections.
+
+
+And measles was something that in my mind, had been filed under solved problems. It was a thing that we had had a vaccine for since the mid 1960s, and that we very, very rarely saw. I saw a handful of cases in my training, and then in 2018 and 2019, we had a huge measles outbreak in New York City with about 650 cases and some kids who were very, very sick. I took care of children in intensive care units due to complications of measles, and that was the point at which I dug deeper into the measles story, and I realized that there was so much here that people don't think about, and that When we start to see measles, it's evidence of faltering of our public health systems and of, of fomenting, of distrust of vaccines, and that measles outbreaks and, and measles cases are so much more than just the, the rash that you see.
+
+
+Right. You know, I mean, I talked about how confidence in medicine and public health may actually be at an all time low, which is very interesting because the pandemic showed us how infectious disease spreads. We watched a vaccine be developed, and we also saw all of the inequities that a crisis like that revealed about who has access to medical care and vaccinations. I assume this is also what keeps you up at night as you think about measles being an indicator. Absolutely. I mean, I think the, the pandemic we all experienced together, but we each experienced in, in kind of a different way. The way that I experienced it was in the hospital taking care of, of children with COVID and some children who were very sick from it, and also, of course, in my home life, worried about my wife, worried about my daughter, worried about my parents, and I think we all got to see the evolution of a pandemic, which is something I had never seen before.
+
+
+We also got to see an incredible scientific triumph, which was the development of the mRNA COVID-19 vaccines. And I think back to how I felt when, you know, those first trials of the mRNA vaccines came out and they, they were enormously effective against hospitalization and disease, and they still are, and they were highly effective against catching COVID-19, although that effect is limited in time, which we didn't know then, and that boost, we didn't know then that boosters would be necessary. But there was such a feeling of relief when I saw those data.
+
+
+And I, I remember the moment I got my first dose of the mRNA vaccine, I remember the day my wife got hers, I cried, I cried when my daughter got hers because I felt like we had won, like, I felt like science had saved us, vaccine science had saved us, and in the back of my mind I thought, this is the end of the anti-vaccine movement. Like how do they possibly recover from everyone in the world seeing what we can do? And of course, looking back now, five years after the, the start of the pandemic, I was, I was naive and, and I was wrong at that time about how the anti-vaccine movement would respond to the COVID-19 vaccines and where we would be just a few years later Now that we are several years past that.
+
+
+What do you make of the growth in the movement? We now have Robert F. Kennedy Jr. Who is now a voice that many American people listen to and feel. They feel hopeful that someone like this actually will be in a high office. To start, I wanna be clear that my comments about RFK and and about everything that we talk about today are my personal opinion and aren't the meant to represent the institutions I work for or anyone else I'm affiliated with the, it's very disconcerting.
+
+
+It's, it's very disturbing that someone who has spent so much of his career trying to undermine confidence in vaccines, trying to tear down the infrastructure that approves and recommends vaccines, has the potential to be in a position of power over the infrastructure that that has those goals. I worry about vaccine availability in the United States, but more than that, I worry about vaccine confidence, which many of us have worked for years and years and years to build.
+
+
+And as mentors of mine has had said many times over the years, it is much easier to scare people than to uns scare them. And I think that just by elevating anti-vaccine views in the guise of of RFK, I think that we risk a crisis in vaccine confidence in the us You're also saying it's, it's why it's an important thing to look at children's health as we think about the health of larger society and something really interesting as you, you describe all of those past communicable diseases, whooping cough, polio, all of those things that have been eradicated, you actually describe measles as this quintessential human pathogen because it teaches us about ourselves and namely our capacity To learn, but also to forget.
+
+
+So anybody who was born before the 1970s, you will have a very different discussion about the value of immunizations because they saw those many of those diseases in real life. But today, some of the skepticism does come from not being able to see it. I'm just wondering for you as a doctor, how do you manage that with your patients who have real concerns about side effects when it comes to vaccinations? In part because they've never even seen many of these diseases when they were in society? That is the crux of what I was trying to get at in the book.
+
+
+I trained in pediatrics and then in infectious diseases at this incredible inflection point where the generation before mine had seen their diseases that I was not seeing as a resident. There were things that vaccines just made disappear between that generation and my generation. So there was a, a horrible disease called hib, which is a, a bacterium that can cause sepsis and pneumonia and meningitis and death in children. There were, you know, a couple hundred thousand cases of this in the United States every year, and pediatricians worried about HIB all the time.
+
+
+When my mother trained, so my mother is also a pediatrician, a generation before me. She had tons of patients with HIB and you know, she lost patients with this disease. And then in the late 1980s, a HI vaccine came out. It was widely adopted and I did not see a single case over the course of my training. And so the, there was this in, it was like a switch there, there was this incredible power of vaccines that was visible right in front of me in real time. But if you look at people who are parents today and, and people who may have questions about vaccines and are weighing risks and benefits, which is a fully reasonable thing for parents to do, they may say, I've never seen someone with polio.
+
+
+I've never seen someone with whooping cough. One person says that there are side effects of the vaccine. The other person says that there aren't, why would I take a chance by giving the vaccine for something I've never, I've barely heard of? And the answer to that of course is that you've never seen these things, you've never heard of these things because of vaccines. But that's a hard thing to communicate. And it's sort of the difference between, I found this during the, the measles outbreak in 20 18, 20 19, talking to the parents of the children with measles and talking to the grandparents of those children was entirely different.
+
+
+The grandparents had seen tons of children with measles, they had probably had measles themselves, their kids had had measles, and they, they knew that even though most kids do fine with measles and are better after about a week, there are rare cases where children have to go to the hospital, they have pneumonia, and occasionally unfortunately, they die. You know, I'm just thinking about what we see in, in media and television shows and movies. Measles is always portrayed as like this nuisance, almost like chickenpox. Why is it so hard to control once it's spread? So measles is the most contagious disease that we know of.
+
+
+It is more contagious than flu. It is more contagious than polio. It's more contagious than Ebola. It's more contagious than covid. So it, in a susceptible population, measles can infect, you know, 90% of the population easily. You know, if if someone with measles walks into a room of, of people who have not been vaccinated and haven't had measles before, 90% of those people will get infected with meles from that one person. And that's, that is much more infectious than most things that we generally deal with.
+
+
+And so it's a, and so measles is a, an indicator for whether there is vaccination going on, whether people are, are protected because it is so very infectious. The the thing about measles is that most kids with measles do fine, but there are these rare effects. There. There are kids who get pneumonia, there are kids who die of measles, you know, one or two in a thousand children who get measles will die. One or two in a thousand children. Children who get measles will have encephalitis, which is swelling of the brain.
+
+
+And that can lead to deafness or seizures or other, you know, bad outcomes. And it's, you know, if, if you are one family, you may not ever have known someone who had one of those bad outcomes. And so usually when kids get sick, they feel sick for a week and then they get better. And so that, that was most people's experience with it. If you listen to RFK talk about his experience with the measles, you know, what he says is that, oh, I, it was, you know, my 10 siblings and I all had measles at the same time. It was a week off from school and we got to watch television and eat soup.
+
+
+Yeah. So that's fine. But he also comes from the most privileged background imaginable. And that is not everyone's experience of measles. You know, actually in 2019 there was this measles epidemic, as you know, that killed 80 children in Samoa. And Robert F. Kennedy Jr. Actually wrote to the country's prime minister and made this false claim that the measles vaccine was probably causing the people there to die. What are your biggest concerns about Kennedy being tasked with leading the nation's biggest health agency? I have many concerns about that.
+
+
+My greatest concern is that he will harm or disable the vaccine infrastructure. That he will make vaccines unavailable to people who want to get them. And that he will make people who are unsure of whether they should vaccinate their children, feel like they should not vaccinate their children. I think he has spent a lot of his adult life fighting against vaccines, and I see no reason that that is going to stop. What are you thinking about as you think about a path forward and what this agency might mean for, for children's health and vaccinations?
+
+
+I think about how hard it has been to get to the point that we're at right now. And I think the most important message that I want to come across from my book is that we live in a time when children, for the most part grow up happy and healthy. And where infectious diseases that used to kill large numbers of children have been brought under control through vaccines. And that has been through a tremendous amount of work. And some of that has been scientific work, but some of that has also been policy work in building an infrastructure that can withstand fluctuations in funding and can provide support for getting vaccines to children, to children whose families may not be able to afford them.
+
+
+And all sorts of other things that have been built over time. The successes that we have and the the point that we are at in children's public health is not guaranteed. And I am worried that actions taken in the next year, two years may have long lasting effects on the health of children, not just in the United States, but I think it'll be in the United States first, but I think worldwide. Can you talk a little bit more about the latest action from the National Institutes of Health, which is now capping funding from medical research at medical schools and universities?
+
+
+How does this impact the fight to keep infectious diseases at bay? As we were talking about with the infrastructure for vaccine delivery, the biomedical research enterprise in the United States is incredible and there have been advances that have helped all Americans, and we would never have had the covid to 19 vaccines without NIH research. We would never have the chemotherapies that we have or the gene therapies that are emerging to, to cure diseases. That is, all of those advances are built on the back of NIH funded basic research.
+
+
+It is absolutely critical to people's health in both the short and the long term. And I think that the executive order capping NIH indirect costs at 15% and making it effective immediately and and apply to existing grants is going to be an enormous budgetary strain on universities and other research institutions. And it has the potential to have people lose their jobs, to drive scientists out of the field, to have universities shut down labs that they can't afford to run because they haven't budgeted for this abrupt change.
+
+
+And I think that the effects of this may be long lasting. Our guest today is Dr. Adam Ratner. We recorded this conversation you're hearing last week about his new book Booster Shots, the Urgent Lessons of Measles, and the Uncertain Future of Children's Health. We'll be right back after this break. I'm Tanya Moseley and This is Fresh Air. NPR informs and connects communities around the country providing reliable information in times of crisis. Federal funding helps us fulfill our mission to create a more informed public and ensures that public radio remains available to everyone. Learn more about safeguarding the future of public media visit Protect by public media.org.
+
+
+99% of the US population lives within listening range of at least one public media station. And everyone can listen to NPR podcasts free of charge. That means you get completely un walled access to stories, prize-winning reporting, and shows that represent the voices in every corner of the country. Hear the bigger picture every day on NPR On the embedded podcast. No, it's called Nana Speed of Speech. It's misinformation. Like so many Americans, my dad has gotten swept up in conspiracy theories. These are not conspiracy theories, these are reality. I spent the year following him down the rabbit hole trying to get him back.
+
+
+Listen to alternate realities on the embedded podcast from NPR. All episodes available now. Hi, this is Molly Sevy Berg, digital producer at Fresh Air, And this is Terry Gross host of the show. One of the things I do is write the weekly newsletter, And I'm a newsletter fan. I read it every Saturday after breakfast. The newsletter includes all the week shows, staff recommendations, and Molly picks timely highlights from the archive. It's a fun read. It's also the only place where we tell you what's coming up next week and exclusive. So subscribe@wy.org slash Fresh Air and look for an email from Molly every Saturday morning.
+
+
+One of the things that we also don't talk about a lot is faith. And what I mean by that is faith that the system will actually work for our benefit. So you actually tell a story of how the vaccine trial for polio in 55 was really a high watermark for public enthusiasm. Then President Carter came into office and relied on that, accumulated goodwill as, as they tried to eradicate some of these childhood diseases like measles. But as we move through time, I'd also love to just slow down a little bit and talk about some of those moments in the eighties and nineties that really shook our trust in government decision making as it relates to our health and wellbeing.
+
+
+There were a few things. There was the unmasking of the Tuskegee syphilis study in in which government scientists had observed as black men with syphilis, had gone through the stages of disease and not provided them with medication that was available and was known to work. And when that came to light, that generated and still does very reasonably a tremendous amount of mistrust in the government and in scientists. And there were other smaller scale incidents that also shook people's trust.
+
+
+There were trials of vaccines and trials of other kinds of medication that were carried out in institutions for children. And those were not carried out with the ethical standards that we would expect today. And in some cases with no informed consent at all. And there, there were some of these trials were horrific and should never have been allowed to happen. And I think when those came to light, there was a growth of distrust in medicine as a whole. And I think that that hindered people's trust in vaccines at the time as well.
+
+
+I'm really curious how you manage the distrust as you interface with parents and legislators and all types of people. Because you said something earlier that I thought was really interesting. You said like once you scare the public you can't uns scare them. Like it's really hard to dial that back. And that had me thinking about discredited academic Andrew Wakefield, who as folks may know, the medical journal Lancet in 1998 published a paper from Wakefield that promoted this fraudulent hypothesis that the MMR vaccine, measles, mumps rubella could cause previously healthy children to develop a form of autism.
+
+
+And while that has widely been discredited, it also seemed like a flashpoint as well. I learned about it as a mother in 2007. This had been discredited years before, but there was still such a debate about it, a strong debate and belief. How do you deal with that growth of mistrust in the conversations that you have with parents and others? It's not easy. I think that pediatricians still even today, I think are in a, a place of trust for much for most families. I think that very reasonably most families think that those of us who have, you know, devoted our our lives, our careers to taking care of kids and trying to keep them safe, even if they don't implicitly trust us, they realize that we bring something valuable to the conversation.
+
+
+And so I think it's really important to use that trust wisely. And I think the other thing that sometimes gets lost is that, and this is a conversation I have with my colleagues, a lot parents who are hesitant about vaccines and parents who are frankly anti-vaccine. These are people who love their kids. These are not people who want harm to come to their children. It's the opposite. There is nobody who is on team disease right there, there's nobody who wants a child to get sick.
+
+
+And I think that, you know, for me that's the grounding point. You know, that's the place where I, I think that I or any other pediatrician can come together with a family and then we can talk about the details and we can talk about balancing risks and benefits, which is something that we all do all the time and often with not enough information for people to feel entirely comfortable. Some of it is talking about the diseases that we're trying to prevent, which can get minimized in anti-vaccine rhetoric, but can be really serious.
+
+
+I'm old enough that I'm able to use my personal experience often in those conversations. I've seen a lot of the diseases, although not all of them, that we vaccinate against. And I think, I think building that trust and building on the fact that we're all pulling for the same thing is, is the most important piece of the conversation. But it's hard and it's usually not one conversation, Not one conversation. And do you feel that you've been successful Variably? So I'm not a primary pediatrician. Like I, I am an infectious disease specialist and I see kids in the hospital, so I, I see families at kind of a different time than their primary pediatricians do.
+
+
+And the primary pediatricians are really the heroes in this piece of things. Like I think they're the ones who have repeated conversations with families who develop trust over time and who can help families take in good science-based messaging and, and help bring them around to, to vaccination. I see parents at a different time. It's, there is no family who wants to be where I work, which is a hospital. You're At a critical time. Yeah. Yes. And so I sometimes have families, I, I sometimes have conversations with families who are in the hospital because their child has a vaccine preventable disease.
+
+
+And that's a different conversation and it's one that can very easily go south in the sense that people can often feel like they're being blamed, which is never my intention. And, and people can feel like it's not an appropriate conversation to have at the time. And I think it's a conversation that needs to be had, but it needs to be done carefully. Like you need to choose your words carefully. It needs to be done with empathy because when I'm seeing children, it's usually because they have a child who's sick enough to be in the hospital.
+
+
+But it needs to be done clearly because the story that this family is going to tell themselves and tell their relatives and their, their friends about what happened may hinge on how you talk about vaccines in that moment. Let's take a short break if you're just joining us. My guest is pediatrician and infectious disease expert Dr. Adam Ratner. He's written a new book called Booster Shots, the Urgent Lessons of Measles and the Uncertain Future of Children's Health. We'll continue our conversation after a short break. This is Fresh Air. Since Donald Trump took office in January, a lot has happened.
+
+
+The White House budget office ordered a pause on all federal grants and loans. The impact of the Trump administration's tariffs is already being felt in Trump's efforts to radically remake the federal government. The NPR politics podcast covers it all. Keep up with what's happening in Washington and beyond with the NPR Politics podcast. Listen, every day When Malcolm Gladwell presented NPR R'S Throughline podcast with a Peabody Award, he praised it for its historical and moral clarity on throughline. We take you back in time to the origins of what's in the news, like presidential power, aging, and evangelicalism Time travel with us every week on the Throughline Podcast from NPR Shortly, thinks of science as an invisible force showing up in your everyday life, powering the food you eat, the medicine you use the tech in your pocket.
+
+
+Science is approachable because it's already part of your life. Come explore these connections on the Shortwave podcast from NPR. Are you amazed that after the success of the Covid vaccine that there is this rising skepticism? We got to see all of the advancements come to fruition just in those few years, and yet there's, there's more skepticism than ever That came as a surprise to me and it is unbelievable to me now, you know, five years after the start of the pandemic that we are in the situation that we're in, I thought that we would be in a place where their vaccine skepticism was rare and where people had gotten to see firsthand the incredible beneficial effects of vaccination on the population.
+
+
+And, you know, the Covid vaccines saved millions and millions of lives and they are an incredible success story. And amazingly, that's not the story that is generally being told, and it's not the story that most people believe. I also wanna ask you while I have you, about the Bird flu, also known as the Avian Flu and H five in one, it is now present in all 50 states impacting humans in about almost a dozen states. What should we be worried about?
+
+
+So I think that there are a couple of things to be concerned about here, and I, I think that first and foremost what we know about the avian flu and how it has spread and you know, the situation that we're in right now is because there is a robust surveillance system and it, it points to the importance of funding for CDC and for state and local health departments to do that crucial work. That is the only reason that we know what's going on. I think that Avian flu has the potential to affect humans and has made some human sick already in the current outbreak.
+
+
+I think that we need ongoing surveillance and we need to understand the extent of the problem and to be able to do things like rapidly type the flu strains that people have when they go to their hospitals or go to, to doctors. It is, it is something that is done sometimes now, but a lot of our diagnostics don't tell us exactly what sort of flu someone has and that's important to understanding the scope of the problem, but really what, what needs to happen is strengthening and keeping them strong of, of public health systems in order to keep this under control.
+
+
+Doctor, I think I'd like to end our conversation by having you read an excerpt from your book. A fundamental issue in how we think about measles is memory in the same way that the measles virus kills the cells that are the keepers of immune memories. Our temporary successes and competing priorities distract us from the toll that it continues to exact every day of every year. When we forget measles thrives both within the body of an individual and in a society making decisions about whether to prioritize vaccination. Both kinds of amnesia leave us vulnerable to a host of conditions beyond measles.
+
+
+Measles is a master at infiltrating and revealing the cracks in our human systems when we forget to use the tools that we have, when we allow anti-scientific voices to influence policy when we ignore the places that it is difficult to deliver care. There it is for all these reasons. You can think of measles cases as a probe for whether we are paying attention. As outbreaks pop up, we should ask ourselves what we could have done better and what other warning signs we are ignoring. While measles is often, first, it is a harbinger of problems to come.
+
+
+You close this book by taking a moment to think about the two battles that we are facing the war against the pathogen and the fight over information like fighting fake news and wrong information. What should be our strategy to fight that second fight? And does it feel insurmountable or all of this history that you have compiled for this book? Does it show us away? This is the prime problem of, of modern public health communication? It is a different world than it was in the stories that I told about the measles vaccine development and, you know, vaccines for children and things like that where there were limited news sources, there was often collaboration between public health entities and, and news outlets.
+
+
+And now we're in a very different situation where there is unlimited information. Much of it is bad, some of it is malicious. And I, I don't have a simple answer to this question. I will go back to what I said about pediatricians being trusted sources and about personal family to family type discussions that are difficult to scale, but that are effective. And I think that's it. I mean, I think there, there certainly does need to be direct countering of misinformation and disinformation that are put out there by anti-vaccine groups and that is something that c, d, c and public health departments should be doing.
+
+
+But there's also the direct outreach to individual families and to communities and bringing good information and being willing to sit and listen to what people have heard and try to help them disentangle the bad information that they may have gotten and to explain the science-based information that, that hopefully your, your pediatricians and your, your trusted community members are bringing. Dr. Adam Ratner, thank you so much for this book and for this conversation. My pleasure. It was wonderful to speak to you.
+
+
+Thank you. Dr. Adam Ratner is the author of the new book Booster Shots, the Urgent Lessons of Measles and the Uncertain Future of Children's Health.
+
+
+Coming up, our book, critic Maureen Corrigan, reviews Memorial Days, the new memoir from Pulitzer Prize winning novelist Geraldine Brooks about the Sutton loss of her husband. This is Fresh Air. A couple months ago here at Planet Money, we stumbled across our favorite kind of economic mystery. Jeff, what is this A deal that seemed way too good to be true? What I'm seeing here at least is that it's very high clarity. Join us on our adventure talk. Join what you got. All right, to find out exactly how much a diamond is worth planet money from NPR, wherever gets your podcasts. Singapore is one of the busiest cities in the world, but biologist Philip Johns is fascinated by a different inhabitant on the island otters.
+
+
+At Rush hour downtown, the otters would swim toward each other and there are literally tens of thousands of people who are on their way to work How ideas, emotions, and creatures coexist. That's next time on the Ted Radio Hour from NPR. J Dean Brooks is the Pulitzer Prize winning novelist of March, as well as her most recent novel. Horse Brooks is also the widow of Tony Horowitz, perhaps best known for his book, Confederates in the Attic. Brooks' new memoir Memorial Days recalls their long marriage and the aftermath of its Sutton End. Our book, critic Marine Corrigan has a review To us readers who admired Tony Horowitz's writing, infused with his animated and rye first person voice.
+
+
+His sudden death in 2019 was hard to take in Horowitz, who was a fit 60-year-old died of cardiac arrest. A few days after his book Spying on the South was published like his 1998 bestseller, Confederates in the Attic, spying on the South Presly explored the great divide in America between red states and blue. Curiously, for a writer so attuned to boundary lines, Horowitz who was traveling on book tour collapsed and died on a street that divides Washington, DC and Maryland.
+
+
+Horowitz's wife novelist Geraldine Brooks, was far away at their home in Martha's Vineyard. The opening of her memoir Memorial Days describes in present tense, fragmented phrases, what it was like to be on the receiving end of a call from an ER doc whose voices flat, exhausted, impatient, and who refers to her husband's body as it that call Brooks reflects was the first brutality in what I would learn is a brutal broken system. Memorial Days is a beautifully modulated cry in the wilderness, an unsentimental contribution to the ever-growing pile of secular literature about grief in which the end of life is punctuated by a period not an ellipsis.
+
+
+Brooks converted to Judaism when she married Horowitz some three decades earlier, and though Judaism doesn't offer her the assurance of an afterlife, it endows her with a spiritual language and vision. Memorial days alternates between the immediate time after Horowitz's death and 2023 when Brooks flies to an isolated cabin on Flinder's Island off the coast of her native Australia. The trip Brooks tells us represents an effort to escape what Hebrew scriptures call the Matar. The mates are the narrow place tending to her two sons in the wake of their father's death and meeting her own writerly deadlines meant that Brooks couldn't surrender to grief.
+
+
+Here's how she explains the need to withdraw. I am taking something that our culture has stopped freely, giving the right to grieve, to shut out the world and its demands. I've come to realize that my life since Tony's death has been one endless exhausting performance. I have cast myself in a role, woman being normal. I have not allowed myself the wild wideness of an elaborate, floored, demonstrative grief. Instead, it has been this long feeling of constriction, of holding it in and tamping it down and not letting it show.
+
+
+Brooks is far from clueless about the privilege that enables such a retreat. She grew up as she tells us in a blue collar neighborhood of Sydney in a house where all the furniture was secondhand. She arrived as a scholarship student at Columbia Journalism School where she met Horowitz and her life took a turn. The luxury of spending weeks alone in a cabin by the sea gives Brooks not only the time to grieve her husband, but also to grieve the life she might have lived had she never met him. Given Brooks' own distinguished career as a novelist and journalist, it's no surprise Memorial Days is such a powerful testament of grief.
+
+
+But what is more of a surprise is the emergence of another subject, namely the tough reality of the writing life. Brooks says at one point that she thinks of spying on the South as the book that killed Tony. She recalls that to finish it on deadline, her husband chewed boxes of Nicorette gum Nibbled Provigil. The pill developed to keep fighter pilots alert and drank pints of coffee at night. He countered all the stimulants with wine, wondering how she can practically sustain her life without Horowitz.
+
+
+Brooks is told by a financial advisor that she'll be okay as long as she just keeps writing. There's the rub. Fortunately, Brooks was able to finish her stalled novel in Progress Horse, which was published in 2022, and fortunately she was able to go on to write Memorial Days. A book that not only pays tribute to a loving marriage between two successful writers, but also manages to be a clear-eyed assessment of the cost of that success. Maureen Corrigan is professor of Literature at Georgetown University. She reviewed Memorial Days by Geraldine Brooks on the next Fresh Air.
+
+
+Germany's Federal elections are on Sunday and Elon Musk is supporting the far right candidate for Chancellor. As the Trump administration moves America's foreign policy to the right, European leaders are concerned about the future of their alliance with the us. We'll talk with Anne Applebaum, who writes about the new authoritarianism. Join us to keep up with what's on the show and get highlights of our interviews. Follow us on Instagram at NPR Fresh Air.
+
+
+Fresh Air's Executive producer is Danny Miller. Our technical director and engineer is Audrey Bentham. Our managing producer is Sam Rigger. Our interviews and reviews are produced and edited by Phyllis Myers, Annemarie Baldonado, Lauren k Crile, Theresa Madden, Monique Nazareth, Thea Cha, Susan Nadi, Anna Bauman, and Joel Wolfram. Our digital media producer is Molly Stevie Nesper. Roberta Schrock directs the show with Terry Gross. I'm Tanya Mosley.
+
+
+Imagine if you will, a show from NPR that's not like NPR. A show that focuses not on the important but the stupid, which features stories about people smuggling animals in their pants and competent criminals in ridiculous science studies. And call it, wait, wait. Don't tell me because the good names were taken. Listen to nvs. Wait, wait. Don't tell me yes. That is what it is called. Wherever you get your podcasts
+
+
+These days, there is a lot of news. It can be hard to keep up with what it means for you, your family, and your community. Consider this from NPR is a podcast that helps you make sense of the news. Six days a week we bring you a deep dive on a story and provide the context, backstory and analysis you need to understand our rapidly changing world. Listen to the Consider This podcast from NPR.

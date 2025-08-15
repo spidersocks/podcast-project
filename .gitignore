@@ -1,0 +1,10 @@
+data\bertopic_results.csv
+data\chunks_for_stance_detection.csv
+data\chunks_with_stances_final_repaired.parquet
+data\chunks_w_all_topics.csv
+data\news_chunks_w_umap.csv
+data\sentiment_analysis_textblob.csv
+data\sentiment_analysis_vader.csv
+data\.ipynb_checkpoints\news_chunks_w_umap-checkpoint.csv
+models\bertopic_model_full
+models\embeddings\docs_embeddings.npy

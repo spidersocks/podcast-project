@@ -1,0 +1,59 @@
+
+You are listening to TED Talks Daily where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. For me, one of the most exciting uses of AI is in helping us better decode and understand other creatures in nature. In her archive talk from 2023, digital environmentalist Karen Backer demonstrates how AI has helped translate and interpret orca whales, bats, birds, and more, and all the possibilities that can come once we better understand the sounds of the animal world. It's coming up after the break and now our TED talk of the day.
+
+
+So we're in the middle of a fierce debate about how artificial intelligence will change human society. But have you thought about how AI will transform your relationship to the non-human world? I've spent years studying how scientists use devices like this combined with AI to listen to the hidden sounds of nature and decode non-human communication hidden sounds because much acoustic communication in nature occurs in the high ultrasound above your hearing range or in the deep infrasound below your hearing range. So I'm gonna play a sound. I want you to listen and try to guess who or what this is.
+
+
+So that was a bat. That was bat ultrasound recorded above your hearing range, but slowed down so you could hear. So that was an advertisement call. From the peak of the mating season, scientists can decode these calls. So a sample bat to English translation would be, and I quote, pay attention. I'm a PPA matus bat, specifically male. My name is X. I am landing here. And we share a common social identity and common communication pool for a pickup line by a bat. Not bad. So scientists have recorded millions of bath vocalizations like this, and they've decoded many of them using ai.
+
+
+And they've revealed that bats have dialects that they pass down from one generation to the next. And that baby bats learn to speak just like you did by listening to the adults around them and babbling back until they speak adult bat. So bats have far more complex communication than we knew, and they're only one of many examples. Listen to this. So those are orcas who live right here in the sailors. Sea scientists can decode individual orca calls using ai, and they've revealed that orcas also passed down their dialects from one generation to the next.
+
+
+So it turns out that orcas and bats are not the only creatures that make ultrasound moths. Mice, beetles, rats at the other end in the deep infrasound, elephants and whales, tigers and some birds make sound. So when we first learn about these secret sounds of the world, we're often surprised because humans tend to believe that what we cannot perceive does not exist. And so we miss a lot. One of my favorite examples is this peacock. This peacock is also making very loud infrasound with its tail, which you cannot hear, but female pecans can, and it is an important factor in their mating decisions.
+
+
+So this peacock is giving a rock concert. Now, we have lived with peacocks for millennia, but we only just figured this out. Scientists also used to think that turtles were voiceless and mother turtles abandoned their nests after laying their eggs. But we've just discovered that baby Amazonian turtles communicate through their shells before they hatch to coordinate the moment of their birth and then follow their mother's calls to safety in the water. Even creatures without ears are exquisitely sensitive to sound. When coral larva are born, usually at a mass spawning event, a few days after the full moon, they wash out to sea.
+
+
+So scientists used to think that these little larvae were helpless, randomly pushed around by wind and waves and currents. But it turns out that coral larvae are acoustically attuned. They can hear the sounds of healthy reefs, they can hear the sound of their home reef, their mother reef, and they swim back home across miles of open ocean. So these are trinny creatures with no central nervous system. But we think they do that with these hairs that you see on the outside of their bodies. They're a lot like the hairs inside your ears that are enabling you to listen to me right now. So you can think of a coral larvae a little bit like an inside out ear, except that its sense of hearing is profoundly more sensitive than your own because they hear with their entire bodies, even our planet makes sound volcanoes.
+
+
+Earthquakes sound so low and strong and powerful. They travel very far, passing through soil and stone, and even solid walls. Listen to this hydrothermal vent deep under the ocean. So in nature, sound is everywhere and silence is an illusion.
+
+
+And now back to the episode. So scientists are also listening to the vast extent of interspecies communication. So this bat is using ultrasound to hunt this moth. Its echolocation beam is locked onto its prey, but the moth is also emitting ultrasound. It's jamming the bat sonar in an attempt to escape. This plant is also emitting ultrasound, which varies depending on its condition. Scientists have trained an algorithm to listen to this plant simply by listening. It can detect with about 70% accuracy whether the plant is healthy, dehydrated, or injured.
+
+
+So this is peer reviewed research, by the way. So we cannot hear these sounds, but we think many insects can. Does this mean that humans could use digital tech to one day communicate with other species? Well, some scientists think so, and they're using machine learning to try to decode the acoustics of other species. So they're teams of computer scientists and linguists and biologists working on decoding sperm whale bioacoustics. They're also building entire dictionaries. So there's an elephant dictionary with thousands of sounds. Elephants, for example, have a specific signal for honeybee.
+
+
+So I'd love to share just one of these sounds with you. It was recorded at a moment of great joy and celebration the birth of a new baby. So the further we listen across the tree of life, the more complex interspecies communication would be. Listen to this honeybee.
+
+
+Now listen to this honeybee queen. So you thought you knew what honeybees sounded like. Okay. Honeybee communication is incredibly complex. It's acoustic positional, spatial vibrational. The queen has her own signals. So scientists are encoding these signals into robots one day. We hope the inventors hope that this robot will communicate well enough to allow scientists to monitor the health of the hive. Now, would that be a good thing? Some believe that interspecies communication would help foster respect and empathy for nature.
+
+
+Others believe that it is profoundly disrespectful and unethical to eavesdrop and engage in this way, and there could be a really big downside. Listen to this, Robin. So that was not actually a robin. That was a deep fake created by an artist Daisy Ginsburg using ai. Clever, beautiful. But think of the potential for misuse by hunters or poachers. Interspecies. Communication needs strong ethical guardrails. And anyway, maybe it's a bit self-centered to think other species would even want to communicate with us.
+
+
+So what if we were to use bioacoustics for something of immediate practical value, like doing something about our massive biodiversity crisis? Let's go back to the coral reefs. Listen to this healthy reef sound pretty lively, right? But coral reefs are disappearing. If you were to go to most coral reefs today, you'd hear something like this. It's like a ghost town of the sea. When we lose species, we lose voices.
+
+
+When we lose landscapes, we also lose soundscapes. There is a ray of hope. The healthy reef sounds that you just heard can be used to regenerate coral reefs. Scientists are doing this, it's a bit like music therapy for nature. So this is not gonna solve all the problems coral reefs face, notably climate change. But if we can address the massive epidemic of noise pollution that is harming and killing marine creatures, we could use bioacoustics to restore some biodiversity. Bioacoustics would also help protect animals on the move. So this is, this baby well was killed by a ship tragically, this is a common cause of death of North Atlantic, right whales, one of the most endangered species in the world.
+
+
+So to address this, scientists are now launching a new bioacoustics program off the east coast of North America to triangulate the locations of whales and convey the information to ships captains in real time. The ships then have to slow down, stop, move out of the way. Not a single right whale has died of a ship strike in this zone since this program was launched. This. So this may be the thing that saves this species. So think about it. A few decades ago, we were harpooning these whales nearly to extinction. Today we've invented a technology that that allows a community of less than 400 whales simply by singing to guide the movements of tens of thousands of ships in a watershed that's home to tens of millions of people One day, these whale lanes may be everywhere in the oceans for the orcas who live here in the sailors sea.
+
+
+This would be just in time because there are only a few dozen left. A final thought, About 400 years ago, the inventors of the microscope were astonished to discover the microbial world. They had no idea their invention would lead to the discovery of DNA and the ability to manipulate the code of life. Around the same time, the inventors of the telescope were gazing up at the stars, not knowing their invention would allow humanity to look back in time to the origins of the universe. Optics descenters, humanity within the solar system within the cosmos, bioacoustics, descenters, humanity.
+
+
+Within the tree of life, our commonality is greater than we knew. Now today, we're using bioacoustics to protect species and decode their communication. But tomorrow, I believe we'll be using bioacoustics combined with machine intelligence to explore the frontiers of biological intelligence. Many biological intelligences are very different than our own, but they're no less worthy of exploration. And maybe one day in a speculative future, instead of a human here on stage, maybe Bioacoustics would enable an orca to give a TED talk. Why not?
+
+
+Sharing orca stories about dodging ships and seismic blasts and human hunters stories about desperately seeking the last remaining salmon stories about trying to survive on this beautiful planet, in this crazy moment, in our era of untethered human creativity and unprecedented environmental emergency. Now those would be ideas worth spreading. Thank you.
+
+
+That was Karen Backer speaking at TED 2023. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Bazo. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feet. Thanks for listening.

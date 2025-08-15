@@ -1,0 +1,68 @@
+
+To get people excited about Boost Mobile's new Nationwide 5G Network, we're offering unlimited talk text and data for $25 a month forever. Even If you have a baby, even If your baby has a Baby, even If you grow old and wrinkly and you start repeating yourself, even If you start repeating Yourself, even if you're on your deathbed and you need to make one last call or text right, or text the long lost son you abandoned at birth, you'll still get Unlimited talk text and data for just $25 a month. With Boost Mobile forever. After 30 Gigabytes, customers may experience slower speeds. Customers will pay $25 a month as long as they remain active on the Boost Unlimited Plan forever.
+
+
+This is a mini meditation guided by Bombas. Repeat after me. I'm comfy. Comfy. I'm cozy. Cozy. I have zero blisters on my toes blisters, and that's 'cause I wear Bombas. The softest socks, underwear, and t-shirts that give back One purchased equals one donated now go to bombas.com/acast and use code acast for 20% off your first purchase. That's BOM bs.com/acast and use code acast at checkout
+
+
+Support for this podcast and the following message is brought to you by E-Trade from Morgan Stanley. With E-Trade, you can dive into the market with easy to use tools, $0 commissions, and a wide range of investments. And now there's even more to love. Get access to industry leading research and insights from Morgan Stanley to help guide your decisions. Open an account and get up to $1,000 or more with a qualifying deposit. Get started today@etrade.com terms. Another fees apply. Investing involves risks. Morgan Stanley Smith Barney, LLC Member SIP E-Trade is a business of Morgan Stanley.
+
+
+You are listening to TED Talks Daily where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. We are still early in the new year and extreme weather and wildfires have already displaced and threatened so many people here in Southern California, which is where I am based, so it is timely to hear from grid guru Jason Huang In his 2024 talk. He presses the need to upgrade the power grids to be more resilient in natural disasters and to better support the transition to renewable energy. It couldn't be more important. Right now that's coming up.
+
+
+One of the greatest invention of all times is our transmission and distribution grid. It connects electricity generation to electricity consumption, safely, reliably resilient against extreme weather conditions and keep our lights on. But if we were to facilitate electrification of everything, this most sophisticated and largest machine or earth is not quite large enough to take on all the renewable generations from where the sun shines and the wind blows to where people actually live.
+
+
+It does not have the capacity to handle the two third energy that we consume, not yet in the form of electricity. Without transmission, we have no transition. The real bottleneck in our power grid is actually the conductors. Those wires that are carrying electron are based on outdated technology invented in 1908. It has limited capacity and also poor efficiency. The next generation of advanced conductor exists. It has been invented, leveraged in the best material science today has to offer to build the best conductors.
+
+
+This is what the company I co-founded TS conductor is working on. It can triple line capacity at the same time reduce line loss by 50%. The best part is it comes with a green discount saving utility and their customers money from day one. There are many things in our lives that are over a hundred years old, so why are we still using and are relying on those old fashioned power lines? This is because our utility companies are regulated monopolies with a very conservative culture.
+
+
+To understand today's advanced conductor, let's take a look at yesterday's wires. The original century old technology, A CSR conductor, which is still dominant today in our power grid. It has steel wire as a core for structural support in layers of aluminum for electrical connectivity. The steel wire at the time a hundred years ago, that is wasn't strong enough, so we had to use hard aluminum for strength contribution. The problem is hard. Aluminum cannot handle high temperature. This limits capacity. In the 1970s, our steel industry was able to deliver stronger steel, which then can be combined with a neuro aluminum that forms the A CSS conductor, which is capable of high temperature operation for high capacity.
+
+
+The problem is steel expands when hot. This causes excessive sagging. You probably have noticed that our our power lines droops drooping in the hot summer day, and that's why this SAG causes the own set of challenges. In the 1990s, advanced conductor emerged instead of the steel core in the traditional conductors composite material with lower solar expansion such as ceramic fiber composite or glass carbon fiber composite are used to replace steel and reduce sag.
+
+
+Unfortunately, our utility industry experience with this group of first generation advanced conductor hasn't been positive. They're known to be delicate, difficult to work with, easy to break with longevity concerns, and they're also very expensive use for niche applications. At best. By 2016 TS technology was developed and commercially deployed. We solved all the problems associated with the first generation advanced conductor at its source with designing safety, reliability, longevity, easy installation and maintenance from the start.
+
+
+By leveraging effective protection for the pretension carbon core with a continuous seamless, a thick aluminum sleeve that is also fully conductive. This technology shifted three conductor paradigms. We can run these conductor at high temperature for very high AmpaCity without conductor sagging problem because the carbon core has virtually no solar expansion. We also maximize the aluminum content in the conductor for optimal AmpaCity without the weight penalty in the conductor.
+
+
+This is because the carbon composite core was able to eliminate 80% of the weight of steel, and we can also incorporate the aluminum for best conductivity in the conductor without compromising on conductor strengths because the carbon core is twice the strengths of steel. And furthermore, this solution is also corrosion proof. The heat tolerant SAG proof feature in this solution makes it much better in terms of surviving wildfires compared to traditional conductor. The strong and compact design also make it more resilient against extreme wind or ice storms due to climate change.
+
+
+Doing this, we can triple line capacity with the same structure in the power line corridors. At the same time, we can reduce line loss by 50% while essentially eliminating somo sag. And the best part is this technology comes with a green discount in addition to green dividend that's associated with line loss reduction. This saves the grid operators and their customers money from day one, even though this advanced conductor has a modest premium compared to traditional conductors. Here's how when you build new transmission lines, the cost of conductor in the overall project is very minor about a few percentage points, but the cost associated with structure can be as much as 30%.
+
+
+With the strong less SAG TS conductor, you can build these new lines with fewer and shorter structure, creating substantial CapEx sevens that more than offset the modest premium associated with conductors. There are numerous new transmission lines deploying tsta technology that can prove this point. In reconductoring, we replace the wire but reuse the towers. There's even better economics in that situation. We can triple the line capacity without retrofitting any structures for the lowest project cost.
+
+
+If you were to use traditional conductor for reconductoring, the required upgrade to the structure can be substantial. Let me give you a real world example. In March, 2021, we re conducted a 11 mile 230 KV transmission line. In North Dakota, the utility needed to increase line capacity to accommodate wind farms in the area. So the traditional conductor A CSS was initially used, which required expensive and time consuming structural retrofit to 90% of the structures because of excessive sagging.
+
+
+When the later switched to Ts solution, they were able to save 40% in total project CapEx because we avoided all the structural retrofit. The project was completed 12 months ahead of schedule with $1.8 million CapEx savings. Let's imagine what is possible if we thus upgraded our power grid and its capacity around the world. We could connect the renewable generation instantly versus the years long weight that we're experiencing today. No more bottlenecks that's holding back wing or solar projects.
+
+
+We can electrify everything and meet the growing power demand for electric vehicles, heat pumps, industrial process, and data centers without grid reliability or transmission congestion constraints. Here's a big one. We can dramatically reduce greenhouse gas emission just with the reduced line loss saving alone. We can avoid as much as 500 million ton of greenhouse gas each year because we do not have to do as much compensatory generation. Add to that, the multi gigaton opportunity.
+
+
+If we are able to connect so much more solar and a wind to the world's power grid, you can make it happen. For example, you can support legislation, policymaking, and regulations that require our utility companies to consider advanced conductor in transmission reliability, decarbonization or grid modernization planning, while at the same time providing performance or other incentives that are enabled by new technology like Ts so that they can improve grid performance.
+
+
+By investing in this technology, conductors has a design life of 50 to 70 years. Let's upgrade our power grid, build it better for a clean energy future. Today we cannot afford to have another 50 to 70 years locked up with century old technology in our power grid. I believe firmly that our power grid can and should be the enabler for energy transition. We have opportunity to write that legacy. We went from dial up internet to 5G in a couple of decades.
+
+
+We can do the same for our power grid. We just need to start now with the right conductor technology available today, together we can make a difference for humanity and for climate change. Thank you. That was Jason Huang at TED Countdowns Dilemma event in Brussels. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar.
+
+
+It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Bazo. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feet. Thanks for listening. 16 Pro.
+
+
+Does it ever feel like you're a marketing professional just speaking into the void, void? Well, with LinkedIn ads, you can know you're reaching the right decision makers. You can even target buyers by job title, industry, company, seniority skills. Wait, did I say job title yet? Get started today and see how you can avoid the void and reach the right buyers. With LinkedIn ads, we'll even give you a $100 credit on your next campaign. Get started at LinkedIn dot com slash results. Terms and conditions. Apply
+
+
+Support for this podcast and the following message is brought to you by E-Trade from Morgan Stanley. With E-Trade, you can dive into the market with easy to use tools, $0 commissions, and a wide range of investments. And now there's even more to love. Get access to industry leading research and insights from Morgan Stanley to help guide your decisions. Open an account and get up to $1,000 or more with a qualifying deposit. Get started today at E-Trade dot com terms and other fees apply. Investing involves risks. Morgan Stanley Smith Barney LC Member SIP E-Trade is a business of Morgan Stanley.

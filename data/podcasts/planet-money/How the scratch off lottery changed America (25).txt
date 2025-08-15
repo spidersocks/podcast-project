@@ -1,0 +1,155 @@
+
+This message comes from Capital One. Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply see Capital One dot com slash bank for details. Capital One, na member FDIC.
+
+
+This Is Planet Money from NPR. R Joe's Market in Quincy is one of the biggest lottery retailers in Massachusetts. It, it's got all your convenience store staples, but, but the area behind the counter is dominated by scratch tickets, at least like 50 different clear plastic boxes all numbered and all dangling these colorful tickets. Could I ask you a few questions for the podcast? Sure. So what are you playing right now? I play $50 every day. Have you won yet? Right There so far. They spend 300 bucks on the bucket. There's nothing, what This man is playing is the state's brand new $50 scratch ticket.
+
+
+He points at the serial number on the top right corner to show he's keeping track. This is ticket number seven for today. The other six are in the trash bucket already. Six $50 tickets. Okay, come on. Until I'm broke. So why do you keep playing? I'm Dreaming to get the big one. Yeah. So I can retire. I'm 75 years old. Yeah, I don't have a money in retiring Too late to stop now because I already spent so much money. So maybe this one, but end up getting broke and broke. This man is happy to talk money a couple times. He opens up his wallet and shows me exactly how much he has left, how much he's spent.
+
+
+But he doesn't wanna say much about himself, including his name. We know that he lives nearby, that he works as a mechanic, which, you know, fits with a dark blue work pants and black t-shirt. He comes here on his lunch break, part of his, his daily routine. Yesterday I had 1500 count that only about 900 left, 600 already out. If the wife find out You're dead Done. The US Census Bureau collects lottery sales figures for every state. And you can see right away, there are some stragglers on the low end, like Wyoming, North Dakota, where the average adult spends around $50 a year on the lottery.
+
+
+Then there are a lot of states in the middle, California, Texas, Illinois, all in about the $300 range towards the top. You've got New York, Michigan, Georgia, they're all around five or $600 per adult per year. But then there is the loan outlier way off the charts at 1030 $7. That's 1030 $7 of lottery tickets per adult sold every year in the state of Massachusetts. That is the reason I'm here at Joe's Market to try and understand that number. You got a winner right Now. 100 OHN On his next $50 ticket. Number eight for the day.
+
+
+Our anonymous mechanic catches a break. He wins a hundred bucks. So what are you gonna do with that? A hundred dollars? I'm gonna buy number two. All right. That a hundred dollars he won. Turns into another round of tickets, then another round, not Illusion. Then one last round, I'm gonna buy one more and that's it. This time it sticks. That's it. I'm done. Alright, back to work. I try to ask his name one more time as he opens the door and he responds. Jack, Jack, Jack, thank You Jack for talking to me. What, Which I know is not his name. It's the name of the store clerk. Everyone turns to look.
+
+
+I am the chair. Everybody's Jack. Everybody's Jack. Someone says, and with that, the man is gone. Hello and welcome to Planet Money. I'm Kenny Malone. And I'm Ian Ka And Ian, you are here today as the, the host of a special series from NPR Member Station, GBH in Boston. That series is called Scratch and Win. It chronicles the history of lotteries in America. And Ian, you have brought us part of that series today. Yes. Yeah. Specifically we're talking about the birth of the scratch ticket, which more than any other lottery game, totally transformed the way we gamble, Kenny, get this.
+
+
+Americans now spend more on scratch tickets than we do on pizza. More than we do on All Cola products. Yet the scratch ticket as a, you know, consumer item has only existed for fifty years. And it all started in Massachusetts Today on the show, the unlikely story of how Massachusetts became the lottery capital of America. It's a tale of high level mathematics, organized crime, and perhaps the single most important use of a can of fresca in American history
+
+
+Support for NPR. And the following message come from ID tech. Id Tech is where kids ages seven to 17 find their people, the battle bots, game design, and more people. Go to id tech.com and use code id tech to save $150 this summer.
+
+
+Support for this podcast and the following message come from LinkedIn marketing solutions. One of the hardest parts about B2B marketing is reaching the right audience. So when you wanna reach the right professionals, use LinkedIn ads. Target your buyers by job title, industry, company role, seniority skills, company revenue, all the professionals you need to reach in one place. LinkedIn will even give you a $100 credit on your next campaign, so you can try it yourself. Just go to LinkedIn dot com slash money. Terms and conditions apply only on LinkedIn ads.
+
+
+This message comes from stamps.com. Work takes up a lot of your day, but you should still have flexibility to decide how to invest your time. If your day is consumed by tedious mailing and shipping tasks, stamps.com gives you the flexibility to focus on what only you can do. Go to stamps.com and sign up with code NPR for a special offer.
+
+
+The story of scratch off lottery tickets begins with and apparently not very good board game. When I was a graduate student at University of Michigan in the late sixties, I had published a, a board game involving the electoral college. This is John Coza, Which by the way was a commercial failure and way too complicated. So back in the 1960s, John was in grad school studying computer science. The board game was one in a string of side hustles and pet projects. In any case, an executive of this game company in Chicago. This was a company that made supermarket and gas station giveaway games read an article about this game that I had produced and he thought it might be relevant to his company's business.
+
+
+So this company's business, the the supermarket games, these were popular in the 1960s. Stores would give them out for free as a little treat to customers. And the prizes were fairly small, we're talking like as small as half a penny. But these games did use a kind of rub off film. What the company was making was in effect proto scratch tickets. And we got to talking and it turned out that they were trying to produce a, a kind of game where every ticket could be a winner. Yeah. So, so the way this particular game worked was there were 10 scratch off spots on the game ticket and each revealed a playing card, you know, like Ace King, queen Jack.
+
+
+So you scratch off three spots if those match you win. Again, mostly just small prizes like pennies. The catch was that if the company printed all the game tickets exactly the same, people would notice the pattern and just keep winning. So what this company needed help with from John was a way to make many, many different versions of this ticket all different so that people couldn't just know where the matching cards were. They were looking for somebody who knew something about probability and combinatorics and finite mathematics, which as it happened, was something I was very much involved in as a student.
+
+
+So while still, you know, chipping away at his PhD, John started to work with this game company. We came up with a system of, of, of printing that produced a half a million different patterns, which was an extraordinarily large number. And that was enough to provide security for the games At least security in theory, Probably in about half the games we ran, there would be a sort of a little run of tickets in a little town, and you'd realize that somebody in that town figured out some weakness in the game that we had missed. For example, a player might notice some subtle but distinct pattern in the layout of the tickets and be able to predict where the matching cards were.
+
+
+Or maybe they'd figure out a way to actually see what was printed underneath that scratch off film. And of course we would fix it for the next game. So we never had a big problem, but it was a knife edge process Still, you know, like having a chance to encounter those weaknesses, those vulnerabilities in a low stakes environment. It was kind of giving John the chance to beta test a method and work out all the bugs We had perfected a system that could produce a very, very secure ticket, Unpredictable and unhackable a perfect game of chance with the odds calibrated exactly how the company wanted.
+
+
+And just when it seemed like they had it all figured out. This game company John was working for j and h went bankrupt in December of 1972. They cut John loose, Which coincidentally was exactly the month when I graduated and got my PhD. So now you're a newly minted PhD unemployed with years of experience in the, the nascent instant ticket business. What do you do with all that? Well, again, a lucky coincidence in the last year of J and H's existence, we actually made some sales calls on state lotteries trying to see if they would like to run a game like this.
+
+
+Yeah. So the idea was to take this ticket design that John had perfected in the form of a fun promotional gimmick and bring it into the big leagues of actual gambling. Like instead of pennies, the ticket could offer up thousands of dollars if that is, they could find a state willing to try this. So at that time, 1972, there were just seven states operating lotteries. And to be clear, these were generally at best weekly drawings. There weren't like ping pong balls and giant fish bowls on television every night. It was not that, It was not the Pennsylvania lottery Seared in your mind. Oh, For the rest of my life, that jingle will exist anyway.
+
+
+Yes. In other words, the lottery was boring and slow, notably slow. You buy a ticket, you wait, which is definitely not like, I don't know, a slot machine where you, you pay and Then you play and you get the adrenaline rush of finding out right away, The scratch ticket promised to change all that. It was an instant lottery in your hands. I Mean, in fact, that was John's pitch, like instant gratification, excitement. Like that was the lottery of the future. And when states heard that pitch, well it, it apparently did not work, actually did not land. State government bureaucracies are not usually known for being too innovative too quickly.
+
+
+And since it was a state government operation, they were super concerned with security and credibility and integrity. Right. Credibility and integrity over innovation because of organized crime. I mean, it's hard to imagine passing on the instant ticket now, but gambling in the seventies was largely associated with the underworld, the mob. So these state run lotteries were very, very conservative. Yeah. Lotteries gambling was a shadowy business that states were wading into cautiously and, and any whiff of irregularity, a a fixed drawing, a forged ticket, it would shatter the public's trust.
+
+
+States Were so concerned about organized crime that they didn't hire people who designed games for a living to run these lotteries. They got former FBI agents. So yeah, organized crime may have been in the back of state's minds when they were not interested in John's flashy new lottery scratchers. However, ironically, the mob might also be the reason that Massachusetts decided to be less conservative about their lottery. Which brings us to the tail of Fat Vinny, the stool pigeon. It's the early 1970s. The head of the organized crime strike force based outta Boston was a man named Ted Harrington.
+
+
+I Took over the strike force sometime in 69 or 70, And Ted helped to develop a key mafia informant right there in Boston named Vincent Theresa known to his critics, as you guessed it, fat Vinny, the stool pigeon, the two would meet secretly in guarded motel rooms around the state. He was a big, big burly guy and he knew a lot of people. I remember that. Was he a little intimidating? No, he was a, there's different type of gangsters, at least in my judgment.
+
+
+There is the killer or there the con man. Finney was the con man And Finney was also the informant of, of course. And, and as an informant, Mr. The stool pigeon testified in court lots of times and, and perhaps most notably for our story, he also testified in front of a United States Senate hearing about organized crime. When you speak of, of the, in the mob, when you speak of that. So here we've got Vincent Teresa sitting in front of federal lawmakers, slick suit tv camera's rolling. And he says this organized crime stuff.
+
+
+It all boils down to one thing. I'm talking about a definite syndicate operation that strictly starts with gambling. It all starts with gambling, all starts with gambling. Without gambling, they got nothing. Did his testimony inform your thinking? Well, of course it shaped everybody's conception of organized crime. Vinny once described gambling as quote, a chain link fence that stretches to every place in the world. From it comes the corrupt politician and policemen the bribes in payoffs and sometimes murder. If you could crush gambling, you would put the mob out of business.
+
+
+In fact, part of the reason state laies were popping up in the first place was to do just that. To, to offer a legal alternative and ideally put the mob out of business. And I mean, also so that the states could have a little extra revenue stream, but you know, whatever. Yes. Put the mob out of business, but that was not working. Yeah. The illegal numbers. Rockets were still popular because the illegal games could offer their customers things. The state lottery couldn't daily action Winnings with, with no worries of taxes. Yep. Better odds, better payouts, Anonymity, I guess. And also the, the ability to bet on credit. If you feel pretty good about your kneecaps, Kneecaps aside though, why would you wanna play the boring state lottery?
+
+
+As Al Capone said, I'm performing a public service, I'm giving the public what they want. And at the initiation of the lottery, the under will was still providing better services. When something that was illegal becomes legal. It's tempting to think you get a simple substitution. What once happened in the shadows now happens in the open. But the reality is that the two worlds compete. They innovate, they dance, they force each other to change, and the end result is something entirely new, often unexpected. One of those strange outcomes is the scratch ticket.
+
+
+Yes. Two John Coza are unemployed computer scientist. The, the potential of his game design seemed completely obvious. Like again, it was instant lottery, something, something that even the mafia could not offer their customers. So after John was laid off, he and another jobless colleague, Dan Bauer, decided to start their own company, scientific Games. It was just the two of them operating out of an apartment in Ann Arbor, Michigan and a kitchen table in Chicago. And in 1973, the year after his first round of pitches, John started going back to those same lotteries they had pitched before. But, but this time there was one place that was ready to hear them out.
+
+
+Massachusetts, even better, the director of the Massachusetts lottery was not one of those, those FBI agents, The director there was a, a PhD in mathematics. So he happened to really understand the scientific basis for what we were doing. Everyone called the lottery director Dr. Dr. Peralt. And in addition to being a mathematician, Dr. Peralt also happened to be an expert bridge player who once took his eight children on a family vacation to Las Vegas, in part to study the wheels and cards as illustrations of statistics. You know, those kids still talk about that vacation and hate it, right, Ian?
+
+
+There's no way that was a good vacation. No, but when John Coza was there, lucky for him, the PhD in computer science worked well for Dr. Peralt. He arrived in Massachusetts with his pitch for an instant ticket. Things seemed promising, you know, that man in charge spoke his language combinatorics and, and all, and the people around him were eager to try something new. There was just one problem. They had already given a contract for the Instant game to another company. So it turned out another company had beaten them to the same idea. It was not a scratch ticket this other company was offering.
+
+
+It was much more low tech, like an advent calendar with little paper flaps, but still it claimed to offer the same basic novelty of an instant reveal. And those brand new tickets, they were already in the warehouse. Yeah. Quite bad for John, but he was convinced his ticket was better. You know, John had spent so much time making those supermarket scratcher tickets. He had seen the ways that people hacked those tickets at first, and he was sure that this other company, they could not have made a ticket as secure as his. There was no way. So John told Dr. Peral and the lottery officials as much and they made a deal on the spot.
+
+
+John was allowed to take home 50 of these new tickets and do his best to prove they could be hacked. They gave us the tickets. I went back to 10 Harbor, then went back to Chicago and they gave us a week or so After the break. How to hack a lottery with a can of diets ci dress soda.
+
+
+This message comes from Greenlight. Parents rank financial literacy as the number one most difficult life skill to teach with Greenlight. The debit card and money app for families. Kids learn to earn, save and spend wisely. Get started risk free at Greenlight dot com slash npr.
+
+
+This message comes from Insperity providing HR services and technology from payroll benefits and HR compliance to talent development. Learn more at insperity.com/hr matters.
+
+
+This message comes from NPR sponsor Lands End Outfitters. Your brand is important and they create apparel your team will want to wear. Go to business dot lands in.com/pod 20 and use Code Pod 20 for 20% off your first product.
+
+
+Now, the thing the Massachusetts lottery was worried about, the, the danger in starting a brand new instant lottery ticket is that if that instant ticket had a vulnerability, then any convenience store clerk with a stack of tickets might be able to figure out which ones of those are winners, which ones are losers, and Then, you know, hand out the winners to friends, keep them for themselves, like just, just corrupt the whole system. Again, lotteries were terrified of losing credibility and trust. This would've done just that. So John Coza back in Ann Arbor, he got to work. This other company's ticket was made of, of pretty thin paper with flap doors over the hidden numbers held down by glue.
+
+
+So John's goal was to see if he could reveal those numbers without visibly altering the ticket that would be hacking the ticket. And within 24 hours, John was ready to report his findings. So he flew back to Boston. This time Dr. Peralt great vacation giver. No, just kidding. This time Dr. Peralt was waiting on the runway to greet them and carry their bags. Everybody convened at lottery headquarters, probably like half a dozen men in dark suits gathered around a conference table eagerly awaiting this presentation from John. Remember, they had not only given a contract to this company to print the tickets. Tickets were already printed and in the warehouse ready to be issued.
+
+
+And there were 25 million of them Patiently. John began to walk the lottery staff through his findings. There were, he explained at least three distinct vulnerabilities. One of them involved a cystoscope, which is a medical device. A cystoscope has a tiny lens on the end of a thin flexible tube. A doctor might use it to examine the inside of a patient's bladder. For example, John used it to peer underneath the tickets flap doors. That was one way in. And these tickets were printed on just really ordinary paper with line printers or line printers like a typewriter. Mm.
+
+
+It would make a physical bang impression and in dent the paper. So method number two was that if you ran the tickets through a photocopier, that raised impression from the printer was just prominent enough that the hidden numbers would come out in the copy. Now, the average convenience store clerk probably does not have access to a cystoscope and may not have a copier in 1973. And so John presented his final foolproof technique in a dramatic demonstration. John opened a bottle of fresca, something you certainly could find in the average convenience store.
+
+
+He poured the fresca on the ticket and the glue, which was supposed to be the ticket's Sacred seal. It simply let go. You could peel the whole thing apart, read the numbers, and glue it back together again. It was compelling, let's put it that way. The, the, when the demonstration was over, there was no doubt. Now Ian, do we know why Fresca, was it like what John had around, was it the, like an ingredient in Fresca? Like what is happening? I, you know, John did not elaborate on why Fresca in particular, but as you're saying, you know, it's a citrusy, acidic kind of drink. So I don't know, maybe it's a good solvent. I'm just speculating. I have no idea.
+
+
+We're An economics podcast. We're not A science chef. I'm totally out over my skis here. Yes, yes. What John did say is that after this presentation, the lottery staff were horrified. Had they run it, it would've been a disaster and there would never have been an instant lottery, I'm sure in any state for decades, it would've been a totally discredited idea. At that point, the Lottery canceled their existing contract and put out a new bid. John CO's company, scientific Games won the new contract and their product, which used an indentation free paper and of course that famous shiny metallic film that became the world's first scratch ticket ever.
+
+
+On May 29th, 1974, just over 50 years ago, people walked into convenience stores and gas stations around the state and saw that ticket. One liquor store owner described the scene as quote, instant insanity. A pharmacy had to set up separate sales counters at the back of the store just for lottery tickets so that non lottery customers wouldn't be disturbed by the apparently unruly crowds within a day. Stores across Massachusetts had run out of tickets and were waiting to be resupplied. Did you realize that you had created something that would be huge? Absolutely. That would spread. In fact, when when I submitted the business plan to our local bank, I had predicted that we would sell $6 million in tickets the first year.
+
+
+And the vice president of the bank that I was working with at the time, he said, I can't submit this to the loan committee. They, they will just laugh at this. So we cut it back to a million and the first year sales was $6 million. And that was because the other lotteries in 75, I think it was five or six other state lotteries simultaneously started instant games. Yeah. The other states had waited for someone else to take the plunge, but once they saw what was happening in Massachusetts, they jumped right in. We knew we had the world by the tail. Today Americans spend over $100 billion a year on lottery tickets.
+
+
+Almost two thirds of that total is spent just on scratch tickets. Yes. The big Powerball jackpots are what you see in the window of the convenience store on the billboard. They get more press and the keynote numbers are always flashing on the TV screen in the corner. But the scratch ticket, that's the bread and butter day in, day out game that keeps the money flowing. Have you, do you play other lottery games or just scratch tickets? Just scratch tickets. We now spend more on scratch tickets than we do on movie tickets, on concert tickets, on sports tickets combined. And the fact that the scratcher all started in Massachusetts.
+
+
+Well that is part of the reason that Massachusetts is spending more per person on average on lottery than anywhere else in the country. It's just been a hit scratch tickets. People want scratch tickets. Absolutely. You wanna win on the spot. Is that why you still play? Yeah, A lack of brains. One of those, please. So Ian Kos, Massachusetts native now lottery expert. I, I act, how do you end up feeling about being from a home state that is like the scratch capital being part of a state that spends way more on the lottery than any other place.
+
+
+Do you have a, do you have a sense of pride in this? How are you feeling? Look, so, I mean, Kenny, have you been to Massachusetts ever? Yes, a bit. If You've ever set foot in this state, you know, we take great pride in like our firsts. Our distinctions. We love a good historic marker. Yes, we've got, got plaques for everything. Here's the thing, I've never seen a plaque celebrating the lottery or the invention of the scratch ticket. I didn't really know any of this stuff before I started working on this story. And I think that's kind of telling. It's like it's something that people are not entirely sure how they feel about whether they're proud of or not. And I'll include myself in that.
+
+
+Sure. Which is ultimately why I love this topic so much. It's kind of a little uncomfortable. I mean, the way I see it, state lotteries and scratch tickets in particular are really kind of the key to understanding the world we live in today. And it's a world where gambling, right? Legal gambling is everywhere. It's at the corner convenience store, it's on your phone, it's on tv. And it's pretty crazy if you think about it, that in just a few decades we went from this world where gambling is like a shady business run by the mob, kind of on the margins to now gambling is an industry, right? It's, it's, it's this ubiquitous, incredibly aggressive industry.
+
+
+And however you feel about that, if you want to know how we got from there to here, the answer is a lot of this. Yeah. And I, And I suppose it's the, the instant gratification of the instant ticket Yeah. Is so much more like the kind of gambling we see today on our phones for sports than what lotteries ever were. So in that sense, we can thank instant lottery tickets for creating a social norm around that kind of thing. Yep. Instant gambling in the palm of your hand. Yeah. That's where it starts. Yeah. Well look, if you would like to hear more of Ian's fantastic series, just go look for Scratch and win to, to listen to the entire eight part series.
+
+
+I mean, what we've basically just played for you now is sort of episode one. So Ian, why don't you tell folks what they can expect from the rest of the series? Yeah, So in part two, we're actually gonna go back to before the scratch ticket to the story of how a state like Massachusetts got into the gambling business in the first place. The answer, which was very surprising to me, involves Church Hall Bingo. And it also involves a state treasurer who was so into vaudeville music that he installed a piano in the State House and started his own singing group called, and this is one for the Planet Money listeners. The Treasury Notes, I mean, come on the tea notes if that it's too doesn't get you to listen. It's too good.
+
+
+I don't know what will This episode of Planet Money was produced by James Snead. It was edited by Alex Goldmark, engineered by Valentina Rodriguez Sanchez, and fact checked by Sierra Juarez. The series Scratch and Win from GBH News is produced by Isabelle Hibbard and edited by Lacey Roberts. The executive producer is Devin Maverick Robbins. Special thanks to Jonathan Cohen for helping me connect with John Kza and for sharing so much material and insight from his own research.
+
+
+Thanks as well to my brother Sebastian for all the great hand me down shoes and clothes. They do still fit and also to the staff at Joe's Market in Quincy, And also all the jacks over at Joe's Market at Quincy. This one's for the Jacks. Shout out Jacks one through 15. Yeah. I'm Ian Kos. I'm Kenny Malone. This is NPR. Thanks for listening.
+
+
+This message comes from Charles Schwab. When is the right time to sell a stock? What is the best way to steer your portfolio through an unsteady market? Financial decisions can be tricky. Financial Decoder is an original podcast from Charles Schwab host Mark Repe, head of the Schwab Center for Financial Research offers practical solutions to help overcome cognitive and emotional biases that may affect our investing decisions. Listen at schwab.com/financial decoder, or wherever you get your podcasts.
+
+
+This message comes from Greenlight. Adults with financial literacy skills have 82% more wealth than those who don't. From swimming lessons to piano classes, parents invest in so many things to enrich kids' lives. But are you investing in their future financial success? With Greenlight, you can teach your kids financial literacy skills like earning, saving, and investing. Start prioritizing their financial education and future today with a risk-free trial at Greenlight dot com slash npr.

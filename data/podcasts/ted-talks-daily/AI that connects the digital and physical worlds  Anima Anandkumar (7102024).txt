@@ -1,0 +1,65 @@
+
+TED Audio Collective. You're listening to TED Talks Daily, where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. Today, how AI is transforming scientific research, whether it's weather forecasting or drug discovery professor, an AI innovator Anima Anandkumar sheds light on the way scientists can use AI to capture a whole range of physical phenomena and why this could be crucial in the fight against climate change after a short break.
+
+
+Support for the show comes from Capital. One Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts and no overdraft fees. Just ask the Capital One bank guy. It's pretty much all he talks about. In a good way. He'd also tell you that this podcast is his favorite podcast too. Oh really? Thanks. Capital One Bank guy. What's in your wallet terms? Apply. See Capital One dot com slash bank Capital One na member FDIC
+
+
+Support for the show comes from Brooks Running. My friends at Brooks sent me the amazing new Ghost sixteens. I don't know about y'all, but having new shoes, especially really lightweight ones that I like, get me out there. It's like enough motivation just to have that soft cushioning. You can take your daily joy ride in these better than ever ghost sixteens now with nitrogen infused DNA loft V three cushioning so lightweight, so soft, it'll help you turn your everyday miles into everyday endorphins. Let's run there. Visit Brooks Running dot com to learn more.
+
+
+Support for the show comes from Justin Wine. Whether you're a first time wine drinker or a wine aficionado, Justin has a wine for every celebration and occasion. As the pioneer of Paso Justin wines are what put Paso Robles, California on the wine making map with a rich history of accolades. Justin produces exceptional wines and is proud to be America's number one luxury cabernet. Visit justin wine.com and enter daily 20 for 20% off your order. Justin offers the perfect holiday gifts for clients, colleagues, friends, or family. Be sure to check them out@justinwine.com to receive 20% off your order. For a limited time,
+
+
+AI is shaking things up and it's fascinating, confusing, and sometimes scary. Our new podcast, the TED AI Show, helps you understand what you need to know about AI and how it's changing our world. I'm your host, Bala sdu, a creative technologist and AI innovator, and I ask experts, artists, journalists, and beyond to guide us through the thrilling world of tech and how it's gonna affect the future of our health, art everyday lives, and so much more. Each episode will leave you more informed and with tools to help you understand how AI will change your future. Check out the TED AI show wherever you get your podcasts.
+
+
+And now our TED talk of the day. I grew up with parents who are engineers. They were among the first to bring computerized manufacturing to my hometown in India. Growing up as a young girl, I remember being fascinated how these computer programs didn't just reside within a computer, but touch the physical world and produce these beautiful and precise metal parts. Over the last two decades, as I pursued AI research, this memory continued to inspire me to connect the physical and digital worlds. Together I'm working on AI that transforms the way we do science and engineering.
+
+
+Scientific research and engineering design currently involves a lot of trial and error. Many long hours are spent in the lab doing experiments. So it's not just the great ideas that propel science forward. You need these experiments to validate findings and spark new ideas. How can language models help here? What if I ask Chad GPT to come up with a better design of an aircraft wing or a drone that flies on a turbulent wind? It may suggest something, it may even draw something. But how do we know this is any good?
+
+
+We don't. Language models hallucinate because they have no physical grounding. While language models may help generate new ideas. They cannot attack the hard part of science, which is simulating the necessary physics to replace the NAB experiments in order to model scientific and physical phenomena. Text alone is not sufficient to get to AI with universal physical understanding. We need to train it on the data of the world we observe. And not just that.
+
+
+Also, its hidden details from the intricacies of quantum chemistry that happen at the smallest level to molecules and proteins that influence how all biological processes work to ocean currents and clouds that happen at planetary scales and beyond. We need AI that can capture these whole range of physical phenomena. We need AI that can really zoom into the fine details in order to simulate these phenomena accurately. To capture the cloud movements and predicts how clouds move and change in our atmosphere, we need to be able to zoom into the fine details of the turbulent fluid flow standard.
+
+
+Deep learning uses a fixed number of pixels, So. if you zoom in, it gets blurry and not all the details are captured. We invented an AI technology called neural operators that represents the data as continuous functions or shapes and allows us to zoom in indefinitely to any resolution or scale. Neural operators allows us to trade on data at multiple scales or resolutions, and also allows us to incorporate the knowledge of mathematical equations to fill in the finer details when only limited resolution data is available.
+
+
+Such learning at multiple scales is essential for scientific understanding, and neural operators enable this. With neural operators. We can simulate physical phenomena such as fluid dynamics as much as a million times faster than traditional simulations. Last year we used neural operators to invent a better medical catheter. A medical catheter is a tube that draws fluids out of the human body. Unfortunately, the bacteria tend to swim upstream against the fluid flow and infect the human. In fact, annually there's more than half a million cases of such healthcare related infections, and this is one of the leading causes.
+
+
+Last year we used neural operators to change the inside of the catheter from smooth to rich with riches. Now we have water disease created as the fluid flows, and we can hope to stop the bacteria from swimming upstream because of these waters. But to get this correct, we need the shape of the ridges to be exactly right. In the past, this would have been done by trial and error. Design a version of the catheter, build it out, take it to the lab, observe and hypothesis if something went wrong, rinse and repeat and redesign again.
+
+
+But instead, we thought ai, the behavior of the fluid flow inside the tube. And with it, our neural operator model was able to directly propose and optimize design. We 3D printed the design only once to verify that it worked. The bacteria are not able to swim. Upstream are are instead being pushed out with the fluid flow. In fact, we measured the reduction in bacterial contamination by more than a hundred fold. So in this case, the neural operators was specialized to understand fluid flow in a tube.
+
+
+What other applications can AI tackle and help us solve such pressing problems? And now back to the episode. Can deep learning beat numerical weather models? A group of leading weather scientists ask this question. In February, 2021 in a Royal Society publication, they felt that AI was still in its infancy and that a number of fundamental breakthroughs would be needed for AI to become competitive with traditional weather models.
+
+
+And that would take years or even decades, exactly a year later, we released forecast net using neural operators. We built the first fully AI based weather model that is high resolution and is tens of thousands of times faster than traditional weather models. What used to take a big supercomputer can now run on a gaming PC that you may have at home. This model is also running at the European Center for Medium Range weather Forecasting, one of the premier weather agencies of the world, and our AI model is not just tens of thousands of times faster than traditional models.
+
+
+It's also more accurate in many cases. On September 16th, last year, hurricane Lee hit the coast of Nova Scotia, Canada a full 10 days earlier. Our forecast net model correctly predicted that the hurricane would make landfall, but the traditional weather model predicted the hurricane would skip the coast only five days later on September 11th did the traditional weather model correct its forecast to predict landfall. Extreme weather events such as Hurricane Lee will only increase further unless we take action on climate change, such as finding new clean sources of energy.
+
+
+Nuclear fusion is one of them, but unfortunately there are still big challenges with it. The fusion reactor heats up the plasma to extremely high temperatures to get fusion started, and sometimes this hot plasma can escape confinement and can damage the reactor. We train neural operators to simulate and predict the evolution of plasma inside the reactor. And with it, we can use this to predict disruptions before they occur and take corrective action. In the real world, we are enabling the possibility of nuclear fusion becoming a reality.
+
+
+So neural operators and AI broadly are enabling us to tackle hard scientific challenges such as climate change and nuclear fusion. To me, this is just the beginning. So far, these AI models are limited to the narrow domains. They're trained on what If. you had an AI model that could solve all and any scientific problem. From designing better drones, aircraft rockets, and even better drugs and medical devices, such an AI model would greatly benefit humanity.
+
+
+This is what we are working on. We are building a generalist AI model with emergent capabilities that can simulate any physical phenomena and generate noble designs that were previously out of reach. This is how we scale up neural operators to enable general intelligence with universal physical understanding. Thank you.
+
+
+OMGS is a website of new findings from the largest ever research study into women's pleasure and intimacy in partnership with IU and Yale researchers. When you see such an open, honest evidence-based discussion of what feels good and why it becomes so obvious, that's how it should be. The techniques are beautifully organized and presented with women of diverse agents. Sharing from experience, no blushing, no shame. Binge watch, omg. Yes, solo with your partner, or discuss it with friends, like a book club. See it for yourself. At omg yes.com.
+
+
+Hi, I'm Bvo sdu, host of Ted's newest podcast, the TED AI Show where I speak with the world's leading experts, artists, journalists, to help you live and thrive in a world where AI is changing everything. I'm stoked to be working with IBM, our official sponsor for this episode. Now, the path from Gen AI pilots to real world deployments is often filled with roadblocks, such as barriers to free data flow. But what if I told you there's a way to deploy AI wherever your data lives? With Watson X, you can deploy AI models across any environment above the clouds, helping pilots navigate flights and on lots of clouds, helping employees automate tasks on-prem so designers can access proprietary data and on the edge. So remote bank tellers can assist customers. Watson X helps you deploy AI wherever you need it, so you can take your business wherever it needs to go. Learn more at ibm.com/watsonx and start infusing intelligence where you need it the most.
+
+
+That was Anima Anandkumar at TED 2024. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fey. Bogan. Additional support from Emma Tabner, Daniela Bazo and Will Hennessy. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feed. Thanks for listening.

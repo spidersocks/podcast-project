@@ -1,0 +1,110 @@
+
+This message comes from Discover accepted at 99% of places that take credit cards nationwide. If you don't think so, maybe it's time to face facts. You are stuck in the past based on the February, 2024 Nelson report. More at discover.com/credit card.
+
+
+This message comes from Insperity providing HR services and technology from payroll benefits and HR compliance to talent development. Learn more at insperity.com/hr matters.
+
+
+This is Planet Money from NPR R. Well, and if you were trying to make as much money as you could from being the president, what would you do? I would turn the situation room into an escape room and rent it out for birthday parties and corporate team building. I Was thinking cameo videos would make a nice birthday present for somebody. Yeah. What if they just set up a big shady carnival on the south lawn? Be like, here, try this. Ring toss. There are no bad ideas. Carry on. What about selling a meme coin with my name on it and the top meme coin buyers get to join me for dinner. Now You're onto something, president Wong. That is exactly what President Trump did last month.
+
+
+If you were among the top 220 holders of the Trump coin, this cryptocurrency, you could have joined the president for a gala dinner. Ooh, I can taste that Rubbery fish now. No. You know, Darien, these are the kinds of shenanigans that have me asking. Is this even legal? Hello and welcome to Planet Money. I'm Waylon Wong. And I'm Darien Woods. Today on the show, Two Indicators on our crypto president. First, the Trump coin. We explain what it is, how the real Donald Trump profits from it, and yes, whether this whole crypto scheme is within the law, Then we look into stable coins, how they work, how they make money, and for whom
+
+
+Support comes from our 2025 lead sponsor of Planet Money Amazon Business. How can you grow your business from idea to industry leader? Bring your vision to life with smart business buying tools and technology from Amazon Business. Simplify how you stock up. To get ahead, go to amazon business.com for support.
+
+
+This message comes from Capital One. Your business requires commercial banking solutions that prioritize your long-term success with Capital One. Get a full suite of financial products and services tailored to meet your needs today and goals for tomorrow. Learn more at Capital One dot com slash commercial member FDC.
+
+
+This message comes from Dell Technologies. The power of Dell AI with Intel inside is transforming the world of pro sports using realtime analysis to help give teams a winning edge power. Your wins at Dell dot com slash win.
+
+
+Donald Trump is associated with a few cryptocurrency ventures. The Melania meme coin is one World Liberty Financial Crypto company is another. We'll get to that one later, but right now we're going to hone in on the Trump meme coin. The Trump coin is similar to any other meme coin, which is to say it's basically digital monopoly money based on some kind of in joke or meme or famous person In this case, they set up a new type of coin on the Solana blockchain. That blockchain is a record of all the buying and selling that happens. Got First 200 million coins were released by selling them to the public A few days before the presidential inauguration in got first few weeks after the launch, the Trump crew got more than $300 million from this according to the Financial Times And several million dollars more from transaction fees as well.
+
+
+But who's counting the Trump associated companies running the coin have promised never to release more than a billion coins. So there's 800 million more to go. That means a lot more money that Trump and his partners could get. Yeah, and there's a specific schedule of when these extra coins will get released. Now we don't know what the demand for Trump coins will be then, but if the team behind the Trump coin were to sell their 800 million coins today, they would get more than $10 billion. Yeah. That is not just talking about monopoly money now. No, this is like a warehouse full of actual money. People might buy these coins for speculation, just thinking that someone else is gonna be more foolish than them and buy what is basically a made up currency at a higher price.
+
+
+Or they might just buy them for fun or for symbolic support of Trump. Or as we've heard from some coin holders, they might also buy the coins hoping for access to the president. Yeah. So who exactly is paying for these meme coins is of real public interest. Nikolai Sono Gore is exactly the kind of crypto enthusiast who tried to figure out as many of these Trump meme coin buyers as he could. It Really does feel like detective work. Nikolai works as a research analyst at the cryptocurrency research firm. Sen, how Do you keep track of it all? Presumably not with strings and pins on a on a board behind you Actually actually considering getting a board Got first step for Nikolai is to look at the blockchain.
+
+
+That's where Nikolai can see each purchase tied to a wallet as in a digital wallet that allows someone to access and trade their cryptocurrencies. Sometimes you find like these small breadcrumbs. So it would be they transacted with some specific wallet and that wallet happened to have a specific domain name and that name has been mentioned somewhere online. And based on that person who mentioned it, you can find another wallet and Then you, you suddenly in this whole loop of an entire like web of evidence Before the dinner, Nikolai was able to trace roughly five of the top 220 crypto buyers. He managed to find more details on 30 to 40 more buyers.
+
+
+But these were connected to online accounts that used pseudonyms. Nikolai says that at that time, among the identifiable people in the race to 220 was Chinese born crypto billionaire. Justin, soon, a couple of weeks ago, he did end up announcing himself as a top TRUMP coin buyer. And in that race there was also Javier SGAs, who's based in Monterey Mexico and is a chief executive at a transportation logistics company. And he said it out loud in the press release. He wanted to advocate for lower tariffs between Mexico and the us. Okay, this whole enterprise is starting to sound questionably legal If it wasn't already. So is it legal for a president to launch a meme coin?
+
+
+Elizabeth Wera is the president of the Constitutional Accountability Center. That's a nonpartisan nonprofit that promotes the constitution for progressive outcomes. So there's no explicit law against it. But you know, certainly there are laws that are implicated by launching a meme coin like this. And they range from the foreign emoluments clause of the constitution to federal campaign laws. Oh, hello, emoluments. Our old friend from got first Trump administration. Elizabeth Knows this intimately. She was actually part of a lawsuit around Trump's DC hotel. She claimed they breached the constitutional clause around emoluments.
+
+
+It says that a person who holds an office like the President in the United States cannot accept any gifts, titles, profits from any foreign state without the consent of Congress. Elizabeth says in the monument can mean profits like a lawmaker receiving a consulting fee to advise a foreign student. Or you know, the conversation about the plane from the government of Qatar has been discussed as a foreign emolument. Elizabeth Says the meme coin purchases are emoluments. Of course this would be fiercely argued in any legal proceedings. But the thing is, if the president wants to receive any emoluments, he can get permission from Congress.
+
+
+He just needs to ask. Congress is currently controlled by Republicans and yet President Trump hasn't ever done that. He doesn't really seem to care that much about that, but it is something that's important. The other laws that the Trump coin might implicate Elizabeth says are election financing laws. So we try to have a system in the United States that prevents pay to play politics. And one of the ways in which we try to enforce that is by having federal election laws, These laws limit the amount someone can give to a campaign and they restrict foreigners from donating to a candidate. Obviously The meme coins are a way to get around all of those restrictions.
+
+
+The attendees at Trump's crypto dinner were an international bunch. It seems very likely that federal election laws are going to be violated in spirit, even if not in letter through this meme coin transaction. We try to avoid pay to play politics, but there is large fundraising dinners where you pay a lot of money and Then you can have some face time with a politician, democratic or Republican. Why is this different? Right? And so I think it's interesting that it is a dinner 'cause that is kind of like, you know, the traditional what we're used to seeing in, you know, something you get for a campaign contribution, you get to go to a fancy dinner, you maybe get a picture with the candidate you're supporting.
+
+
+And so the fact that the normal federal campaign contributions limits don't apply to this instance is really relevant here. There are none of those limits. And I think in particular when you worry about foreign corruption and foreign influence, that's extremely concerning. There's a distinct threat that certainly the drafters of the Constitution saw with respect to foreign influence. We sent an email and a couriered letter to the Trump organization seeking comment. We didn't receive a response when asked similar questions. White House press Secretary Caroline Levitt has said, The president acts with only the interests of the American public in mind, putting our country first in doing what's best for our country.
+
+
+Full stop. Okay, well And I thought of another way to make money. What about just a giant tip jar in front of the White House? If you could just throw money in no need for this fancy technology, Please and thank you. Don't forget to tip your president. Yeah, He's like turning around the tablet with the percentages. What's the going rate After the break? Another Trump related crypto venture Stablecoin
+
+
+Support for NPR and the following message come from LinkedIn ads. One of the hardest parts about B2B marketing is reaching the right audience when you wanna reach the right professionals. Use LinkedIn ads. LinkedIn has grown to a network of over 1 billion professionals. Target buyers by job title, industry, company role, seniority skills, company revenue, all the professionals you need to reach in one place, get a $100 credit on your next campaign. Just go to LinkedIn dot com slash money. Terms and conditions apply only on LinkedIn ads.
+
+
+This message comes from Avid Reader Press, legendary investor, Ray Dalio's new book, how Countries Go Broke the Big Cycle explains the mechanics behind big debt crises. Larry Summers says, Dalio's brilliant iconoclastic approach is an invaluable resource. And Hank Paulson says it provides a solution to what is the biggest and most certain threat to our prosperity. Read it to understand one of the greatest economic issues of our time available now. Wherever books are sold.
+
+
+This message comes from Redfin with the Redfin app. You'll know the moment your next place hits the market. Whether you're looking to buy your dream home or rent a suite apartment, give Redfin your gotta have it wish list of property features and you'll receive real-time notifications tailored just for you, ready to see it up close and personal. Scheduling a tour is just a tap away. Don't wait to find your perfect match. Download the Redfin app and start searching today.
+
+
+A couple weeks ago a Trump affiliated company called World Liberty Financial, officially launched a new stable coin. And if you've ever been to a casino, or even if you've only ever seen a casino on tv, you already know the basics of how a stable coin works. This is because if you go to a casino, right, you go to the cashier first, you give her a hundred dollars and she gives you a bunch of chips, in this case, a hundred single dollar chips, and you go into the casino and you play roulette and craps and whatever, and Then you bring whatever chips that you have back back to the cashier. And guess what? She gives you a dollar for each chip that you give her. The value of each of those chips has not changed during your time in the casino.
+
+
+And it wouldn't change even if you kept those chips for a year. Their value is stable. Stable coins are just like those chips. You buy them for a buck each and they retain their value. You can cash them in at any time for a dollar. It really is Just like a poker chip. Yiming MA is an associate professor at Columbia Business School and she says there are several reasons why people buy stable coins. Got first is of course, so you can play in the crypto casino. If you want any kind of trading in crypto markets, it's easier to first convert your dollars or any other fiat currency into a stable coin and then use stable coins basically as a means of payment to transact crypto or in different crypto markets.
+
+
+Now sure, you can use fiat currency like dollars or euros or yen in crypto world, but it's just less hassle to use a stable coin that everyone accepts. Now, the second reason that people buy stable coins is to move money around outside of crypto world. So in the US if you've attempted to to make payments with a foreign bank somewhere to someone, you may notice that this could take quite some time. This could be very expensive. It's not clear at what exchange rate things will settle. And this is true, I speak from experience here. If my mom ever wants to send money to me from the uk, it literally takes a week really? And it's expensive. Yeah, it really does. There are currency exchange costs and then both her bank and mine charge a fee.
+
+
+Stable Coins can let you do this kind of thing more easily and quickly and generally more cheaply than you can do with regular currency. So you convert your dollars to stablecoin, send the coins to your friend in Argentina or wherever, and she converts them to dollars on her end. Just am this All sounds good, but there are a couple of problems here. Ming says, first buying and selling these coins is not quite as straightforward as going to the cashier in a casino. Most buyers purchase stable coins on the market, not from the issuer. So you need to find someone who's willing to sell to you. It's like you have to hang out around the casino looking for some dude in a grubby raincoat who's got some chips that he's trying to unload. And later when you want to cash out, you kind of gotta do the same thing.
+
+
+You are actually selling your stable coin to someone else on the market and the hope is that this price at which you're selling is going to be as close to $1 as possible. So in that sense, you can think of it as like a stock that is trading and on the stock market, but the value of the stock or the price of the stock is stable at $1. Well kind of stable. It is a market, remember, and we all know what happens in markets. If there aren't any buyers for your so-called stable coin, then maybe its price won't be so stable. After all, its price might actually fall.
+
+
+This happens. And sometimes we're talking about more than a few cents. In 2023, the value of a stable coin called USDC dropped below 88 cents. And Ying says there's no protection for people who buy these coins. It is not like a deposit in a bank account in the US that is protected by deposit insurance. There is no promise that it's always at $1. And indeed over the past years it has fluctuated and it could fluctuate in the future. Okay, so maybe stable coins are not as stable as casino chips after all, but they are like casino chips in one particular way. They don't generate any kind of income on their own.
+
+
+Yeah, stable coins are not like Bitcoin or a meme coin or anything like that. They don't go up and dine in value like those kinds of coins. Do you know stable coins are supposedly stable. They also don't pay interest the way that your dollars do when you put them in a bank account or a money market fund. The only way you can make money with stablecoin, just like casino chips, is to use them in the casino. You use them to play the crypto markets, investing them in Bitcoin or other crypto assets, maybe even lending them out. And Still, despite the fact that these stable coins on their own don't make any money, they are becoming increasingly popular. The volume of stablecoin transactions last year was more than $27 trillion.
+
+
+That's more than Visa and MasterCard combined. And that means big money for issuers like Tether and Circle. The biggest players in the market, And there are a couple of ways, these issuers make money. First they charge fees to buy and sell on their platform, and then they make money by investing your money. Just like a bank, when you deposit your cash, the bank turns around and invest that money. So a stable coin issuer takes the dollar, you gave it for your stable coin and goes out and buys assets. Usually US treasuries, You know on treasuries there's a coupon, there's a yield on deposits, there's the deposit rate. The issuer is essentially pocketing all that income and there's nothing that they pay out to the holders of the stable coin.
+
+
+Right? So it's an extremely profitable business to be in. Yeah, and this is why a company say a company with ties to the Trump family, like World Liberty Financial might want to get into the stablecoin business. If you can make it work and you can grab some of that market share, it is a license to print money. People literally give you billions of dollars and you don't have to pay them any interest in return. But Even for an organization as politically connected as World Liberty Financial, Trump and his family own about a 60% stake in the business, succeeding as an issuer could be a challenge. A successful stable coin requires a network of people to adopt and accept and use those coins. And building out those kinds of networks can take years.
+
+
+Yeah. And then there's the fact that the stable coin world is dominated by the biggest issuers, tether and circle. And there are only limited ways that a newcomer can compete. Ming says most financial companies compete on price, like a bank might offer you a higher interest rate on your deposit account, but you can't do that with a stable coin because stable coins, well, they don't pay interest, remember? But because stable coins are not distributing any of that income to their investors, it's actually currently not possible to compete on the price dimension. One thing you have to say about stable coins, they are very well branded. It's a stable coin. The problem is, as we've already established, stable coins are not always stable.
+
+
+In fact, compared to traditional investments, they look pretty risky once you look under the hood. Yeah. Here's a list. They're not insured like bank deposits are. They provide no returns, their issuers are not fully audited and they are very lightly regulated for now. They're also not particularly transparent. And this, despite being on a blockchain, you know, one of those great big unalterable Google docs in the sky that supposedly anyone can see. But All of that might be about to change in an unusual show, a bipartisanship. Back in April, the House Financial Services Committee passed the stablecoin transparency and accountability for a better Ledger economy or stable act. A similar bill also cleared a senate banking committee in March.
+
+
+The current regulations put forward both in the House and the Senate. They generally are trying to make things more transparent. The Stable Act will make stablecoin issuers look a lot more like banks. If legislation passes both houses, stablecoin issuers will be regulated at either the state or the federal level. They'll be required to submit regular reports to ensure their coins remain stable with the dollar and they'll have to comply with anti-money laundering rules. What about those potential conflicts of interest for the president and his family? Well, William, that's a whole other enchilada.
+
+
+The original episodes from The Indicator were produced by Cooper Katz, McKim and Corey Bridges. They were engineered by Harry Paul and Robert Rodriguez. They were fact checked by Sierra Juarez. Kiki Cannon edits the show and follow The Indicator wherever you get your podcast. We are out every weekday for a little 10 minute dose of fun. This episode of Planet Money was produced by James Sneed and edited by Emma Peasley. Alex Goldmark is our executive producer. I'm Patty Hirsch. And I'm Waylon Wong. This is NPR. Thanks for listening.
+
+
+This message comes from Capella University. At Capella, you'll learn relevant in-demand skills you can apply in the workplace right away. A different future is closer than you think with Capella University. Learn more@capella.edu.
+
+
+This message comes from Warby Parker prescription eyewear. That's expertly crafted and unexpectedly affordable. Glasses designed in-house from premium materials starting at just $95, including prescription lenses. Stop by a Warby Parker store near you.
+
+
+This message comes from Mint Mobile. If you're tired of spending hundreds on big wireless bills, bogus fees and free perks, Mint Mobile might be right for you. With plans starting from 15 bucks a month, shop plans today at Mint Mobile dot com slash switch. Upfront payment of $45 for three month five gigabyte plan required. New customer offer for first three months only Then full price. Plan options available. Taxes and fees extra. See Mint Mobile for details.

@@ -1,0 +1,149 @@
+
+This message comes from Instagram. Recently, Instagram introduced teen accounts with built in protections. Teens automatically get safety settings that limit who can contact them, the content they see as well as settings to ensure their time on Instagram is well spent.
+
+
+Hey, it's Erica Barris. A quick word before the show to talk about this year and all the different kinds of stories you heard on Planet Money this year we brought you stories about inflation, disinflation, stagflation, ski inflation, dynamic pricing. What is TMU banking apps, rum taxes, the main potato war of 1976. So many stories about so many different things, semiconductors. And the one thing they all have in common AI trade fraud is we work really hard on each of them. International shipping so that they make you smarter and they're fun to listen to. Soca Ends Zombie mortgages. Why Flying Socks? And another edition of Planet Money Summer School.
+
+
+So this is the time of year when we say, Hey, if that stuff was useful to you, if you made us a part of your day in the car, on the train while you were doing dishes, chip in and help keep us going. Your support matters so much that NPR basically invented an entire new product that we will give you to incentivize your donation. We're talking about NPR plus, maybe you're already a plus supporter. If so, thank you. If you're not and you sign up today, you get perks for more than 25 different NPR podcasts, sponsor free listening to all of them, and bonus content for some of our biggest shows, including this one and exclusive Access to Special Planet Money Merch in the NPR shop.
+
+
+You get all that as a thank you for investing in NPR and our work At Planet Money. So go to plus do NPR dot org to sign up plus dot NPR dot org. That link is in our episode notes. And thank you. This is Planet Money from NPR, Bueller, Bueller. In the Venn diagram, Bueller of iconic pop culture moments and critically important economics history lessons, there is an overlap of roughly 40 seconds. So First, I guess I wanna ask you, do you, do you know this scene from Ferris Bueller?
+
+
+Of course. Doug Irwin, economist at Dartmouth. Can you do it without looking like, do you know it by heart? I Can do the first part. In 1930, the Republican controlled House of Representatives passed the Anyone, anyone. Anyone. Anyone. A tariff bill, the Hawley Smoot Tariff Act, which anyone raised or lowered, raised Tariffs in an effort to collect more revenue for the federal government. Did it work? Anyone? Anyone know the effects? Anyone? Anyone? No. It did not work out well. And the economy sank further into the Great Depression. Not bad. Not bad. Almost word for word. And by the way, Holly Smoot Smoot Holly, Doug IWiN says, you can say it either way.
+
+
+And it what? When it comes to Smoot Holly, you were kind of like the Smoot Holly guy. Is that right? There aren't many competitors, I guess would be one way of putting it. I mean, I think everyone has sort of knows of them, but no one has done the deep dive like I have. I guess Doug wrote a book about the Smoot-Hawley Tariffs, including an explanation of how it became the most infamously boring high school lesson in movie history. They'd Cast the actor Ben Stein, Who's the son of a famous economist, herb Stein. So they wanted him to be a boring high school teacher, but they didn't actually script what he was going to say, so they let him rip and he starts talking about the Smoot Holly tariff. But why do you think it works as a punchline in that scene? Well, First of all, It is delivery, mainly because I think you can make Smoot haw exciting.
+
+
+It's during this conflagration, the Great Depression. It has a lot of drama, has really funny names, Smoot and Hawley, interesting characters, unintended consequences. And I guess now it has a tremendous amount of relevance to today. Yes. Hello and welcome to Planet Money. I'm Kenny Malone. And I'm Sally Helm. And did we all skip class on Smoot Holly Day? We are now 40 days away from the start of Donald Trump's second presidency, and he has promised sweeping Tariffs on products coming in from Mexico, Canada, and China. He says they can help American workers without hurting American consumers, and economists are not so sure they point to Smoot Hawley as one of the key reasons.
+
+
+Today on the show, we're going back in history to update an episode that Sally And I did in 2018 about the most notorious names in tariff history and this big old tariff law that helped drag down the world economy. And we'll get an update on how Trump's Tariffs from his first administration worked out. Stick around.
+
+
+This message comes from Grammarly 231. That's the average number of apps used by many companies. This leads to a lot of context and tab switching, which can drain employee focus costing your company. Grammarly can help because it uses AI that works in over 500,000 apps and websites. Join over 70,000 teams who save an average of $500,000 per employee per year using Grammarly. Go to Grammarly dot com slash enterprise to learn more.
+
+
+This message comes from Capital One. Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply See Capital One dot com slash bank for details. Capital One, NA member FDIC.
+
+
+This message comes from Grammarly 231 is the average number of apps used by many companies. This can drain employee focus. Grammarly can help Grammarly's AI works in over 500,000 apps and websites, making it easy for your team to write clearly and on brand without disrupting workflow. Join 70,000 teams who save an average of $5,000 per employee per year using Grammarly. Go to Grammarly dot com slash enterprise to learn more.
+
+
+Okay, so President Trump is weeks from his second term in office and has promised even bigger Tariffs than his first term. The exact numbers have fluctuated, but at different times he's talked about like a baseline 20% tariff on all imports, 25% on goods coming in from Mexico and Canada, and up to 60% on imports from China. Compare that to what he did in his first term back in 2018 when we originally reported this story, We will have a 25% tariff on foreign steel and a 10% tariff on foreign aluminum. He'd also put some Tariffs on washing machines and solar panels.
+
+
+By the end of President Trump's like tariff spree, he had imposed Tariffs on about $370 billion in imports from China. It was a political move by the Trump administration in part to punish China for what the administration said were dirty tactics in the trade world, And also partly a protectionist tax to help people who were a big part of President Trump's voting block. AKA manufacturing sectors left behind by globalization. Economists tend to not agree on much, but it was hard to find one who thought those first term Tariffs were a good idea, let alone these way bigger, way broader Tariffs that he's talking about for the second term.
+
+
+And a big reason for that is this kind of economics horror story. It's used to scare young economists around the campfire, the tale of Smoot Hawley. We Are thinking like the best place to start is probably with the election in 1928. That's the Perfect place to start Again, Doug Irwin. So in 1928, the US economy was doing exceptionally well. The stock market was booming, Employers were hiring, The unemployment rate was very low. There was no great depression in sight whatsoever. And so one question is, what could the parties fight about in that campaign to try to win voters? And it turns out, while the overall economy was doing well, there's one sector that was being left behind and was not doing well.
+
+
+And that was agriculture. Farmers were feeling forgotten, desperate, even because they're losing their jobs, the economy is shifting away from them and towards a fancy newfangled techie industry benefiting the coastal elites in this case back then, the hot techie industry is manufacturing. Yeah, That's right. Making things like cars and like sewing machines. So this became an election issue. Save the farmers, save the people who are being left behind. And the Republicans and their presidential candidate, Herbert Hoover, they win the election. Herbert Hoover, now president of the United States stood before the people.
+
+
+His platform had been prosperity for everyone. By the time Hoover was giving his inaugural address, Republicans in Congress were already trying to make good on this, protect the farmer's promise, most Notably Reed Smoot and Willis Hawley. I'm gonna try and describe these men for our listeners. So one of them is sort of tall and lean. That would be Reed Smoot and the other's little shorter and a little squatter, a little fatter. And that would be Willis Hawley. Do you know the Muppets? Yes. Do you know Statler and Waldorf? They're my favorite. Muppets. Yes. They're the guys, the old guys in the balcony who are jeering at the act on stage. You know, they can improve the whole show if they just changed the ending.
+
+
+Oh, put it closer to the beginning. Could we do another one? Let's do one more For once they've given us something other than second rate entertainment. What's that Third rate entertainment? Do you not like the, you don't like the Muppets? I Don't think I'm as big of a Muppets person as you. Whatever Kenny. It's okay. Well fine. It's Good. Good. Muppet. Fine. Anyway, Reed Smoot was a senator from Utah. Willis Holly was a representative from Oregon. They were the heads of the committees in the Senate and the house that were in charge of Tariffs at the time. That's why their names are on the bill. And The two agricultural products that were facing, the most foreign competition at that time were wool and sugar. So, so you can imagine one version of this where the politicians just say sugar and wool.
+
+
+Okay, let's just put a tariff on imported sugar and wool. And Then, you know, we could debate the benefits of that. But That is not even how the debate went at all. Partly because of something called log rolling, which is basically vote trading. So say you're a representative from a corn state like Iowa, then you're like, wait, why would I vote for your sugar and wool tariff? I am not supporting that unless you put a tariff on corn. But then the representative from Ohio would be like, wait, why am I gonna vote for your sugar and wool and corn tariff if you don't protect my goldfish producers? And everyone's like goldfish Producers.
+
+
+Apparently there was one firm in Ohio that raised goldfish and they thought that imported goldfish were eating into their market. Are we talking like a little goldfish in a bag and a fair, like who is import? No, I think that's what we're talking about. Really? Like a orange goldfish for your bowl at home. Like a goldfish. That's Right. Did they get a tariff? 35% Industry after industry was lining up asking for a tariff, asking for protection, and the congressmen were overwhelmed. They worked day and night. There are a lot of complaints of members of Congress saying how they had to stay up so late listening to people droning on about clothes pins and oil drums and certain types of chemicals.
+
+
+New York State Grain and Hay Dealers Association, they made the plea on behalf of the humble buckwheat industry. And just to be clear, is humble buckwheat a quote from what actually happened then? I think the buckwheat industry is portraying itself as humble. So they say we are the humble buckwheat industry. There were so many industries asking for protection that the Senate heard from more than 1000 witnesses who gave more than 8,000 pages of testimony, like when it was all printed out. And It's worth noting, unlike sugar and wool, a lot of these industries barely had any foreign competition. It's unclear that the tariff would even help them. But once the floodgates were open, the humble buckwheat growers, the closed pin makers, the goldfish growers, I guess they were like, come on, why not us two?
+
+
+Yeah, why can't we get a little protection? Right? And so instead of this being a tariff on sugar and wool and maybe one or two other agricultural industries, the ultimate number of Tariffs that increased was how many? I think over 800. Over 800. Right. And look, of course, Congress has passed Tariffs before since the beginning of the country. But this particular group of congressmen seems to be going pretty tariff crazy. There is one group watching from the sidelines and thinking, oh, what are you doing?
+
+
+Yeah, the economists, when politicians start talking about Tariffs, economists get very exasperated because Tariffs, it might seem like they're solving one problem, but they can cause a million other problems. That is true even for the people, the Tariffs are supposed to help. I think we wanna sort of help people understand like why this was gonna potentially backfire. Like imagine Sally is a wool farmer from from then. So she is a Sheep farmer. Sheep, yeah. What are we, what should we be saying here? Wool producer, sheep farmer, a shepherd. She's a shepherd. I'm a shepherd. So if you raise the taron wool, that's definitely gonna help sheep farmers and wool producers, they definitely want that.
+
+
+That's why they're fighting for it. But also raises the cost of all the manufacturers of woolen goods trying to produce coats and, and pants and others. For consumers, This is known as a downstream effect. And so that is one problem. A tariff on wool may help Sally the Shepherd, but it has these unintended ripple effects for other people. And Smoot Hawley was not just a tax on wool. So now whatever benefits Sally the shepherd's getting, they are probably canceled out by the fact that tons of other things she needs to buy, those are gonna cost more because Sally can't get these things at the global competitive price. And another thing economists hate about Tariffs is that they can cause chain reactions around the globe.
+
+
+Like you can't just put a tariff on something and expect other countries to sit back and let that happen. There will be counter Tariffs. And this is yet another unintended consequence that lawmakers apparently had not thought through back in 1930. They didn't anticipate that there would be retaliation. I Mean, that's so crazy. Like why not? Why would they not see that coming? Well, because this was considered domestic legislation, pure and simple, and there would be no foreign ramifications. And that was the way it was, you know, thought about at the time. So this, this were like a few of the reasons that economists were screaming into their pillows about the Smoot Holly Bill. And Before the bill made it to the president's desk, the economists tried to explain all this one more time, very clearly, A group of more than a thousand economists got together, A thousand economists adjust for inflation.
+
+
+That is like 5,000 economists by today's economists. Ugh. Easily 5,000 in today's economists. And they wrote and signed a letter begging President Hoover or Congress to stop this Smoot-Hawley nonsense. We have a copy of that letter right here. And it outlines all of the ways these Tariffs will be a disaster for the economy in in beautiful, passionate, meticulously detailed language that would, oh, Can may I see that? Yes. Oh, Hoover, the politicians, they were like, nah, these ivory tower elites, they've never worked a day in their lives. Hoover signed the Tariffs into law and virtually everything the economists warned would go wrong, went wrong.
+
+
+One of the most insane examples is eggs. American egg producers theoretically got the benefit of one of the many Smoot-Hawley Tariffs. So the tariff on eggs went from 8 cents to 10 cents a dozen. But Canada, they were so incense, they raised their tariff from 3 cents to 10 cents. Whoa. So that was reciprocity. They won the same tars we did. And here is the beautiful boneheaded twist of Smoot Hawley. American egg producers were exporting eggs. They were making a ton of money by sending their eggs to Canada, or at least they were before Smoot haw or Exports fell from almost a million dozen to 13,000 dozen eggs over the same period.
+
+
+So our exports of eggs really got whacked. We lost a lot of dozens. And Canada was not the only country that got pissed off at Smoot and Holly and America. This kicked off an unprecedented wave of protectionism across the globe. Protectionism aimed specifically at the United States. There were a bunch more counter Tariffs. Countries formed trade blocks against the US Global trade fell by 26% in the years after this Because of Smoot Hawley and the protectionism that followed it, but also because of a little thing called the Great Depression. Yeah, Smoot Hawley was in the works before the Great Depression, but it didn't pass until things had already started to go south.
+
+
+And so probably the nicest thing anyone says about Smoot Hawley is, well, it didn't cause the Great Depression. Yeah, Economists generally agree, you know, a lot of things caused the Great Depression, monetary policy, et cetera. But then the passage of Smoot Hawley, it sure as hell did not help. We tried bouncing some metaphors off Doug Erwin. So the Great Depression caused the U US economy to to, to basically flail in the water drowning. And the passing of Smoot Hawley was the equivalent of sort of throwing it a brick to help Or align with nothing attached at the other end. Oh, that's so mean.
+
+
+That's like worse Because then you're giving people hope, but Then you start pulling on it and there's nothing there. And how did Smoot Hawley work out for the politicians involved? Anyone? Anyone? Did it Work out? Anyone? And it turns out both Holly and Smoot were kicked out of Congress by their constituents ultimately. So it didn't work out for them. It took decades to truly undo the damage from Smoot Hawley to untangle the Tariffs and the counter Tariffs and the counter counter Tariffs. But slowly we did. The world moved away from protectionism towards free trade agreements were made, the World Trade Organization was set up as a kind of referee. And then for years you could shut down a conversation about Tariffs by just saying Smoot haw.
+
+
+In fact, in the 1990s, Al Gore was debating Ross Perot. Perot was against the North American Free Trade Agreement. And Gore brought a photograph of Smoot and haw to the debate to be like, see where this got us last time around The world. Now I framed this so you can put it on your wall if you want to. Thank You. Thank you, thank you. That is the sound of Ross Perot kind of slamming this photo face down onto the desk. And that's because Smoot Hawley had become shorthand for, remember the last time we tried this, protectionism is a bad idea. Of course, things have changed a bit since then. We have to protect and build our steel and aluminum industries After the break.
+
+
+Smoot, Polly and Trump Attorneys at
+
+
+law, This message comes from NPR sponsor E-Trade from Morgan Stanley. Take control of your financial future with E-Trade. No matter what kind of investor you are, their tools and resources can help you be ready for what's next. Now, when you open an account, you can get up to $1,000 with a qualifying deposit. Terms apply. Learn more at E-Trade dot com slash npr. Investing involves risks. Morgan Stanley Smith Barney Lll C Member Civic E-Trade is a business of Morgan Stanley,
+
+
+support for NPR. And the following message come from LinkedIn ads as a B2B marketer. You know how noisy the digital ad space can be if your message isn't targeted to the right audience, it just disappears into the noise. By using LinkedIn ads, you can reach professionals who are more likely to find your ad relevant, target them by job title, industry company, and more. Get a $100 credit on your next campaign at LinkedIn dot com slash money. Terms and conditions. Apply
+
+
+Support for the following message. Come from LinkedIn ads. With LinkedIn ads, you can reach professionals relevant to your business. Target them by job title, industry company, and more by launching your next campaign with a free $100 ad credit at LinkedIn dot com slash results. Terms and conditions apply,
+
+
+this message comes from the John d and Catherine t MacArthur Foundation, recognizing extraordinarily creative individuals with a track record of excellence. More information on this year's MacArthur Fellows is@macfound.org.
+
+
+So a, a couple of things you may have noticed about the recent tariff situation. We're talking through Trump's first term and then through the Biden administration, which kept a good chunk of Trump's Tariffs in place. So for one, you may have asked yourself, where, where was Congress in all of that? Tariffs were seemingly enacted with no hearings, no vote. There Was no goldfish lobby. No, no. It appeared as though the president was able to just tariff. Yeah, he Kind of was. A huge difference between the Smoot holiday days and the Trump days is that the president now has a lot more power to set Tariffs. And, And, and look, you know, Trump and Biden did actually have to follow a process here. They, they had to come up with justification for the Tariffs.
+
+
+In the case of the steel and aluminum Tariffs, it was national security, but like clearly they were able to get the Tariffs done. And this fact, the fact that the president can now lobby Tariffs, Doug Irwin says that is part of the legacy of Smoot Hawley. Yeah. After Congress went tariff crazy in 1930, they basically said maybe we should have our tariff privileges revoked. Congress delegated powers to the President to oversee the whole tariff system. So essentially Congress said, look, we made a mess of it. This didn't work out so well. They were like a bunch of children who'd been let loose in a candy store and realized they couldn't be trusted to moderate their own intake.
+
+
+They overate, they got sick and they said they need some restraint on themselves from doing that again. So they just, you know, delegate it to another party. Over time, they delegated that power to the executive branch and to the president, they decided that is the better system. And arguably we watched that better system in action in 2018 because when Congress dealt with Tariffs, the game was stacked against narrow Tariffs. You wanna protect like only wool and sugar. Well, good luck buddy, because it snowballs quickly. But when President Trump wanted to protect steel and aluminum, no snowballing, he didn't have to trade votes to get it passed.
+
+
+And so we're not seeing hundreds of Tariffs like in the days of Smoot Hawley. Instead, we're seeing these very targeted, very political Tariffs. And it could stay that way. But these Tariffs still have economists like screaming into their pillows again, because even narrow Tariffs are gonna cause the same web of problems, downstream effects ultimately shooting ourselves in the foot. Back in 2018 when, when we first reported this episode, we asked Professor Doug Irwin like, do you think in 20 years somebody is gonna write a movie scene about a boring high school teacher teaching the lessons of the Trump Tariffs? And he was like, who knows?
+
+
+Probably not. But if they do make Ferris Bueller too, Doug Irwin will be ready. Do do You wanna like, give it a shot, like doing the Ben Stein thing, but with, you know, based on Trump's Tariffs? I could give it a shot. Give it A shot. Yeah. Ben Stein improvised stuff. Come on, on, Doug. You're The, you're okay. In 2018, the Republican administration of Donald J. Trump Institute to higher Tariffs on anyone, anyone steel and aluminum in an effort to protect the jobs of steel workers. Did it work? Anyone? Anyone? It did not work. And we lost jobs in downstream user industries and it failed to revitalize the steel industry. That Is, that was off the top of your head. Yes.
+
+
+Well done, well played. That was six years ago. So this past week we called up Doug Irwin one more time for an update. We played him his, his impressively ad-libbed, Ben Stein impression. I Guess if we were doing that again, I would do the same rif, but include China. But unfortunately the, the result would be the same is did the Tariffs work? No, they really didn't. China didn't change its policies. They retaliated against us farm exports and bilateral trade went down. And what's interesting is that the Biden administration didn't really pull back any of those Tariffs in their time in office. Most of the steel and aluminum Tariffs are still in place today.
+
+
+And, and Biden hiked the Tariffs on China even further in 2024. And Doug says that, that that has not changed our relationship with China. If, if anything, they've doubled down on their economic model. And now we can take a look to see exactly how these Tariffs worked out in other ways, for example, who bears the cost of them? Well, in general, when a country imposes an import tariff, it's taxing its own consumers and other countries are not paying that tax. So we see that very much with the economic evidence this accumulated from the Trump administration's Tariffs during the first term. There have been multiple studies by economists that show that basically there was full pass through of those Tariffs to the final purchasers or consumers of those goods.
+
+
+Yeah, you, you know, the tax foundation, a self stated non-partisan, but conservative leaning think tank estimates that the Trump Biden Tariffs amounted to a two to $300 tax increase on average for American households and a reduction in long run GDP by 0.2%. And Doug says, again, we, we have some history here to lean on. In the late 19th century when sugar Tariffs were reduced, we saw a similar reduction in prices for consumers one-to-one with the Tariffs. So that implies once again, sort of full pass through. And, and we don't see this just with Tariffs, but, but quotas or other trade restrictions, they all can cause ripple effects beyond the specific products being restricted.
+
+
+When we saw that President Ronald Reagan in the 1980s limited how many Japanese cars could be sold in the US market, the price of Japanese cars shot up quite a bit and the price of domestic cars went up as well because it shifted demand to those cars and, and capacity was limited in the short run, and so the prices went up. Now, Trump has promised via truth social to impose Tariffs of 25% on all imports from Canada and Mexico, and an additional 10% tariff on all imports from China. When he takes office for his second term, he, he has also mentioned like a baseline 20% tariff on all imports coming in from anywhere.
+
+
+It's a little unclear how much of this will get implemented, but if it does, there is a little bit of that Smoot Hawley energy poking through that has economists worried yet again. So the similarity between Trump's proposals and Smoot Hawley depends a little bit on which Trump proposals you consider. If we're just talking about the special Tariffs on Mexico and Canada, that's not really a Smoot hawley scenario. But if we're talking about the 10 or 20% across the board Tariffs that's in the ballpark of a real Smoot Hawley increase. And also in the ballpark of Smoot Hawley, Mexico and Canada have already warned of similar Tariffs in response. Today's episode was originally produced by Lana Richards and edited by Bryant tta.
+
+
+This update was produced by Sam Yellow Horse Kessler. A previous update in 2020 was produced by Irina Huang with help from Gilly Moon Fact checking by Sierra Juarez. Alex Goldmark is our executive producer, and also we have a TikTok account. And it's Hilarious. It is seriously worth a watch. It is funny, they're, they're incredibly unique. And if you like, like Adult Swim and Economics, you're gonna love Planet Money tiktoks, we are At Planet Money on most social media. I'm Sally Helm. And I'm Kenny Malone. This is NPR. Thanks for listening. And for what it's worth, Doug Irwin popular at Parties again. Most people avoid economists at parties because we're known to be not exactly the most scintillating of personalities.
+
+
+But all of a sudden my phone is ringing once again, asking about historical analogies and what's going on with Tariffs today and what the perspective impact might be. So my holiday is over.
+
+
+This message comes from Instagram. Recently, Instagram introduced teen accounts with built in protections. Teens automatically get safety settings that limit who can contact them, the content they see, as well as settings to ensure their time on Instagram is well spent.
+
+
+Support for the following message come from LinkedIn ads. With LinkedIn ads, you can reach professionals relevant to your business. Target them by job title, industry company, and more by launching your next campaign with a free $100 ad credit at LinkedIn dot com slash results. Terms and conditions apply,
+
+
+this message comes from Discover accepted at 99% of places that take credit cards nationwide. If you don't think so, maybe it's time to face facts you are stuck in the past based on the February, 2024 Nelson report. More at discover.com/credit card.

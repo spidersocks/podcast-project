@@ -1,0 +1,419 @@
+Ultra Software by UL Solutions (1s):
+This message comes from NPR sponsor Ultra Software by UL Solutions. Ultra Software helps companies drive innovation, meet regulatory requirements, and get safer, sustainable products to market. Learn more@ultrus.com slash npr.
+
+2 (20s):
+This is Planet Money from NPR. Back in 2010, a piece of research came out that kind of changed the way the world thought about an age old question. Can money buy happiness.
+
+1 (37s):
+Yeah. The key finding, or at least the key finding that I took from it when I was in my twenties was that money can buy happiness, but only up to a certain point after you make about $75,000 a year. It doesn't matter,
+
+2 (52s):
+Nick. I also heard about that happiness plateau back when I was in my twenties and so did Bernadette Joy Cruise Mulian. I called her up because I wanted to talk about this happiness finding with someone who felt like they had lived it and Bernadette turned out to be the perfect person.
+
+3 (1m 12s):
+I noticed that around that Mark was where I do remember feeling like, okay, I'm not lacking for anything and I'm not in this bracket where I feel like I have to keep up with the people with like the nice cars and shoes and all this other stuff.
+
+1 (1m 24s):
+Bernadette confirmed for her $75,000 a year, felt like this happiness sweet spot She'd grown up middle class. Her dad was an accountant, her mom was a bookkeeper. They were a big family. Money was tight like she loves rollercoasters. And she said growing up, going to the amusement park was like a really special occasion. They could only afford to send her maybe once every four years.
+
+2 (1m 48s):
+Bernadette had a well paying corporate job in her twenties, and after she hit that milestone $75,000 a year, she really felt like money wasn't improving her life.
+
+3 (2m 2s):
+I was making exactly a hundred K, and it was such a shock to my system that the more money that I made, I actually felt like the less happy I became.
+
+2 (2m 11s):
+So Bernadette changed her whole life, not to make more money, but to find a path that would make her happier. She quit her job, took out loans to go back to school. After she graduated, she started a business hustled to pay off her debt, bought and sold some real estate. And eventually, even though it had not been her explicit goal, Bernadette and her husband actually had a lot of money in the bank. All right, so you're like a millionaire.
+
+3 (2m 40s):
+We are in fact a millionaire. Yeah.
+
+1 (2m 43s):
+Her and her husband's total net worth today is about $1.7 million. Most of that in retirement. Last year, their household income was nearly $300,000 and they're debt free.
+
+2 (2m 55s):
+And in her thirties, Bernadette started to be like, wait. If you spend it on the right things, having money is actually awesome.
+
+3 (3m 5s):
+My husband and I have a lot of freedom of time and we have a lot of hobbies and interests, and I think because we are debt free, I have this literal feeling that I don't owe people anything. And so then I have the freedom to choose how I wanna spend my time.
+
+2 (3m 20s):
+For example, remember Bernadette loves rollercoasters.
+
+3 (3m 24s):
+My husband and I, we have a season pass at our local amusement park, and I ride rollercoasters by myself on like random Wednesday evenings.
+
+1 (3m 33s):
+She also loves the Make a famous k-pop group, BTS. And in 2022, she went to see them perform in Vegas.
+
+3 (3m 42s):
+I remember just thinking like, I don't care how much this is gonna cost, like I'm gonna go to this concert with my best friend. No matter what happens,
+
+2 (3m 51s):
+They all went to the concert, it was amazing. She felt alive again, and she said afterwards she turns to her husband and is like, I feel so happy and money made this possible.
+
+1 (4m 5s):
+And she says, that was the moment when she realized she'd been wrong about how more money didn't mean more happiness. Now she felt like it did.
+
+2 (4m 16s):
+Yeah. In other words, maybe that $75,000 plateau idea is bunk. And at the end of our interview, I just asked her the big question, Can money buy happiness.
+
+3 (4m 28s):
+My answer is a resounding yes.
+
+2 (4m 34s):
+Over the past decade, Bernadette has done a complete 180 on this question and in the background, social science has been making almost the exact same 180, taking another look at what had seemed to be settled science. Hello and welcome to Planet Money. I'm Sally Helm.
+
+1 (4m 55s):
+And I'm Nick Fountain. When it comes to economics in our everyday lives, this is kind of the mother of all questions, how is money connected to our happiness? The data on this once seemed pretty definitive, but recently it has come under fire.
+
+2 (5m 10s):
+Today on the show, two researchers with totally opposite takes come together to try and hammer out a definitive answer about how income affects our happiness, and they find something that neither of them expected.
+
+Apple Card (5m 29s):
+This message comes from Apple Card. Apple Card is the perfect card for your holiday shopping. When you use Apple Card on your iPhone, you'll earn up to 3% daily cash back on every purchase, including products at Apple, like a new iPhone 16 or Apple Watch Ultra. Apply now in the wallet app on your iPhone subject to credit approval. Apple Card issued by Goldman Sachs Bank, USA Salt Lake City branch terms and more@applecard.com.
+
+Grammarly (DR) (5m 55s):
+This message comes from Grammarly. 88% of the work week is spent communicating. So it's important your team gets it right. Enter Grammarly. Grammarly's AI helps teams communicate clearly the first time it goes beyond basic grammar to help teams instantly create and revise drafts in just one click, all without leaving the page there on. Join the 70,000 teams and 30 million people who use Grammarly to move work forward. Go to Grammarly dot com slash enterprise to learn more Grammarly enterprise ready ai.
+
+1 (6m 26s):
+Alright, Sally, we started with this idea about a happiness plateau, that as you make more money, you get happier, but that the relationship levels off when you're making about $75,000 a year. And beyond that point, more money does not correlate with more happiness. This idea comes from a paper by two famous Nobel Prize winners, Angus Deaton and Daniel Kahneman, famous economist and famous psychologists. They wrote it in 2010. And
+
+2 (6m 55s):
+One thing to know is that in the world of psychology, Danny Kahneman was an enormous deal. He actually died quite recently in March of this year. So I called up another happiness researcher, Matt Killingsworth at the University of Pennsylvania. I asked him about Kahneman and his work.
+
+6 (7m 13s):
+I mean he's just a giant in the field. I mean probably possibly the most important person who's ever existed, and certainly the most important scientist who's been alive in my
+
+2 (7m 25s):
+Lifetime. Wait, did you say possibly the most important person who's ever existed in
+
+6 (7m 30s):
+In that area of science? Like I You know what, what psychologist has been more influential scientifically?
+
+1 (7m 36s):
+Matt himself was really influenced by Danny Kahneman. They actually met once when Matt was a grad student. Kahneman gave him some advice for a study he was designing to answer the question, is life worth living?
+
+6 (7m 48s):
+And I just remember Danny responding after a little pause. That's a very good question, huh? With sort of a twinkle in his eye.
+
+2 (7m 56s):
+Matt said one thing he really respects about that 2010 study is the careful way that it looks at the different parts of happiness. Because there are really a couple ways you could define it, right? Like one way is to just ask how satisfied are you with your life? But the one that we're gonna focus on and that everyone focuses on when they talk about this paper, it has to do with emotional wellbeing. Just like moment to moment as you go about your regular day, how do you feel?
+
+1 (8m 25s):
+Which is kind of hard to pin down, hard to study empirically. So what Kahneman and Deaton did was they looked at people's answers to a bunch of different questions about their day. Yesterday, 450,000 adults in the US were asked, did you smile or laugh a lot yesterday? Did you experience happiness during a lot of the day yesterday? How about enjoyment? They put all that together to try to get a measure of happiness
+
+6 (8m 50s):
+When it came to people's sort of day-to-day emotional state, kind of how they're feeling that rose, but only up to a point once a, as they argued in the paper, at least once you got up to $75,000 a year, that didn't seem to change.
+
+1 (9m 4s):
+Yeah, this is that really famous finding in the 2010 study. A happiness plateau.
+
+2 (9m 10s):
+Two quick caveats here. One, the $75,000 number is a little imprecise. The paper actually finds that there's basically no effect after the 60 to $90,000 income bracket. So 75,000 is just the midpoint of that range. And two, correlation is not causation. Scream it
+
+1 (9m 30s):
+From the rooftop. Sally, a
+
+2 (9m 31s):
+Tattoo it on my heart, Nick Fountain. This study looks at correlations between money and happiness, but it actually does not speak to the question of whether more money is causing greater happiness.
+
+1 (9m 43s):
+But nevertheless, people really latch on this idea. They love it. And you can see why it's nice to know that science says what we know from the tabloids that rich people, they're just like us, just as happy or miserable as us. I was entering the workforce right when the study came out and I took it quite literally to mean aim for that solid middle class salary, but not the rat race because it's not gonna make me happier to be super rich.
+
+6 (10m 15s):
+So many people are so focused on money and maybe the idea that at least some aspect of our quality of life might not depend on that could be kind of liberating. I mean. So what if that person's on the yacht And? you know, I'm watching reruns of Frazier at home, but are they really having a better life than me? Maybe not
+
+2 (10m 34s):
+Exactly. They over 70 5K, who cares? They're just miserable in the mansion. When do you decide to take this study doubt?
+
+6 (10m 45s):
+Well, I wouldn't quite say take it down I mean. Yeah, that really, really wasn't, at least where I was trying to come from a
+
+2 (10m 55s):
+Couple of years ago. Matt Killingsworth found himself taking on the most important person who has ever existed, Danny Kahneman. And Matt truly like wasn't even trying to do this. His data almost did it for him.
+
+6 (11m 10s):
+A big part of how I've approached my research is doing really large scale what's called experience sampling, which is basically the idea of You know rather than bringing people into the labs or You know, sending them a paper survey to fill out what if we could collect some data as people were going about their regular everyday lives.
+
+2 (11m 30s):
+Experience sampling really is the gold standard for measuring moment to moment feelings. Over the years, scientists have found a number of ways to do it. They check in with people throughout the day using beepers. And then palm pilots. Matt is in grad school in the late two thousands and he launches a project called Track your happiness.org to do experience sampling with smartphones.
+
+6 (11m 54s):
+So people get sort of pinged at random moments and then I ask them a series of questions about their experience at the moment just before the ping.
+
+2 (12m 1s):
+Yeah, so imagine you're like doing laundry, you get a ping, how do you feel right now? You can answer on a spectrum that goes from very bad to very good. Move the little slider anywhere you want along that spectrum. So like how happy am I doing laundry? I think maybe like a little bit over the midpoint in general. I kinda like doing laundry weird.
+
+1 (12m 22s):
+Anyways, so what Matt's doing is not totally dissimilar from what Kahneman was looking at. Did you smile a lot yesterday? Et cetera, et cetera. Except Matt is looking at it right in the moment. Obviously this is self-reported happiness, and there are ways that these self-reports might be messy. Maybe people are lying to you or lying to themselves. But Matt does ask a lot of people at all income levels and he asks them over and over, which would help him separate out the signal from the noise.
+
+2 (12m 52s):
+And this was really the first big project of its kind. Matt has collected millions of data points from hundreds of thousands of people and he's still going. The data points feed into this statistical software. They're updating all the time.
+
+6 (13m 7s):
+I spend time almost every day looking at it. I mean, it feels a little bit like going in and like looking at the code in the matrix. It's like, here are all of these different variables from this gigantic number of people. And I kind of get to peek behind the curtain
+
+1 (13m 22s):
+One day. Matt realizes, wait a second, I'm collecting all this data about how people feel throughout their day. I also have income data. I wonder if when I look at my data, I will see Danny Kahneman's famous happiness plateau of around $75,000.
+
+6 (13m 41s):
+And so at some point I looked in my data and saw, huh, it's actually, it doesn't look like that at all. Hmm. There's no hint of a, of a curve or A flattening or anything like that. It just keeps going up. So
+
+2 (13m 55s):
+You are finding there is not this happiness plateau at $75,000 that we've all been told about it's not there.
+
+6 (14m 2s):
+That's right.
+
+2 (14m 3s):
+Rich people are happier.
+
+6 (14m 5s):
+That's right. To at least some degree
+
+2 (14m 7s):
+More money, more happiness.
+
+6 (14m 9s):
+Yep.
+
+1 (14m 10s):
+Which is kind of a bummer, right?
+
+2 (14m 14s):
+I mean. Yeah. Like Matt himself got into this happiness research in part because he felt like people focus on money too much focus. Like he wanted to broaden their horizons, but now he was finding higher income correlates with more happiness with no plateau. And he is feeling like a little bit of trepidation here. I mean that plateau is so famous.
+
+6 (14m 38s):
+I felt like I was pretty, I was totally confident. Like statistically this is what I'm seeing. There's no question. And I think the quality of the data is very, very high, but I'm not quite sure how this is gonna go if I start saying, this is what's Danny Kahneman going to think? What's the world going to think? I don't know. But at some point I just decided You know. I'm seeing what I'm seeing. I'm gonna just go ahead and say it and, and we'll see what happens.
+
+1 (15m 2s):
+What happens when he publishes his paper in 2021 is that people are very interested.
+
+6 (15m 9s):
+It really kind of happened in like an avalanche. So I You know because that previous finding had been so influential. People were then incredibly curious about this You know conflicting evidence that seemed to show something different.
+
+1 (15m 23s):
+He's hearing from all sorts of people, but not from one particular person. Danny Kahneman, Matt's been of the one time, but it's not like they know each other. He'd never reach out. And
+
+2 (15m 38s):
+Then one day he
+
+5 (15m 39s):
+Hears through the psychology
+
+2 (15m 41s):
+Research grapevine that Danny has read the paper and he wants to talk.
+
+5 (15m 47s):
+That's after the break.
+
+Capital One (15m 54s):
+This message comes from Capital One banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply. See Capital One dot com slash bank for details. Capital One na member FDIC.
+
+Merrill (16m 11s):
+This message comes from NPR sponsor Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Spanner and Smith Incorporated. Registered broker dealer. Registered investment advisor, member SIPC.
+
+BetterHelp (16m 41s):
+This message comes from BetterHelp. It's important to take time to show gratitude towards others, but it's equally important to thank yourself. Life throws a lot of curve balls, and being grateful isn't always easy. Therapy can help remind you of all that you're worthy of and all that you do have. Let the gratitude flow with BetterHelp. Try at BetterHelp dot com slash npr today to get 10% off your first month.
+
+Sun and Ski Sports (17m 5s):
+This message comes from sun and ski sports. Soccer at six. Volleyball at seven parent life from Stanley cups to bog bags. Sun and ski carries the gear. Parents need gear up and relax. Sun and ski sports where parenthood meets game day.
+
+1 (17m 23s):
+All right. Across the campus at Matt's workplace, the University of Pennsylvania, a psychology professor picks up the telephone. Her name is Barb Millers. And on the other end of the line is her good friend, Dany Kahneman. They're catching up
+
+7 (17m 39s):
+And he said, oh, by the way, do you happen to know a guy by the name of Matt Killingsworth? And I said, as a matter of fact, I do. And if you'd like me to introduce him to you, and if you'd like me to be an arbiter, I'd be happy to do that.
+
+2 (17m 58s):
+So you knew what he was thinking.
+
+7 (18m 0s):
+I knew exactly what he was thinking. It
+
+2 (18m 3s):
+Seems he was not thinking, I wanna take down that young Matt Killingsworth. I'm gonna humiliate him in front of all his psychology heroes. No, no. Danny Kahneman wanted to collaborate and he needed Barb's help. Yeah,
+
+1 (18m 18s):
+He wanted to do something he called an adversarial collaboration where researchers with scientific beefs try to figure out the truth. They agree to design a study and write a paper together.
+
+7 (18m 30s):
+I think Danny just hated the, the common way of engaging in disputes, which is exchanges and journals where each side sort of caricatures the other. So he proposed an alternative method in which both sides jointly design an experiment that gets to the heart of the dispute. Hmm.
+
+2 (18m 53s):
+Why is that? Is there an incentive to kind of caricature the other side in journals? Like why does that happen?
+
+7 (19m 0s):
+Oh, that's human nature. That's, that's our natural more base instinct, I think.
+
+1 (19m 6s):
+But in this case, Danny does not want to attack Matt's research. He wants to do this adversarial collaboration thing to work together to find the truth.
+
+2 (19m 16s):
+And he asks Barb to help set it up and serve as arbiter to mediate any disputes. So Barr reaches out to Matt asks if he's game to meet, Matt says, yes of Course. Their first conversation is on Zoom. And Matt told me there was a little bit of tension in the air.
+
+6 (19m 34s):
+Danny was maybe not a hundred percent pleased. He was a little bit prickly, which, which was understandable,
+
+2 (19m 42s):
+But stressful maybe.
+
+6 (19m 43s):
+Yeah. On my side of the equation, I mean You know. He's kind of at the pinnacle of influence and, and prestige. And, you know, having someone like that, even 1% not happy with you, doesn't necessarily feel great. But at the same time, there's kind of part of me that's like, You know I'm a scientist, I study data, here's what I found. And that's what it is. So, you know, right,
+
+2 (20m 6s):
+And you'll know. He, he will respect that. Like that's what he's like too.
+
+6 (20m 9s):
+A a a hundred percent.
+
+7 (20m 11s):
+The question we were trying to answer was this, Barb
+
+2 (20m 14s):
+Millers again, could there be
+
+7 (20m 15s):
+A reality in which both Danny and Matt might be Right? Suppose we start with the assumption that both of their data sets are valid and, and good. How could it happen? What, what do we have to know that would put the pieces together?
+
+1 (20m 32s):
+Barb was like, look, everyone agrees that Matt's experience sampling data is awesome.
+
+7 (20m 38s):
+It's very good. Yeah, unusually good.
+
+2 (20m 40s):
+But Danny and Angus Deaton had really good data too. Theirs came from the professional polling company, Gallup, who called more than 450,000 people to ask them these questions. So it was a puzzle. Why did Danny find a plateau? And Matt didn't.
+
+7 (20m 57s):
+The grass looked totally different. And it's really a, a big question mark, why? How could these guys, both of whom have really great data sets, have such different findings?
+
+2 (21m 11s):
+They start trying together to imagine what they might be missing. And eventually they realize there might be an alternate vision of reality here. One that actually aligns surprisingly well with both of their studies, if they just look at the data in a slightly new way.
+
+1 (21m 31s):
+And to understand this, we're gonna need to get a little bit nerdy about the two different kinds of data that Danny and Matt were working with. You ready? Sally cracked those knuckles.
+
+2 (21m 39s):
+Let us do it. Okay. So remember Danny's 2010 study relied on people answering questions about their emotional wellbeing over the course of the previous day. It was essentially three questions. Did you smile or laugh a lot yesterday? Did you feel happiness a lot yesterday? How about enjoyment? And importantly, these were yes no questions. So if you are the happiest person in the world, your answers will be yes, yes and yes.
+
+1 (22m 6s):
+And here is a key fact in Danny's data. A lot of people were answering, yes, yes, yes.
+
+7 (22m 15s):
+On average, in the entire dataset, the overall happiness measures were about 85%. Meaning just about everyone was at the maximum of the happiness scale on that day, they were measured. Okay? So that's a problem.
+
+2 (22m 36s):
+It's a problem because the happiest person in the world answers yes, yes, yes. But a lot of people who are less happy also answer Yes, yes, yes. On average, in Danny's data, 85% of people were answering. Yes, yes, yes.
+
+1 (22m 53s):
+So Danny's happiness measure, it can't really distinguish between the happiest person in the world and someone who's just happy in a more normal run of the mill way. It's like people are maxing out the scale.
+
+2 (23m 5s):
+Yeah. Because the only way they can describe their happiness is with these three yes no questions. But if you gave them a bigger spectrum, they might be able to tell you more about just how happy they feel. And this is where we get to Matt's study. Remember he had people report their happiness on a range that went from very good to very bad. You could put the little slider anywhere along that spectrum. And in Matt's data, very few people were putting it at the absolute maximum. It was rare for someone to say, at this moment, I am feeling so good that I think I'm at the very top of this happiness scale.
+
+1 (23m 43s):
+So there's almost always some
+
+6 (23m 45s):
+Room for it to be higher. And I measure over and over. So even if someone were, I'm just as happy as I could possibly score on this at Tuesday in the afternoon, well, Wednesday morning, you're not gonna be there. And I'm gonna average all of those responses to say, on average, how happy does this person feel in everyday life? So I kind of had a, a much more sensitive measure of the variation.
+
+2 (24m 5s):
+And that could explain why Danny found a plateau and Matt didn't. Maybe the rich people in Danny's sample were happier. They just had no way to tell him that. All they could say was yes, yes, yes.
+
+1 (24m 18s):
+But not everyone was saying yes, yes, yes. Something like 15% of people were saying no. Yes, yes or no, no, no. Those were the people who did not smile or laugh a lot yesterday who didn't feel enjoyment much yesterday. They're basically the sad people, or at least the people who are feeling sad yesterday.
+
+2 (24m 38s):
+So Danny's data couldn't see the whole range of happiness, but it could see the sadness. In fact, another way to say it is that Danny wasn't actually measuring happiness, he was measuring unhappiness. He had basically given the variable the wrong name. You
+
+7 (24m 59s):
+Know it, it it's, it's an error, it's a mistake. And he had to sort of gulp and deal with that.
+
+2 (25m 10s):
+They had found this big error and they could have just stopped right there. Case closed, end of story. But they did not.
+
+1 (25m 18s):
+No, because this wasn't a take down, it was a collaboration. And now that they understood Danny's mistake, they went back to the data sets to search through them again and see if there was any more insight they could mine. And what they found was so rad.
+
+2 (25m 35s):
+Yeah. Okay. So remember the key realization was that Danny was really talking not about happiness, but about unhappiness. And there were unhappy people in Matt's sample too. People who put the slider low, who said, I feel very bad right now,
+
+7 (25m 52s):
+So. we thought, well, maybe we could see that flattening if we looked at the least happy group.
+
+1 (26m 1s):
+Yeah. If they zoom in on the unhappiest, 15 to 20% of people in Matt's sample, people at all income levels who said they felt bad, would they see a different relationship between money and happiness? Was it possible that for that unhappy group, at a certain point, money stopped mattering? In other words, would they find that plateau?
+
+7 (26m 24s):
+And that's what we did. And that's what we found.
+
+2 (26m 27s):
+They found Danny's plateau hiding in Matt's data, but only for the unhappiest. 15 to 20% in that group, people who made the least money reported the least happiness. People who made more said they were happier, but only up to about a hundred thousand dollars a year if you account for inflation. That is basically what Danny found all those years ago.
+
+7 (26m 52s):
+Oh, it was so beautiful. It, it just, I remember this feeling of awe and just the, the pleasure of doing science. You know there's just a, a delight that you feel when things come together in a way that you haven't expected.
+
+2 (27m 10s):
+So this result, remember it doesn't show anything about the causes of any of this, but it's like maybe money can kind of mitigate unhappiness up to a point and After that point. Maybe you're just a person dealing with one of the many problems that money can't fix. Heartbreak, depression, grief.
+
+1 (27m 30s):
+Alright, so mystery solved, plateau identified, but it turned out there was another surprise lurking in Matt's data. Something that none of them had predicted
+
+7 (27m 41s):
+For the happiest people. Those at the top 15%. What you find is that at that point, happiness goes up really fast.
+
+2 (27m 52s):
+For the very happiest group, there is actually an accelerating relationship. More money correlates with more and more happiness. Again, it's not clear why, but maybe these are people who just like know how to spend money really well on things that make them happy. So for the unhappy group, there was the plateau, and for the happiest group, there was like the opposite of a plateau. Do you think that they were both sort of right or both sort of wrong?
+
+7 (28m 25s):
+Is the glass half empty or half full? Yes is the answer. Barb
+
+2 (28m 31s):
+Definitely thinks the collaborative study added to what both of these researchers did on their own.
+
+1 (28m 37s):
+And that is important. Psychology has been in the midst of what's been called the replication crisis. A lot of the results that one paper found, they don't replicate when another paper looks at the exact same thing. Economics has this problem too. And maybe adversarial collaboration could help people get closer to the truth of the matter. Yeah.
+
+2 (28m 56s):
+You know in a way, it's easier to tear down someone else's study to be like, your data is bogus, my data is awesome. And of Course, some studies do deserve to be torn to shreds. But in this case, realizing that everyone had actually done a good job that raised harder and more interesting questions and meant they learned something that they hadn't expected.
+
+1 (29m 18s):
+They also did confirm that on average, getting more money does at least correlate with more happiness, which is an important thing to know because we all make decisions about how much to pursue or value money in our lives. And if there is a takeaway from Matt Killingsworth research, it's about this, how to weigh those trade offs.
+
+6 (29m 42s):
+If you're at some critical juncture in your life, especially You know, maybe thinking about someone in college and they're kind of like, well, I could major in art history, or I could major in electrical engineering and I'm kind of, you know, 50 50 on both of them. Well, there might be some reasons to think about the engineering.
+
+2 (29m 57s):
+I feel like you're saying, but not saying, yeah, you can follow the money. Like if you're 50 50 on art history and electrical engineering to think, well, I'll make a lot more money as an electrical engineer. Maybe I should do that. It might make me happier.
+
+6 (30m 11s):
+Yep.
+
+2 (30m 14s):
+Why are you saying it but not saying it? Matt, what makes you hesitate to say it?
+
+6 (30m 20s):
+I think there's just a risk of feeling like that should overwhelm your other considerations. And I think You know that's just a personal decision people have to grapple with.
+
+1 (30m 29s):
+Yeah. Matt said the effect of money on happiness is pretty small actually. There are really lots of things that affect our emotional wellbeing, social connections and exercise and living in the moment. And none of them really dominates over the others. You just have to find your own balance.
+
+2 (30m 48s):
+And that's actually what Matt did himself. Before he was a psychology researcher. He studied engineering, worked in tech. Staying on that path would've probably meant more money. But he felt drawn to these big questions about what makes life worth living, and he decided to follow those instead.
+
+1 (31m 12s):
+Today's show was produced by Sean Saldana with help from Sam, Yellowhorse Kesler and Emma Peasley. It was edited by Meg Kramer, engineering by Sena Laredo. Fact checking by Sierra Juarez. Alex Goldmark is our executive producer. I'm Nick Fountain. And
+
+5 (31m 27s):
+I'm
+
+2 (31m 28s):
+Sally Helm. This is NPR. Thanks for listening.
+
+Merrill (31m 33s):
+This message comes from NPR sponsor, Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Fenner and Smith Incorporated. Registered broker dealer. Registered investment advisor, member SIPC.
+
+Capella University (32m 3s):
+This message comes from Capella University. With Capella's FlexPath learning format, you can set your own deadlines and learn on your schedule. A different future is closer than you think with Capella University. Learn more@capella.edu.

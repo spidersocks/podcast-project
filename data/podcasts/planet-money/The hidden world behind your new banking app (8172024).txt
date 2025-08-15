@@ -1,0 +1,128 @@
+
+Support for this podcast and the following message come from Humana Employees are the heartbeat of your business. That's why Humana offers group dental, vision, life, and disability plans designed to protect them. Exceptional service, broad networks, and modern benefits. That's the power of human care.
+
+
+This message comes from St. Jude Children's Research Hospital. Active and retired federal employees and military staff can support St. Jude during the 2024 combined federal campaign, visit st jude.org/cfc and donate now using the code 1 0 5 6 0.
+
+
+This is Planet Money from NPR. Odds are that you've seen ads for these online banking services that seem to offer all this great stuff, accounts that don't have monthly fees that seem to pay high interest rates and offer all these fun things that your boring old bank may not offer. This is the story of what can happen when you sign up for one of those services. We're gonna start with Shada and Jordan Gonzalez. This couple in Castroville, Texas. They met 11 years ago. He thought I was married at first. Oh, I did? Yeah, because I gave some kind of vibe. She wasn't, and they got married. Jordan is super into NASCAR and Shada.
+
+
+She loves books, specifically mysteries, thrillers. I recently read the intern, that was one of my favorites. And then another one titled When I'm Dead. I can Go On Girl. No. Shada is a social worker at a middle school, and Jordan's a software tester. For a long time they were living paycheck to paycheck. They'd occasionally buy a lottery ticket, never won. But in the last couple years, they had started to really get their budget under control, paying off like $5,000 of credit card debt, saving up for emergencies. And then one day Jordan came across this ad. This is what you are doing every time you buy a ticket for the lottery. The ad shows a bunch of cash being flushed on the toilet.
+
+
+But here's something wonderful you might not know. You can win the jackpot without ever buying a lottery ticket. Meet Yara, a banking app that has a weekly drawing just like the lottery, except it's free. This ads for an app called Yara, like yada, yada, yada. And the basic idea is you keep your savings in Yara. Once a week, the app would randomly draw customers and they'd win prizes prize. Most of the prizes were just a few dollars, but people could win thousands. They could even win a Tesla to Shada and Jordan. This was so appealing. Basically they were talking about gamifying their savings into a lottery type thing, but at the same time, you're not spending money.
+
+
+It's, you get more tickets by savings. So I was like, Hey, it's a neat little deal. There's a name for this idea. It's called Prize Length Savings Accounts. Governments around the world have used this concept to help motivate people to save money. Jordan and Shada, they looked at the app, scrolled through, read some reviews, and to them yada looked great. They could get debit cards, monitor their balance, and even directly deposit their paychecks. Basically, yada. Seemed like a bank. It even seemed to have the banking gold stamp of approval. FDIC insurance. Absolutely. The bank we partner with is FDIC insured, just like Chase, bank of America, Wells Fargo and every other bank you can drive to.
+
+
+Then What's the catch? Did someone Say Catch There isn't one this Shutting the, and Jordan heard FDIC insured. And to them that said something, it said, this app is legit. So they signed up. They started by depositing $200 a month. They won a couple of cash prizes, even a few free coffees. Shada buys about three or four books per month. And one month she got a notification that Yara had randomly covered all of her book purchases. After about a year, Jordan and Shada started depositing their entire paychecks. It was easy. All they needed was their phones. Even a, I don't know, maybe a middle schooler can use. Yeah, the app, huh? Yeah, it was really good.
+
+
+Yeah. Did it like feel like the Bank of the future? It really did. Yeah, it, it definitely felt like something that like, why are the old banks, why aren't they doing stuff like this? This Bank of the Future was helping them save money. They managed to put away $6,000 But. then one day in mid-May setting that is where else? At a bookstore. And she goes to pay using her yada debit card. And so at first they're like, oh, well, You know it's been declined. Weird. Like, okay, whatever. You know there's glitches that go on. So I tried it again, and still it was declined. She knew she had thousands of dollars in her account. I was just frustrated. You know. A little embarrassed too. And then people are behind you waiting for you to go ahead and pay next.
+
+
+Like, why isn't my car working? The problem wasn't just with Shea's account. It wasn't even just a problem with all Yara accounts. It was way bigger than that. Thousands of people could not get access to their money. And since that day, Shea has felt like a character in one of those mysteries. She loves so much. It's kind of like, wow. Like I feel like I'm in a book where It's surreal. Yeah, it was surreal. Like maybe you were dreaming, hoping you were dreaming, but it was ac. It wasn't actually a dream. It was actually real life. Hello and welcome to Planet Money. I'm Erica Barris. And I'm Sally Helm. That was more than three months ago.
+
+
+Shada and Jordan still haven't been able to access their money, not because they got scammed. This is a much more complicated story about what a bank is and what it is not today on the show, how the banks of the future may not be living up to their promise. We've got unreachable accounts, finger pointing, and a regulatory scramble. And a big question for all of us. Are you banking with a real bank? Because it turns out that matters quite a bit.
+
+
+This message comes from Apple Card. Apple Card is the perfect card for your holiday shopping. When you use Apple Card on your iPhone, you'll learn up to 3% daily cash back on every purchase, including products at Apple, like a new iPhone 16 or Apple Watch Ultra. Apply now in the wallet Apple on your iPhone, subject to credit approval. Apple Card issued by Goldman Sachs Bank, USA, salt Lake City branch terms and more@applecard.com.
+
+
+This message comes from Grammarly. 88% of the work week is spent communicating. So it's important your team gets it right. Enter Grammarly. Grammarly's AI helps teams communicate clearly the first time it goes beyond basic grammar to help teams instantly create and revise drafts in just one click, all without leaving the page they're on. Join the 70,000 teams and 30 million people who use Grammarly to move work forward. Go to Grammarly dot com slash enterprise to learn more. Grammarly Enterprise
+
+
+Ready ai. Yara had tens of thousands of customers in total people had deposited over $100 million and suddenly all that money was frozen. And to figure out what exactly happened here, we called up Hillary Allen, a law professor at American University, And I am also the author of the book, driverless Finance. Fintech's Impact on Financial Stability. Driverless Finance. Like Like a driverless car. Yep. There are. There are cars crashing on the front cover. Hillary's book is about FinTech. See, Yara is what's known as a FinTech, a financial technology company, like a tech company that does something with money.
+
+
+Think Venmo or Square FinTech started to take off in the late two thousands because of smartphones. And also because of the 2008 financial crisis, people lost their homes and their savings, and they also lost some trust in the big banks. Unsurprisingly, there was a lot of distrust of traditional banks and other financial institutions, and that sort of created a market to provide equivalent services, but not be the traditional financial institutions. So in the year since a whole industry, hundreds of FinTech companies have popped up, fintechs can do a bunch of different things. This episode is about the ones that do the banking like services.
+
+
+So companies where you can keep money in an account or use to pay for things, right? And look, there can be benefits to these fintechs. There are lots of people that can't afford to use banks for the unbanked or the underbanked. Fintechs like Yara can help give people a place to put their money and save money. And Yara promised to be better, faster, easier to use. It seemed like a bank of the future, but we should make it clear. Yara is not a bank. Erica. No, it is not. A yada is not a bank. And that is a key part of this story. But to customers, it might not have been totally obvious.
+
+
+It is the like, if it looks like a duck argument, you know it. It seems to do all the things that a bank does. Why wouldn't it be a bank? You know. Often these will market themselves with the word bank in their marketing. You know, and there, there might be an asterisk after the bank. Sure. But you know, and, and then in tiny print, we're not actually a bank because What is an actual bank? A bank does three main things. It holds deposits, makes loans, and allows customers to make payments. And to become a bank, there is a whole arduous process. Banks have to meet a bunch of regulations, they gotta have reserves, they need to apply for a charter.
+
+
+And these bank-like fintechs have not done any of that. But in their marketing materials, they often make that less than obvious. I was looking at one the other day. Hillary pulls up the page for a popular FinTech company called Cash App. So it says, do more with your money, send and spend Bank asterisk. And it's not entirely clear where the asterisk links to. Oh, here it goes in tiny print. It then says, cash App is a financial services platform, not a bank, but that's in small print. It's got bank and bigger print asterisk, and then in tiny print.
+
+
+Cash app is not a bank. Hillary says, if you have questions about the company you're using, just look at the fine print. Does it literally say it is a bank? If it doesn't, it probably is not a bank. But remember, it might look like a bank and even quack like a bank. And in order to market themselves as bank-like, and to do all these bank-like things, these fintechs need a whole financial ecosystem behind them. And this ecosystem is key to understanding what happened to Shada and Jordan's money. Bit of a wild ride. So stay with me here. Yara would take deposits from customers, but they were not legally allowed to hold the deposits.
+
+
+So Yara would send the customer money to a real bank, but they did not send the money directly to the bank. They used a middle company and the whole problem, the reason Shanda and Jordan couldn't access their money, it has to do with this middle company. That company is called Synapse. Okay. Like essentially the company that is like the connective tissue. And I think that's how they came up with the name. Ah, that makes a lot of sense, doesn't it? Right. 'cause synapses are nerve connectors. What is actually is a synapse nerve. Connectors. It's like what connects all the neurons and helps 'em talk to each other. And synapsis, sell to Yada was you just give us the money, and this is important, we will deposit the money for you.
+
+
+At a real bank, synapse promised to deposit the money at a bank called Evolve Bank And Trust evolve's been around for about a hundred years. And in the last decade or so, they've worked with a bunch of different FinTech companies. And when Synapse sent the money to evolve, the money got crucial protection that banks provide. This is where the money is. FDIC insured. The FDIC usually insures individual accounts of up to $250,000. So if the bank fails, customers will get up to that amount back. So when customers put money in, yada, it will go from yada to Synapse to evolve. That is how it was supposed to work. But a few months ago, synapse failed.
+
+
+It filed for bankruptcy, and this revealed an accounting nightmare. Yara had thought Synapse was keeping track of their customer's deposits, man, how much money people earn through rewards and bonuses. But no, according to some of the bankruptcy documents, synapse wasn't keeping good records. And also Synapse had dropped much of the money into one big account at Evolve, which is wild. All this yacht of customer money was going into one single huge account that ended up making it almost impossible to know how much money should go to which customers. Also, synapse had moved some of the money to other banks too.
+
+
+So it was really a whole big mess. And this is why yada customers like Book Loving Sharin and her husband Jordan couldn't access their accounts. And actually the problem is much bigger than just yada. Synapse worked with about a hundred different fintechs and four different banks in total, customers couldn't access about $265 million. And up to about a hundred million of that is missing. And look, it's still not clear if Synapse did anything illegal, but Hillary says in general, fintechs can be very good at skirting regulation. Yeah, so I mean not all of this is illegal because they have absolutely huge to the letter of the law getting as close to the line as they possibly can.
+
+
+And they have violated absolutely the goals and the spirit of the law, but they have not violated the letter of the law. Most of the time. After the break, we go to the regulators to find out what this cautionary tale tells us about what kind of new rules we might need going forward.
+
+
+This message comes from Capital. One banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply. See Capital One dot com slash bank for details. Capital One na member
+
+
+FDIC.
+
+
+This message comes from NPR sponsor, Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Spanner and Smith Incorporated. Registered broker dealer, registered investment advisor, member SIPC.
+
+
+This message comes from BetterHelp. It's important to take time to show gratitude towards others, but it's equally important to thank yourself. Life throws a lot of curve balls and being grateful isn't always easy. Therapy can help remind you of all that you're worthy of and all that you do have. Let the gratitude flow with BetterHelp. Try at BetterHelp dot com slash NPR today to get 10% off your first
+
+
+month.
+
+
+This message comes from Sun and ski sports. Soccer at six. Volleyball at seven Parent life from Stanley Cups to bog bags. Sun and ski carries the gear. Parents need gear up and relax. Sun and ski sports where Parenthood meets game day.
+
+
+In reporting out the story, we have reached out to so many angry, frustrated, and confused yada users. They have a lot of questions and the overwhelming sense is they don't know where to find answers. I've messaged every single entity like house representatives, senators, that White House, the FDIC, the SIPC, the NFCP, the Fed, the Federal Bank of St. Louis. What's that Spider-Man meme where he's just pointing at himself, pointing at himself, pointing at himself. That's what it feels like. Like Rachel Vecchio, David Schlesinger and Candace Russell all just wanna know how this was allowed to happen.
+
+
+To answer that question, we went to a longtime regulator named Mike Sue. How often do you have to explain to all of your like Normie friends, like how exactly this whole system works? It? It depends on how nerdy they are. So. We asked Mike to go full on nerd. He says, banks in the US are regulated by three different entities. The Federal Reserve regulates some banks. The FDIC regulates others. And the office of the comptroller of the currency, the OCC regulates the rest. Mike has done stints at the Fed, the Treasury, he's now at the OCC. He's been there for a few years. His job is to oversee the banking regulators.
+
+
+There are about 2000 people who examine the banks and he's been thinking about fintechs like YADA and Synapse because they're everywhere. You know, my kids are teenagers. When they got jobs, they wanted to just have a a FinTech app. I said, no, you need a banking account. And here's why. Mike basically tells his teens, if the app is not FDIC insured and something goes wrong, you could lose your money. If you keep your money in a bank, it'll be protected. And wards are like, yeah, that's a good idea. No, were they like, dad? Yes, I mean, but they, they're like that with me on everything. So, And look, if you're a teen whose entire life is on their phone, you can totally see why FinTech is appealing. It is easy to swipe or click.
+
+
+It can even be fun. And Erica, I'm not even a teen And I also understand this, like adults also want their banking to be simple and digital. And Mike says, look, there are ways that FinTech and banks can work well together. Like the app makes a nice streamlined experience and then the bank actually takes care of the deposits and they're both clear about who is responsible for what. But that actually gets to the heart of the problem for these yada users, everyone in the system was depending on Synapse, but Synapse maybe wasn't doing what it was supposed to be doing. Again, not clear if they did anything illegal, but at the very least they weren't keeping good records and no one was really watching them.
+
+
+I think we on the regulatory side really need to start thinking about this through this lens of supply chain. We regulate the banks, but if you've got a long supply chain, we can't reach all the way through. Yeah, supply chains have all of these individual moving parts working together, and when things are going well, the individual parts can become kind of invisible. But when one of them breaks, suddenly the whole thing falls apart. In the case of the audience Synapse, it just wasn't clear which agency would be responsible. We reached out to the Consumer Financial Protection Bureau, the CFPB. They said, Nope, not us. We have authority over a bunch of different types of financial products. But right now, this type of FinTech is not one of them.
+
+
+And the bank regulators are like, well, not us either. This is not actually a bank, but we can try to do something by regulating the entities that we do have authority over. Namely the real actual banks like the bank that YADA and Synapse worked with Evolve last month. Jerome Powell, the head of the Fed, actually testified about all of this in a Senate hearing. We Do supervise the bank. We don't supervise synapse or let alone the fintechs that feed into synapse. And we're strongly encouraging evolve to do whatever it can to help make money available to those depositors. The FDIC has also been doing what it can and it can tell fintechs, look, you are not a bank.
+
+
+You cannot say you are a bank. You cannot use some of the specific language that banks use. Like if you look really carefully at Yaras marketing materials, you'll see they don't say they pay a high interest rate. They call it a quote, savings reward. The FDIC even reviewed the language yada used back when they launched in 2020 and suggested changes to try and make it clearer that Yara wasn't a bank and couldn't protect your money like a bank. So you can see these regulators trying to use the tools that they have to protect FinTech customers, but that is not really what these tools were made for. I think the synapse bankruptcy and the, the turmoil around it has really highlighted, okay, this is what happens if we don't get this right.
+
+
+Was this a regulatory failure? Ah, so it depends on how you define regulatory failure. Industry is very enterprising slash creative slash innovative. And on the one hand, that's a good thing. That's how we get improvement and progress and all that. However, they'll always find a weak spot in the regulatory regime to do something to push the boundaries. Mike says it's hard for regulators to keep up. He thinks it's actually a job for Congress to pass legislation and give some federal agency the authority to regulate these types of fintechs. We did reach out to spokespeople for synapse yada and evolve. They didn't respond or declined an interview.
+
+
+All the customers at YADA that we've spoken to have not gotten their money back. It is not clear if or when they will get access to their money, including that couple in Texas, Jordan and Shada Gonzalez who wanted to save money and win prizes. Jordan and Shada are fighting back. Jordan's filed a lawsuit against DeVol Bank. But even despite all this, he's not out on fintechs. I'm for trying new things. I really am. We probably do need to read those documents a little bit better, but I'm not against fintechs. I might take a pause from it, but if, if Yoda and his glory days, I'd quickly go back. Shada not so much. I was like, you know what?
+
+
+This is why people put their money under their mattresses. Like, you know, this is why people don't entrust in banks. I was just You know going off on that. What are you guys doing now? I am curious, like, are you keeping your money under your mattress or do you have it like at a good old fashioned brick and mortar bank? Brick and mortar? Because my trust in the financial system itself really hasn't changed. Their regular bank doesn't pay out savings, rewards comp, their book purchases or give away any Teslas. But these days it's where they're keeping their money.
+
+
+Today's show with produced by Sam Hurst, Kessler and Sophia Shina with help from James Nee. It was edited by Jess Jang, engineering by Valentina Rodriguez Sanchez. With help from James Willetts. Fact checking by Kevin Kel. Alex Goldmark is our executive producer. Thank you to Katherine Judge Sja Patel, and to Jason Micala whose Substack FinTech Business Weekly has been chronicling the ins and outs of this saga. Check it out. Also, thank you to the other Yara users who shared their stories with us. Kris Nly, Elisa Weiss, and Andrea Jeri America Bears. And I'm Sally Helm. This is NPR. Thanks for listening.
+
+
+This message comes from NPR sponsor Ultra Software by UL Solutions. Ultra Software helps companies drive innovation, meet regulatory requirements, and get safer, sustainable products to market. Learn more at U-L-T-R-U s.com/
+
+
+NPR.
+
+
+This message comes from Capella University. With Capella's FlexPath learning format, you can set your own deadlines and learn on your schedule. A different future is closer than you think with Capella University. Learn more@capella.edu.

@@ -1,0 +1,68 @@
+
+TED Audio Collective. You are listening to TED Talks Daily, where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. You probably have heard of quantum computing already, but to really understand its promise, the founder and lead at Google Quantum ai Hartmut Neven Nevin took the TED stage to break down how it works in practice. after the break. Better understand this revolution in computing by hearing it in action.
+
+
+Support for the show comes from Capital. One Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts and no overdraft fees. Just ask the Capital One bank guy. It's pretty much all he talks about. In a good way. He'd also tell you that this podcast is his favorite podcast too. Oh really? Thanks. Capital One Bank guy. What's in your wallet terms? Apply. See Capital One dot com slash bank. Capital One na member FDIC.
+
+
+Support for the show comes from Brooks Running. My friends at Brooks sent me the amazing new Ghost sixteens. I don't know about y'all, but having new shoes, especially really lightweight ones that I like, get me out there. It's like enough motivation just to have that soft cushioning. You can take your daily joyride in these better than ever Go sixteens now with nitrogen infused DNA loft V three cushioning so lightweight, so soft, it'll help you turn your everyday miles into everyday endorphins. Let's run there. Visit Brooks Running dot com to learn more
+
+
+Support for this show comes from Hello Fresh with HelloFresh, you get Farm Fresh, pre-portioned ingredients and seasonal recipes delivered right to your doorstep. It makes planning dinner and preparing a meal for my family a breeze. I can skip trips to the grocery store where I'm wasteful and I'm wasteful of time, and instead I can just count on HelloFresh to make home cooking easy, fun, affordable, and something I actually want to do as a busy mom of three. I need to save time. I need to be really efficient about dinner. And so when HelloFresh sends me the ingredients I need in exact amounts that I need them and makes it super easy for me to follow the instructions and make a delicious healthy meal for my family, I'm always so satisfied. For free Breakfast for Life, you can go to hellofresh.com/free TTD one free breakfast item per box while your subscription is active. That's Free Breakfast for Life just by going to hellofresh.com/free. TTD HelloFresh America's number one meal kit.
+
+
+AI is shaking things up and it's fascinating, confusing, and sometimes scary. Our new podcast, the TED AI Show, helps you understand what you need to know about AI and how it's changing our world. I'm your host, Bala sdu, a creative technologist and AI innovator, and I ask experts, artists, journalists, and beyond to guide us through the thrilling world of tech and how it's gonna affect the future of our health, art everyday lives, and so much more. Each episode will leave you more informed and with tools to help you understand how AI will change your future. Check out the TED AI Show wherever you get your podcasts.
+
+
+And now our TED Talk of the day. I'm Hartmut Neven. I lead Google Quantum ai. I've been working on quantum computing since 2012, and let me tell you why this so intriguing. Today's computers like your laptop or a server at the Google Data Center operate on the binary logic of zeros and ones. A quantum computer replaces the binary logic with the laws of quantum physics that gives it more powerful operations, allowing it to perform certain computations with way fewer steps. So where does this superpower come from?
+
+
+Quantum computing is the first technologies that takes the idea serious that we live in a multiverse. It can be seen as farming out computations to parallel universes. Let me explain. In quantum physics, the key mathematical object to describe many worlds is called superposition. You just need three bits to describe it. Each coin is a two state system, heads or tails, zero or one. We look at the start state. If I were to know which forces act on the system, then I can predict its trajectory and future states.
+
+
+This is how we reason in classical physics and also in everyday life. But If, you were to treat this as a Quentin system, then it can branch into many configurations simultaneously, and we have to keep track of all those trajectories, interfere them to make an accurate prediction of what states we are going to see in the future. So the equations of quantum mechanics tell us that at any time, any object, myself or the word at large exists in a superposition of many configurations. Intriguingly, look around in this room.
+
+
+We are forming a configuration too, and the equations of quantum physics would suggest that we sit in different arrangements in different worlds. This superpower can be applied to computation picture, search task by envisioning a very tall closet with a million drawers. I place an item in one of the drawers. How many drawers do you have to open to find the item? In average, it will be half a million. But If, you had access to a quantum algorithm. It would only be a thousand steps to find the item.
+
+
+How the world can this be? Indeed, it cannot be in a single world. So here you see good example how quantum computing can attain an advantage by performing computations in parallel worlds. So what can you do with quantum computers? Today we have prepared interesting quantum states and studied their properties. This has led to dozens of publications and high impact journals like nature or science. Actually, I like to think of it as creating little pieces of magic. For example, one state be prepared can be sort of as spawning a tiny traversal warm hole.
+
+
+We can use it to learn about the physics of warm holes. We can throw a cubit in and see how it reappears on the other side. We made time crystals. That's a cool word, isn't it? Like who doesn't want to have a time crystal as an earring? Time crystals have amazing physical properties. They change periodically in time without ever exchanging energy with the environment. There's closest to a perpetual mobile that the laws of physics allow you to get. Or a final example, not a billion anions. This is a mouthful, but these are systems that change their overall properties when exchanging two identical parts, something humans have never seen before.
+
+
+'cause envision a little house made of Lego bricks and envision swapping two bricks that look identical. In everyday life, you would not notice a difference, but quantum physicist had predicted that systems can exist, that exchange or change their properties. When you exchange two identical parts to date, nobody has performed a practical application that can only be done on a quantum computer despite what you may have read in the press. But today, I'm excited to tell you that we are completing the design of an algorithm that may lead to first commercial applications.
+
+
+This quantum algorithm performs signal processing to enable new ways to detect and analyze molecules using nuclear electronic spin spectroscopy. In times this may lead to exciting consumer applications, envision a device Aiken to an electronic nose in your phone or a smartwatch. Wouldn't it be awesome if your phone could warn you that you step into a room with dangerous viruses? Or if your smart watch could detect free radicals in your bloodstream and tell you it's time to drink you as a e juice or warn you of allergens in in food, or many other truly helpful use cases.
+
+
+And now back to the episode. To unlock more applications, we will need to build a large error corrected quantum computer. How to build a computer with a million physical qubits? It consists of six milestones, and we achieved already the first two. Prior to 2019, nobody had shown a beyond classical computation on a quantum computer. We were the first to demonstrate it. Our chip could perform a computation that the zen fastest supercomputer would've needed 10,000 years to do. But recently we repeated this experiment and now frontier.
+
+
+Today's top supercomputer would need 1 billion years to perform this computation, this dramatic growth in compute power corroborates Nevins law, which says that the power of quantum computers will grow at a double exponential rate. In 2023, we achieved a second milestone. We demonstrated again for the first time that quantum error correction is a scalable technology error correction. Sounds boring, but it's crucial. Today our two qubit operations have an error rate of one in a thousand. That means that in every thousand steps or so, the quent computer will crash.
+
+
+To improve this, we combine many physical qubits to a logical qubit to reduce the error rate to one in a billion or even less. We are about halfway through our roadmap and we are optimistic, so we'll complete it before the end of this decade. We have done analytical and numerical studies to predict which algorithms will be impactful on such a large quantum computer. A class of applications we like and we call famine's killer app is the simulation of systems where quantum effects are important. This is relevant for designing more effective, more targeted medicines.
+
+
+Specifically, we have worked with the pharmaceutical company on algorithms to describe cytochrome P 450. This group of enzymes metabolizes about 75% of the drugs we take, or the design of lighter, faster charging batteries that can hold a larger charge for electric cars or even electric airplanes, or to hasten the design of fusion reactors to help with climate change. Arguably humanity's most urgent challenge, a recent result is a novel algorithm that delivers significant speed up for optimization.
+
+
+It's a big deal because optimization problems are ubiquitous in engineering, finance, or machine learning. A way to think about this result is, in the future when an AI will play chess or go against the quantum ai, the quantum AI will win. This result shows that quantum computers will become a must have capability to serve foundational computational tasks. I'm also very interested in the intersection of physics and neurobiology. Quantum information science may enable us to answer one of humanity's deepest questions.
+
+
+What creates conscious experience? An attractive conjecture is that consciousness is how we experience the emergence of the single classical world. Out of the many, the multiverse is composed of with academic collaborators have started a program to experimentally test this conjecture using methods of quantum neurobiology. If our conjecture is correct, this would allow us to expand human consciousness in space, time, and complexity. In conclusion, we are making steady progress towards building the world's first use for quantum computer and applying its enormous power to important challenges.
+
+
+Quantum computer will be a gift to future generations, giving them a new tool to solve problems that today unsolvable. Thank you.
+
+
+OMGS is a website of new findings from the largest ever research study into women's pleasure and intimacy in partnership with IU and Yale researchers. When you see such an open, honest evidence-based discussion of what feels good and why it becomes so obvious, that's how it should be. The techniques are beautifully organized and presented with women of diverse agents. Sharing from experience, no blushing, no shame. Binge watch OMG. Yes, solo with your partner, or discuss it with friends, like a book club. See it for yourself. At omg yes.com.
+
+
+Hi, I'm Bvo sdu, host of Ted's newest podcast, the TED AI Show where I speak with the world's leading experts, artists, journalists, to help you live and thrive in a world where AI is changing everything. I'm stoked to be working with IBM, our official sponsor for this episode. Now, the path from Gen AI pilots to real world deployments is often filled with roadblocks, such as barriers to free data flow. But what if I told you there's a way to deploy AI wherever your data lives? With watsonx, you can deploy AI models across any environment above the clouds, helping pilots navigate flights and on lots of clouds, helping employees automate tasks on-prem so designers can access proprietary data and on the edge. So remote bank tellers can assist customers. Watson X helps you deploy AI wherever you need it, so you can take your business wherever it needs to go. Learn more at ibm.com/watsonx and start infusing intelligence where you need it the most.
+
+
+That was Hartmut Neven Nevin at TED 2024. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Es Stefanos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fay Bogan. Additional support from Emma Tavner, Daniela Bazo and Will Hennessy. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feed. Thanks for listening. PRX.

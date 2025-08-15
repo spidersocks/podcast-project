@@ -1,0 +1,128 @@
+
+Trust isn't just earned, it's demanded. Whether you're a startup founder navigating your first audit or a seasoned security professional, scaling your GRC program, proving your commitment to security has never been more critical or more complex. That's where Vanta comes in. Businesses use Vanta to establish trust by automating compliance needs across over 35 frameworks like SOC two and ISO 27 0 0 1. Centralized security workflows, complete questionnaires up to five times faster and proactively manage vendor risk. Vanta not only saves you time, it can also save you money. A new IDC white paper found that Vanta customers achieve $535,000 per yearend benefits and the platform pays for itself in just three months. Join over 9,000 global companies like Atlassian, Cora, and Factory who use Vanta to manage risk and prove security in real time. For a limited time, get $1,000 off vanta@vanta.com slash TED audio. That's vata.com/ TED audio for $1,000 off.
+
+
+This is Paige DeSorbo, the co-host of Giggly Squad. I have exciting news. McDonald's has all new mc crispy strips. It's chicken made for dipping tender juicy white meat chicken with a golden brown peppery breading it's chicken. So good it deserves its own sauce. The Creamy Chili mc crispy strip dip a sauce that's creamy, savory, and sweet with a little heat, but it works with any of our sauces. I'm personally a barbecue sauce girl. Even sometimes I like ketchup. I'm just like basic sometimes, but I also need it In addition to any new sauces, I'm trying with a new creamy chili mc crispy strip dip. It's chicken made for dipping only at McDonald's.
+
+
+This episode is sponsored by SimpliSafe. I'm excited to tell you about a company revolutionizing home security. I am now using SimpliSafe and I'm so impressed by their active guard outdoor protection that uses AI powered cameras and real human agents to monitor what's happening outside my home rather than reacting after something's gone wrong. SimpliSafe steps in. If something looks off it's security that thinks ahead. It's peace of mind that's become part of my daily rhythm. Arming my system each night knowing my home is protected. And you can try it this summer too with a 60 day money back guarantee. No contracts, no cancellation fees, just reliable protection starting at around a dollar a day. Listeners can get 50% off their new Simply Safe system with professional monitoring and their first month free@simplysafe.com slash TED Talks Daily. That's S-I-M-P-L-I safe.com/ TED Talks Daily. There's no safe like SimpliSafe.
+
+
+You are listening to TED Talks Daily where we bring you new ideas and conversations to spark your curiosity every day. I'm Kelly Corrigan. I'm a writer. I'm a podcaster. I'm a TED talker and I am taking over for Elise Hugh. This week for a special series on AI and family life. I guest curated a session about this topic at TED 2025, and I'm here now to share these very special talks with you along with a lot of behind the scenes recordings and personal insights to shed some light on the process of how these talks came to life.
+
+
+So in February, 2024, a couple months before I gave my own TED Talk, I went to Tanzania with Christie Turlington Burns, who has an organization called Every Mother Counts, which is working to reduce maternal mortality around the world, including here in the United States. And as part of that trip, we went to a Messiah village and we met this woman. So 25 years ago, Dini Kimer CCAR founded the Messiah Women Development Organization to help Messiah girls stay safe and get a great education and pick their own husbands. And then as they became Messiah women help them start small businesses and manage their money and buy land.
+
+
+Dini is also one of those rare people who has the respect of both government officials and village elders, artisans and policy makers. So when I first went to the Messiah Village, we were being presented with their way of life. And to be totally honest, my reaction was pity. I felt sorry for the women who were one of many wives. I thought, this seems so hard. I don't think I would like it at all. I think I prefer the way that modern life goes. But even just over the hour and a half that we spent listening to their stories, I started to rethink my initial reaction. I started to see that in this community, no one ever gets lost.
+
+
+And it got me thinking, what is progress? Is it this monochromatic step forward where every bit of it is to the good or is it more of a mixed bag? Because at this moment when AI seems to be surrounding us and ready to come in any door or window we happen to leave open. We should know what world we're leaving behind and what world we're choosing to enter. And we should do that carefully. So my experience of absorbing the truth of this very old Messiah culture, for better or worse, and what modern life has improved upon and maybe what parts of modern life are a terrible degradation of what was, of how this woman grew up, made me want Dini to come to TED and just tell the story of her childhood versus the way she's raising her own children.
+
+
+Now in the city, she had the power to decide live as I was raised or live in a new modern way, and she had to work hard to figure out what would be lost if she stepped forward into non-traditional individualistic living. And then she activated her own great agency to see what parts of her childhood she could somehow replicate in the very modern world where she finds herself living now. And that is a challenge to all of us. So Ladies and gentlemen, please welcome Dini Kimera Ccar.
+
+
+Thank you. Have fun. Hi everyone. Hi. We are standing on a bridge between one way of family life and something much different to something that relies not only on human care, but also technology to manage the many responsibilities of raising a family. My plea to all of you is to be careful and move with intention. Living traditions behind for the new ways can be very risky. And let me explain.
+
+
+See, I was raised in a Maasai village in Tanzania, in a family of 38, 1 father, five mothers and 32 siblings, and I can literally name them all. There's Nalo, Malia, Sam, Danto. I'm just kidding. I won't do that. As a kid, my first job of the day was to milk our cows and goats. It took about two hours, but we girls did it together. It also hardened my fingers, but I loved it because we sang to the cows to help them relax and give more milk.
+
+
+After the milking, we went for firewood. It took three hours, we girls did it together, singing on the way to the bushes, eating fruits and dancing on the pathways. Next we went for water, another three hours. The water hole was maybe 10 kilometers away, but we girls did it together led by our mothers who taught us how to avoid elephants and buffaloes and monkeys who were all going to the same place for the same reason. By noon, it was time to sit under the trees and learn how to do our beading.
+
+
+Late in the afternoon, we will see the dust kicked up by our cows coming home and the bells around their necks ringing out. My brothers and other warriors will be here soon, and that meant dinner for the whole family while eating, we hear stories from our elders and we sing. We sing a lot. I never wanted the day to end, but when it does, we sleep on hats on wooden platform covered with leather. There was no such a thing as a pillow. There was fire next to our bed to keep us warm, and we had each other, 6, 7, 8 of us all snuggle like puppies.
+
+
+It was good. Around seven years old, I was chosen randomly by the government to go for a primary school. I will not have gone on my own. In fact, the villagers try to hide kids from outsiders. They know that kids who go to school start speaking a different language, literally and figuratively, and parents are not even told where their kids are being taken. But I was picked. And then seven years later, I was selected to attend a secondary school in the city. And my parents cried all night.
+
+
+My mother said, I will not survive without you. And I thought maybe I better remain behind to save my mother. See, my father eventually gave me his blessing so I will not have to leave the village with a curse on me. Many people have opinions about the Maasai way of life. It is not all good. There is genital cutting, there is forced marriages and girls are not eligible for, you know, inheritance. But I was cared for and I was needed and I belonged.
+
+
+There was always a place for me and just between us, I always felt like everyone's favorite, especially my father's. When I was 15, my family arranged for me to marry an assignment man with many cows, lots of cows. I said, no, they found another man. And I said, no, again, they found another husband for me. I said no for the third time. And each time there were meetings, tears and shame. There were other emotion tools.
+
+
+Some offered quiet encouragement. Eventually I left the village for the city. And now I live with my chosen husband, three children, a house, a car, a laptop, shoes, and even trousers with zippers. You see, modern families seem to value personal autonomy while traditional families, they put more emphasis on resource sharing and collective decision making. So how can we blend these two world?
+
+
+This is our challenge. Mine NGOs two. See, 25 years ago I started an organization, the Maasai Women Development Organization to give women access to education and healthcare. Here's one way we bring the old into the new. The first time I gave birth, I was with my mother, other mothers, sisters, cousins, and midwives, about 15 people. So much knowledge in the room, though my husband had to wait outside in the city for the second child, the hostel said two people only and their policies were very strict and they ignored traditional knowledge.
+
+
+At Muo, we do a little bit of both. So we have clean prepared based centers, schools that consider our culture and train midwives, and we also include our husbands. So the question for everyone here is how can we integrate the best part of our childhood into the world as it changes? You see, I don't walk 10 kilometers a day anymore, and I'm not on the land with the animals from 5:00 AM to sundown anymore. I'm not hugged and held by dozens of people a day anymore.
+
+
+In my modern family, we decided there will be more education, there will be no genital cutting, more playing, no forced marriages, but there will be more contributing, more storytelling, and there'll be more listening and all that can be done in a multi-generational setting while keeping the elders in the position of prominence. There are cost to moving on for sure, but I am the bridge. You two are a bridge and whether you know it or not, what you did as a child is going to sound as foreign to the next generation as the girls singing to cows sounded to you today.
+
+
+Well, I guess my question is, do you know what you want to preserve for the next generation? And do you know how you'll do it? You see, integration takes intention and strong leadership. So let's pause and make our list of must-haves in the new world. Let's make sure as species we can still sing. Yay.
+
+
+Thank you. That was Dini Kimra CCAR on the TED 2025 stage, but don't go anywhere. We'll be right back for more reflections. And behind the scenes conversations with Dini, right after a short break, Dini's talk was all show no tell. She just laid it out for us. This is how I lived as a child. This is what happened after I left the village. You the listener, have to decide which one was better or what parts we should try to bring with us as we evolve into new ways of living.
+
+
+I remember my father was always that wise presence. He'll always tell you like a story first. It's like the lesson is is like after the story. It's like fables. Yeah, he's got fables for everything. So he always tell me number one thing is really to listen. You have to be the best listener because If you listen, you'll never get lost. We will walk on a very narrow path and then he'll say, stop. And then he say what? Stop and listen. Say, did you hear the birds? The birds are alerting us, but you need to understand the sounds of the birds and what they mean because the bird could easily tell you that there's a snake on the way or there's some buffaloes coming.
+
+
+And then you wonder what is he saying? I mean, and then suddenly you see the buffaloes like rushing passing you, but you have already hidden yourself so you know, going to be hurt. But that is his focus. And I know even the young generations after him, they don't know how to focus that much. They cannot listen to animals in the bushes. They're not used to that. More And more I think this super skill is noticing is being observant. And I as a long time writer, am constantly trying to force myself to do the same with my pages, with my manuscripts show, don't tell, let the story be the message.
+
+
+And I feel like she did that better than almost anyone on stage this year. It was so interesting to think through Dini's talk with her over the course of a couple different sessions because in my other life as a podcast host of Kelly Corrigan Wonders, I'm often talking to people who are espousing and evangelizing these iron clad moves for better mental health. All of these great psychologists talking to me about being outside, more, walking, being in community with others, staying off your phones, making things from scratch. I mean this is exactly the lifestyle that dini comes from. You live outside, you walk to a watering hole, you milk the cows, you are enmeshed in nature, which is the most neuro aesthetic place there is.
+
+
+And you are ensconced from sunup to sundown in community. Everyone in your village knows your name. When I go home, it's just like, you know, we have names, we have names. So all my sisters, they have a name for me and I have a name for them. And this is the same name that they used to call me when I was young. And then all the mothers also have names for me and they have a song for me. Like they have my song, my mother can sing my song when I'm there, but also my other mother can sing the song and the minute they see me coming, they can start singing the song or they can cry while singing the song.
+
+
+So that all brings you back to where you came from and it makes you the human. You were like, even though you, you're coming from ausa, which is modern and what you somehow forget all that. The thing is we are losing that completely and we are losing it here in Africa. We are losing it in the modern townships. I live in an area in AUSA called Giro where you have like a neighbor on this side, on that side, and you never actually Talks Odoo this neighbor. But If you go back to Mass Island where I come from you, you meet this whole community, which which knows where your children are, what they're doing, what they're capable of, what what they need help with.
+
+
+And of course mental health in Messiah villages is strong because it's doing all the things that research tells us lead to strong mental health, which is quite different than the way we do things here in very modern America where giant sections of every bookstore are dedicated to self-help. That is promoting these very basic ideas of more movement, more outside time, more time in relationship, more agency, more contribution to a community, all of which takes you to this greater sense of belonging, which is a core human need.
+
+
+And it's just interesting to remember that that's the way it was for most of time. Do you, I mean this is way too simplistic a question, but is it better for your kids or the kids who stayed in the village and are one of 45? So as far as happiness is concerned, village, I mean, I can never even tell you how much I love being in Mass Island. When I was a child, it was, it was like everyone loves you, but most of all you have this loving family and then you have all these other people who protect you. You know, the happiness was just something, you know, something people take for granted.
+
+
+But I, I remember that very well. And then you have other things that makes life better for children Like healthcare. Yeah, Dini like Sarah Hery brought a depth of history to the conversation. So she was such an important element to every conversation because she reminded us of those very old ways of being that most people have abandoned and dismissed as irrelevant or luxuries for time rich people. And that is not necessarily true. You know what, one of my favorite things about your story is that, and you didn't say it on stage, I just happen to know it, is that when your kids come back, the first thing they do is go to the village.
+
+
+So she used to take them to the village, you know, and get travel the ground along with them, but now they can get there themselves and they go, they go home. Yeah, it's very interesting how what we do or what we love, first of all, they hate it or they don't like it, but at the end of the day they realize how important it is. And my son, even though I still think he's very young, he's 20 and he will like come straight home and say, you know, after one day I am just going to stay here one night and then I'm going to my grandmother. And he goes there and he helps them with water, he helps with exactly the same thing that I used to do and he enjoys it.
+
+
+So it's no longer about forcing him to do these things. It's like an automatic thing and they love being part of that community. For me that is very fulfilling. You feel like, okay, maybe the whole world doesn't understand where I come from, but at least my kids do and they have that understanding. Something I keep thinking about thanks to Dini is how many people live a very different adulthood from their childhood versus how many of us just kind of roll on and do it more or less the same way it was done to us. So why did you not wanna repeat your childhood?
+
+
+I will say I did that childhood feeling that I had before and I wanted it back in one way or another, maybe in a different way, and probably that's what you call reimagining. So what happened with me is, first of all, I felt like some kind of a messenger. Like when I came out of my community, I did it for a reason because I actually wanted to really know what is that thing that's out there that I can do so that I'm informed for my community. So when I got that opportunity, which was very difficult to get, but when I did, the first thing that came to my mind throughout my young adult time was, what can I do to go back to that loving community and do something?
+
+
+And then at one point I told myself, you know, yes, I've lived in two different worlds and now I do know both sides of the coin and the thing is I need to to compliment the two. And the idea was I cannot probably go and do exactly the same thing the Maasai women are doing, but I can continue embarrass memories that I, I feel they're good for me and they could be good for the community as well Because that's what this moment is gonna take. I mean, we are gonna have to potentially be counterintuitive in our moves.
+
+
+We're gonna have to make up a different future where the future's just gonna roll over us. It's just gonna smother us. Our individuality and our special values that we hold so dear are just gonna get snuffed out by this giant AI blanket that's gonna come down on top of all of us, unless somehow we can dodge it. Yeah, I mean, one thing, and I think maybe, I don't know if I mentioned it to you, but every time I go back home, the one thing that makes me sort of lose everything about the modern life and everything is when you're in that particular situation where you are surrounded by all your siblings and you know talking about all the siblings from all the mothers, that's when you actually realize the importance of life because you are actually surrounded by one family who dearly loves you.
+
+
+So there's no such a thing as many moms or one mom. The support system is not individualized. A person can be a mom, but there could be many other people who makes you a better person, not because they're also called moms, but because it's a whole society. It's a whole community that comes together to protect you. I don't mean to sound like this naive white person from America, but I would love to have raised my kids like that. All these other women that I love and respect and count on and all that interdependency and all that, like all those little kids running everywhere and just like the, which is completely different than being in an American neighborhood.
+
+
+Exactly like as you said at the top, it's not, you don't know your neighbors. I mean, thinking of AI sort of puts me out of the, the whole idea, why are we discussing AI in relation to motherhood? It reminds me that we are at this time where we need to consider what's happening around us and not ignore. Because obviously if it's going to change everything then we need to do something about it. Dini is asking us to move forward carefully. I mean, we are in a tidal wave that is gonna wanna take us into this big future that is being designed for us by some tiny subset of humanity that may or may not be great at the most important pieces.
+
+
+Like for instance, human connection. As these forces are rushing us into the future, we have to find a branch to reach out and grab so that we can pause and decide are we going to go with the flow or are we going to step out of the rushing water and find our own dry ground? Are we going to try to live a life that's a little different than the one that's being offered to us? This is a moment for conscientious agency and that's I think what Dini was saying to us on stage at TED. Thank you Dini for coming all the way from Tanzania and reminding us that there's stuff to hold onto that we shouldn't be.
+
+
+So quick to dive into modernity and leave it all behind. Thank you. Kelly is really wonderful to be able to be present here at TED with you. You have definitely showed me that the work that I do back home means something. You know, linking the old and the new to me is very important and is something that I feel like I will hold on more and trying to bring those two together so that we can move. Yay.
+
+
+And that's it for today. Come back tomorrow, we'll be with Andy Lotts, who is one of the best friends I have ever had. He is a humble lifetime learner who has walked a hard road and has something important to tell us. TED Talks Daily is a part of the TED Audio Collective. This episode was produced and mixed by Lucy Little, edited by Alejandra Salazar and fact checked by the TED Research team. The TED Talks Daily team includes Martha Anos, Oliver Friedman, Brian Green, and Sica Smar Nevon. Additional support from Emma Toner and Daniella Bezo.
+
+
+I'm Kelly Corrigan, guest host of TED Talks Daily here for a special week where we're taking a deep dive into the topic of AI and family life. Also, please join me at my podcast, Kelly Corrigan wonders wherever you listen to podcasts. I'll be back tomorrow. Thanks for listening.
+
+
+This is Paige DeSorbo, the co-host of Giggly Squad. I have exciting news. McDonald's has all new mc crispy strips. It's chicken made for dipping tender juicy white meat chicken with a golden brown peppery breading it's chicken. So good it deserves its own sauce. The creamy chili mc crispy strip dip a sauce that's creamy, savory, and sweet with a little heat, but it works with any of our sauces. I'm personally a barbecue sauce girl. Even sometimes I like ketchup. I'm just like basic sometimes, but I also need it in addition to any new sauces, I'm trying with a new creamy chili mc crispy strip dip. It's chicken made for dipping only at McDonald's
+
+
+At Schwab, how you invest is your choice, not theirs. That's why when it comes to managing your wealth, Schwab gives you more choices. You can invest and trade on your own. Plus, get advice and more comprehensive wealth solutions to help meet your unique needs. With award-winning service, low costs and transparent advice, you can manage your wealth your way at Schwab. Visit schwab.com to learn more.
+
+
+Here's A wake up call right now. Your liver is filtering everything from fast food to fancy drinks, but there's a game changer that 3.5 million people are talking about. It's called Liver md. 80% of liver MD users saw significant improvements in their liver test results, plus better energy digestion and less bloating. Backed by clinical research and trusted by health professionals. Physician formulated Liver MD takes liver care to the next level with seven clinically studied ingredients at their clinically effective dosages for real powerful results. From happy hours to heavy meals and everyday environmental toxins. Your livers keeping score. Time to flip the script with Liver md. Feel the difference in 90 days or it's free. Visit one md.org and use code TED Talks to save 15% on your first order.

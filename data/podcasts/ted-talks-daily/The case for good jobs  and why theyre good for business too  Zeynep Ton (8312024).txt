@@ -1,0 +1,80 @@
+
+TED Audio Collective. You are listening to TED Talks Daily, where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh, MIT management. Professor Zainab Tan has a thought provoking take on work that really stood out to our TED audience when they heard her for the first time. But don't take it from me. We will let a TED stir introduce this idea. There's No work that is beneath humans. What's beneath humans is to not be able to have decent pay, not be able to have decent working conditions. And I think rather than thinking about how to eliminate entire categories of jobs that support people's lives and families, we should be thinking about how to make the jobs better.
+
+
+And I felt like it was such a good counterpoint to this fantasy where like a whole universe of working class work is just gonna get wiped out. Zain Eton's talk coming up after the break.
+
+
+Support for the show comes from Capital. One banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts and no overdraft fees. Just ask the Capital One bank guy. It's pretty much all he talks about. In a good way. He'd also tell you that this podcast is his favorite podcast too. Oh really? Thanks. Capital One Bank guy. What's in your wallet terms? Apply. See Capital One dot com slash bank Capital One na member FDIC.
+
+
+Support for the show comes from Justin Wine. Whether you're a first time wine drinker or a wine efficient auto, Justin has a wine for every celebration and occasion. As the pioneer of Paso Justin wines are what put Paso Robles, California on the wine making map with a rich history of accolades. Justin produces exceptional wines and is proud to be America's number one luxury cabernet. Visit justin wine.com and enter daily 20 for 20% off your order. Justin offers the perfect holiday gifts for clients, colleagues, friends, or family. Be sure to check them out@justinwee.com to receive 20% off your order for a limited time.
+
+
+TED Talks Daily is brought to you by Northwestern Mutual. Like our listeners, Northwestern Mutual Financial Advisors believe in the power of a good talk. They're known for having better conversations that get to the heart of your unique goals. They have access to Northwestern Mutual's exclusive portfolio of financial solutions designed to better meet you where you are. And independent research shows their comprehensive planning approach can lead to better outcomes for you and your family. It's a better way to money. See why@northwesternmutual.com slash TED, the Northwestern Mutual life Insurance Company, headquartered in Milwaukee, Wisconsin, and now our TED talk of the day.
+
+
+I am so excited to be here to Talks Odoo you about work that is not glamorous, like cleaning bathrooms, shelving, tomatoes, picking up trash, or bathing the elderly during the pandemic. We called the workers who do this work essential because our world literally stops without them. Remember how we used to clap for them? You know, we've been talking a lot about AI robots, but this work is also unlikely to be automated. So these jobs are here to stay, but a lot of people can do this work.
+
+
+So the wages that are set by the market are low. In fact, market pay is often unlivable pay, and tens of millions of essential workers live in a vicious cycle of poverty and lack dignity, which also hurts their companies. Take Janet a full-time hourly manager at a retail chain, even as a manager, her low income didn't pay the bills for her and her son, so she had to have a second job, but she couldn't hold on to her second job because her work schedule changed all the time.
+
+
+One day she might work from 5:00 PM to 9:00 PM the next morning. Her shift might start at 5:00 AM Just imagine her life and imagine how little time she had with her son. My life is always in a turmoil. Janet told me she couldn't sleep. Amazingly though, she still cared so much about doing a good job at work, but even there, she failed in front of her customers all the time. One day she said to me, customers were yelling at her because the checkout line was too long. Some walked off leaving their full baskets. The line was too long because there weren't enough workers at the store.
+
+
+And so many of the workers who were there were new. So they were slow and made a lot of mistakes. They put the wrong product on the wrong shelf or left the expired milk in the fridge when customers quote mistakes at the checkout. Cashiers had to call Janet for help every time because they weren't trusted to adjust prices or even solve the smallest problems. Controls like that drove people crazy and wasted everyone's time. Janet begged for more staff, but her stores for performance meant even a lower labor budget, which meant more mistakes and higher turnover.
+
+
+So she was always starting from square one. Rehiring, retraining, more firefighting. You know, these dynamics are so common in labor intensive services like retail stores, restaurants, call centers, nursing homes, hotels, that it seems like it's the only way for companies to keep their costs down. But it's not, you know, it's true. Janet's company isn't spending the money on labor, but they are spending the money on rehiring, retraining on low sales from long lines, empty shelves, and poor service on all the wasted products and wasted time.
+
+
+Now I'm an operations management professor at MIT. We can't stand waste or inefficiency in operations. So that's the reason that I began researching service operations 25 years ago. But then when I met hardworking people like Janet who weren't making it, their struggles got to my heart, especially as an immigrant who believes in the American dream. So figuring out how to improve company performance and jobs became my work mission. Now, luckily some companies have already figured this out.
+
+
+So Jim Senegal, Costco's co-founder and my business hero, this is my class, my MBA students are always so curious. They say Honk and Costco, the world's third largest retailer afford the pace workers so much more than other retailers and provide his customers the lowest prices. And Jim's answer is always the same. He says, paying your fellow workers well isn't altruism. It's good business. Costco's employee turnover is a fraction of the retail average, 8% versus 60%. And it's 20 years.
+
+
+Stock performance is so much higher than other retailers or s and p 500 you might say. Yeah, but Costco is an exception. Jim Senegal is brave and brilliant, and that's the only reason they can keep their cost low at wages high. But it's not just Costco. Others like Maradona, Spain's largest supermarket chain QuikTrip, a convenience store chain with gas stations have also turned what's typically considered low wage, high turnover jobs into good jobs. Now, these companies all pay their workers more because absence of sufficient pay guarantees high employee turnover.
+
+
+But pay alone is not going to make Janice job a good one. And if all Janice company did was to pay workers more without raising their productivity, then that would mean either higher prices or lower profits. Higher pay requires higher productivity and higher productivity requires better work. Here's how work at Janice's store would be different. If her store operated more like Costco or QuickTrip or mena, everyone's priority would be the customer. So when there's a long line at the checkout, someone shelving merchandise would rush over to open a cash register because they will be cross-trained.
+
+
+When there are problems experienced, cashiers will be trusted to solve them quickly. No need to call Janet for help. They would also work fast, not just because they have expertise, but because corporate would do everything it can to simplify their work. Janet's store would also operate with slack, meaning having enough staff to take care of the customer, minimize mistakes and do improvement. But operating with Slack wouldn't work if there are slackers, right? So, so, so the standards would be high. And with turnover low, Janet would have time to develop her team and improve performance.
+
+
+Now, If, you think about the work at the store, it's still not glamorous. And Janet would still go home, physically exhausted, but not defeated. She would feel valued and she would take pride in creating a lot of value. And now back to the episode. So what makes a job a good one, both for workers and companies, is not this or that thing, but it's the system. It's the system with two interdependent elements. One is investment in people pays, schedules, career path standards.
+
+
+The other is work that's productive and motivating with simplification, empowerment, cross training, and operating with Slack. I wanna make this system, which I call the good job system, the norm, not the exception. So to do that, I started a nonprofit called The Good Jobs Institute, and I've been working with my former MBA students and and together we have now worked with more than 30 companies whose leaders wanted to adopt the system to win with their customers. And we have seen small and large companies in different industries do it.
+
+
+A huge part of their success was their leader's ability to imagine the workings of their own good job system and have the courage to adopt it. Let me give you an example. In 2017, John Ferner became the CEO of Sam's Club, which is Walmart's membership based model that competes with Costco. Now, at the time, Sam's Club was struggling and way behind Costco in terms of labor productivity, member satisfaction, sales, employee turnover. John was Sam's Club's 14 CEO. In 34 years, imagine the performance pressure, right?
+
+
+So show results in a, in a short amount of time. One of the earliest changes that John wanted to make was to raise, pay five to $7 an hour from a basis of $15 an hour for workers who cut meat, who worked in bakery, who led teams. But John got pushback. HR said, don't do it. Last time you raised pay, it didn't reduce turnover. Finance said, don't do it. It's not in the budget. There was no way for John to be able to prove with numbers that higher pay and higher pay alone without the rest of the system would pay off.
+
+
+But he was certain that Sam's Club couldn't be a great company if they didn't raise pay. You see, to be loved by their customers, their members, they had to have a motivated, capable team that can set up for success. That was impossible without reducing turnover. And reducing turnover wasn't possible without raising pay because people were leaving for jobs that paid a couple more dollars an hour. So just like Jim Senegal, John could connect the dots between pay, turnover, productive work, and competitiveness. So he and his team took a leap of faith.
+
+
+They raised pay, and they did the hard bottom up work to improve productivity and jobs. When they announced the first pay raises, some employees cried. You know, for workers like Janet, a couple more dollars an hour is the difference between working one or two jobs. It's the difference between getting enough sleep or not having a stable schedule is the difference between spending time with your son or not. And for Sam's Club, within the first two years, labor productivity measured as units sold per hour increased 16%.
+
+
+Employee turnover dropped 25% For hourly workers, even more for managers, sales increased 25% without opening new stores. This type of performance improvement fueled more investment in people and record membership growth. The one struggling chain is now a growth engine for his parent company, Walmart, which too is on a good job's journey. And John Furner got promoted to be the CEO of Walmart, USA. Now I'm talking a lot about retail, but it's not just retail. At Good Jobs Institute, we've seen similar results. Higher productivity, lower turnover, more love from customers and higher sales at restaurants, call centers, even at a pest control company.
+
+
+The success of these courageous early adopters, I hope will make it a lot easier for others to make a bet on their people. You know, when we think about high performance organizations, our first instinct is often to fix the people, right? But it turns out what really needs fixing is their work and their pay. The problem was never Janet. The problem was the system that Janet was stuck in. And if we see jobs like hers, not as dead end jobs, but as good jobs that can provide dignity, respect, and a decent living, we would have more engaged and productive workers.
+
+
+We would have more competitive companies, a stronger economy, and a growing rather than a shrinking middle class, tens of millions of essential workers would have hope instead of desperation. And that will be a blessing for all of us. Thank you.
+
+
+OMGS is a website of new findings from the largest ever research study into women's pleasure and intimacy in partnership with IU and Yale researchers. When you see such an open, honest evidence-based discussion of what feels good and why it becomes so obvious, that's how it should be. The techniques are beautifully organized and presented with women of diverse agents. Sharing from experience, no blushing, no shame. Binge watch, omg, yes, solo with your partner, or discuss it with friends, like a book club. See it for yourself@omgyes.com.
+
+
+Hi, I'm Bvo sdu, host of Ted's newest podcast, the TED AI Show, where I speak with the world's leading experts, artists, journalists, to help you live and thrive in a world where AI is changing everything. I'm stoked to be working with IBM, our official sponsor for this episode. Now, the path from Gen AI pilots to real world deployments is often filled with roadblocks, such as barriers to free data flow. But what if I told you there's a way to deploy AI wherever your data lives? With Watson X, you can deploy AI models across any environment above the clouds, helping pilots navigate flights and on lots of clouds, helping employees automate tasks on-prem so designers can access proprietary data and on the edge. So remote bank tellers can assist customers. Watson X helps you deploy AI wherever you need it, so you can take your business wherever it needs to go. Learn more at ibm.com/watsonx and start infusing intelligence where you need it the most.
+
+
+That was Zeynep Ton speaking at TED 2024. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fay Bogan. Additional support from Emma Tabner. Daniella Rezo And Will Hennessy. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feed. Thanks for listening.

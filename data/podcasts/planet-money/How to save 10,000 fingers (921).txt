@@ -1,0 +1,131 @@
+
+Support for this podcast and the following message come from Humana Employees are the heartbeat of your business. That's why Humana offers group dental, vision, life, and disability plans designed to protect them. Exceptional service, broad networks, and modern benefits. That's the power of human care.
+
+
+This message comes from NPR sponsor LANs End Outfitters. Your brand is important and they create apparel your team will want to wear. Go to business dot LANs end.com/pod 20 and use Code Pod 20 for 20% off your first product.
+
+
+This is Planet Money from NPR Of all the power tools in a wood shop. I am most scared of table saws. My father a nine and a half fingered carpenter, never let me get near them. When I started working at a cabinet factory, the instructions were clear of all these extremely dangerous spinning pieces of metal. The table saw is the one I should be the most careful around. And yet the other day I was getting ready to get dangerously close to one. I'm in a wood shop just outside of Portland, Oregon, and not just any workshop, it is the cleanest, most well organized shop I have ever seen.
+
+
+Not a speck of sawdust. And in the middle of it, there is a table saw. A table saw is what you use when you wanna cut something the long way, generally. So picture a table and sticking out of that table is a very sharp blade about the size of a dinner plate spending very fast. And the person operating this table saw right now is someone who has tried to make table saws much safer. I'm Steve Gas. I am the inventor of Saw Stop. What does Saw Stop Do? Saw Stop is a technology for table saws that if you run your hand into the blade, it stops it so quick. You just get a little nick instead of cutting your fingers off. Really, Really every time.
+
+
+You think we could test that out. Oh yeah. I'm not ready just yet to sacrifice a digit for podcasting, but at Steve's suggestion, I have brought a pack of hot dogs, actually. Beef brats. They were cheaper. The way this test is gonna work is that Steve is going to push a board with the beef brat on top of it, stimulating a finger into the blade. And when the brat hits the blade, he is pretty confident that the saw is gonna stop. He has done this a bit. Oh, The blade is gone. Disappeared into the table. Part of the table.
+
+
+Saw the hot dog unscathed. I don't even think we can see the mark where it hit the hot dog. How many fingers do you think this has saved? Well over 10,000 fingers now. 10,000 fingers. Yeah. Yeah. We Fingers get saved on. Saw stops every day. Now I asked Steve to see this dark magic again. He takes the saw blade off, replaces a part, and we're ready to go. Can I do it? Absolutely. All right, let's fire it up. Is it good to go? Yep. Why don't I just try my finger? I think that's a bad idea.
+
+
+It just seems like based on experience, it's unpleasant to, to touch a spinning saw blade. Even even with Saw Stop. I am gonna do it. Oh, just kidding. It was a hot dog. Oh, it's delicious. The thing is, how long has that been sent? Now Hello and welcome to Planet Money. I'm Nick Fountain. Table saws send an estimated 30,000 Americans to their emergency room every year. According to the government, 3000 of those people lose a finger or worse, sometimes even their hand.
+
+
+3000 people. The cost of all of that is huge. Billions of dollars in medical treatment and lost wages every year. And yet Steve figured out the technology to prevent these injuries. 25 years ago, he's been trying for 25 years to make it the standard. He thought he'd be a hero, but so far he has not been successful. And along the way, he's made enemies of pretty much everyone in the power tool industry. For a while there you were the most hated man in woodworking. Yeah. Yeah. You would want to check my head for horns. If you read some of the woodworking forums Today on the show, Steve, against the Machine or the Makers of the Machines,
+
+
+This message comes from Apple Card. Apple Card is the perfect card for your holiday shopping. When you use Apple Card on your iPhone, you'll learn up to 3% daily cash back on every purchase, including products at Apple, like a new iPhone 16 or Apple Watch Ultra. Apply now in the wallet app on your iPhone subject to credit approval. Apple Card issued by Goldman Sachs Bank, USA, salt Lake City branch terms and more@applecard.com.
+
+
+This message comes from Grammarly. 88% of the work week is spent communicating. So it's important your team gets it right. Enter Grammarly. Grammarly's AI helps teams communicate clearly the first time it goes beyond basic grammar. To help teams instantly create and revise drafts in just one click, all without leaving the page. There're on Join the 70,000 teams and 30 million people who use Grammarly to move work forward. Go to Grammarly dot com slash enterprise to learn more. Grammarly Enterprise ready ai.
+
+
+Our co-pilot for the show is none other than Chris Arnold from NPR R'S Investigations Desk. Chris, you've been covering the story for a couple of decades and the way you found out about it, it was kind of an accident, right? Yeah. I, I had just bought my first house and it needed a lot of work, so I was fixing it up and one day I was reading this woodworking magazine and I saw this little blurb about Saw Stop, which I'd never heard of, and I was like, whoa, a, a table saw that won't cut off my fingers. Like that is definitely the saw that I wanna buy. And I called the 800 number and Steve himself picked up and he just had this really in incredible story to tell. Steve is a tinkerer, a woodworker, an inventor.
+
+
+He says that when he was a kid, he got injured in a wood shop pretty badly, not by a table saw, but by another tool. And after that, he's thought a lot about tool safety. Inventing saw stop Steve says was actually pretty quick. He realized essentially that a human body conducts electricity, but Wood does not. So he designed a saw that can tell the difference and it will immediately stop when the blade hits a finger coming up with this basic idea that took like an afternoon. It was what came next, the next 25 years that really came to test him. Steve patented his invention. His hope at the beginning was that one of the big tool makers would use his technology and pay him.
+
+
+In other words, they would license it, but he didn't have much luck convincing the tool companies. And so he worked up a crude prototype and took it on the road. And there Was no trade show or conference that was too small or too weird for Steve. Like pretty early on, he got invited to a conference for defense attorneys who work on product liability lawsuits, which kind of raised his eyebrows, but he is like, all right, well they're inviting me. Sure. Walking into that conference, how did, how did that feel? Well, it was a little bit like going into the lion's den, but on the other hand, I thought they would be advocates for it because otherwise the manufacturers would be getting sued and, and have big payouts and, and that wouldn't work well for 'em.
+
+
+It didn't turn out that way. Steve had been optimistic. He thought this room full of lawyers who worked for power tool companies would like his invention. Fewer injuries would mean fewer lawsuits. And so maybe these lawyers would be able to convince the tables, saw manufacturers to adopt, saw Stop. And also Steve thought this was a win for society at large. Really I mean You know what, when somebody gets hurt, there are a ton of costs. If the person is hospitalized, the tool company doesn't pay for that. It's the person's insurance company or maybe the state. If they have to go on disability, we all pay for that in one way or another. Yeah, in economics terms, these costs are known as externalities.
+
+
+The tool manufacturers are not bearing all these costs. We are. And one way our society has decided to try and place those costs back onto the manufacturers, at least part of those costs is through lawsuits. We allow people to sue manufacturers when they get hurt, and if product liability lawsuits get expensive enough, companies might decide it's just cheaper to make their products safer. And here Steve is with this invention that would immediately make one of the most dangerous power tools out there, much, much safer. So he shows these lures, his hotdog presentation, and he is just buzzing. He thinks, man, I nailed it. You know, I'm excited. I've just had the opportunity to present this technology to a group of people who have the potential to be very influential in its adoption.
+
+
+Also make you rich and make it so that you can live on the, in a, I don't Know, John, on the, on the beach sipping a a, so I don't drink, so it won't be a my tie, but sipping a soda, you know, living the easy life. And yeah, so I'm, I'm really excited. I You know I have, you know, sort of delusions of grandeur, But the lawyers of the room seem to view this all very differently. Right after the hotdog presentation, this one lawyer gets up And his presentation was how we're gonna defend against product liability claims relating to saw stop. See, what Steve hadn't realized was how much of a threat saw stop was to these companies.
+
+
+For a long time, table saws were just considered inherently dangerous, but as soon as Steve invented Saw stop, that wasn't necessarily true anymore. And that could open up a big legal can of worms Because if some saws had saw stop the ones that didn't, might not be considered reasonably safe anymore, which meant the tool makers could be opening themselves up to way more lawsuits. And that is what this lawyer started talking about. And his argument was sort of insidious. It was basically, well, if none of us adopt this technology, we will be able to argue that it was not technically viable.
+
+
+And the evidence for that will be the fact that no one adopted it. In other words, because Steve's product is just a prototype, it was an unproven technology, and if nobody adopted it, if no manufacturer put it on their saws, it would stay unproven. And I heard that and I thought, You know that sounds a little bit like a group suggestion To Steve. It kind of sounded like, look, nobody put this on their saw and then all this is just gonna stay nice and quiet and go away. And the way it played out actually followed nearly exactly that script. I called up the lawyer who gave this presentation.
+
+
+He said, he did talk about how if manufacturers didn't adopt this technology, they might not be opening themselves up to this new legal risk. But he also talked about a lot of different things that day. It was kind of a wide ranging academic presentation. And Steve just latched onto that one kind of thought experiment Still around this time. Back when I first started covering the story, I did talk to people inside the industry and they told me that this legal risk was a really big concern for them. Now, up to this point, Steve had hoped that saw Stop would make the world a little bit safer. And yeah, him a little bit richer, but he realized right then and there in that conference room that if his invention was ever gonna see the light of day, it would be up to him.
+
+
+He actually told the lawyer, if none of you adopt this technology, my company's gonna do it. We will become a saw manufacturer to prove that Saw stop works. And I think he and everyone else who heard us say that thought, yeah, right, they're not gonna be able to build a saw. So they were making a bet that there's no way we'd be able to, and if I was in their shoes, I think they probably were making a good bet. It was probably a decent chance that we were not gonna be able to successfully build a new saw, start a company, introduce this new technology on our own. Yeah, that was probably a reasonable bet. And yet, And yet they were wrong.
+
+
+Yeah, Steve actually did start making these safer table size and people actually started buying them. This is another way, the free market way that products get safer. Instead of lawsuits forcing manufacturers to make things safer, we let consumers decide people can choose to pay for a safe saw. And some of them did. They bought saws from Saw Stop. Not everyone, but a lot of folks did. Like for school wood shops or companies that decide that the added cost is better than a workers' comp claim. Even you did, Chris. I, I totally did. I I mean a, after I interviewed enough woodworkers who'd really badly injured their hands, You know, honestly, I just can't bring myself to use any other kind of table saw now.
+
+
+But there is another way of looking at this story. One where Steve is not the hero. That's after the break.
+
+
+This message comes from Capital. One banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply. See Capital One dot com slash bank for details. Capital One na member FDIC.
+
+
+This message comes from NPR sponsor, Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Fenner and Smith Incorporated. Registered broker dealer, registered investment advisor, member SIPC
+
+
+Support For NPR in the following message, come from Edward Jones. What does it mean to be rich? Maybe it's less about reaching a magic number and more about discovering the magic in life. Edward Jones Financial Advisors are people you can count on for financial strategies that help support a life you love. Because the key to being rich is knowing what counts. Learn about this comprehensive approach to planning@edwardjones.com slash find your rich Edward Jones member, SIPC.
+
+
+Up until now, Steve has been on what might be called a hero's journey, Steve, against the machine. But there is another telling of this story where Steve is not the hero. He's the opposite. Yeah. We reached out to the people behind the machines. Some of the biggest table saw manufacturers, they didn't respond or they declined an interview. But we did get to sit down with Susan Oranga. I'm the executive manager for the Power Tool Institute. We are a trade association that supports the power tool industry. Do you get good discounts? No You know. For all my members listening, I am still waiting for products. No, I I do. I do not get discounts.
+
+
+No. Nope. Now the story we've been telling so far has left out one very important detail, at least according to the power tool companies. And that is that when Steve invented Saw stop, he was a practicing patent attorney. The three guys he started the company with, all named Dave weirdly also were patent attorneys. Yeah. And so they patented the crap out of this new invention, as you might imagine. And now it's not like the power tool companies are fundamentally against doing that. We are not against patents. So I'll say that. But Susan says, Steve didn't just patent his invention, he also went to the regulators.
+
+
+To the government. Yeah, specifically the Consumer Product Safety Commission. He lobbied the CPSC to make a rule that would require table saw manufacturers to use, saw stop or A similar technology. And the government actually took him seriously and it started working on a rule to do that, to make table saws safer. To be clear, Steve's proposed rule didn't specifically mandate saw stop. But according to Susan from the Power Tool Institute, it effectively did because Steve surrounded saw stop with patents power tool companies would essentially be forced to license his technology. And to her, there's just something self-serving about that. I don't think any manufacturer should petition a government agency to mandate a technology that is self-interest that would then create a monopoly.
+
+
+Now, if you think about it, a patent is basically a government approved monopoly on a specific invention for a limited time. And the rationale behind that is that it encourages innovation because if an inventor invents something, they can get paid for it. Susan says, Steve built a really strong patent fortress. Like for instance, when a rival saw maker came out with a table saw that prevented injuries, she says they tried not to infringe on his patents, but Steve had dozens of patents protecting saw stop. So he sued the rival and won. They had to pull the product. And Those two things, Steve's willingness to sue rivals and lobby the government for what the industry calls self-serving reasons.
+
+
+Those have really riled up the industry. And some people who just like to use power tools, it's become kind of a, a cultural issue with some people getting angry that like You know the government might get between them and their power tools For years. now, Susan has been adamantly fighting this CPSC rule. She's testified in front of the commission, she's working with a congresswoman who introduced a bill that would essentially block the rule from going into effect. And her organization of power tool manufacturers has been voluntarily upping the safety standards of their saws. It's not like manufacturers just sat back and did nothing for 20 years. They came up with an alternate technology. She's talking here about these plastic guards that come standard on table saws.
+
+
+Now they mostly cover up the blade and they make it harder to accidentally touch the blade. It's a different type of technology to address a hazard. It's not meant to replace a soft up technology. It's sort of not idiot proof, right? Like, sorry, that's not a disparagement of carpenters. My dad is a carpenter. But you can move the blade guard out of the way If a user decides to do that. Yes they can, but they they shouldn't. I mean, the other challenge is a consumer could try to use a different type of saw to make a cut. Lord knows we've all used circular saws when we couldn't afford a table saw. I, I can't hear you can't hear you. Oh, I said Lord knows we've all I No, no, I don't wanna hear that.
+
+
+Oh, la la la la la la. There's a bad connection. The argument that Susan and her group make that has gained the most traction though it's about cost requiring a saw stop, like safety feature on all saws that would make them more expensive. Like consider the basic table saw, it's called a benchtop saw, it's light, it's portable today. You could pick one up from a store for very, very cheap. If a mandate comes down, Susan says the price could more than double, It could potential, it could potentially triple it, triple The cost. You're saying There's a potential for those low cost You. know some sauce start at one 50 So. there are very economical table saws for the deal, Hyper freight.
+
+
+And then if you add on the amount for the redevelopment, the redesign, the research, all of that that goes into it, it's, it's a significant cost. This cost issue is a really big deal. Like is it okay for the government to double or triple the cost of a product just to make it safer? It is a thorny question. So, we brought it to someone who has spent the better part of their career thinking about it. My name is Bob Adler and I'm a former commissioner at the US Consumer Product Safety Commission. Bob spent years at the CPSC working on such hits as much safer lawnmowers, man trampolines and cribs for babies.
+
+
+I'm very comfortable around cribs because so many of them are constructed so well and they're safe. But do you sleep at a crib at night? No. No. But my grandson does. If you think about it, government regulation is the other big way other than lawsuits and competition that products get safer in America. We have this whole bunch of agencies that are set up to regulate this stuff. Bob says before the commission makes a new rule though, they have to check for three things. Does it unduly increase the price of a product? Does it unduly affect the availability of the product? Does it unduly impact the utility of a product?
+
+
+In other words, does our rule unreasonably increase the cost of a product or people's ability to get it or use it? Bob says, when he was at the commission, he spent years on table saws painstakingly dissecting each of these issues. The one we were the most interested in was cost. Remember those cheaper saws that have sold at stores like Harbor Freight or Lowe's, those might double even triple in price. I if one of the tests is supposed to be that it doesn't unduly raise the cost of the product, how do you justify doubling the cost of of those cheaper sauce? That's a very, very important point and it's one I spent a lot of time thinking about and worrying about.
+
+
+And I think the, the best answer is that whatever increase in costs initially over time, economies of scale will kick in. It has every time we've written a safety standard. So it does seem to me that there, there would be a very significant impact on the low cost saws. I just think it's worth it. Yeah, he says they crunch the numbers over and over and for him it is worth it because the cost of the injuries are so much bigger than the cost of adding the safety features to the saws. Like the commission says, the benefits outweigh the added costs by up to $2.3 billion every year. Yeah. The cost benefit ratio is just spectacular.
+
+
+After looking at this for two decades, the commission may be on the verge of passing a final rule requiring a saw stop type safety feature on all saws. Though they might not vote on it until next year. Bob says yes, it would raise the cost of table saws, but it would also prevent thousands of serious and costly injuries a year. One of the great things about a safety standard like this is it takes those costs that have been externalized to innocent victims and it internalizes them to the people who are benefiting, namely consumers and manufacturers. Oh, now you're talking our language. The language of economics. There you go. I'm not an economist and I don't really play one.
+
+
+But yeah, the economics were really important. When somebody gets hurt, it is not just the injured person who has to pick up the tab. It is all of us. And so essentially we are all subsidizing table saws right now. If a rule goes into effect, those costs will shift to the people who are buying the saws and the manufacturers. It has been 25 years since Steve Gas invented Saw stop. Most of its original patents have expired. And actually in 2017 he sold the company and all of its patents to this tool company in Germany Recently saw Stop. And that parent company said that they would donate the one big remaining patent behind saw stop to the public if the government goes ahead and mandates new safety standards.
+
+
+Which means that they're saying at this point just like, please take this for free. Just use it on your sauce. So all in all, if there is a rule, Steve says he doesn't really stand to benefit. Some people though, still think he's the anti-hero of this story. He says he doesn't really mind that. So it's easy for the power tool companies or it was useful for the power tool companies to position me as a greedy patent attorney. I may be, I may not be, but it doesn't really matter to the merits because if I am or I am not, it doesn't change whether or not society benefits from a rule preventing these injuries that really should be decided on the economics.
+
+
+Is society better off if we make a rule that all saws include this kind of technology? And the answer is clearly yes. You know Chris, I very recently bought my first house. Congratulations. We've been talking about this and you finally did it. Yeah, it's, it's really exciting. Except the house needs some work. And the first thing I'm gonna do is put in new floors. And so I have been looking at my options for table saws. So the obvious question is, are you gonna buy a saw stop? I dunno, I'm just gonna use it for like a week, right? I'm not sure the added extra cost is worth it to me.
+
+
+I mean I've owned this house for 20 years. You're probably gonna use it more than a week. And I just feel like the 300 bucks I have all my fingers, the 300 bucks is worth it to me. Yeah, I don't know. It's probably gonna be a game time decision. Today's episode was produced by Sam Yellow Horse, Kessler and James Snead, and edited by Jess Jang. It was fact checked by Sierra Juarez and engineered by Valentino Rodriguez Sanchez. Alex Goldmark is our executive producer. Special thanks to Scott Newman, Bob Little and the beef brat who bravely gave its life for this episode.
+
+
+Not because of the saw, but because Nick ate it. Also thank you to Dave Kenon for giving me a job at his cabinet shop, Kenon Woodworking. Sorry for crossing your truck. My dad, who full disclosure, lost his thumb working on an oil rig, not in the wood shop, but that did not stop him from scaring us. I'm Nick Fountain. And I'm Chris Arnold. This is NPR. Thanks for listening.
+
+
+This message comes from NPR sponsor, Merrill. Whatever your financial goals are, you want a straightforward path there, but the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Fenner and Smith Incorporated. Registered broker dealer. Registered investment advisor, member SIPC.
+
+
+This message comes from UL Solutions. It's not easy keeping up with the safety and quality demands of this fast-paced world. Scientists, engineers, and everyday innovators are tasked with understanding global regulations, reducing carbon emissions, and staying current. With new lab safety training, even heroes need help. That's why you need Ultra Software by UL Solutions. Manage safety, sustainability, and regulatory challenges with ease. Learn more@ultrus.com slash NPR.

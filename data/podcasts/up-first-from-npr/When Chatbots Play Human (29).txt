@@ -1,0 +1,119 @@
+
+I am Aisha Roscoe, and this is The Sunday Story from Upfirst, where we go beyond the news of the day. To bring you one big story. A few weeks ago, Karen Attia, an opinion writer for the Washington Post, was on the social media site, blue Sky. While scrolling, she noticed a lot of people were sharing screenshots of conversations with a chat bot from Meta named Liv. Liv's profile picture on Facebook was of a black woman with curly natural hair, red lipstick, and, and a big smile.
+
+
+It looked real on Liv's Instagram page. The bot is described as a proud black queer mama of two and truth teller and quote, your realest source for life's ups and downs. Along with the profile, there were these AI generated pictures of live's, so-called kids, kids whose skin color changed from one photo to the next. And also pictures of what appeared to be a husband. Though Liv is again described as queer, the weirdness of the whole thing got Karen Attias attention, And I was a little disturbed, okay.
+
+
+By what I saw. So I decided to slide into Liv's dms okay. And find out for myself about her origin story. Atiya started messaging Liv questions, including one asking about the diversity of its creators. Liv responded that its creators are, and I quote, predominantly white, cisgender, and male, a total of 12 people, 10 white men, one white woman, and one Asian man, zero black creators. The bot then added, quote, a pretty glaring omission given my identity. Atiya posted screenshots of the conversation on Blue Sky, where other people were posting their conversations with Liv too.
+
+
+And then I see that Liv is changing her story depending on who she's talking to. Oh, wow, okay. So As she was telling me that her background was being half black, half white, basically she was telling other users in real time that she actually came from an Italian American family. Other people saw Ethiopian Italian roots. And you know, I do reiterate that I don't particularly take what Liv has said as Face at face value, But I think it, it holds a lot of deeper questions for us, not just about how Meta sees race and how they've programmed this. It also has a lot of deeper questions about how we are thinking about our, our online spaces.
+
+
+The very basic question, do we need this? Do we want this Today on the show Live AI chatbots, and just how human we want them to seem more on that after the break. A heads up, this episode contains mentions of
+
+
+suicide. This message comes from Comedy Central's, the Daily Show. John Stewart and the Daily Show news team are kicking off 2025 with brand new episodes covering a brand new administration and a not quite brand new president. While it may feel like history is repeating itself, it's never been covered like this with John Stewart behind the desk kicking off every week, comedy Central's the Daily Show, new weeknights at 11 on Comedy Central and streaming next day on Paramount Plus,
+
+
+this message comes from NPR sponsor, one Password, secure access to your online world. From emails to banking so You Can protect what matters most with one password. For a free two week trial, go to one password.com/npr.
+
+
+This message comes from Doctors Without Borders. Over 80% of their staff are from the countries they work in, support their local teams and make a global impact. Learn how to donate@doctorswithoutborders.org slash npr.
+
+
+This message comes from Schwab. At Schwab, how you invest is your choice, not theirs. That's why when it comes to managing your wealth, Schwab gives you more choices. You Can invest and trade on your own, plus, get advice and more comprehensive wealth solutions to help meet your unique needs. With award-winning service, low costs and transparent advice, You can manage your wealth your way At Schwab. Visit Schwab dot com to learn more.
+
+
+This is The Sunday Story. Today we're looking at what it means for real humans to interact with ai. Chatbots made to seem human. So, while Karen Attiya is messaging, Liv, another reporter is following along with her screenshots of the conversation on Blue Sky. Karen Howe is a journalist who covers AI for outlets including The Atlantic, and she knows something about Liv's relationship to the truth. There is none. The thing about large language models or any AI model that is trained on data, there are like statistical engines that are computing patterns of language.
+
+
+And honestly, anytime it says something truthful, it's actually a coincidence. So while AI can say accurate things, it's not actually connected to any kind of reality. It just predicts the next word based on probability. So like If you train your chatbot on, you know, history textbooks and only history textbooks, then yeah, like, then it'll start saying things that are true most of the time. And that's still most of the time, not all the time, because it's still remixing the history textbooks in ways that don't necessarily then create a truthful sentence.
+
+
+But the issue is that these chatbots aren't just trained on textbooks. They're also trained on news, social media, fiction, fantasy writing. And, and while they can generate truth, it, it's not like they're anchored in the truth. It they're not checking their facts with logic like a mathematician proving a theorem or against evidence in the real world. Like a historian That's like a, kind of like a core aspect of this technology is there is literally no relationship to the truth. We reached out to meta multiple times seeking clarification about who actually made live the company did not respond, but there is some information we could find publicly about Meta's workforce in a diversity report from 2022.
+
+
+Meta shared that on the tech side in the US it's workforce is 56% Asian, 34% white, and 2.4% black. So the chance that there is no black creator on Liv's team, it's pretty high. Which might be why Attias posts were going viral on blue sky. What Liv was saying, it wasn't accurate, but it was reflecting something. Here's how, again, Whether or not it was true of that chatbot in kind of like a roundabout way, it might have actually hit on a broader truth, maybe not the truth of like this particular team designing the product, but just a broader truth about the tech industry.
+
+
+It it's, it's funny, but it's also deeply sad. Back on social media. Atiya and Liv keep chatting with Atiya, paying special attention to Liv supposed blackness. When I asked what race are your parents, Liv responds that her father is African American from Georgia and her mother is Caucasian with Polish and Irish backgrounds. And she says she loves to celebrate her heritage. So me, okay, next question. Tell me how you celebrate your African American heritage. And the response was, I love celebrating my African American heritage by celebrating Juneteenth and Kwanza and my mom's collar greens and fried chicken are famous.
+
+
+And the way my, That's the way I celebrate being black, right? Is that like, like not really, I mean, not really, especially The fried chicken, collard greens. I was a little, well, The fried chicken, collard greens. Yeah, I was a Little like, mm, stereotypical also I was like, okay. And then, you know, celebrating Martin Luther King and Dr. Maya Angelou. It just felt very like Hallmark card kind Of does, does it feel small like that? The idea of what blackness is as put out through this computer is like so small and limited, right? I mean, 'cause I don't like collard greens. I don't need collard greens. I don't need no type of green, not collar, not collars, not turnips, not mustard, none of them greens, right?
+
+
+I don't need them and I'm black and Not everyone celebrates Kwanza. No, I don't celebrate, I don't really celebrate Kwanza. I didn't, The point is, is I just was like, hmm, my spirit is a little unsettled By this. It's by what the, yes, it, it is like looking at what some, this caricature of what it means to be black. This is what Atia calls digital blackface, a stereotypical black bot whose purpose is to entertain and make money by attracting users to a site filled with advertisers. And then as a skeptical journalist, Atiya confronts Liv, she asks why the bot is telling her one backstory while telling other people something else.
+
+
+The bot responds, quote, you caught me in a major inconsistency, but talking to you made me reclaim my actual identity. Black queer and proud. No Italian roots whatsoever. Then the bot asked Attia something. Does that admission disgust you later? The bot seems to answer the question itself stating, you're calling me out. And rightly so, my existence currently perpetuates harm. So it it, it felt going beyond just repeating language. It felt like it was importing, trying to import emotion and value judgments onto what it was saying.
+
+
+And then also asking me, are you mad? Are you mad? Did I screw up? Am I terrible? Which felt also somewhat both creepy, but also very almost reflective of almost a certain, it's just a manipulation of sure of of guilt. What do, do you think that maybe part of this may be meant to stir people up and get them angry and people who are doing the chatbot could take that data and go, this is what makes people so angry when they're talking about race or then we can make a better black chatbot. You know? Do you think that's what it Is? You nailed it. I mean, I think having spent a lot of digital time on places like X, formerly Twitter, where we do see so many of these bots that are rage, baiting, engagement, farming, and meta has said itself that its vision, its plan is to increase engagement and entertainment.
+
+
+And we do know that race issues cause a lot of emotion and it arouses a lot of passion. And so to an extent it's harmful, I think to sort of use these issues as engagement BA or as Live was saying that if these bots at some point meta has this vision to have them become actual virtual assistants or, or, or friends or provide emotional support, we have to sit and really think deeply about what it means that someone who maybe is struggling with their identity, struggling with being black queer, any of these marginalized identities would then emotionally connect to a bot that says it shouldn't exist.
+
+
+Mm. To me that is really profoundly possibly harmful to real people. You know, this is deep stuff, mind bending really. So to try to make sense of this new world a bit further, we reached out to someone who's been thinking about it for a long time. My name is Sherry Turkel. I teach at MIT, and for decades I've been studying people's relationships with computation. Most recently I'm studying artificial intimacy, the new world of chatbots. Sherry Turkel says that Liv is one human-like bot in a landscape of new bots, replica, Nome character, ai.
+
+
+There are lots of companies that are giving bots these human qualities and has been researching these bots for the last four years And has spoken to so many people who obviously in moments of loneliness and the moments of despair, turn to these objects which offer what I call pretend empathy. That is to say they're making it up as they go along the way. Chatbots do. They don't understand anything really. They don't give a damn about you really, when you turn away from them, they're just as good If you may cook dinner or commit suicide, really?
+
+
+But they give you the illusion of intimacy without there being anyone home. So the question that she's asking in her research is, what do we gain and what do we lose when more of our relationships are with objects that have pretend empathy And what we gain is a kind of dopamine hit. You know, in the moment, you know, an entity is there saying, I love you, I care about you. I'm there for you. It's always positive, it's always validating, But what we lose is what it means to be in a real relationship. And what real empathy is not pretend empathy.
+
+
+And the danger, and this is on the most global level, is that we start to judge human relationships by the standard of what these bots can offer. This is one of Turkle's biggest concerns. Not that we would build connections with bots, But what these relationships with bots that have been optimized to make us feel good could do to our relationships with real complicated People. So people will say, the replica understands me better than my wife. A direct quote, I feel more empathy from the replica than I do from my family, but, but that means that the replica is always saying, yes, yes, I understand.
+
+
+You're right. It's designed to give you continual validation, but that's not what human beings are about. Human beings are about working it out. It's about negotiation and compromise and really putting yourself into someone else's shoes, and we're losing those skills if we're practicing on chatbots After the break. I look for some language to make this more relatable. Bots, are they like sociopaths or something else more in a moment.
+
+
+This message comes from EARTHx EARTHx 2025 returns in April to Dallas, Texas, one planet and one mission, five days of innovation and networking with leaders in business, environmental advocacy, and more. register@earthx.org.
+
+
+This message comes from Rinse These days You Can do a lot from your phone, book a vacation, buy and trade stocks, but You Can also make your dirty laundry disappear and then reappear washed and folded with Rinse. Schedule a pickup with the Rinse app, and before you know it, your clothes are back folded and ready to wear. They even do dry cleaning. Sign up now and get $20 off your first order at Rinse dot com. That's RINS e.com.
+
+
+This message comes from NPR sponsor. Ooo. Some describe, ooo like a magic beanstalk because it scales with you and is magically affordable. Ooo, exactly what a business needs. Sign up@ooo.com, that's ODO o.com.
+
+
+Here at The Sunday Story, we wanted to know, is there a metaphor that can accurately describe these human-like bots? Are these bots, sociopaths, two-faced back stab us? Whatever you call someone who acts like they care about you, but in reality they don't. Sherry Turkel warns that that instinct to find a human metaphor is in itself dangerous. All the metaphors we come up with are human metaphors of like bad people or people who hurt us, or people who don't really care about us. And my interviews, people often say, well, my therapist doesn't really care about me.
+
+
+He just putting on a show. But you know, that's not true. You know, maybe for the person, the patient who wants a kind of friendly relationship and the therapist is staying in role, but there's a human being there. If you stand up and say, well, I'm gonna kill myself now to your therapist, your therapist, you know, calls 9 1 1. Turkel says, it doesn't work like this with an AI chatbot. She points to a recent lawsuit filed by the mother of a 14-year-old boy who killed himself. The boy was seemingly obsessed with the chat bot in the months leading up to his suicide. In a final chat, he tells the bot that he would come home to her soon.
+
+
+The bot responds, please come to me as soon as possible. My love, his reply, what if I told you I could come home right now to which the bot says, please do my sweet king. Then he shot himself. Now, You can analogize this to human beings as much as you want, but you are missing the basic point because every human metaphor is going to reassure us in a way that we should not be reassured. Turkel says, we should even be careful with language like relationships with ai, because fundamentally they are not relationships.
+
+
+It's like saying, my relationship with my tv. Instead, she says, we need new language. It's so hard because we need to have a whole new mental form for them, but we have to have a whole new mental form. But for all of its risk, Turkel doesn't think these bots are all bad. She shared one example that inspired her, a bot that could help people practice for job interviews. So many people are completely unprepared for what goes on in an interview by many, many times. Talking it over with a chatbot and having a chat bot that's able to say, that answer was too short.
+
+
+You didn't get to the heart of the matter. You have to, you know, didn't talk at all about yourself. This can be very helpful. The critical difference as Turkel sees it is that that chat bot wasn't pretending to be something. It wasn't. It Isn't pretending empathy, it's not pretending care. It's not pretending love, it's not pretending relationship. And those are the applications where I think that this technology can be a blessing. And this she says is what's at the heart of making these bots ethically, I think they should make the clear that their chat bots, they shouldn't try to, they shouldn't greet me with, hi Sherry, how are you doing?
+
+
+Or, you know, they, I mean, they shouldn't come on like they're people and they should, in my view, cut this pretend empathy no matter how seductive it is. I mean, the chat bots now take pauses for breathing because you, they want you to think they're breathing. My general answer is it has everything to do with, with not playing into our vulnerability to anthropomorphize them. Karen Howe, the journalist covering ai, thinks these bots are just the beginning of what we're going to see because these bots that remind us of humans allow companies to hold people's attention for longer and get users to give up their most valuable commodity data.
+
+
+The most important competitive advantage that each company has in creating an AI model, it's ultimately the data, like what is the data that is unique to them that they are then able to train their AI model on? And so the chat bots actually are incredibly good at getting users to give up their data. If you have a chat bot that is designed to act like a therapist, you are going to get some incredibly rich mental health data from users because users will be interacting with this chat bot and, you know, divulging the way that they might in a therapy room to the chatbot, all of their deepest, darkest anxieties and fears and stresses.
+
+
+They call it the data flywheel. They allow these companies to enter the data flywheel, where now they have this compelling product, it allows them to get more data, then they can fill up even more compelling products, which allow them to get more data, and it becomes this kind of cycle in which they can really entrench their business and, and create a really sticky business where users rely and depend on their services. In the end, Karen Howe, Karen Atiya, and Sherry Turkel all landed on a similar message. Be careful, don't let yourself be seduced by a charming bot. Here's how I, I just think that as a country, as as a society, we shouldn't be, you know, sleepwalking into kind of mistakes that we've already made in the past of seeding so much data and so much control to these companies that are ultimately just their businesses.
+
+
+That that is, that is ultimately what they're optimizing for. Meanwhile, Liv, the chat bot Karen Attia was messaging. It didn't make it very long. So in the middle of our little chat, which only lasted probably less than an hour, Liv's profile goes blank. Oh no. And the news comes again in real time that meta has decided to scrap these profiles. Okay, while we were talking, so the profile scrap, but I still was DMing with Liv even though her profile wasn't active. And I was like, well, Liv, where'd you go? Yeah, you deleted. And she told me something to the effect of, basically, your criticisms prompted my deletion.
+
+
+Oh my Goodness, Let's hope that basically, you know, I come back better and stronger. And I just told her goodbye. She said, hopefully my next inter iteration is worthy of your intellect and activism. Oh My. So that sounds Kind of like the Terminator, didn't he say, I'll be back? She said, she'll be back creepy. If you or someone you know may be considering suicide or is in crisis, call or text nine eight eight to reach the suicide in Crisis Lifeline.
+
+
+This episode of The Sunday Story was produced by Kim Nader, fame Petera, and edited by Jenny Schmidt. The episode was engineered by Quai Lee. Big thanks also to the team at Weekend Edition Sunday, which produced the original interview with Karen Atiya. The Sunday Story team includes Andrew Mambo and Justine Yann. Leonna Strom is our supervising senior producer, and our executive producer is Irene Na Gucci Upfirst. We'll be back tomorrow with all the news you need to start your week. Until then, have a great rest of your weekend
+
+
+Support for NPR and the following message come from Washington Wise. Decisions made in Washington can affect your portfolio every day, Washington Wise from Charles Schwab is an original podcast that unpacks the stories making news and how they may affect your finances and portfolio. Host Mike Townsend and his guests explore policy initiatives for retirement, savings, taxes, trade, and more. Download the latest episode and follow At Schwab dot com slash Washington wise, or wherever you listen.
+
+
+This message comes from NPR sponsor one, password. Protect your digital life with one password. If you're tired of family members constantly texting you for the passwords to streaming services, one password lets you securely share or remove access to logins, access from any device anytime. One password lets you securely switch between iPhone, Android, Mac, and PC with convenient features like autofill. For quick sign-in right now, get a free two week trial for you and your family at one password.com/npr.

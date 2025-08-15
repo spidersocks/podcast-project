@@ -1,0 +1,89 @@
+
+Ryan Reynolds here from Mint Mobile. I don't know If you knew this, but anyone can get the same premium wireless for $15 a month plan that I've been enjoying. It's not just for celebrities. S Odoo like I did, and have one of your assistants assistants switch you to Mint Mobile today. I'm told it's super easy to do at Mint Mobile dot com slash switch. Upfront payment of $45 for three month plan, equivalent to $15 per month. Required intro rate first three months only. Then full price plan options available, taxes and fees, extra fee, full terms at Mint Mobile dot com.
+
+
+Worried About what ingredients are hiding in your groceries. Let us take the guesswork out. We Thrive Market the online grocery store with the highest quality standards in the industry. We restrict 1000 plus ingredients so you can trust that you'll only find the best high quality, organic and sustainable brands all free of the junk. With savings up to 30% off and fast carbon neutral shipping, you get top trusted groceries at your door and you can stop worrying about what your kids get their hands on. Start shopping at Thrive Market dot com slash podcast for 30% off your first order and a free gift
+
+
+Race. The rudders race, the sales race, the sales captain. An unidentified ship is approaching over Roger. Wait. Is that an enterprise sales solution? Reek sales professionals, not professional sailors. With LinkedIn ads, you can target the right people by industry job title and more. We'll even give you a $100 credit on your next campaign. Get started today at LinkedIn dot com slash results. Terms and conditions apply.
+
+
+You are listening to TED Talks Daily where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. Today's talk is from our brand new batch of 2024. TED Fellows films adapted for podcasts. Just for our TED Talks Daily listeners, Ted's Fellowship supports a network of global innovators and we're so excited to share their work with you today. We'd like you to meet mental Health systems, entrepreneur Mohammed Abu. So many people living in conflict zones who need healthcare have to cross borders to receive the medical treatments they need. Mohammed shares a solution he has found with AI to bridge this healthcare gap and improve the quality of care for so many people around the globe. After you hear from him, stick around for his conversation with TED Fellows, program director Lily James Olds.
+
+
+This is a picture from the Libyan Tunisian borders. These are patients who couldn't find care within their own country. These ambulance cars carried my father, my, my grandma before she passed away. And for me, this is emblematic of the challenge we're currently facing. We see a, a significant number of patients seeking care beyond their bodies and they should get care within their community. Currently it's very difficult to do that just by training more doctors and, and building more medical schools or hospitals because we will never be able to reach everyone everywhere.
+
+
+But if there was an AI doctor that can be with them and have the answers whenever they need them and where they need them, and having those answers being contextualized for that specific patient in that village, we would not see such a such dire consequences of years of underinvestment in health. I am Muhammad ab Brai a surgeon, and I have the privilege of leading our team at Speetar, a digital health platform that connects patients in remote communities across the Middle East Africa to physicians that understand their context language and are able to to help them best. It's basically a, a hospital in the cloud.
+
+
+This folder is how health records are kept in Libya. This file can hold so much in terms of documentation and even then it's very rare that you'll find a patient that will come to you with a file that has everything from their past history that they've kept perfectly neat together for you to just to kind of go through. As opposed to when I was working, for example, in one of the leading institutions in the US I can just ask for patient's name, date of birth, log in, get every single procedure that performed in the past 15 years because of, of, of the lack of digitization in these areas where we have ongoing volatility, a patient may be in one village today, tomorrow will have conflict in their in another one.
+
+
+And people don't really leave or migrate with their files in their pack bags like, oh, my health records. So you, you lose that and you lose every single allergy procedure, medical problem, medication that they've had, and you're constantly building that like record from scratch. So essentially what we do is help patients capture their medical histories in a digital format and then we make sure that that record is available at their fingertips in their phones, but also available for the doctors. And we continue to build on that record to make sure that that patients get the best care possible whenever they need it.
+
+
+And that's kind of the capturing side of things, the capturing the data. And from there we start to work on cleaning that data up and making sure it's consistent and it could be fed into models that could later on start to kind of give these predictive analytics. But what we see with AI or this data economy in general is unfortunately a similar trend we've seen in the past with colonial powers, where now data is the new oil. There is a movement to capture as much data as possible and for this data to be fed into the AI models that are currently being developed.
+
+
+And it's being fed the data that exists in mostly the, the western world where it's readily accessible, where you have electronic medical records. But when you look at certain villages in, in Libya or other countries which are like suffering now going through conflict or have been historically kind of marginalized and underserved, there is not that attention to collecting data. We are not including the full spectrum of humanity. As we continue to build ai, we need to involve other countries in that data collection process and not just assume that we can build a technology in the west and just parachute in. And because it's a medical eye, it will work perfectly there.
+
+
+It will not work. I hope it's a future where patients do not have to leave their countries or wait for months, sometimes even years to get the proper care that they need. The writer William Gibson was said, the future's already here. It's just not evenly distributed. AI has the power to really make sure that quality of care is evenly distributed to everyone everywhere. And now a special conversation between TED fellow Mohammed Abu and TED Fellows program director Lily James os Mohammed.
+
+
+Welcome. So excited to Talks Odoo you today. Thank you so much. Excited to be with you. So what you and your team are doing is just one example, obviously of the exponential transformations that are taking place in healthcare with the technology of ai. Can you tell us more specifically how exactly Speetar tar works for patients seeking care? Y You know, growing up in Libya, I saw what it meant for someone to travel for hours or even days just to get a diagnosis. It it sticks with you seeing the frustration of someone holding onto a prescription they can't even fill. That's the, the human story, I guess behind the, the work I do.
+
+
+And our goal is to make sure that care doesn't just exist. It, it reaches the people who need it when they need it and in, in the way they can trust. So for patients, our technology acts as a bridge. So I would say imagine a women in a rural village in Libya would be experiencing a chest pain. She opens her phone, describes her symptoms, and within minutes she's connected to a care pathway, whether that's a virtual consultation, a nearby clinic or advice tailored to her condition. No necesssarily delays, no guesswork.
+
+
+It's a system that works in the background, but the results feels like magic. But this goes beyond convenience. It's, it's about justice. I think as we approach the next decade with the nearly half of the world's population lacking basic healthcare, the stakes could not be higher. Absolutely. And I think, you know, for so many of us, the place our minds immediately go with ai, you know, assisting with anything is obviously safety. How does Speetar tar protect its patients and their data? Well, let me, I guess paint a picture here.
+
+
+Imagine you're in a restaurant and a waiter writes down your order on a napkin. That's basically how some systems treat your medical data, unsecured, unregulated, and all too easy to misuse. That's unacceptable. We treat data like it's sacred because it is on a human level. We ask the question, if this was my mother's medical history, would I feel comfortable with how it's being handled? And if the answer is anything less than affirm, yes, we go back and and rework the whole system.
+
+
+But data safety isn't just about protection, it's also about inclusion. And that's kind of what we try to keep in mind as we operate and, and build these solutions. I love that you give the example, you know, that others have brought up of data really being the new oil in the data economy. And you speak about how important it is that we're including the full spectrum of humanity in these data sets that AI models are built on. How do you think we do this? I think the example you just gave with your company is apt, right? Like how do we also make sure that these AI frameworks models are really built on ethical human frameworks?
+
+
+I think this is where we have to confront some of the uncomfortable fruits. Historically, a lot of AI models were built on datasets that didn't reflect the world's diversity. It's like trying to write a universal cookbook but only testing recipes on one kind of cuisine. You miss the full spectrum of flavors, the results tools that work well in Boston but fail spectacularly in Tripoli AI data sets and language models. They're rapidly developed now and will be the foundation for the tools we produce and use foreign into the future.
+
+
+And we must ensure these systems are inclusive, ethically sourced and built on local ownership. Otherwise, we risk codifying inequalities. We see today into the tools of tomorrow. In many ways, the the global healthcare crisis is fueled by information inaccessibility and fixing. That starts with digitizing the lived experiences of, of billions of people who have been invisible for current systems and, and and for a long time.
+
+
+And what does the integration of advanced technologies and healthcare mean for global health, particularly in underserved regions? I think this is where the conversation gets really exciting and urgent. Advanced technologies like AI don't just promise to improve healthcare in in world resource settings. They have the potential to completely redefine what's possible in places that historically have been left behind. For example, we face a global deficiency of nearly 18 million healthcare workers today, most acutely felt in low and middle income countries.
+
+
+Technology can't replace human expertise, but it can help amplify it. Amplify a single radiologist, for example, can't be in 10 places at once, but an AI power diagnostic tool can extend their expertise to clinics in rural Kenya, Bangladesh, or Libya. Places where radiologists may not even exist. I think the real power of AI is in the ability to leapfrog. Many underserved regions don't have the legacy healthcare infrastructure we see in wealthier countries. And that can actually be an advantage.
+
+
+They can basically bypass outdated systems and adopt lean tech driven models, but the stakes couldn't be higher. I believe if we don't act now, we risk creating tools that serve the privileged few while leaving billions behind. As one of my mentors once said, the goal isn't just to innovate, it's to include. I love that. Yeah. And there's so much possibility. So I guess it's continuously as, as everybody is now trying to weigh those balances of the possibilities that are about to be unlocked and also being very mindful of, you know, the dangers and the challenges.
+
+
+I'm curious how can providers and patients welcome seamlessly this new technology into their practices? And what are some of the challenges? You've touched on a few of 'em, but that you see in that process. Well, let me start with a story. A, a doctor I know brilliant old school, you know, the type, he once told me, AI is great, but can it sit next to a patient and hold their hand? And he's right. Technology isn't here to replace the connection that humans have. It's, it's here to enhance it. And for providers it's about showing them that these tools aren't a competition, they're collaborators basically.
+
+
+They reduce the administrative burden, speed up the diagnosis and let clinicians focus on what they do best, which is caring for people. On the other hand, for patients, I think they don't need to learn the technology, they just need to trust it. And that's the real hurdle. Trust. I think that's so true. And I think one of the things I'd love to hear you speak a little bit more in depth about as well is, you know, there, there is many telehealth apps and companies, but I think that your approach with Speetar tar is specific because it is so culturally attuned to the different regions, languages, cultures.
+
+
+Can you speak a little bit about that and how you think Speetar TAR is really welcoming in a kind of new era of this telehealth? I think with the, with many of the solutions out there, it's important to keep in mind that we are not just kind of building new technology. We're making sure that it's inclusive. And what that means is we are really building not just for the communities, but with them and ensuring local ownership as I mentioned, because many time that gets overlooked, especially when we talk about medicine, we assume that because we're talking about the human body, because the human physiology and anatomy is the same, we tend to kind of sideline these nuances and it is very important to take that in consideration from an early stage as we build these solutions to make sure that they're relevant for some of the contexts that they're deployed to.
+
+
+It's really fascinating work. Thank you for this, Mohammad. My last question would just be, if someone is interested in diving deeper on some of the things we touched on, I'm curious what resources you'd recommend that have been useful to you in terms of a book, a podcast or, or anything else. I think for a thought provoking read Deep Mind by Eric Topple is a, a great place to start. It's like a level effort to the future of healthcare. But honestly, I think the best resource is curiosity, ask questions, challenge assumptions. If you hear about a new breakthrough in ai, don't just say, wow, cool, think what's the impact?
+
+
+Who benefits, who doesn't? And I think that's where the, the relearning happens. But if I would just kind of add a, a final thought here. At its core, the story of AI in, in healthcare is a story of our humanity, our ingenuity, our resilience, and honestly our, our shared commitment to a better future. I love that. Thank you Mohammed. Thanks Li. That was Mohammed Abu, a 2024 TED Fellow. To learn more about the TED Fellows program and watch all the TED Fellows films, go to fellows dot TED dot com and that's it for today.
+
+
+TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Bazo. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feet. Thanks for listening.
+
+
+Hi, I'm Maya from Girls At Invest Tax season is all about preparation and if you're like most people managing your financial logins and documents, securely can feel overwhelming. One password can help bring order to the tax prep chaos all in one place. Right now you get 25% off your first year of one password individual or 50% off your first year of one password families at one password.com/girls that invest. That's 25 or 50% off your first year at one P-A-S-S-W-O-R d.com/girls that invest or lowercase one password.com/girls that invest
+
+
+As a small business owner, you don't have the luxury of clocking out early. Your business is on your mind 24 7. So when you're hiring, you need a partner that grinds just as hard as you do. That Hiring partner is LinkedIn jobs. LinkedIn makes it easy to post your job for free, share it with your network, and get qualified candidates that you can manage all in one place. Post your job for free at LinkedIn dot com slash TED pod. That's LinkedIn dot com slash TED pod to post your job for free terms and conditions apply.
+
+
+This episode is brought to you by Missouri. Missouri does fine jewelry differently. They're all about buying for yourself where you decide the occasion. Everything is handcrafted with quality, craftsmanship, and responsible sourcing in mind. So these are pieces you can feel good about in more ways than one plus. There are so many designs you can mix and match to create a stack for every look. Shop, in store, in app, or online@missouri.com today.

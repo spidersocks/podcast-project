@@ -1,0 +1,125 @@
+
+This message comes from Capital One. Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply. See Capital One dot com slash bank for details. Capital One, NA member FDIC.
+
+
+This message comes from Grammarly. At an enterprise level, nothing is more important than communication. Grammarly for Enterprise enables your team to work smarter and faster. Other AI tools can't quantify business impact, but Grammarly gives you actionable insights and measurable results with features like their effective communication score, which tracks key metrics so you can make data-driven decisions to improve outcomes. Learn more at Grammarly dot com slash enterprise.
+
+
+This is Planet Money from NPR. President Donald Trump has attempted to dismantle a federal agency, U-S-A-A-D, the Agency for International Development. He's attempted to freeze billions of dollars in grant money that goes to states for everything from new school buses to paying for the health benefits of childcare workers, wildfire prevention. He's attempted to freeze federal funds for medical and public health research. And now whether Trump has the power to cut off money that has been appropriated by Congress is being litigated by the courts, several judges have blocked big parts of Trump's efforts ordered the administration to release the funds.
+
+
+They froze though there have been many examples of funds not being released, and you know the Constitution is pretty clear that Congress has the power of the purse. Congress decides how much money the US spends. So generally it's been understood that the President cannot spend more money than Congress has agreed and voted to spend. But can the President spend less money than Congress wants? Hello and welcome to Planet Money. I'm Sarah Gonzalez. And that is the thing being debated right now. Whether a president can spend less than Congress wants comes down to something called Impoundment and the Impoundment Control Act.
+
+
+Basically, when and how a president can impound funds, like take money away that have already been appropriated today on the show. What is impoundment? How has it been used in the past? And what do the judges and legal scholars who study the Constitution and empowerments in particular have to say about the legality of what the Trump administration is trying to do?
+
+
+Support for NPR and the following message come from ID Tech. Id Tech is where kids ages seven to 17 find their people, the battle bots, game design, and more people. Go to id tech.com and use code ID tech to save $150 this summer.
+
+
+Support for this podcast and the following message come from LinkedIn Marketing Solutions. One of the hardest parts about B2B marketing is reaching the right audience. So when you wanna reach the right professionals, use LinkedIn ads. Target your buyers by job title, industry, company role, seniority skills, company revenue, all the professionals you need to reach in one place. LinkedIn will even give you a $100 credit on your next campaign, so you can try it yourself. Just go to LinkedIn dot com slash money. Terms and conditions apply only on LinkedIn ads.
+
+
+This message comes from NPR sponsor Shopify. No idea where to sell. Shopify puts you in control of every sales channel. It is the commerce platform revolutionizing millions of businesses worldwide. Whether you are a garage entrepreneur or IPO Ready, Shopify is the only tool you need to start, run and grow your business without the struggle. Once you've reached your audience, Shopify has the Internet's best converting checkout to help you turn them from browsers to buyers. Go to Shopify dot com slash NPR to take your business to the next level.
+
+
+Today, When the Trump administration ordered all of the funding phrases, it upended thousands of contracts, including with US businesses and nonprofits. For example, US farmers grow a lot of the corn and soy and food that the agency U-S-A-I-D sends to other countries. Last week, the U-S-A-I-D Office of Inspector General released a report that said that half a billion dollars worth of food was at risk of just spoiling in warehouses at ports in transit. The U-S-A-A-D Inspector General was fired the day after that report came out.
+
+
+Now, the US Constitution says that the president has a duty to take care that laws be faithfully executed, and when Congress debates and decides to fund something that's a law. But before Trump was reelected, he was saying that he didn't think Congress had the final say here in a campaign video. Trump said that as president, he should have the power to not spend money that Congress has appropriated For 200 years under our system of government. It was undisputed that the president had the constitutional power to stop unnecessary spending through what is known as impoundment.
+
+
+Impoundment. Trump was saying that he should be able to impound the money Very simply. This meant that if Congress provided more funding than was needed to run the government, the president could refuse to waste the extra funds and instead return the money to the General Treasury. Okay, we should note that the system kind of already allows for this. According to a legal scholar we spoke to who said that, you know, if the government can like get the job done with less money than Congress appropriates, that's totally okay Sometimes. So like if Congress appropriates $15 billion to build a new aircraft carrier, but the contractor can get it done for, I dunno, $14 billion, that's fine.
+
+
+The federal government is not gonna be like, oh no, no, no, you, you must charge us the full $15 billion. Right? The important thing is that the aircraft carrier that Congress wanted just has to get built. A president cannot override Congress and say, well, you know, I as president don't think we should even have an aircraft carrier at all. At least that is what the Impoundment Control Act of 1974 says. It's the law that controls the president's impoundment power. But Trump thinks that law is unconstitutional. This disaster of a law is clearly unconstitutional. A blatant violation of the separation of powers, President Trump and his team, including the person who is now general counsel at the Office of Management and Budget, which is the agency that oversees the release of federal funds, say that impoundment is an inherent power of the president because they say presidents have historically exercised this power.
+
+
+They have been pointing out what they call hundreds of years of examples of presidents impounding funds before Congress like reigned in the practice. Basically, they're saying that impoundment was like kind of chill in the early days. Well, I, I'm not sure I'd say chill, but I but I you Wouldn't I, well, I, you sound like that's like definitely something you would say. I, Zachary Price is a law professor at the University of California College of Law in San Francisco who has written about historical empowerment practices, including examples that Trump's team has been citing. So we will start with what is likely the most high profile instance of impoundment in 1803 with Thomas Jefferson, Congress had appropriated up to $50,000 to build 15 gun boats in the Mississippi because the US thought that it might have to fight France over the Mississippi River.
+
+
+But after Congress appropriated the Gunboat money, things took a turn with France, Jefferson thought the threat that had warranted this project, it disappeared. So he didn't spend the money, didn't build the ships, or didn't build all of 'em, and then just told Congress in his annual message when they came back, you know, here's what I did and you know, this is why Was Congress just meeting a lot less often in the 18 hundreds? And so they went away for like months and months and he was like, I don't know what to tell you. Like things are different and we don't need all these gunboats anymore. Yeah, Certainly in the very early republic, Congress would come for a session and then everyone would go home back to their states. Yeah, it's 1803.
+
+
+Congress was meeting once a year and after Congress voted for the gunboats and then went home, this big thing happened. The US bought Louisiana from France and a bunch of other land, the Louisiana purchase. So France was no longer going to be near US territory, no longer on the Mississippi, and we were cool with France. Now we weren't gonna go to war with them anymore. So Jefferson is like, okay, well I'm not gonna build those gunboats in the Mississippi. Then Trump's team has specifically pointed to this gunboat funding example to say, see, the president does have the power to not spend money, but here's the thing about this Thomas Jefferson Gunboat example.
+
+
+Zachary says, Congress never told the president he had to spend $50,000 on 15 gunboats. Right? So that one, the law just said, you can spend up to X amount on this purpose. Oh, but the law didn't say you must spend at least this much. It said no more than, yeah, The actual law said Thomas Jefferson could order quote a number, not exceeding 15 gunboats using quote, a sum not exceeding $50,000. So baked into the law, it was always optional. So a lot of examples have that sort of character, and that's not really, Jefferson would say, oh, I'm just faithfully executing the statute, or at least you can understand what he's doing that way.
+
+
+So you're saying that all the examples of times that presidents used empowerment, there was always some little language that was like a little bit more like, you don't have to spend all this money, you just can spend up to this amount. It's not always quite as clear as Jefferson. Okay. But you know, you do have a pattern of examples, sort of like that. Historically, Zachary says Presidents weren't making the argument that they have the constitutional power to override Congress and Inpo funds. Generally, presidents weren't really making that argument. They're instead involved in a kind of back and forth with Congress. Zachary says Presidents would just kind of be like, come on Congress, let me do this. And then Congress would give in like there was spending for rivers and harbors that Ulysses ES grant thought was wasteful.
+
+
+There was money for a weapons program that John F. Kennedy didn't wanna spend after World War ii, but in both cases, after some controversy, Congress just gave in to the President. So in that way, yeah, Zachary says there was this like tacit approval by Congress to sometimes not spend money, but it's not like there was a place where all the rules were spelled out around this one way or another. That didn't happen until Richard Nixon became president because Richard Nixon took impoundments to a whole new level. Well, The distinction with Nixon is also the frequency and the scope at which he impounded funds. I mean, in 1973, impounded nearly one third of all discretionary spending.
+
+
+Rachel Snyderman is the managing director of economic policy at the bipartisan policy center. And days before Trump's second inauguration, she published this big Impoundments 1 0 1 explainer And really refresher of, you know, what are the real checks and balances when it comes to the federal budget process as we head into a very busy year for fiscal policy, and of course the new administration. The thing that made Richard Nixon's, IM empowerment practice, so distinct was really the scale and the scope. Nixon wasn't using, IM empowerment like here and there. He was using, IM empowerment to subvert. Congress's will, like Congress had approved billions of dollars to send to states to build sewage treatment plants.
+
+
+Nixon didn't want that. So he withheld the money. Nixon impounded housing assistance, money, community development, money, disaster assistance, and eventually the people and states who were entitled to the money that Nixon was withholding sued Nixon in a bunch of courts When he impounded funds. There were several court challenges that went all, even all the way up to the Supreme Court, and the courts were repeatedly upholding the fact that the president did not have the authority to unilaterally make decisions about spending. The Supreme Court case was specifically about the sewage treatment plant money that states were supposed to receive from the federal government. The Supreme Court said that the total amount that Congress had appropriated for this had to be spent, not just any amount, the total amount, because that was the language of the law.
+
+
+All nine justices agreed. Meanwhile, while all this is playing out, Congress is like, all right, I think we gotta get some real ground rules for impoundment now. And they passed the Impoundment Control Act of 1974, which you know, controls how presidents can impound money. You can impound funds. Yeah, right. It's not the, like impoundment is not allowed act, right? It's just like it's allowed, but like in this controlled way. Yeah. So they cannot do it alone. The president must, they must go through the process and work with Congress Under the IM Impoundment Control Act Post Nixon. There are now two ways a president can withhold money that Congress has appropriated just two ways.
+
+
+The first way is called the deferral process. The president can temporarily defer payments, but with a catch, The president can choose to defer temporary delay certain spending. If they have the explicit intent that they are going to spend all of that funding within the fiscal year, they just don't quite know when. One example of spending that can get deferred is disaster assistance money. So we know that hurricane season tends to be towards the end of the fiscal year in September. So maybe you wanna hold off on spending too much disaster money early on so that you have some leftover around hurricane season when you might need it.
+
+
+Right. That's a deferral. The second way a president can withhold funds post Nixon is through something called the Rescissions process. They're rescinding the money. Basically, a president goes to Congress and says, here's all the money. I don't wanna spend that. You find people already approved. Congress then has 45 days to look over the President's proposal. If Congress chooses to do nothing or does not approve that package as a whole or or in part, that funding must then be released to federal agencies and spent. So Congress decides, still, Congress decides Yes, and throughout this entire time, the government accountability office is conserving as the external watchdog to make sure that this is happening And Trump knows how this process is supposed to work, says Rachel, because he followed this exact process in 2018 when Trump wanted to rescind billions of dollars.
+
+
+He notified Congress. Congress reviewed it all, but then chose not to approve it, and many presidents have impounded funds this way through this process. President Trump is not alone in exercising this authority. George HW Bush utilized this authority, president Clinton, president Reagan did too. So there really is precedent This time around. Though Trump did not notify Congress, there was no Rescissions proposal. So to some legal scholars, the fact that Trump is not following the normal process is about something bigger. He's clearly after something more than just restraining this funding.
+
+
+He's seeking to make a point about inherent presidential authority After the break, how Trump is testing the limits of presidential power and what constitutional scholars and the courts are saying about it.
+
+
+This message comes from Capital One with the Venture X Card, earn unlimited double miles on everything you buy, plus get premium benefits at a collection of hotels when booking through Capital One travel. What's in your wallet terms? Apply details at Capital One dot com.
+
+
+This message comes from Charles Schwab. Financial decisions can be tricky. Your cognitive and emotional biases can lead you Astray. Financial Decoder, an original podcast from Charles Schwab can help listen today at schwab.com/financial decoder.
+
+
+This message comes from Charles Schwab. When it comes to managing your wealth, Schwab gives you more choices like full service, wealth management, and advice when you need it, you can also invest on your own and trade on Think or swim. Visit schwab.com to learn more.
+
+
+This message comes from NPR sponsor Vanta. Whether you are a startup founder navigating your first audit, or a seasoned security professional, scaling your GRC program, proving your commitment to security has never been more critical or more complex. A new IDC white paper found that Vanta customers achieve $535,000 per year in benefits, and the platform pays for itself in just three months. Join over 9,000 global companies like Atlassian, Quora, and Factory who use Vanta to manage risk and prove security in real time. Visit vanta.com/ Planet Money today to receive $1,000 off.
+
+
+You may remember that in 2019, president Trump withheld money meant for Ukraine without going through Congress. This was when Trump was trying to get the Ukrainian president to investigate the Biden family. Trump was found to have violated the Impoundment Control Act back then, and the money was eventually released. Now, in his second term, Trump is saying, yeah, that whole empowerment control act thing, I think it's unconstitutional days into Trump's second term. His administration announced that they were temporarily going to not spend billions and billions and up to trillions of dollars on a bunch of stuff that you know, Democrats and Republicans agreed together to fund.
+
+
+He announced the funding freeze without ever submitting a proposal to Congress and a bunch of lawsuits followed. Nonprofits have sued, states have sued. States have sued specifically over just the medical research funding. Health organizations that receive funding for U-S-A-I-D programs sued so to some, this was not like a Thomas Jefferson style saving money on some Mississippi gunboats kind of impoundment. This was more like what Nixon tried to do using impoundments as a broader policy tool, withholding money for policies he disagreed with. Now, a lot of the Trump funding freezes have been paused while the courts sort everything out, just like how it went down when Nixon used impoundments this way.
+
+
+But what Trump's team is arguing that Nixon's team did not argue in court is that the president should have this special power to not spend. They're saying, yes, there's a ceiling on spending, the president cannot spend more than Congress appropriates, but they don't think there's a floor for this. I called up a law and economics professor, do your students call you Professor Super? Yes. Nice. Wait, say your name and title. I'm David Super, And I teach law at Georgetown. David Super Studies, the Constitution teaches legislation, and he actually had the Im Empowerment Control Act on his syllabus when all the funding freezes happened.
+
+
+So as a teacher, I couldn't be more grateful for their timing with this. As a lawyer and a citizen, I'm troubled by it, So, okay. What about this constitutional claim that the Trump team is making? Is there a place in the Constitution that says like, yeah, yeah, you can't spend more, but like Yeah, you could spend less? Or is there a place in the Constitution that says like you cannot spend more and you also cannot spend less? Like is there validity to their claims that like it doesn't say in the Constitution that there's a floor, which is like what the argument is, right? Like the ceiling is there, don't spend more, but is the floor there? Yeah, the floor's there, the floor is there and the laws that say you must spend this money, and in the Constitution it says you must take care that the laws be faithfully executed.
+
+
+You're not taking care that the laws be faithfully executed. If the law says spend a million dollars and you refuse to do so, David and a long, long line of legal scholars and judges appointed by Republicans, by Richard Nixon and Donald Trump have said that the Constitution does give Congress the power to set even a spending floor. Supreme Court Justice Brett Kavanaugh, who Trump appointed back when he was an appellate judge, he wrote that quote, even the president does not have unilateral authority to refuse to spend, but Trump's legal team has said that the Supreme Court hasn't provided the final word on whether a president has constitutional empowerment power, like inherent empowerment power, just because he's the president.
+
+
+They say that even that one Nixon ruling was more specific to like the particulars of Nixon's case, and David super agrees that the Supreme Court did not rule on overall empowerment power, but only because, again, Nixon's team wasn't making that argument in court. So that's the legal stuff. In terms of the money stuff, like the money that the Trump administration has frozen or attempted to freeze, here's what's happening there. Several judges have at least temporarily blocked just about all of those actions. Some of these judges are Trump appointed judges, judges, at least one of the judges, Yes, he's been losing in front of Trump judges, Biden judges it.
+
+
+It really hasn't mattered. These judges have said that the Trump administration needed to unfreeze the money, at least for now. So the money is supposed to be released. The White House even rescinded their initial memo declaring the pause on federal grant and loans. But there are a lot of reports that money is still being held up. One judge said that the Trump administration was still not releasing the funds, which violated a court order. The judge in Rhode Island found that they had violated his order in numerous respects and has issued an A supplemental order, admonishing them to start complying right away and specifically condemning some of the actions they've taken and some of the arguments they've made to defend their actions.
+
+
+State agencies in Pennsylvania still as of today, have not been able to access $2.1 billion in grant funding that was suspended or restricted. This is according to the governor's office, even though as they pointed out, multiple federal judges have ordered the Trump administration to unfreeze this funding. Several nonprofits across the country also have tried to access their federal funding only to find out it's not there. Indeed, I talk to people all the time who tell me their funding is frozen still. Indeed, some people whose funding was frozen after the orders were issued against that. So if the administration is trying to comply, they're not trying very hard and they're not trying very effectively.
+
+
+David's super says that these actions for him rise to the level of a constitutional crisis. We did reach out to the White House and to the Office of Management and Budget to ask why some federal funding is still not being released, and to get the response to what David Super and Zachary Price had to say about the history of impoundments. The White House and OMB did not respond, but the White House Press Secretary has said that it's actually the courts and the judges stopping Trump's executive actions that are the ones causing the constitutional crisis.
+
+
+If you want even more history and legal arguments around impoundments, check out our latest newsletter. There's a link in our show notes, and you can subscribe@npr.org slash planetmoney newsletter. This episode was produced by Willa Rubin and edited by Meg Kramer. It was FactCheck by Sam Yellow Horse Kessler, and engineered by Robert Rodriguez. Alex Goldmark is our executive producer. I'm Sarah Gonzalez. This is NPR. Thanks for listening.
+
+
+Support for the following message comes from LinkedIn ads as a B2B marketer, you know how noisy the digital ad space can be. If your message isn't targeted to the right audience, it just disappears into the noise. By using LinkedIn ads, you can reach professionals who are more likely to find your ad relevant, target them by job title, industry, company, and more. Get a $100 credit on your next campaign at LinkedIn dot com slash results. Terms and conditions apply.
+
+
+This message comes from Mint Mobile. Mint Mobile took what's wrong with wireless and made it right. They offer premium wireless plans for less, and all plans include high speed data, unlimited talk, and text, and nationwide coverage. See for yourself at Mint Mobile dot com slash switch.
+
+
+This message comes from Warby Parker. If you wear glasses, you know how hard It is to find the perfect pair, but step into a Warby Parker store and you'll see it doesn't have to be. Find a Warby Parker store near you at warby parker.com/retail.

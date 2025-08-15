@@ -1,0 +1,137 @@
+
+This message comes from Capital One. Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply see Capital One dot com slash bank for details. Capital One, NA member FDIC.
+
+
+This is Planet Money from NPR. NPR. There is a gigantic money pipe, this unfathomably large hose through which hundreds of millions of dollars flow every single day. At least that's how we think of it. More officially at the Treasury. It's known as the Secure Payment System. The federal government basically runs through that money pipe. Almost 90% of all federal payments flow through it, payments to Medicaid and Veterans Affairs and Customs and Border Protection Payments to the Library of Congress. The SEC. The FCC, the FCIC, that's the Federal Crop Insurance Corporation.
+
+
+Congress allocates trillions of dollars to go to specific parts of the government. And when those parts of the government need a chunk of their allowance, they request it and Treasury sends it through the old money pipe. And then a few weeks ago, the pipe, what's the way to put this? Got frozen, I guess partially frozen. The Trump administration ordered a pause, a freeze on a huge chunk of federal spending on federal assistance grants and loans and subsidies, that kind of thing, saying basically, do not request your funds. All of those need to be reviewed. Then the courts blocked that freeze. But then reportedly some parts of the government were still not getting their money.
+
+
+Nobody seemed to know what was happening. And There have been enormous consequences Amid all this confusion, hundreds and hundreds of people lost their jobs, clinics and daycares across the country don't know if they will have money to operate. Retirees fretted about getting their payments, But the United States is a country of transparency. And if you know where to look, there is a way to cut through all the confusion and peer deep into the giant money pipe for answers. Hello and welcome to Planet Money. I'm Erica Baris. And I'm Mary Childs. Today on the show we go where to look to that one place with the tiniest bit of information of facts in this chaotic stretch of federal action and freezes and unfreezes, we get a strikingly clear look inside the big money pipe through which most federal spending runs, and at some of the people and the programs on the other end of that pipe.
+
+
+Plus a tool you can use right now if you wanna follow along at home. As this gigantic federal spending story continues developing and developing,
+
+
+This message comes from Grammarly. The workweek can be fast paced and it's hard to focus on getting everything done. Let Grammarly be your AI writing partner. It works where you do and can help you write and quickly edit with suggestions. 93% of professionals report that Grammarly helps them get more work done. Get more done with Grammarly. Download Grammarly for free at Grammarly dot com slash podcast. That's Grammarly dot com slash podcast.
+
+
+This message comes from the UPS store. Open this holiday, come into your local store today. Most locations are independently owned. Product services, pricing and hours of operation may vary. See center for details. The UPS store Be unstoppable.
+
+
+When everybody was running around trying to figure out what was happening with federal government money, apparently folks at the Brookings Institution, well they were kind of running around too. Did they stop certain things? Did they restart things? It just, it got very confusing And we didn't know what the answer was. Lauren Bauer works for something called the Hamilton Project. Within Brookings there a nonpartisan group. They do policy research And you know, pretty tough to do policy research when you have no idea what is happening with federal spending. But Lauren remembered something, another chaotic moment when she'd also wanted to check government spending.
+
+
+And so I had experience from Covid with something that's called the Daily Treasury Statement. The daily Treasury statement. The DTS, if you wanna sound really cool, is just one of a gazillion documents put out by the federal government In terms of popularity. It gets Googled way less than the harmonized tariff schedule, but it slightly more than the short term cash investment report. So, you know, not popular, But what the Daily Treasury statement does is show how much money flows through the giant government money pipe every single business day. And Lauren thought the daily treasury statement might be the key to everything to understanding this present moment of spending freezes and unfreezes and confusion.
+
+
+You can imagine when there's this empirical question, did the Trump administration stop the flow of funds that we had a resource here that nobody really knew about? Can we, can we look at the thing together and you like, tell me about it? Sure. Let me show you what the actual website is. To be clear, the daily treasury statement is not a secret document. You don't need treasury clearance, you don't need to be a researcher requesting special access, Real treasury heads. Nope. They'll probably know about this PDF, but It is easily overlooked. It's like the digital equivalent of a piece of paper under a giant stack of papers on your desk.
+
+
+Okay, great. So this is fiscal data.treasury.gov. Love it. Beautiful. And this is a homepage for you, basically this is like a, a commonly visited Site. Yeah, It is. So what you see here, so if you click it, it opens, look, I've already done it once today. You can get the daily treasury statement And that's it. You click it, download, it's a PDF. It's like 80 kilobytes, not even close to a full megabyte. There's a new one every business day at 4:00 PM So we open it up together and there is a very fancy official looking treasury insignia at the top And it shows the cash balance of the us like what is in the treasury general account, which is like the US' bank account.
+
+
+It basically looks like a balance sheet, classic layout, a two column ledger. And on the left hand side is the deposits. So like when you pay taxes into the treasury, your taxes get totaled on that day into an incoming line item. But what is important for this moment is the withdrawals. And so it, it varies in level of detail, but we have on the withdrawal side all of the outlays that treasury is making to departments, to the other branches of government to programs. Imagine it like a daily Venmo feed for the government.
+
+
+$191 million to NASA rocketship emoji $249 million to the Department of Agriculture. I dunno, cow pig corn, corn, corn. Every dollar rounded to the million dollar that comes out of the government's checking account posted at 4:00 PM in this daily treasury statement. Now It is not an accident that this document exists, this beautiful awkwardly hyperlinked daily treasury PDF, the United States government is of course a prodigious generator of paperwork. And decades ago lawmakers realized they'd need to decide how to drag all of that paper into the modern digital era.
+
+
+Rachel Snyderman is with the Bipartisan Policy Center and she knows a bit about the US being a little extra in showing its paperwork. The premise of this is that the United States is the largest supplier of open data, Open data information that's free, publicly accessible and that people can download and use for their own purposes. Rachel says the treasury publishes its bank statement because the US has kind of staked this ground of being super transparent. That goes back to some bipartisan laws. Starting in 2006, the internet was still young. One of the bills Congress would pass the Digital Accountability and Transparency Act. That's right, data required that all federal spending data be displayed publicly online in one place.
+
+
+The idea was the American people could see if to quote a Republican congressman at the time, their taxpayer dollars were being wasted or if they were being spent wisely Before that time. There was really no single way to track government spending across agencies. And it made it really difficult to use data to inform evidence-based policy decisions. Rachel says, if the public doesn't know the facts, it can't make informed decisions. Transparency is crucial to a working democracy. And this is something we can take for granted here, that of course our government publishes this data. They basically always have. But Rachel says this level of transparency was a choice.
+
+
+We're Really asking the government to open its checkbook every day and and to show us what's coming in and what's coming out. That's extraordinary access the public has. And I think it demonstrates the, the values that our government does place on transparency and communication while The government has chosen to have this access. Not everybody knows about it or thinks about it, Right? Like not everyone knows that. To find the daily treasury statement, you need to go to fiscal data.treasury.gov and then click on one of like eight hyperlinks to dataset details and then click a little download cloud icon to get the actual PDF. But you know who did know our girl Lauren Bauer at the Brookings Institution? So There Was Lauren at Brookings a few weeks ago after a lot of confusing headlines over the weekend about federal spending and freezes when Lauren was like, oh yeah, the daily treasury statement.
+
+
+You can see if the Trump administration is funding the judiciary, you can see if they are funding Congress. So it, it will be able to show many things that I think now are, you know, worth monitoring. And so we were in a staff meeting And we were just talking about this And I was like, oh, there's an API, like The Treasury's website has an API, which is the computer way of saying a way to turn those daily treasury statements into something bigger. We can build something that people can use because the, the treasury statement itself, it's like it's A PDF, you only see one at a time. It like replaces it.
+
+
+You know, it's a website where that day's PDF at 4:00 PM gets replaced with a different PDF, but there's an API under that. And if we could grab the information, then we could reproduce it in a form where people could see whether the Trump administration had actually stopped the flow of funds. You'd theoretically be able to see if parts of the government stopped requesting their allowances from the old money pipe. So the Brookings team gets to work, they pull hundreds and hundreds of old versions of that daily treasury statement, three years worth, and they build a way to automatically pull every new daily treasury statement as It is published.
+
+
+And then the idea was if they could stitch all of that together, they could get a big picture of how much money goes through that giant money pipe, how much goes to the Department of Agriculture or the Library of Congress on any given day, over a week, over three years. And they would be able to see if that money is still flowing. Like if I were writing a paper that were to accompany this, I would do a lot more stuff, You know, like seasonal adjustments, rolling averages. But we didn't because we had to go fast Because there was this incredibly open like important open, empirical question, did money stop flowing?
+
+
+And the way to see that is the straightforward way. Just the basic numbers. How much money had been flowing through the money pipe, how much is still flowing and to whom. So they build a basic program to turn all these daily treasury statements into an interactive graph. And in theory, because it's pulling new information once a day, it would allow them some clarity on federal spending in something approximating real time. Of course that is all, assuming that it works at all. We built like the roughest version of it basically on day one. And so in our, we do a Monday morning research staff meeting and so everyone on that call, can I swear?
+
+
+Oh yeah, please. Okay, great. So I'm, this is my whole staff And I am looking at the update while everyone's like giving their little reports And I go, oh, they actually defunded U-S-A-I-D. And so everyone saw my face like go like, oh my God, we, we, we it the thing we thought we could do. It did. And so wow, that was when it became clear that this tool could in fact show that the money was not sent to U-S-A-I-D because they didn't request it. And so that was still, that was still an open question at the Time. Oh yeah, it was an open question. Yeah. Their daily treasury statement tracker had shown that all of the money had suddenly stopped flowing to U-S-A-I-D-U-S-A-I-D had been functionally shuttered.
+
+
+And all of this of course would become an ongoing legal dispute. But for Lauren in that moment, she had seen proof of concept, watching the daily treasury statement every day was a way to get real answers about what was happening and the widget they'd made it worked. Lauren and her team published the widget and opened it up to the public After the break. We take the money pipe tracker on the road for some use cases of who might be tracking the federal money pipe.
+
+
+This message comes from NPR sponsor, SVA founder and CEO. Ron Russon shares the story of how he got started creating SVA From 2007 2008. I went out And I bought the most popular luxury mattresses. I tore them apart And I realized based on the raw materials cost and the analysis that I had done, that I was able to sell that level mattress but with a very affordable price. Save up to $600 through President's Day at SAA tva.com/npr.
+
+
+This message comes from Bluehost, making it easy to create a website fast. Their AI tools can help you customize, optimize and launch in minutes. And with 24 7 security so you can focus on business not hackers. Get your site launched at.com.
+
+
+This message comes from Intuit TurboTax. Now taxes is matching with an expert backed by tech to get you the most money. back@turbotax.com. Experts only available with TurboTax Live. See guarantee details at turbotax.com/guarantees.
+
+
+This message comes from Capital One. Say hello to Stress Free subscription management. Easily track block or cancel recurring charges right from the Capital One mobile app. Simple as that. Learn more at Capital One dot com slash subscriptions. Terms and conditions apply,
+
+
+We wanted to look at this money pipe monitor tool out in the real world to get a sense of the ways it might be useful and to whom. And we will begin with use case number one, which we will call the if you know, you know, use case. And for this, if you know, you know, use case we return to Lauren Bauer from Brookings actually who helped create the spending tracker tool in the first place. Oh, it's broken again. It's gotten too much traffic. Oh wow. That's great. I mean It is, but it's kind of annoying 'cause like when I actually wanna use it, you know. Yeah. I don't have special privileges. Wow. Lauren deals with that. You should know that being obsessed with the daily treasury statement is not her normal job.
+
+
+She is an expert in nutrition assistance programs like snap, formerly known as food stamps. Lauren gets the money pipe monitor up and running again And we can see months and months worth of SNAP data, all these little spikes of payments from treasury to snap. The thing that this looks like to me is like a heartbeat monitor. It is, right? So if you can see here, This is the one year chart. There are some very tall mountains that are very skinny, They're very tall mountains And it really is like looking at a kind of financial EKG for snap. You get this view of the economic heartbeat of a federal program. And what that heartbeat looks like is generally three big spikes of money every month.
+
+
+And because Lauren studies this program so closely, she knows that cadence is related to the way the program works. First week of the month, that's when people typically get their benefits. So that's when states generally request the federal money they've been allotted. Later on there are administrative costs. So more spikes. Now, in the early case we talked about with U-S-A-I-D, that was a dramatic example. Suddenly a total flat line in funding, anyone could have noticed that change. But the use case we're talking about is a little different because Lauren knows SNAP so well, she's able to keep an eye out for more subtle changes. She zooms in on the most recent round of SNAP money payments, You know, snap looks a little low maybe, but it bounced right back up, which is consistent with its thing with Its normal changes over lines.
+
+
+But you know, if a reporter who is you or any other reporter were to call me and say, did you see something in the snap line that is concerning to you? I would say not yet, but I'm watching it. And this use case experts who really know what to watch for, this is a big part of why Lauren wanted to make this in the first place. To basically hand these financial heart monitors over to other specialists who know what to look for in their areas of expertise. Okay, so that is use case one. Use case number two. We're gonna call the am I gonna get my money or not case. And in this specific case it's more like, is Steven Hellman gonna get his money or not?
+
+
+I noticed you have literally nothing on your walls here, can you? And like maybe an equation, a real beautiful equation on this whiteboard. What's that? Just, just some stuff. I was scribbling computing some simple probabilities of some things. Steve is an assistant math professor at USC. He is supposed to be getting a grant from the National Science Foundation. That grant is for his research into complexity theory. It is to study some problems in computer science using some math tools. I guess that's the short description. I tried to approve what computers can't do. I try to find the limits of computation using math tools. The grant is for $199,006 over three years, it would pay for a student to work with him for travel money to attend conferences and for the summer when he doesn't get a salary.
+
+
+And the university takes some of the money into their budget as well. But will that money actually come through now Steve is not sure. There's a lot of uncertainty. Theoretically the money would start coming March 1st. We reached out to the NSF, they referred us to their webpage about executive orders, which does seem to say the NSF is still requesting its congressionally allotted funds and distributing them. But you know what might be useful? Look at the money pipe tracker. We pull up the graph of outgoing money to the National Science Foundation to see if there are any signs. And looking at it, you can sort of see the story of the last couple weeks pretty clearly.
+
+
+Let's see, a lot of volatility. It looks like a, I see a big, well it sort of levels out, drops down to zero and then a big spike after that. Yeah, A really big spike. Yep. Looks like a freeze in funds flowing. And then presumably a big unfreeze when all the backed up funds flow out. So for Steve, that's promising. Yeah, It's nice to see it's been, you know, if you see zero, then that's, that would not be ideal. Now of course, it's not like there's some line item saying Steve's grant, this is just showing when the money is flowing or not flowing out of NSF. Is the line going up or down or just laying there flat at zero.
+
+
+But yeah, Steve says if this is the best, we got more than nothing is better than nothing. Especially in a, in an age when yeah, there is a lot of misinformation around it. You know, it's nice to have a, an actual source that shows you the the numbers. Yeah. Even though the money seems to be flowing to NSF, Steve hasn't hired his summer student. He'll spend the money if and when it shows up. Okay. Our third and final use case is what we might call, is there a reason to be worried about a gigantic mistake that might affect one of the most important financial instruments in the American and also global economy case? Yeah, so some background on this one. A concern that has developed over the last couple of weeks has to do with access to the giant money pipe.
+
+
+Late last month, Elon Musk's Doge team was granted access to federal payment systems as part of what they say is an effort to suggest cuts to wasteful spending. There has been reporting that this team has a kind of access that would allow them to change computer code in the federal payment systems. Treasury initially denied this claim, but then they were like, oh yes, whoops. That was true just for one person, but not anymore. But nonetheless, if someone makes the wrong changes to the giant money pipe, it might could cause seismic problems, notably to the famously reliable drip of interest paid on US government debt treasuries. And so for our final stop, we called up someone who was expecting lots of these regular interest payments.
+
+
+His name is gaba, he lives in Philadelphia. The Eagles had just won the Super Bowl. Go Birds, gee volunteered that he did not climb any lampposts to celebrate. I didn't. I'm gonna leave that to the 20 somethings. Okay, so you're doing that risk reward analysis and you're like, it's not for me. Yeah, I mean I am a fixed income portfolio manager, so we're not usually the most exciting types in the world. Gee buys and owns bonds professionally for clients and once a month on the 15th he gets interest payments of millions of dollars on US treasuries. How do you know when you've gotten an interest payment into your portfolio? Like, have you ever had to think about it arriving? Hmm.
+
+
+Well that's a really interesting question. You know, we do track interest payments for riskier bonds, but our systems are all built around assuming that payments just come in when it comes to treasuries. And the line item on interest paid on treasury securities is my personal favorite thing to look at on the money money pipe tracker. So we pull it up together, Here we go. I'll have to dig around a little bit, but it seems like a cleverly programmed widget. What this graph looks like is just these massive, steadfast, steady spikes. They represent the quarterly big interest payments the treasury department makes, and they cover payment on trillions of dollars of outstanding securities that are used across the global financial system.
+
+
+Treasuries are seen as the safest investment in the world. The US has never missed a payment in modern history. Well, except for the one time in 1979 when we were accidentally a little late, one study found that just that tiny bit of uncertainty wound up costing the US government like $12 billion just for that tiny risk premium. But other than that so reliable and gee admits, if the US truly, truly, truly missed a payment, it would probably ruin his day. That day would look like lighting my hair on fire and running around in circles for the most part. Yeah, not ideal, Not what we want, Frankie, but if you are worried about that, you can pull up the old money pipe monitor widget tracker thing and look for that reassuring spike, spike, spike.
+
+
+So a very large problem would show up on this EKGA very large problem, meaning a missed interest payment on billions and billions and billions of securities. I find that scenario among the least likely, and hopefully I still have that opinion three months from now. So that meaning you don't think that they will miss a payment? I I really do not expect the Treasury Department to miss a payment. So third and final use case watching treasury interest payments, if that's what helps you sleep at night does for me. Lauren Bauer from Brookings Institution has been frantically trying to keep track of who is using this and for what It is still a work in progress and Lauren apparently is also open to ideas.
+
+
+Now, do you have a mechanism for if a line item disappears? That's a really good question. I'm gonna write that down as a thing we should do. Good job. Thank you. It would be hard to find someone who loves the daily treasury statement more than Lauren Bauer, and she is delighted to be elevating the plucky little PDF, getting it more and more attention. But with some government websites flickering on and off and with some public information getting pulled down, we asked her, is it possible to draw too much attention to our precious daily treasury statement? Lauren says, no, if that little PDF disappeared for some reason, she thinks that would attract even more attention to it.
+
+
+I am not worried if someone pulls my access to this, because if they do, then that is actually a paradigm shift of, of lights out into the public's insight into how much money the treasury has and where it's coming in and where it's going. And so I actually feel quite proud that we've pulled something that I, that I dare you to remove the public's access to the federal government's balance sheet. Do You double dog Dare? Not really. If you would like to follow the Giant Money pipe for yourself, you can find that at the Hamilton Projects website.
+
+
+This episode of Planet Money was produced by Emma Peasley with help from James Snead. It was edited by Kenny Malone. It was fact checked by the same James Snead and engineered by Jimmy Keeley. With help from Neil Talt, Alex Goldmark is our executive producer. If you wanna hear more about this story, you can keep an eye out for an upcoming Planet Money plus episode that's in our feed of bonus content for subscribers. And if there's anything in the headlines you are wondering about you want to stick us on, let us know. You can email us At Planet Money at npr.org. Special thanks to Christian Hoffman and Felix Luki. We will link to the Hamilton Projects website in the show notes. I'm Mary Childs. I'm Erica Baris.
+
+
+This is NPR. Thanks for listening.
+
+
+Support for NPR and the following message come from Edward Jones. What does it mean to be rich? Is it having a million stories to share? Is it having more time to give? Edward Jones' Financial Advisors will support what matters to you. Edward Jones. Member SIPC.
+
+
+This message comes from Greenlight Parents Rank financial literacy as the number one most difficult life skill to teach with Greenlight, the debit card and money app for families. Kids learn to earn, save and spend wisely. Get started. Risk free at Greenlight dot com slash NPR.
+
+
+Support for NPR and the following message, come from Boland branch. Change your sleep with Boland branch's, airy blankets, cloud-like duvets and breathable sheets. Feel the difference with 15% off your first order@bollandbranch.com with code NPR exclusions. Apply C site for details.

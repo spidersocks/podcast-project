@@ -1,0 +1,71 @@
+
+Hey, TED Talks Daily. Listeners, it's Elise. Thank you for making this show part of your daily routine. We really appreciate it and we wanna make it even better for you. So we put together a quick survey and we'd love to hear your thoughts. It's listener survey time. It only takes a few minutes, but it really helps us shape the show and get to know you. Our listeners, so much better head to the episode description to find the link to the listener survey. We would really appreciate you doing it. Thank you so much for taking the time to help the show.
+
+
+At Schwab, how you invest is your choice, not theirs. That's why when it comes to managing your wealth, Schwab gives you more choices. You can invest and trade on your own. Plus get advice and more comprehensive wealth solutions to help meet your unique needs. With award-winning service, low costs and transparent advice, you can manage your wealth your way at Schwab. Visit schwab.com to learn more.
+
+
+This message is brought to you by Apple Card. Picture this somewhere in the world. An Apple Card user is getting 3% daily cash back on the purchase of an iPhone 16 at Apple. That's not all. They also earned 2% back on the new shoes they bought using Apple Pay. Visit apple.co/card calculator to see how much daily cashback you can earn subject to credit approval. Apple Card is issued by Goldman Sachs Bank, USA, salt Lake City branch terms and more at Apple Card dot com.
+
+
+This episode is sponsored by Simply Safe. If you're thinking about upgrading your home security, I cannot recommend SimpliSafe enough. I've been using it and their new active guard. Outdoor protection is seriously next level. AI powered cameras plus real live agents keeping an eye on things outside before anything bad happens. It's not just reacting after the fact. If someone's lurking, SimpliSafe steps in, agents can Talks, Odoo them, flip on spotlights, even call the police. It's like having an extra set of eyes watching over your home. For me, it's become a nightly ritual. Setting the system before bed and knowing everything's protected. Total peace of mind. You can get 50% off your new SimpliSafe system with professional monitoring and your first month free@simplisafe.com slash TED Talks Daily. That's simplisafe.com/ TED Talks Daily. There's no safe like SimpliSafe.
+
+
+You're listening to TED Talks Daily where we bring you new ideas and conversations to spark your curiosity every day. I'm your host, Elise Hugh. So at the TED Conference in Vancouver this past April, there was a huge geometric dome right outside of the main theater. Inside were cushions plants on the walls, even a microscope. It was very cool. This was a large mockup of a space home. Yep, you heard that right? It was designed by space architect Ariel Ekblaw and her team. I don't wanna give too much else away, so I'll just say this. In her talk, she shares why space is not just a frontier for exploration, but also a platform for solving humanity's biggest challenges.
+
+
+Ariel says, we must rethink how we live on earth and beyond for the betterment of human community and survival. And make sure to come back to this feed later this afternoon, Ariel and I actually got to sit down after her Talks Odoo, hear more about the work and ideas she shared on stage. I once had a professor ask me, why in the world do we spend so much money on space exploration in the face of so many pressing challenges here on earth? It's a good question and a tough one for me.
+
+
+Should we be building a future life in space? I wanna argue yes and tell you how. I do believe in the beauty of space exploration for the sake of new knowledge. Because the little that we do know about our universe pales in comparison to what we do not yet know. And in some ways, it's in my blood. My parents are both pilots. My dad was an a 10 fighter pilot and my mom was one of the first women to ever fly for the United States Air Force. And 14 years ago I floated in microgravity like an astronaut for the first time. This inspired me to work in aerospace for the rest of my life.
+
+
+But space exploration does so much more than just inspire. Our space program has routinely delivered breakthrough innovations. The Apollo program gave us the foundation of modern computing. The International Space Station gave us lasik. Eye surgery contributed to that amazing technology and now new technologies are coming online to enable life-saving biotech in orbit and even deliver energy from space. What makes all of this possible? In the last 15 years, the cost to get to space has dropped dramatically from over $50,000 a kilogram in the NASA shuttle era to now under $200 a kilogram with SpaceX's Starship coming online.
+
+
+This is remarkable. This is like FedEx. If you can ship something around the world, you can ship it to space. But the precursor space station where so much of this amazing work has been taking place, that International Space Station, it's getting old, it's very cramped and worse, it's about to be shut down. It's gonna be decommissioned in 20 30, 20 31. We need new infrastructure and we need it fast. Unfortunately, current in space construction is quite slow, difficult and dangerous. All of the pieces of the International Space Station were assembled over 15 years.
+
+
+Astronauts doing incredibly courageous and risky maneuvers in bulky space suits. Basically building some of the most advanced technology known to humankind by hand. This hand-built method doesn't scale even if the cost to go to space dropped even more dramatically. Tomorrow we only have room for about 14 humans in orbit, period. The bottleneck isn't rockets anymore, it's real estate. And we need a new solution for how to build in orbit and scale up space infrastructure for the public good. Nine years ago I started working on this problem. Could we learn from nature from plants and proteins that self-assemble at a small scale and adapt us to the grandest scales in space?
+
+
+We know that when you're in free fall around a planet, you have the sensation of zero gravity. In that environment, forces like magnetism can bring together vast objects with ease. So first at MIT and now at Aurel Institute, my team and I have invented a system to do just this, to grow space structures in orbit using autonomous robotic self-assembly. The idea behind the method is to allow us to build reconfigurable space stations that are bigger than our biggest rockets. Based on my MIT PhD, we use electro permanent magnets, very special strong magnets that bring the modular tiles together to dock to rendezvous.
+
+
+Essentially think about space legos with magnets that click, click, click, click into place Tess array. What we call this space habitat is a self assembling structure. So we ship the modular parts to their destination wherever they're meant to be, and once the tiles or the modules arrive, they build themselves. So we don't require astronauts or even robotic arms to go out and do slow or risky space walks and space nus. And from there, after the tiles have come together to form one Bucky Ball, multiple Bucky balls can dock to form a larger space station. And the best part is that we have tested this in space twice.
+
+
+Michael Lopez Allegria on orbit inside the International Space Station, helping us test the code and the timing and the pacing for dynamic robotic self-assembly in orbit. From here we build and fly and test. We iteratively prototype, we simulate the physics to be able to fine tune the construction method. And last year we built a human scale mockup of our space habitat and we brought it on a road show across the country. What we hope to communicate to the public with these interiors is a life worth living in space or at least worth commuting to. Once we're in space, we can use the really unique environment of the vacuum, of microgravity to manufacture things that can't be made on earth in low earth orbit.
+
+
+We're working with partners to use the TESS Array construction technology to assemble large volume, high throughput biotech factories. It turns out that in microgravity protein crystals grow differently. Certain types of tissues grow faster or mature better, and we can even do novel drug discovery in a way that we can't do under the conditions of earth gravity. We know that certain key biological samples behave differently in space, particularly when they're floating. So whether it's exceptional quality organoids for testing Alzheimer's drugs or cancer drugs or artificial retinas that would cure macular degeneration, these therapies will be made in space, stabilized and brought back down to earth a little bit further.
+
+
+Out between earth and the sun, we're working to see if we can help startup energy companies self-assemble thousands of solar panels in orbit above the atmosphere. Now what this would allow us to do is capture raw unfiltered sunlight and beam it anywhere on earth even at night. This is like a flashlight from space and it would fundamentally solve the storage problem for solar power, allowing us to deliver abundant green energy to the surface of the earth. Thank you. Thank you. These are some of the most responsible ways that we could use space technology in service of earth.
+
+
+My team and I have been working on an idea passionately known for decades in science fiction as offroading, not offroading the humans, but offroading, the heavy industry. We could let Earth recover as a garden planet for generations to come and use space infrastructure to do that off World day. And this future is a lot closer than you may think. While space travel definitely feels rarefied and in many ways it certainly still is. I bring dozens of people with me every year into microgravity on parabolic flights. This is how NASA trains astronauts affectionately known as the Vomit comet.
+
+
+It's more fun than it sounds and this is how we are training the new space generation. We're building architecture to welcome more people to orbit, whether it's for a long weekend to see the planet from space for the first time, or maybe for a career scientist to commute for a decade to work on a major breakthrough. Rockets like Starship enable us to dream really big, to be able to get enough mass of Tess array tiles and enough people into orbit to be able to fundamentally scale up space infrastructure for the public good. We know that the business case for space is here.
+
+
+Governments are investing in space-based solar power. Companies are investing in zero G biotech. And in the next 10 years we believe that we will be able to deploy our first modularly self assembling space habitat and contribute to a trillion dollar space economy. And one of the best things we could do with this infrastructure is harness it for the profound benefit of life on earth. Because fundamentally, space exploration isn't about escaping Earth. In 1968, bill Anders took this iconic photograph now lovingly referred to as Earthrise, and he famously remarked we came all this way to explore the moon.
+
+
+And the most important thing is we discovered the Earth. Bill's comment reminds us that space exploration is about building an aspirational future for humanity. Wherever we are on earth, in orbit, around earth or beyond, access to space is cheap enough now and available enough. We need to update our conception of the possible. If we invest now in space infrastructure, if we invest now in space architecture, new paradigms for how we can build infrastructure and space, we can profoundly expand humanity's horizons while still protecting the heritage of our priceless planet.
+
+
+We don't have to pick one or the other. Someday we will live on Mars. Someday we will travel outside of the confines of our solar system. But until then, let's put space to work for Earth. Thank you. That was Ariel bla speaking at TED 2025. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today's show. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, Lucy, little Alejandra Salazar and Tanika SanMar Nivo.
+
+
+It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Bezo. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feed. Thanks for listening.
+
+
+Did you know That foreign investors are quietly funding lawsuits in American courts through a practice called third party litigation funding? Shadowy. Overseas funders are paying to sue American companies in our courts, and they don't pay a dime in US taxes if there is an award or settlement. They profit tax free from our legal system while US companies are tied up in court. And American families pay the price to the tune of $5,000 a year. But there is a solution, a new proposal before Congress would close this loophole and ensure these foreign investors pay taxes just like the actual plaintiffs have to. It's a common sense move that discourages frivolous and abusive lawsuits and redirects resources back into American jobs innovation and growth. Only President Trump and Congressional Republicans can deliver this win for America and hold these foreign investors accountable. Contact your lawmakers today and demand they take a stand to end foreign funded litigation abuse.
+
+
+What makes a great pair of glasses At Warby Parker, it's all the invisible extras without the extra cost. Their designer quality frames start at $95 including prescription lenses plus scratch resistant, SM resistant and anti-reflective coatings and UV protection and free adjustments for life. To find your next pair of glasses, sunglasses, or contact lenses, or find the Warby Parker store nearest you, head over to Warby Parker dot com. That's Warby Parker dot com.
+
+
+Ever wonder what your lashes are destined for? The cards have spoken. Maybelline New York mascara does it all. Whether you crave fully fan lashes with lash sensational, big, bold volume from the colossal, a dramatic lift with falsies, lash lift, or natural looking volume from great lash your perfect lash future awaits. Manifest your best mascara today. Shop Maybelline New York and discover your Lash Destiny. Shop now at Walmart.

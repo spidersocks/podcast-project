@@ -1,0 +1,110 @@
+
+TED Audio Collective You are listening to TED Talks Daily, where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. In all the discussions about ai, so much focus is paid to when artificial intelligence will overwhelm human strengths, like when it's super intelligent or when humans are no longer in control of it. But In his 2024 talk attorney and activists Lawrence Lessig warns us that we've already crossed a point that needs a lot more attention. The point at which AI overwhelmed human weaknesses.
+
+
+He explains that problem and what we should do about it. after the break,
+
+
+Teams with big ideas start in Jira. The only project management tool you need to plan and track work across any team. Jira even helps our team here at TED keeping us in sync to deliver the big ideas our listeners love. And there's a lot more that teams will love about Jira. It keeps cross-functional tasks organized with a project's timeline that's always really key so that we make our deadlines and cross-functional teams like TED. Working in one tool gives leaders the important visibility they need to make better business decisions. Get started on your next big idea today in Jira.
+
+
+Hi, I'm Bvo sdu, host of Ted's newest podcast, the TED AI show where I talk with the world's leading experts, artists, journalists, to help you live and thrive in a world where AI is changing everything. I'm stoked to be working with IBM, our official sponsor for this episode in a recent report published by the IBM Institute of Business Value among those surveyed, one in three companies, pause and AI use case after the pilot phase. And we've all been there, right? You get hyped about the possibilities of AI spin up a bunch of these pilot projects and then crickets. Those pilots are trapped in silos. Your resources are exhausted and scaling feels daunting. What if instead of hundreds of pilots, you had a holistic strategy that's built to scale? That's what IBM can help with. They have 65,000 consultants with generative AI expertise who can help you design, integrate, and optimize AI solutions. Learn more at IBM dot com slash consulting because using AI is cool, but scaling AI across your business, that's the next level.
+
+
+Support comes from Zuckerman Spader. Through nearly five decades of taking on high stakes legal matters, Zuckerman Spader is recognized nationally as a premier litigation and investigations firm. Their lawyers routinely represent individuals, organizations, and law firms in business disputes, government and internal investigations. And at trial, when the lawyer you choose matters most online@zuckerman.com,
+
+
+Like TED Talks, you should check out the TED Radio hour with NPR. Stay tuned. After this, Talks Odoo hear a sneak peek of this week's episode And now our TED talk of the day. So on January 6th, 2021, my nation suffered a little bit of a democracy, heart attack. Thousands of Americans had been told that the election had been stolen, and tens of thousands of them showed up because they believed the election had been stolen. And indeed, in polling, immediately after January 6th, the Washington Post found 70% of Republicans believed the election had been stolen, and the majority of college educated Republicans believed the election had been stolen.
+
+
+That was their perception, and I don't know what the right way to act on that perception is. They thought the right way was to defend what they thought was a democracy stolen. Now, these numbers were astonishing. 30% or two thirds of Republicans believing the election was stolen. But even more extraordinary are these numbers. The fact that in the three years since that astonishing event, the numbers have not changed. The same number believed today that the election was stolen as believed it was stolen three years ago, despite the fact that we've had investigations and overwhelming evidence that there was no fraud sufficient to ever change even a single state.
+
+
+This is something new. When Richard Nixon went through the Watergate scandal, as the news was being reported, Nixon's popularity collapsed, not just among Democrats, but among independents and Republicans. But we're at a stage where it doesn't matter what happens. This is Donald Trump's popularity over the course of his administration. Nothing changes. The facts don't matter. Now, I think this truth should bother us a lot. I think we need to develop a kind of paranoia about what produces this reality.
+
+
+A particular paranoia. The paranoia of the hunted. Think of the kids in the birds first realizing that those crows were attacking them, or black mirrors, metal heads. When you see these creatures chasing and surrounding you, the point is we need to recognize that there is an intelligence out there to get us because our perceptions, our collective perceptions, our collective misimpressions are not accidental. They are expected. They are intended. They are the product of the thing.
+
+
+Okay, I wanna be careful introducing the thing. I'm gonna talk a little bit about ai, but I'm not gonna slag on ai. I think AI is the most extraordinary technology humanity has ever even conceived of. But I also think it has the potential to end humanity. But I'm not gonna swag on AI because I'm pretty sure that our robot overlord is gonna be listening to these TED Talks someday. And I don't wanna be on the wrong side of the overlord. So AI is just fine. I'm not gonna talk about this AI first. I wanna instead put AI in a little bit of a perspective. 'cause I think that we're too obsessed with the new and we fail to recognize the significance of AI in the old.
+
+
+we think about intelligence and we're distinguishing between artificial and natural intelligence. And we of course, as humans claim pride of kingdom in the world of natural intelligence. And then we build artificial intelligence. It's intelligence that we make. But here's the critical point. We have all ready for a long time lived with systems of artificial intelligence. I don't mean digital ai, I mean analog ai. Any entity or institution that we build with a purpose that acts instrumentally in the world is in this sense an ai.
+
+
+It is an instrumentally, rational entity that's mapping how it should behave given the way the world evolves and responds to it. So think about democracy as an ai. It has institutions, elections, parliaments, constitutions. For the purpose of some collective ends. Our constitution says it's for the common good. So the democracy in our constitution is an ar analog artificial intelligence devoted to the common good. We're thinking about corporations as an ai. They have institutions, boards, management, finance for the purpose of making money or at least conceived of narrowly today.
+
+
+That's the way it is. Their corporation is an analog intelligence devoted to maximizing shareholder value. These are ais. They have purposes and objectives, sometimes complimenting each other. So the purpose of a school bus company compliments the purpose of a school board to produce school bus transportation in a district that's just beautiful, but sometimes they're competing. The purpose of a government in having a clean environment conflicts with the purpose of a coal company designing to produce electricity by spewing carbon and soot into the environment. And when they conflict, we tell ourselves this happy story.
+
+
+We tell ourselves the story that democracy is gonna stand up and discipline that evil corporation to get the corporation to do the right thing, to do the thing that's in the interest of all of us. That's our happy story. It's also a fantasy because at least in my country, corporations are more effective ais than democracy. Think about it a little bit like this. If we think about instrumental rationality along one axis of this graph and time across the other humans, of course, are the first instrumentally, rational entity we care about. We're better than cows, maybe not as good as ants.
+
+
+But the point is we're pretty good as individuals figuring out how to do things strategically. And then we build democracy to do that a little bit better, to act collectively for all of us. And that's a more instrumentally, rational entity than we individual humans can be. Then we created corporations. And it turns out they have become, at least in corrupted political regimes, which I'll just submit, my political regime is better than democracy in bringing about their objective ends. Now, of course, in this system, each of these layers has an aspiration to control the higher layer.
+
+
+So humans try to control democracy through elections. Democracy tries to control corporations through regulation. But the reality of control is of course, a little bit different. In the United States, corporations control democracy through the extraordinary amount of money they pour into elections, making our representatives dependent, not on us, but on them. And in democracy then controls the humans by making representation, not actually representation, corrupting representation. Now this structure, this layer of higher order intelligence or instrumental rationality might evoke for those of you who think about ai, a statement by the godfather of ai, Jeffrey Hinton Hinton warns us.
+
+
+There are a few examples of a more intelligent thing being controlled by a less intelligent thing, or we could say a more instrumentally, rational thing, being controlled by a less instrumentally, rational thing. And that is consistent with this picture of ais. And then we add digital AI into this mix. And here too, once again, we have corporations attempting to control their digital ai, but the reality of that control is not quite perfect. Facebook, in September of 2017 was revealed to have a term in their ad system called Jew Haters.
+
+
+You could buy ads targeting Jew haters. Now, nobody in Facebook created that category. There was not a human in Facebook who decided we're gonna start targeting Jew haters. It's AI created that category 'cause its AI figured Jew haters would be a profitable category for them to begin to sell ads to. And the company was of course embarrassed. And it turned out they didn't actually have control over the machine that ran their machines that run our lives. The real difference in this story though, is the extraordinary potential of this instrumentally rational entity versus us this massively better instrumentally, rational entity versus even corporations and certainly democracies, because it's gonna be more efficient at achieving its objective than we are.
+
+
+And here's where we cue the paranoia. I began to seed because our collective perceptions, our collective misconception, perceptions are not accidental. They're extend, expected, intended. The product of this ai, we could think of it as the AI perception machine. We are its targets. And now back to the episode. Now, the first contact we had with this ai, as Tristan Harris described, it came from social media.
+
+
+Tristan Harris, who started the Center for Humane Technology, co-founded it famous in this extraordinary documentary, the Social Dilemma. Before he was famous, he was just an engineer at Google. And at Google he was focused on the science of attention using AI to engineer attention, to overcome resistance, to increase human engagement with the platform. Because engagement is the business model. Compare this to think of it as brain hacking. We could compare it to what we could call body hacking. This is the exploiting of food science, scientists, engineer food to exploit our evolution, our mix of salt, fat, and sugar to overcome the natural resistance.
+
+
+So you can't stop eating food so that they can sell food or sell quote food more profitably. Brain hacking is the same but focused on attention. It's exploiting evolution. The fact that we have an irrational response to random rewards or can't stop consuming bottomless pits of content with the aim to increase engagement, to sell more ads. And it just so happens too bad for us that we engage more. The more extreme, the more polarizing, the more hate filled this content is.
+
+
+So that is what we're fed by these ais with the consequence that we produce a people more polarized and ignorant and angry than at any time in democracy's history in America, since the Civil War and democracy is thereby weakened, they give us what we want. What we want makes us into this, okay? But recognize something really critically important. This is not because AI is so strong, it's because we are so weak. Here's Tristan Harris describing this all Looking out for the moment when technology would overwhelm human strengths and intelligence, when is it gonna cross singularity, replace our jobs, be smarter than humans.
+
+
+But there's this much earlier moment when technology exceeds and overwhelms human weaknesses. This point being crossed is at the root of addiction, polarization, radicalization, outrage, ification, vanity, ification, the entire thing. This is overpowering human nature. And this is checkmate on humanity. So Tristan's point is we're always focused on this corner. When a GI comes, when it's super intelligent, when it's more intelligent than any of us, and that's what we now fear, whether we will get there in three years or 20 years, what will happen then?
+
+
+But his point is it's actually this place that we must begin to worry because at this place it can overcome our weaknesses. The social dilemma was about the individual weaknesses We have not to be able to turn away from our phones or to convince our children to turn away from their phones, but I want you to see that there's also a collective human weakness that this technology drives us to disable our capacity to act collectively in ways that any of us would want. So we are surrounded individually by these metalheads, and we are also surrounded as a people by these metalheads.
+
+
+Long before a GI is anywhere on the horizon, it overwhelms us. A i gets us to do what it seeks, which is engagement. And we get democracy hacked in return. Now, if the first contact that we had gave us that, if social media circa 2020 gave us that, what's the second contact with AI gonna produce? When AI is capable, not just in figuring out how to target you with the content it knows will elicit the most reaction and engagement from you, but can create content that it knows will react or get you to engage more directly, whether true or false, whether slanderous or not, what does that contact do?
+
+
+I so hate the writers of Game of Thrones because the last season they so completely ruined the whole series that we can't, we can't use memes from Game of Thrones anymore. But if we could, I would say winter is coming friends, well, I'm just gonna say it anyway. Winter is coming friends, and these ais are the source that we have to worry about. So then what is to be done? Well, you know, if there's a flood, what you do is you turn around and run.
+
+
+You move, you move to higher ground or protected ground. You find a way to insulate democracy or to shelter democracy from AI's force or from AI's harmful force. And you know the law does this in America with juries, we have juries, they deliberate, but they're protected in the types of information that they're allowed to hear or talk about or deliberate upon because we know we need to protect them if they're to reach a judgment that is just, and democracy, reformers, especially across Europe, are trying to do this right now. Reformers building citizen assemblies across Europe, mainly in Japan as well.
+
+
+And citizen assemblies are these random representative informed and deliberated bodies that take on particular doc, doc democratic questions and address them in a way that could be protected from this corruption of the ai. So Iceland was able to craft a constitution out of a process like this. Ireland was able to approve gay marriage and deregulation of abortion through a process like this. France has addressed climate change and also end of life decisions. And across Germany, there are many of these entities that are boiling up to find ways for a different democratic voice to find voice.
+
+
+But here's the point. These are extraordinarily hopeful and exciting, no doubt. But they are not just a good idea. They are existential for democracy. They are security for democracy. They're a way to protect us from this AI hacking that steers against a public will. This is change not just to make democracy better, a tweak to just make it a little bit more democratic. It's a change to let democracy survive, given what we know technology will become.
+
+
+This is a terrifying moment. It's an exhilarating moment. Long before super intelligence, long before a GI threatens us a different AI threatens us, but there's something to do. While we still can do something, we should know enough now to know we can't trust democracy just now. We should see that we still have time to build something different. We should act with the love that makes anything possible, not because we know we will succeed.
+
+
+I'm pretty sure we won't. But because this is what love means, you do whatever you can, whatever the odds for your children, for your family, for your country, for humanity. While there is still time, while our robot overlord is still just a sci-fi fantasy. Thank you very much.
+
+
+This episode is brought to you by Progressive Insurance. Do you ever find yourself playing the budgeting game? Well with the name your price tool From Progressive, you can find options that fit your budget and potentially lower your bills. Try it@progressive.com. Progressive casualty insurance company and affiliates. Price and coverage match limited by state law, not available in all states.
+
+
+OMGS is a website of new findings from the largest ever research study into women's pleasure and intimacy in partnership with IU and Yale researchers. When you see such an open, honest evidence-based discussion of what feels good and why it becomes so obvious, that's how it should be. The techniques are beautifully organized and presented with women of diverse agents. Sharing from experience, no blushing, no shame. Binge watch OMGs solo with your partner or discuss it with friends like a book club. See it for yourself at OMGs dot com.
+
+
+That was Lawrence Lessig speaking at TEDx Berlin in 2024. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Bazo. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feet. Thanks for listening.
+
+
+Something about the way we're working just isn't working. When you're caught up in complex A requirements or distracted by scheduling staff in multiple time zones or thinking about the complexity of working in Monterey, while based in Montreal, you're not doing the work you're meant to do. But with Dayforce, you get hr, pay time, talent, and analytics, all in one global people platform, so you can do the work you're meant to do. Visit dayforce.com/do the work to learn more
+
+
+On the TED radio hour. Clinical psychologist John and Julie Gottman are marriage experts. And after studying thousands of couples, they have found Couples who were successful, had a really different way of talking to one another when there was a disagreement or a conflict. How to be brave in our relationships. That's next time on the TED Radio Hour from NPR, subscribe and listen to the TED Radio Hour, wherever you get your podcasts.
+
+
+PR.

@@ -1,0 +1,131 @@
+
+This message comes from the UPS store. Open this holiday, come into your local store today. Most locations are independently owned. Product services, pricing and hours of operation may vary. See center for details. The UPS store Be Unstoppable.
+
+
+Heads up. This episode has a few curse words in it. This is Planet Money from NPR. There is this video that I've not been able to stop thinking about since I first saw it. It's a short video, just 39 seconds long of a bearded man with a tight haircut, a white t-shirt, and a gold chain. And he is filming himself selfie style, but he seems to be holding the phone at this weird angle as if he's trying to hide it from someone. Hello, my name is Si Gambian. I'm a head of financial prem compliance for Binance. I've been detained by the Nigerian government for a month. I don't know what's gonna happen to me after today If this is ringing a bell.
+
+
+It first made the rounds last spring Except got nothing wrong, And I asked the United States government to assist. I need your help guys. I don't know if I'll be able to get out of this without your help. Please help. Then the video just ends. It's haunting. I first heard about this guy in this video from legendary reporter, Dina Temple Rasin. Hey Dina. Hey there. Dina, you've been following this story, the story of Teare Gambian since day one. Yeah, I knew Teare. He's a former IRS investigator. He's American, And I had interviewed him for a bunch of stories, so I found out pretty quickly that he'd been detained in Nigeria And I thought they'd hold him for a couple of weeks.
+
+
+I had no idea that it was gonna become such a saga. Yeah, and that's Saga is our episode today. Hello and welcome to Planet Money. I'm Nick Fountain. And I'm Dina Temple Rasin, the host of Click here, a cyber and intelligence podcast. Re's story is about more than one man in a notorious Nigerian prison. It's about how people in places without stable economies have found refuge and cryptocurrency, how crypto can undermine state power and how that state power fights back. So today, that story from Tigre himself, we landed the first recorded interview with him since his release, and now we know all the details of his eight months in captivity and how he got out.
+
+
+Oh my gosh, you look great. I'm so worried you wouldn't look great. Hey, how you doing? You look great. Good to see you. It's good to see you too.
+
+
+This message comes from NPR sponsor, sva, founder, and CEO. Ron Russon shares the story of how he got started creating Sattva In 2007, 2008, I went out And I bought the most popular luxury mattresses. I tore them apart And I realized based on the raw materials cost and the analysis that I had done, that I was able to sell that level mattress, but with a very affordable price. Save up to $600 through President's day@saatv.com slash NPR.
+
+
+This message comes from Bluehost, making it easy to create a website fast. Their AI tools can help you customize, optimize, and launch in minutes. And with 24 7 security so you can focus on business not hackers. Get your site launched@bluehost.com.
+
+
+This message comes from Koch Unity. When you're stuck in the same routine, it can be tough to imagine New year possibilities. Sometimes a small change like refreshing your dinner routine can make a big difference in your day to day cook. Unity is an easy way to reset your meal habits. Each meal is crafted by award-winning shifts, bringing vibrancy and health to your table. Go to cook unity.com/podcast or enter code podcast before checkout for 50% off your first week.
+
+
+Let me tell you a little bit about Teare Gambian. He's this Armenian American guy, super smart, really easygoing, the type of person who has a squat rack and a gaming chair at home. And a few weeks ago I went to visit him at his house about an hour outside of Atlanta. Should we take off shoes? Sure. Are you guys hungry or No? Thank You. Some backstory. Trin made his name working for the IRS. He was a special agent there, a financial investigator, and he focused on investigating cryptocurrency and cyber cases. I integrin is a legend in this world. Before him, just about everyone in law enforcement thought crypto transactions were anonymous, totally untraceable.
+
+
+In fact, that's exactly why criminals in particular seemed to love it. They saw it as a way to commit a crime and leave no fingerprints. But TEG grin suspected that these transactions were not as anonymous as people thought. So night after night with his infant daughter on his lap, he stared at long strings of letters and numbers, trying to figure out a way to follow transactions from one place to another. And through just determination, he was able to do it. He was able to trace transactions. This completely revolutionized high tech crime fighting. He was involved in just about every crypto related bust or investigation in the 2010s Alpha Bay, Mount Gox.
+
+
+Those were him. Silk Road. Yeah, him too. When I was reporting on this and calling around law enforcement circles, people kept telling me, Teare figured out how to track all this. They even called him the Bitcoin wizard. And over the next decade he became kind of this evangelist for crypto. He believed that if done correctly, crypto could solve a lot of the problems in the financial system and maybe be more transparent than traditional banks. And so in 2021, RIN decided to leave government and take his talents to the largest cryptocurrency platform in the world. A company called Binance.
+
+
+Binance is what's called an exchange, basically a place to buy or sell crypto. And it had this kind of sketchy reputation as a place for money launderers and criminals. He was hired as the global head of intelligence and investigations, which meant working with law enforcement across the world, showing them the ways in which he tracked crypto transactions. So in many ways, his job at Binance wasn't that different than what he was doing at the IRS. I don't wanna handle business, I don't hand, I have nothing to do with any products. My whole court duties, and which is all I do, is assist law enforcement. So officially Teran was hired to help with law enforcement and compliance, but unofficially, he was sort of an ambassador for Binance and for crypto itself.
+
+
+He was there to send the message. Crypto's Wild West Days were over. That shady stuff Binance was doing was in the past. Today's Binance is law abiding and we're here to help, Which is why in February of last year, he found himself in Nigeria. He was there to meet top government and law enforcement officials. We agreed to go out there and meet with them. Be like, okay, you know what? If you need anything, just to kind of even, you know, go above and beyond and help them out. Now Nigeria as a country has a complicated relationship with crypto. By the time Tee Grin had arrived last year, their currency, the Nira had been through years of turmoil. They had un pegged. The Nira from the US dollar inflation had been high like 30% annually.
+
+
+And so people had been buying up crypto as a kind of store of value. Instead of putting savings at a bank, they would buy Bitcoin or Ethereum. In 2024, Nigeria had the second largest cryptocurrency adoption rate in the world. For the Nigerian government, the rapid adoption of crypto meant less control. As more people started using Binance to trade Nira, the central banks hold on, the value of their currency felt like it was slipping away. And so they were starting to blame Crypto for a lot of the country's economic problems. Which brings us back to Teran. Teg Green's trip to Nigeria was gonna be quick. Just a few days of back-to-back meetings, he didn't even check a bag.
+
+
+The most important meeting was at the big law enforcement intelligence agency in Nigeria, known as the National Security Agency, or NSA Gram was excited about the meeting, but when he showed up, They're like, oh, just, just come in to sit down. They'll, they'll come in in a little bit. We waited for a couple of hours. Were you Worried that you were waiting that long? It started getting a little weird. Teagan was there with a colleague named Nadiem. Alah. Nadiem was younger, he wasn't a former cop. He was more like bin's business guy for Africa. And the two of them were waiting to meet with the head of the NSA to talk through how Binance and Nigeria could work better together.
+
+
+But that meeting never happened. Instead, eventually a bunch of Nigerian officials filed into the room. None of them were really making eye contact with Trin or Nadiem. And when the meeting did start, Trin realized it was not what they signed up for. One of the guys who was actually responsible for this, he comes in kind of slaps a folder on the table, starts saying, you know, you've, you know, destroyed the Nigerian economy. The Nigerian authorities told them that Binance had tanked their currency, that they had laundered money and that they'd evaded taxes According to Tee grin. They basically said, we are not gonna let you leave until we are satisfied that Binance is on the up and up.
+
+
+Among other things. They said they wanted Binance to pay those taxes and also some fines. And they said they wanted more control over the platform, including information on Binance ass users. We want user records for every single Nigerian user. Until that's done, you can't leave. We reached out to the Nigerian authorities for this story. They declined to Comet. What we do know is that the Nigerian government has a history of being quick to find companies and seized their assets. But Binance had no assets to seize or to hold his collateral. In a sense, RIN and Nadiem became collateral. And where might the Nigerian government have gotten the idea of detaining someone from Binance and slapping them with enormous fines?
+
+
+We Do have some breaking news on a major crypto company. Binance, the CEO. Oh yeah. It was us. The US We are here today to announce that the Justice Department has secured felony guilty pleas from the world's largest cryptocurrency exchange. A few months before Tgm was detained in Nigeria, the US Justice Department announced this huge case against Binance. They'd been investigating the company for years and they announced that they had reached a plea deal with the founder and former CEOA guy named Chung Pen Jao, also known as cz. And he and the company agreed to plead guilty to a bunch of federal charges, including flouting, anti-money laundering laws and violations of the US Bank Secrecy Act.
+
+
+They were fined $4.3 billion. This is one of the largest penalties we have ever obtained from a corporate defendant in a criminal matter. The announcement rocked the crypto world and yeah, it might have planted an idea in the minds of Nigerian officials Back in Nigeria. Teare and the business guy, Nadeem told officials, we're not top finance executives. We can't pay that fine. We can't release that user data that's way above our pay grade. And Nigerian officials were like, okay, then call your bosses. 'cause until that gets cleared up, we're keeping you here. In Nigeria, Authorities took them to a safe house in the Capitol.
+
+
+Apparently the conditions there weren't all that bad. T Grin had access to a phone. You could talk to a lawyer. Nadeem convinced the guard to buy satellite TV so they could watch movies and the food, Trin says it was good. There was a cook in the that was assigned to the house. Naem was like ridiculous the whole time. It was, it was crazy. He would like make crazy requests. He kept asking for like smoothies in the morning. The the, the cook would make him like two smoothies, like an avocado smoothie and whatever Weeks passed like this, not much action. A lot of smoothies T grin took to pushups and pull-ups to stay fit and take the edge off his anxiety. But Nadine was getting more and more freaked out and Tere tried to comfort him.
+
+
+And then one day, about a month after they were detained, things took a turn, tere went to Nadine's room, It was dark, the lights were out. So I went up and knocked on his door. He didn't answer. He opened the door. I was like, Nadeem, Nadeem, are you there? No response. I just see, you know, just a mountain of like blankets, right? And like pillows. And I'm like, there's a foot stick in that from underneath the blanket. And I pull it off. It was, he stuffed the water bottle inside a sock, put it there. So, Oh my God. Yeah, Nadeem had escaped and Teagan says at this moment, he felt his heart sink. For weeks, he and Nadeem had been in this together. He thought surely Nadiem had at least left an explanation.
+
+
+But when Tere looked around for a note, he couldn't find one. And in this moment Tere realized it was gonna be just him all by himself against the government of Nigeria. When I'm like, I'm alone. And so I'm now I'm trying to figure out how do I handle this? What should I do? He knew he had what minutes before. The guards figured out that Nadiem had escaped and he knew that once that happened, all hell would break loose. At the very least, he'd probably lose access to his phone and the world. So we tiptoed out to the courtyard where no one could overhear him and he pulled out that phone and hit record.
+
+
+Hello, my name is Si Gambian. I'm the head of financial prem Compliance. Yeah, this was that haunting video that made the rounds. I'll be Able to get Outta this without your help. Please help. Two days after he sent that video, Nigerian authorities started officially charging Teare with tax vission. They also said he was complicit in helping Binance launder $35.4 million in illegal transactions. And that Binance was operating without a license. And once he was arraigned, he was not sent back to the guest house with the satellite TV and the chef this time his treatment was much worse. They treated me like Hannibal lecture when they're transporting me. It was ridiculous. Like two trucks with full of like people with a rifles of one in the front and one in the back.
+
+
+It was insane. The prison he ended up in is infamous. It's called Kja. It's where Nigeria puts ISIS militants. It's actually one of the largest prisons in Nigeria. Teri wasn't put in general population, he wasn't gonna be bunking with some ISIS guy. He got his own cell. It was just a cell with no conditioning, nothing. Cockroaches, cock, there's a mattress and ton of cockroaches just everywhere, just like infestation. By then the authorities had taken away his phone, but as he looked around him, it looked like all the prisoners had their own phones. And he said, how do I get me one of those? And the first night he was there, he gets an opportunity to buy one.
+
+
+One of the guard comes in, didn't ask, he just opens the door, sits down on the bed and says like, I'll sell you a phone for $25,000. I'm like, what? He's like, yeah you are. You are a Binance executive. You are a billionaire. You can afford this. I'm like, I'm sorry you got that wrong guy. He's like, okay, fine. $5,000. I'm like, no. I'm like, I'm not a billionaire. Yeah. It was at this moment that TG grin starts to realize that while he was locked away, the Nigerian government had been painting this picture of him as not only the cause of all of Nigeria's money problems, the inflation, the speculation, but also as a billionaire, an evil one, and a crook.
+
+
+How was Teare gonna get outta here? That is after the break.
+
+
+This message comes from the UPS store. They know being a small business owner means holiday time is often still go time. Still get those orders shipped time and still re-up on stamps and supplies time. That's why this holiday, while others close up shop, the UPS store will be open and happy to help you keep being unstoppable. Come into your local store today. Most locations are independently owned. Products, services, pricing and hours of operation may vary. See center for details. The UPS store be unstoppable.
+
+
+This message comes from Intuit TurboTax. Now taxes is matching with an expert backed by tech to get you the most money. back@turbotax.com. Experts only available with TurboTax Live. See guarantee details at turbotax.com/guarantees.
+
+
+This message comes from Capital One with the Venture X Card. Earn unlimited double miles on everything you buy. Plus get premium benefits at a collection of hotels when booking through Capital One travel. What's in your wallet terms? Apply details at Capital One dot com.
+
+
+This message comes from Greenlight, ready to start talking to your kids about financial literacy. Meet Greenlight, the debit card and money app that teaches kids and teens how to earn save, spend wisely and invest. Start your risk-free trial at Greenlight dot com slash npr.
+
+
+Eventually Tee grin did get a phone and he was able to talk with his family. He says he spent hours on video calls with his 10-year-old daughter. They'd talk while she played video games late into the night. And on those calls he says he tried to pretend things were normal, that he was just on a long business trip. But later he found out that she'd known all along, she'd Googled them Months go by. And even though TEG Green's a strong-willed person spending that long in a cdy prison cell started to wear him down. Not just mentally, but physically. I just can't believe that like I'm still here. You know, it's, I spent my, you know, 40th birthday in, in Nigerian prison for God's sake.
+
+
+And then one morning he wakes up feeling sick. It feels kind of like food poisoning. So, and then next thing I know, I'm, I'm throwing up. In May, about three months into his detention, Trin got malaria. Pretty common in Nigeria, it's treatable. Think like a bad flu, but worse. But if It is not treated, it can be debilitating, even deadly. And Tein was not getting good care. His malaria led to pneumonia. Eventually he became bedridden and that aggravated some of his back problems. He ended up unable to walk. He needed a wheelchair to get around. But according to Tein, when he was in public for court appearances, Nigerian officials wouldn't let him use the wheelchair.
+
+
+There were local journalists showing up and he said officials thought pictures of him in a wheelchair would be bad press and show that he wasn't being taken care of. Yeah, there's this incredible video from last September. RIN is in this Echoy courthouse hallway with a single crutch. He's struggling to walk and he's getting more and more frustrated because there is a guard in brown fatigues trying to get him into a courtroom. He was told not to help me. This is fucked up. Why can't I use a guard? But when Trin keeps reaching for the guard's hands, the guy will not help every few steps. D grin has to rest against the wall. This is a show, This video showing how much Teri's Health had declined, made it onto social media and it seemed to shift things in his favor.
+
+
+Yeah, but the key thing that turned the tide for Teare was when Nigerian prosecutors actually started to lay out their case against him in court filings. The only evidence that they had in my charging documents was my business card that said I was head of the Global Intelligence Investigations and my entire charging records against me. My business card is the only evidence in there. Ren was expecting the Nigerian prosecutors to at least have gone through the motions of building a case against him. But instead what they had tying TEG grin to these alleged crimes was a single sheet of paper, a photocopy of his business card. And that that was the moment it seems the TEG Green's case really changed for the US government.
+
+
+Yeah, the whole time Teare had been detained in Nigeria, I'd been calling sources at the Justice Department, the White House, and even one high level State Department officials saying, what are you doing to get this guy out? They wouldn't go into detail and they weren't authorized to speak on the record, but I got the impression that they were dragging their feet. Maybe because the US saw Nigeria as a partner maybe because at first blush, Nigeria's case against TEG seemed so much like the US' own case against Binance. But after prosecutors submitted their evidence, it became clear that Nigeria's case against TEG was nothing like the one the US had brought against cz. The founder of Binance, the US case was years in the making.
+
+
+They had reams of evidence, emails, voice messages, transactions. Nigeria had none of that. And when this came out, US officials seemed to kick it up a notch. The US strategy to get T GR out was it seems pretty simple, a full court diplomatic press for months, US officials were told to bring up Teare at the beginning of every meeting they had with Nigerian officials, with the foreign minister that Binance minister, the National Security Advisor, but also the Minister of Culture, the Minister of Sports. And this strategy went all the way to the top, all the way to then President Joe Biden.
+
+
+According to four people close to the case, Biden was scheduled to meet with Nigeria's president BU that was last September at the UN General Assembly in New York. And US officials had signaled that Biden was going to raise TEG Green's case in those meetings. And according to my sources, president BU ended up skipping the entire UN general assembly maybe to avoid the embarrassment of that meeting. Re's health meanwhile continued to deteriorate and eventually the pressure, maybe the embarrassment became too much. The Nigerian government announced they were gonna release TEG grin on humanitarian grounds. They said they were just releasing him so that he could get medical care.
+
+
+Binance set a private plane to pick up TEG grin. They flew him to Rome and then he took a commercial flight back to the us. All told he spent about eight months in detention. He's still recovering from the medical issues related to getting malaria, and he still works at Binance. By the way, we did reach out to Binance for this story and they did not respond to our questions about Trin. For now, he's no longer running the investigations team. He was away for so long. They brought in someone else to do the job temporarily. Teagan initially went to Nigeria to help the government use crypto for their law enforcement efforts, but that project is pretty much dead. Teagan says Binance doesn't cooperate with Nigerian officials anymore.
+
+
+Neither do many other crypto companies. People in Nigeria are still using crypto, but now it's back to the Wild West. Antin is kind of over helping them change that. Would you ever go back to Nigeria? I don't think my wife would. Let me go back to Nigeria if I wanted to. She's right. Or like outside the house. By the way, tere and Nadeem haven't spoken since. Nadeem escaped. We did reach out to Nadiem. He didn't get back to us. But as for what happened to him, tere suspects that he hopped the guest house wall, got an Uber to the airport and caught the first flight out. He had a second passport In November, Nadiem sent Teare an email saying he wanted to explain why he left and why he did what he did.
+
+
+Teare waited two months to respond, and when he did, he basically said, I don't have that much to say to you. You could have at least given me a heads up. I almost died in that prison When I said that. Dina is a legend. I meant it. We worked in the same office for a few years And I learned so much from her by osmosis, by watching how she reports. And I'll admit it now to you, Dina, by eavesdropping on your phone conversations. If you want to hear more stories like this one, you can check out Dina's show.
+
+
+It's called Click here. It comes from Recorded Future News. This episode of Planet Money was produced by Emma Peasley and Sean Powers. It was edited by Jess Jang. It was fact checked by Sierra Juarez and engineered by Cena Laredo. Alex Goldmark is our executive producer. Special thanks to the great Karen Duffin. I'm Dina Temple Rasin. And I'm Nick Fountain. This is NPR. Thank you for listening.
+
+
+This message comes from Capital One. Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply see Capital One dot com slash bank for details. Capital One, NA member FDIC.
+
+
+This message comes from NPR sponsor Rosetta Stone, an expert in language learning for 30 years. Right now, NPR listeners can get Rosetta Stone's lifetime membership to 25 different languages for 50% off. Learn more@rosettastone.com slash npr.
+
+
+Support For NPR and the following message, come from Bo and Branch. Change your sleep with Boll and branch's airy blankets, cloud-like duvets and breathable sheets. Feel the difference with 15% off your first order@bollandbranch.com with code NPR exclusion. Apply C site for details.

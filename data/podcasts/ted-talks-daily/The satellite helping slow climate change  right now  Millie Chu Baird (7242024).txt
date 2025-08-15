@@ -1,0 +1,59 @@
+
+TED Audio Collective. You are listening to TED Talks Daily, where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. You can't change what you can't measure. That's the idea behind the work of today's speaker, Millie Chu Baird. She's an environmental advocate working on a sweeping project to operate a satellite that tracks methane emissions. Methane is one of the biggest contributors to climate change. Getting a better sense of where it's coming from is a powerful tool to reduce it and reduce climate change in our lifetimes.
+
+
+She explains after the break.
+
+
+Support for the show comes from Capital. One banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts and no overdraft fees. Just ask the Capital One bank guy. It's pretty much all he talks about. In a good way. He'd also tell you that this podcast is his favorite podcast too. Oh really? Thanks. Capital One Bank guy. What's in your wallet terms? Apply. See Capital One dot com slash bank Capital One na member FDIC.
+
+
+Support for the show comes from Justin Wine. Whether you're a first time wine drinker or a wine aficionado, Justin has a wine for every celebration and occasion. As the pioneer of Paso Justin wines are what put Paso Robles, California on the wine making map with a rich history of accolades. Justin produces exceptional wines and is proud to be America's number one luxury cabernet. Visit justin wine.com and enter daily 20 for 20% off your order. Justin offers the perfect holiday gifts for clients, colleagues, friends, or family. Be sure to check them out@justinwine.com to receive 20% off your order for a limited time.
+
+
+Support for the show comes from LinkedIn If. you are a B2B marketer. You know how noisy the ad space can be a lot of noise. If your message isn't targeted to the right audience, it'll just disappear. But with LinkedIn ads, you can be a lot more precise. You can reach the professionals who are more likely to find your ad relevant because LinkedIn has targeting capabilities to help you reach folks by job title, industry, company, and more. You can stand out with LinkedIn ads and start converting your B2B audience into high quality leads right away. I've learned so much about the vastness of LinkedIn because it does seem like everybody is on there. So it's helping me find some leads or think of connections that I wouldn't have otherwise thought of without the technology. It's helping me stay informed and stay educated. Start converting your B2B audience into high quality leads today. We will even give you a $100 credit on your next campaign. Go to linkedin.com/ TED audio to claim your credit. That's linkedin.com/ TED. Audio terms and conditions apply LinkedIn. The place to be to be
+
+
+AI is shaking things up and it's fascinating, confusing, and sometimes scary. Our new podcast that TED AI show helps you understand what you need to know about AI and how it's changing our world. I'm your host, BVO sdu, a creative technologist and AI innovator, and I ask experts, artists, journalists, and beyond to guide us through the thrilling world of tech and how it's gonna affect the future of our health, art everyday lives and so much more. Each episode will leave you more informed and with tools to help you understand how AI will change your future. Check out the TED AI show wherever you get your podcasts.
+
+
+And now our TED talk of the day. Lots of people are really enthusiastic about space. My husband, my daughters, and a lot of my colleagues love rockets and pretty much anything that has to do with space, it's never really been my thing. However, I recently went to a rocket launch and I can honestly say that I got emotional and the emotion that I felt wasn't just thrill or awe, it was hope because my colleagues and I helped put something on that rocket that will address the single most important thing we can do to affect climate change in our lifetimes.
+
+
+We often hear about things we can do to help our grandchildren and the earth that they'll inherit, and everything we're doing to reduce carbon dioxide will certainly help in the long run. But what if we could do something that would help people's lives? Now I believe we can because we're taking on methane. Methane is a highly potent short term greenhouse gas. Let's compare this year's carbon dioxide pollution from burning fossil fuels. With this year's methane pollution, there is a lot more CO2. However, because methane is over 80 times as powerful at trapping heat in the short term, methane will cause as much warming as all that CO2 and methane is easier to control if we know where it's coming from.
+
+
+So what was on that rocket that makes me so hopeful? Methane sat, it's one of thousands of active satellites orbiting the earth, but it's my favorite, not just because we helped put it there, but because we designed it for a purpose to have a profound impact on methane. And soon for the past 20 years, my job has been to understand climate from a variety of angles to be a bridge between scientists, policymakers, and companies, ensuring that we're all working towards the same big vision. And the vision for methane set is to deliver actionable data quickly, putting it in the hands of people in the trenches pushing for change.
+
+
+Now, methane comes from several sources, it comes from cows, it comes from landfills, it comes from coal mines, and a lot of it comes from leaks from the oil and gas infrastructure. For a while, we've known what the overall concentration of methane is in the atmosphere, but we haven't been able to pinpoint sources tell how much was coming from where. In fact, companies and governments often underreport their emissions because they simply haven't had good data, but now they will. When we looked at the data we were collecting using airplanes, we realized that we would never get a comprehensive enough view.
+
+
+We simply cannot fly an airplane over every oil and gas field in the world every day. We realized that we needed to be collecting our data using a satellite, and that satellite would need spectrometers that did not yet exist. So we went to the world's most innovative instrument experts and they helped us build two spectrometers that would allow us to see methane emissions from 590 kilometers away from space. They had to develop a new manufacturing technique to create a prism that would allow us to see how even the smallest concentrations of methane interact with light.
+
+
+It's pretty amazing. And now back to the episode. To give you a sense of the power of methane said, we'll be able to zoom in and out and circle back weekly to see how emissions have changed. Methane SAT will show the total picture, not just point sources or large leaks, but also the smaller, more spread out sources that actually make up the majority of emissions. Most of the time, methane sat will show how much methane is coming from where over time.
+
+
+But after we do our analysis on it, we still have to solve a people challenge and change human behavior. So we'll put our analysis directly in the hands of those who can take action to reduce methane from oil and gas. That would be government regulators, the companies themselves and nonprofits who will be receiving our data at no cost. Fixing leaks is actually not a technical challenge. Often it's as easy as fixing a crack and a pipe. Companies know how to do this. It's just a matter of priority, and that's what I mean by a people challenge.
+
+
+Environmental Defense Fund is taking this on as the first environmental nonprofit to own and operate a satellite. We are supporting both the technology and the advocacy. Methane SAT would not exist without generous donors, some of whom are a part of this TED community. We'd like to thank you for your belief in our mission. We'd also like to thank government entities like the New Zealand Space Agency who have invested in methane set to build their space capacity, but also to better understand methane emissions from agriculture with powerful data and boots on the ground. Our goal is to reduce methane emissions from oil and gas facilities by 75% in the next six years.
+
+
+That's 75%. It's a lot. And we have Momentum. 50 companies representing 40% of global oil and gas production have already pledged cut their methane emissions by 90% by 2030. Over 150 countries have signed the Global Methane pledge to be a part of the solution. Purchasers can also influence sellers the largest importer of natural gas in the world. The European Union is already taking steps to extend its rules, to apply to imports and setting in place rules that will allow them to buy from suppliers that have the least methane emissions and methane sat will help track all of that.
+
+
+It's powerful when countries and companies have this knowledge, but it's even more powerful when we all have the knowledge because it provides the information and the incentive for people to fulfill their commitments. This kind of radical transparency changes the dynamic. It's what makes me hopeful, and I hope you share that feeling as well. With methane sat in space and the power of people on earth, let's do everything we can as quickly as we can to slow the rate of global warming in our lifetimes. Thank you,
+
+
+TED Talks. Daily is brought to you by Progressive where drivers who saved by switching save nearly $750 on average. Quote now@progressive.com. Progressive casualty insurance company and affiliates. National average 12 month savings with $744 by new customers surveyed who saved with Progressive between June, 2022 and May, 2023. Potential savings will vary.
+
+
+Hi, I'm Bvo s host of Ted's newest podcast, the TED AI Show, where I talk with the world's leading experts, artists, journalists, to help you live and thrive in a world where AI is changing everything. I'm stoked to be working with IBM, our official sponsor for this episode in a recent report published by the IBM Institute of Business Value Among those surveyed, one in three companies pause an AI use case after the pilot phase, and we've all been there, right? You get hyped about the possibilities of AI spin up a bunch of these pilot projects and then crickets. Those pilots are trapped in silos. Your resources are exhausted and scaling feels daunting. What if instead of hundreds of pilots, you had a holistic strategy that's built to scale? That's what IBM can help with. They have 65,000 consultants with generative AI expertise who can help you design, integrate, and optimize AI solutions. Learn more at ibm.com/consulting because using AI is cool, but scaling AI across your business. That's the next level.
+
+
+That was Millie Chu Baird at TED 2024. And this ambitious idea is part of the Audacious Project, Ted's initiative to inspire and fund global change. You can learn more@audaciousproject.org. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fay Bogan. Additional support from Emma Tabner. Daniella Bazo and Will Hennessy. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feed.
+
+
+Thanks for listening.

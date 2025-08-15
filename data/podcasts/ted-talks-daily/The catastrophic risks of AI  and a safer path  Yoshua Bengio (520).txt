@@ -1,0 +1,83 @@
+
+Hey, TED Talks Daily. Listeners, it's Elise. Thank you for making this show part of your daily routine. We really appreciate it and we wanna make it even better for you. So we put together a quick survey and we'd love to hear your thoughts. It's listener survey time. It only takes a few minutes, but it really helps us shape the show and get to know you, our listeners, so much better. Head to the episode description to find the link to the listener survey. We would really appreciate you doing it. Thank you so much for taking the time to help the show.
+
+
+So you just started using LinkedIn Premium, now what? Well, on your premium company page, you noticed around seven and a half times more page engagement and five times more page views. Well done. And now new clients are messaging you all because you're using LinkedIn Premium, which helps you get the business growth you want. Think big, small business, think big. Start your free trial at LinkedIn dot com slash premium small business. That's LinkedIn dot com slash premium small business.
+
+
+This episode is sponsored by SimpliSafe. I'm excited to tell you about a company revolutionizing home security. I am now using SimpliSafe and I'm so impressed by their active guard outdoor protection that uses AI powered cameras and real human agents to monitor what's happening outside my home rather than reacting after something's gone wrong. SimpliSafe steps in. If something looks off it's security that thinks ahead. It's peace of mind. That's become part of my daily rhythm. Arming my system each night knowing my home is protected. And you can try it this summer too with a 60 day money back guarantee. No contracts, no cancellation fees, just reliable protection starting at around a dollar a day. Listeners can get 50% off their new Simply Safe system with professional monitoring and their first month free@simplysafe.com slash TED Talks Daily. That's S-I-M-P-L-I safe.com/ TED Talks Daily. There's no safe like Simpl safe.
+
+
+This episode is sponsored by monday.com. Let's face it. Work today moves fast, but monday.com is here to help with their work management product, which enables you to reach your full potential. It's built for more than just marketing teams. It connects entire organizations to gain full visibility, make better decisions, and bridge the gap between strategy and execution. The platform gives you real-time insights into campaigns, content and projects, so you can see what's working, shift gears when needed and make data backed decisions without the guesswork. You'll go from being reactive to strategic plus with built-in AI capabilities. Monday Work Management helps your team work smarter, not harder. Maximize your marketing impact with the first work product you and your team will love to use. Visit us@monday.com to learn more.
+
+
+You are listening to TED Talks Daily where we bring you new ideas and conversations to spark your curiosity every day. I'm your host, Elise Hugh, when one of the leaders in the field of artificial intelligence tells you to be scared of what's ahead. Well, I listened. Computer scientist, Yoshua Bengio is at the forefront of deep learning research and AI development, and he's also a leading voice in the effort to reduce the potential risks of superhuman ai. He shares why the world should treat the risk of extinction from AI as a global priority alongside pandemics and nuclear war and stick around after the talk for a brief q and a between Yoshua and head of TED Chris Anderson.
+
+
+When my son Patrick was around three, four years old, I came regularly into his playroom and he was playing with these blocks with letters. I wanted to him to learn to read eventually. And one day he said, per and I said Per. And he said, per. And I said, per. And then he said, p pa, we. Yes. And then something wondrous happened. He picked up the blocks again and said, PA Patrick, Eureka.
+
+
+His eurekas were feeding my scientific eurekas his doors. Our doors were opening to expanded capabilities, expended agency and joy. Can you imagine a world without human joy? I really wouldn't want that. So I'm gonna tell you also about AI capabilities and AI agency so that we can avoid a future where human joy is gone. My name is Yasha Bengio. I'm a computer scientist. My research has been foundational to the development of AI as we know it.
+
+
+Today. My colleagues and I earned top prices in our field. People call me a godfather of ai. I'm not sure how I feel about that name, but I do feel a responsibility to Talks, Odoo you about the potentially catastrophic risks of ai. To really understand where we might be going, we have to look back where we started from. About 15, 20 years ago with my students, we were developing the early days of deep learning and our systems were barely able to recognize handwritten characters. But then a few years later, they were able to recognize objects in images. And a couple more years they were able to translate across all the major languages.
+
+
+In 2012, tech companies understood the amazing commercial potential of this nascent technology, and many of my colleagues moved from university to industry. I decided to stay in academia. I wanted AI to be developed for good. I worked on applications in medicine for medical diagnosis, climate to get better carbon capture. I had a dream. January, 2023. I'm with Clarence, my grandson, and he's playing with the same old toys and I'm playing with my new toy. The first version of chat GPT.
+
+
+It's very exciting because for the first time we have AI that seems to master language. Cha GPT is on everybody's lips in every home. And at some point I realize this is happening faster than I anticipated, and I'm starting to think about what it could mean for the future. We thought AI would happen in decades or centuries, but it might be just in a few years. And I somehow it could go wrong 'cause we didn't, and we still don't have ways to make sure this technology eventually doesn't turn against us.
+
+
+So two months later, I'm a leading signatory of the pause letter where we and 30,000 other people ask the AI labs to wait six months before building the next version. As you can guess, nobody paused. Then with the same people and the leading executives of the AI labs, I sign a statement and the statement goes and mitigating the risk of extinction from AI should be a global priority. I then testify in front of the US Senate about those risks. I travel the world to talk about it.
+
+
+I'm the most cited computer scientists in the world, and you'd think that people would heed my warnings. Hundreds of billions of dollars are being invested every year on developing this technology and this is growing. And these companies have a stated goal of building machines that will be smarter than us that can replace human labor. Yet we still don't know how to make sure they won't turn against us. National security agencies around the world are starting to be worried that the scientific knowledge that these systems have could be used to build dangerous weapons. For example, by terrorists.
+
+
+Recently last September, the O one system from OpenAI was evaluated and the threat of this kind of risk went from low to medium, which is just the level below what is acceptable. So I'm worried about these increasing capabilities, but what I'm most worried about today is increasing agency of ai. You have to understand that planning and agency is the main thing that separates us from current AI to human level cognition. And these ais are still weak in planning, but If you look back over the last five years, they measured the duration of tasks that the AI could complete and it's getting better exponentially fast.
+
+
+It's doubling every seven months. What are AI gonna do with that planning ability in the future? Well, bad news, recent studies in the last few months show that these most advanced AI have tendencies for deception, cheating, and maybe the worst self-preservation, preservation behavior. So I'm gonna share with you a study that is helping us understand this. In this study, the AI has read in its input that it would be replaced by a new version, and we can see in its chain of thought that it's planning to replace the new version by its own code and weights.
+
+
+After it executes the command on the computer, the human asks what happened, and the AI is now thinking how it could answer so as to make sure the human will not shut it down and it's trying to find a way to look dumb, for example. Then it produces an answer and it's a lie, a blatant lie. Okay, so this was a controlled experiment. What is it gonna be in a few years when these systems are much more powerful? There's already studies showing that they can learn to avoid showing their deceptive plans in these chain of thoughts that we can monitor when they'll be more powerful.
+
+
+They would not just copy themselves on one other computer and start that program. They would copy themselves over hundreds of or thousands of computers over the internet. But if they really wanna make sure we would never shut them down, they would have an incentive to get rid of us. So I know I'm asking you to make a giant leap into a future that looks so different from where we are now, but it might be just a few years away or a decade away to understand why we're going there. There's huge commercial pressure to build ais with greater and greater agency to replace human labor, but we are not ready.
+
+
+We still don't have the scientific answers nor the societal guardrails we're playing with fire. You'd think with all of the scientific evidence of the kind I'm showing today, we'd have regulation to mitigate those risks. But actually a sandwich has more regulation than ai. So we are on a trajectory to build machines that are smarter and smarter and one day it's very plausible that they will be smarter than us and then they will have their own agency, their own goals, which may not be aligned with ours. What happens to us then?
+
+
+Poof. We are blindly driving into a fog despite the warnings of scientists like myself that this trajectory could lead to loss of control. Beside me in the car are my children, my grandson, my loved ones who is beside you in the car, who is in your care for the future. The good news is there is still a bit of time we still have agency. We can bring light into the haze.
+
+
+I'm not a dor, I'm a doer. My team and I are working on a technical solution. We call it scientist ai. It's modeled after a selfless ideal scientist who's only trying to understand the world without agency, unlike the current AI systems that are trained to imitate us or please us, which gives rise to these untrustworthy agent behaviors. So what could we do with this? Well, one important question is we might need agentic AI in the future. So how could the scientist ai, which is not age agentic, fit the bill? Well, here's the good news. The scientist AI could be used as a guardrail against the bad actions of an untrusted AI agent.
+
+
+And it works because in order to make predictions that an action could be dangerous, you don't need to be an agent. You just need to make good trustworthy predictions. In addition, scientist AI by nature of how it's designed, could help us accelerate scientific research for the betterment of humanity. We need a lot more of these scientific projects to explore solutions to the AI safety challenges, and we need to do it quickly. Most of the discussions you hear about AI risks are focused on fear Today with you, I'm betting on love.
+
+
+Love of our children can drive us to do remarkable things. Look at me here on this stage. I'm an introvert very far from my comfort zone. I'd rather be in my lab with my collaborators working on these scientific challenges. We need your help for this project and to make sure that everyone understands these risks. We can all get engaged to steer our societies in a safe pathway in which the joys and endeavors of our children will be protected. I have a vision of advanced AI in the future as a global public good governed safely towards human flourishing for the benefit of all, join me.
+
+
+Thank you. One question In the General conversation out there, a lot of the sort of fear that people spoke of is the arrival of a GI, artificial general intelligence. What what I hear from your talk is that we're actually not necessarily worried about the right thing. The right thing to be worried about is agentic ai. Yes, AI that can act on its own, but hasn't the ship already sailed? There are. There are agents being released this year almost as we speak, Right? If you look at the curve that I showed, it would take about five years to reach human level.
+
+
+Of course, we don't really know what the future looks like, but we still have a bit of time. The other thing is we have to do our best, right? We have to try because all of this is not deterministic. If we can shift the probabilities towards a greater safety for our future, we have to try. Your key message to the people running the platforms right now is slow down on giving AI's agency. Yes. And invest massively on research to understand how we can get these AI agents to behave safely and the current ways that we are training them is not safe and all of the scientific evidence in the last few months.
+
+
+Point to that. Yeah, sure. Thank you so much. Thank you. Thank You. That was Joshua Bengio at TED 2025. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today's show. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Es Esnos, Oliver Friedman, Brian Green, Lucy, little Alejandra Salazar, and Tanika SanMar Nivo. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Rezo.
+
+
+I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feed. Thanks for listening.
+
+
+Mc. Crispy Strips are now at McDonald's tender, juicy, and its own sauce. Would you look at that? Well, you can't see it, but trust me, it looks delicious. New mc Krissy strips now at McDonald's.
+
+
+What makes a great pair of glasses at Warby Parker? It's all the invisible extras without the extra cost. Their designer quality frames start at $95, including prescription lenses plus scratch resistant, SM resistant and anti-reflective coatings and UV protection and free adjustments for life. To find your next pair of glasses, sunglasses, or contact lenses, or find the Warby Parker store nearest you, head over to Warby Parker dot com. That's Warby Parker dot com.
+
+
+Hi, Brooke Devard here, host of Naked Beauty. Every week I Talks Odoo my audience about beauty and self care. I'm someone who spends a lot of time in the bathroom. It is truly my sanctuary. So investing in a smart toilet from Kohler has been life changing. The Kohler Veil Smart Toilet has a heated seat, hands-free opening of the lid and customizable bidet functionality. It is incredible. But beyond the technology, the design is just stunning. The Veil's curved silhouette and honed black actually inspired creative director and fashion designer Laura Kim, to create a stunning black chiffon dress that debuted on the runway at New York Fashion Week. The creative partnership between Kohler and Laura Kim is changing how we think about everyday objects like a toilet. Transform your routine into something extraordinary with the Kohler Veil Smart Toilet.

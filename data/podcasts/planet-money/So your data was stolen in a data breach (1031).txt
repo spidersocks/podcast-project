@@ -1,0 +1,152 @@
+
+This message comes from NPR sponsor Ultra Software by UL Solutions. Ultra Software helps companies drive innovation, meet regulatory requirements, and get safer, sustainable products to market. Learn more@ultrus.com slash NPR.
+
+
+Hey, it's Keith Roamer Real quick before the show Today, it's election season NPR has you covered with three podcasts that we are making for you every day. Number one, the NPR Morning News podcast. up first, that one comes out, 7:00 AM Eastern every weekday. Later on in the day we have the NPR Politics podcast. Whenever there is big news going down, a few hours later, NPR Politics Podcast will be out with a show breaking it down. Finally, there is, consider this. This is the one where NPR covers one big story in depth every weekday evening. So up first in the morning, consider this in the evening and the NPR Politics podcast.
+
+
+Anytime important developments go down, it's like an round the clock election news survival kit from NPR Podcasts. Okay, thanks for listening. Here's the show. This Is Planet Money from NPR. I recently got a letter in the mail, and it's pretty likely that you got one of these too. It is the special kind of letter that sometimes gets turned into a Planet Money episode, and that is because this letter is just the tip of an iceberg and beneath the water is a profoundly deep mass of bought, sold, and stolen personal data. My data and maybe your data too.
+
+
+I took this letter to Jim Francis. Okay, so I got, where is it? I got a letter from Ticketmaster. It says here. Okay. Yeah. It says, what's the date? The date on it? July 17th, 2024. Did you get one of these? Okay, I did not get one. I'm not a Ticketmaster customer, but my clients got that letter. Jim has clients because he is a lawyer at Francis Mailman Sumali. He focuses on consumer protection and class actions, and he knows all about why Ticketmaster sent these letters. Now, it has nothing to do with my last purchase tickets to see future and Metro booming 'cause that's how I roll, but everything to do with a data security incident, Ticketmaster was hacked, and Jim, he's suing them on behalf of some disgruntled customers.
+
+
+I mean, who among us is not a disgruntled Ticketmaster customer? Oh, so many reasons to be disgruntled with Ticketmaster. Now, Ticketmaster says they are investigating what happened. It is possible some bad actors took my personal data. Ticketmaster sent me this letter as a warning. Did Ticketmaster like do this out of the kindness of their heart? Did they just feel bad that they lost my data? Why did they send this? They would tell you they did it out of the kindness of their heart and their concern for their customers. The reality is some, if not all states have a data breach notification law requiring the company to notify consumers the minute they find out that there's a breach.
+
+
+So sure, I was curious about the breach and how it happened, but I confessed to Jim. I wasn't actually worried. I mean, how bad is it that my data is out there? Like I'm a little bit like, yeah, this is not my first data breach rodeo. This happens all the time. Why should I even bother caring? Well, one of the things that varies among data breaches is the nature of the information. If somebody has all of your information, your name, your date of birth, your social security number, your address, your personal habits, things like that, that is significant and that is serious, and you do have to be vigilant probably for forever because of that. Now, if it was something forever, just forever If you Forever, if it was just your zip code, for example, right?
+
+
+Okay. But what we understand to be the case here is this is a wide variety and a wide net of PII, Amanda. They've maybe got your PII your personally identifiable information. So things like your social security number, your cell phone number, PII is kind of the jackpot of data. Yeah. Jim says, that could make me a victim of identity fraud, a target for phone scams. Someone could try to get a new credit card in my name that would be bad, and whatever was leaked in the Ticket Master breach, that is just some of the data about me that exists online. You know, one of the things that I have just learned over the years, you know, almost 25 years of doing this, is that the amount of consumer data that's collected is just, it's mind boggling.
+
+
+You know. It's your voting affiliation, your religious affiliation, your addresses, what type of clothes you buy, You, know your keystrokes, your fingerprints, your shopping habits, your everything, right? You leave a trail and a footprint wherever you go and whatever you log into Of Course. This isn't just about my trail and my footprint. Yeah, Jim says that the Ticket Master Breach was part of an even bigger hack impacting the customers of lots of companies. So this is like potentially hundreds and hundreds of millions of people. Yeah, that's huge. A lot of these data breaches are huge. This one's particularly large.
+
+
+Oh God. Amanda, it sounds like Jim is maybe starting to stress you out a little bit there. I don't know why you think that. Hello, and welcome to Planet. Money. I'm Keith Romer. Amanda, we have to keep making the show. I just need a second. You go on ahead. I'll catch up. Okay, and that's Amanda Arran. Today on the show, the Ticketmaster Data Breach, We are going to follow this all the way to find out where did my data go, how scared should I be, and what am I supposed to do about it, And how the personal and private information for all of us is being bought, sold, and stolen.
+
+
+This message comes from Apple Card. Apple Card is the perfect card for your holiday shopping. When you use Apple Card on your iPhone, you'll learn up to 3% daily cash back on every purchase, including products at Apple, like a new iPhone 16 or Apple Watch Ultra. Apply now in the wallet app on your iPhone subject to credit approval. Apple Card issued by Goldman Sachs Bank, USA, salt Lake City branch terms and more@applecard.com.
+
+
+This message comes from Grammarly. 88% of the work week is spent communicating. So it's important your team gets it right. Enter Grammarly. grammarly's AI helps teams communicate clearly the first time it goes beyond basic grammar to help teams instantly create and revise drafts in just one click, all without leaving the page they're on. Join the 70,000 teams and 30 million people who use Grammarly to move work forward. Go to Grammarly dot com slash enterprise to learn more Grammarly Enterprise Ready ai.
+
+
+Amanda, your growing paranoia is basically right. Yeah, I figured. Yeah. Our data is being compromised more and more often. The number of data breaches has been steadily ticking upwards for two decades, and 2023 was I guess a banner year for data breaches. Yay. You Know it's, it's a little too soon to say, but 2024 could set a new new record. So where did my stolen Ticketmaster data go, and what exactly was taken? The letter from Ticketmaster says, it's just my name, my basic contact info, payment card info, which is bad, which is bad, that's bad.
+
+
+But Jim, the lawyer suggested the people who stole it might have had much more than that. We sent what we knew about the breach to friend of the show, Skylar dve. He is the former director of technology at WNYC, the NPR Station here in New York. He agreed to help us try to track down your data. Amanda, find out where it went. Okay, so Skyler, you and I are setting up our computers. Maybe I should make a Zoom link. Yeah, why don't you send me that by email, I guess. Okay. Apparently, after failing to get Ransom money from Ticketmaster, a hacker group called Shiny Hunters posted the data for sale for half a million dollars on a dark website called Breach Forums.
+
+
+So Skyler and I decided to log onto Breach Forums and see if we could find the data ourselves. I don't think you're gonna want to click on any media on the site. Okay. Okay. Even if there is some, So this is not a place where we just freely click. If you've heard of places like four Chan, yeah. You know there's gonna be a lot of racial slurs and ah, horrible language. Okay. Horrible people hang out there. Obviously, we wanna be careful here and we do not advise you to do this at home. Dear listener, Skyler has created an anonymous account for us. He set up a private window that makes us hard to track.
+
+
+Skyler is a low key IT guy. He's unfazed, but he's still prepared for anything. Now, I'll admit I was expecting something different. We would download a special browser and we'd be visiting like the infamous Silk Road, which was apparently the best place online for fireworks, cocaine, porn, social security numbers. I swear I wouldn't know. No, No. Why would You know? I don't Know. This is a web forum. It is dedicated to the buying and selling of stolen data. Looks a little bit like Reddit, but the background is all black. Can we find the Ticketmaster data here? Oh, probably not anymore. I think this is a very like ephemeral chat system.
+
+
+So, we just poke around. The forum is actually somewhat gamified. Reminds me a little bit of Duolingo. Keep Your stolen data streak alive. Exactly. there is this ranking system. You can be a VIP data seller or an MVP or top level, an actual God at selling stolen data. Yesterday, Skyler says he saw posts offering more than 57,000 lines of data from BCP, the largest bank in Peru and close to 155,000 lines of data from Bonko Falabella in Chile. Today. there is some juicy US data. This appears to be somebody selling social security numbers. Can we look at that?
+
+
+Yeah, so let's take a look. So up at the top, they give a a list of the fields that they're providing. First name, last name, email, mailing address, your phone numbers, social security number, date of birth driver's license. Skyler explains that. This is the hacker's posting a summary of the date of fields they have, and then below that there's a little sampler, maybe the details they have for five or 10 different people. Now, you usually only have one social security number. You only get one date of birth, and once someone has those details about you, it's not like you can ever get them back. Yeah, these are incredibly valuable pieces of personally identifying information.
+
+
+They are really helpful if somebody wants to steal your identity, But we were not here to just look at any old data breach. We were looking for my data, specifically that ticket master data. Can you scroll out for a second? Yeah. And then as we start to poke around the message boards can, can we look for shiny hunters? Like is there a way to search This? Let's see. Shiny hunters, band, Band, their name is crossed out. We have no clue why. We figure we have reached a dead end, but we continue to search the word ticket master, and then we notice something a little odd.
+
+
+A post from a user with an avatar like shiny hunters. The avatar is from Pokemon, but it is a different username. Spider hunters, and apparently they are an MVP at selling stolen data. The post has a big Ticketmaster logo right at the top. Ticketmaster will not respond to request to buy data from us. They care not for the privacy of 680 million customers. So give you the first million users free. What do you make of this I mean? It certainly looks related, right? And the timing somewhat matches. Skylar, I think you found the ticket master data leak. It certainly looks like it could be.
+
+
+Now, my data is not part of the tiny sample that is posted here, but if someone bought my Ticketmaster data, they would presumably have a lot on me, and they could combine it with data that was compromised in some other data breach. Maybe they could get into my phone or my iCloud or my bank account. The only way we could know for sure is if we went and bought that data. But as much as we At, Planet, Money, like to get our hands dirty, learning about the economy, we did not get permission to buy stolen data on the dark web. But we have learned a lot about this market. It is brazen, it is bustling, and it is organized. Skyler does point out that we shouldn't necessarily take all of this at face value.
+
+
+Some of the people on this forum might actually work on the security side of things. The FBI has actually shut down the site multiple times. It's even possible. The entire site is a honeypot, just a way to monitor and trap hackers Still, just in case this is a real post, Amanda, you went ahead and sent a message to spider hunters to ask if they wanted to You know, discuss your data. Spider hunters, by the way, is not spelled the way you might expect. It's SP 1D three R. You don't Have to worry about that part. Oh, I just feel like it's respectful. It's more respectful. Yeah, yeah, yeah, yeah. Here we go. Okay. Fair enough. Hello, spider hunters. I'm one of the hosts of the NPR Show. Planet Money. We're a popular NPR podcast that covers business, finance and economics.
+
+
+Is this too much? Does this seem like I'm just asking for them to donate as a listener? We finished the email. I had one of those emojis with the tongue out because we're fun like that. Also, an email address they can reach us at and we hit send. I do not leave my own personal contact info though, because hey, they already have it. So while we wait to see if we get a response from spider hunters, we decide that the next thing we need to do is figure out how Amanda's data was stolen, what exactly happened. And this leads us to an equally unsettling market for our data, the legal market where our personal information is bought and sold every day.
+
+
+That's after the break.
+
+
+This message comes from Capital. One banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply. See Capital One dot com slash bank for details. Capital One na member FDIC.
+
+
+This message comes from NPR sponsor, Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Spanner and Smith Incorporated. Registered broker dealer. Registered investment advisor, member SIPC.
+
+
+This message comes from better health. It's important to take time to show gratitude towards others, but it's equally important to thank yourself. Life throws a lot of curve balls, and being grateful isn't always easy. Therapy can help remind you of all that you're worthy of and all that you do have. Let the gratitude flow with BetterHelp. Try at BetterHelp dot com slash npr today to get 10% off your first month.
+
+
+This message comes from Sun and ski sports. Soccer at six. Volleyball at seven. Parent life from Stanley Cups to bog bags. Sun and ski carries the gear. Parents' need gear up and relax. Sun and ski sports where Parenthood meets game day.
+
+
+In my letter from Ticketmaster, they say that my data was stolen from an unnamed data services provider. Turns out this is a tech company called Snowflake. Snowflake does data storage and analysis. Basically, If, you are a company that needs to keep a lot of data somewhere. Snowflake could be like your warehouse for it. That's what they are for Ticketmaster, for at least some of their user data. By the way, we did write to Ticketmaster and to Snowflake, but they didn't get back to us in time for this episode. Now, one thing that is not spelled out in Amanda's original data breach letter is how her data was stolen. But here's what we found out. Back in April, a cybersecurity company started noticing something suspicious.
+
+
+Some bad actor or bad actors was targeting Snowflake and some of the companies that use Snowflake. Companies like at and t, advanced Auto Parts, Neiman Marcus, cricket Wireless. These cybersecurity researchers figured out that hackers had stolen a bunch of Snowflake customer logins. These were the logins that like Ticketmaster or at and t would use to access their data on Snowflake. So obviously, somebody should have changed their password. People change your passwords. These accounts were also not set up with two-step authentication. You know where you, like you're logging in and Then, you get asked for your password and Then. you also get your cell phone pinged for another code.
+
+
+Two steps to confirm that it is actually you trying to access your sensitive and valuable data. People turn on two step authentication. Yeah. Ticketmaster and Snowflake did not require users to use two step authentication. So it was like there was a little window that was easy to pry open, and the bad actor went right through that window and stole the data of millions of people, Including probably my data. Did you get one of these? I did get one of these as a You did a fellow Ticketmaster user. Yes. Okay. Justin Sherman thinks his most recent Ticketmaster purchase was tickets to csa. Aside from loving contemporary r and b, Justin also founded a company called Global Cyber Strategies in DC and he's the go-to guy for all things cybersecurity, data privacy, ai.
+
+
+Justin Says that Snowflake the company at the center of the breach. Their business isn't just about storing and analyzing data. They also operate a data broker marketplace. And it's like eBay for your data. You type in health or A location, you hit enter, you add to cart, and you check out This data. Marketplace is part of a multi-billion dollar industry that makes its money off of the buying and selling of personal information. A lot of personal information. How many pieces of data about me do you think are out there? I'm glad you asked this question. So. there are single companies that sell 13 or 14,000 plus data points on one person.
+
+
+Okay? Okay. So let me, I gotta break this down for me. So one data point is my first name, one Data point is my last name, correct? One data point is my date of birth. What are the other 12,997 other data points? Let's put it this way, If, you think of every single moment of your life that can be tracked. Those are the kinds of data points that can be bought and sold. Yeah, that's how a lot of the internet gets paid for. We get to use websites for free, and those websites make money by collecting data about us and selling that data onto whoever will pay for it. And what has been happening over the last decade is some companies have collected a truly astounding amount of data. Justin says they have become these giant centralized repositories for all of our personal information.
+
+
+We all know the saying, don't put all your eggs in one basket. Yeah, My 13,000 eggs. Exactly. When companies or government agencies take thousands of those eggs on hundreds of millions of people and plop them in one place, you're building a really attractive target where if someone gets in, all of this aggregated commercial data is sitting there ready for the taking. So in many ways, the illegal market depends on the legal market, on all of these companies collecting all of our information. Now, Justin isn't just worried about hackers stealing our data. He is also really troubled by this fundamental invasion of our privacy online, how these companies buy and sell our personal information on the legal market.
+
+
+So the next thing he wants to show me is part of that legal marketplace. It's a website that sells lists of senior citizens. So what we're looking at here is a database that it says, quote gives you access to seniors who are currently being cared for by an adult child or family member. So this is people who require pretty extensive care, seniors who require care. These are people who require extensive care. There are over 20 million people in this database. It is for sale. And you'll see here that it includes ways you can contact these people, their postal information, their email, and much more.
+
+
+And this isn't like skirting around the law like this is legal. Legal. This is driving down the highway Mind and my own business legal. This site says it is a direct marketing company. Their business is selling lists of people who fit certain demographics. What's really horrible is there's a phrase suckers lists. And this refers to exactly what we're looking at on the screen. It refers to databases about people that companies have determined are gullible. This is often elderly people and often includes diminished cognitive capacity. So suffering from Alzheimer's or dementia.
+
+
+And the reason they're called suckers lists is scammers love these lists of people. It is creepy enough when I imagine a bunch of cyber criminals buying and selling my data, but it's even creepier when it is happening in the legal market. So what are the rules governing that giant basket of my 13,000 eggs. To find out, we called up a regulator, not just any regulator, but the director of the Consumer Financial Protection Bureau, Rohit Chopra of Course. The first thing I do is show him my letter from Ticketmaster. Did you get one of these? Oh, the breach notification letter. Yeah, I got that. Look, I get these things on an almost monthly basis.
+
+
+CFPB directors, they're just like us. For Director Chopra, his downfall was buying tickets for the Eagles, the the football team, not the band. Go Birds. Yay. Very authentic. Thank you. So back to the reason I reached out to Director Chopra. The rules, now there is of Course hipaa, which prevents your doctor from selling your private health information. There's also a law protecting students. Some states have their own privacy laws too. Really though Director Chopra says there is not much more than that. In the US we don't have that many laws that put restrictions on the type of data you can harvest on people.
+
+
+Except really for one, the Fair Credit Reporting Act of 1970. Before 1970, all kinds of businesses in the US kept track of all sorts of personal information. We've had a long history in our country of companies digging up dirt on all of us. Did we pay our bills on time? Who are we associating ourselves with? Are we cheating on our spouse? Companies would sell reports about us, about our character, about who's a good one and who's late on their bills. Director Chopra is talking about credit reporting and the companies that determine what today we call your credit score.
+
+
+Isn't this sort of a service like this is how commerce works. You need to know if somebody is worthy of credit, worthy of loans. Maybe it's a very reasonable thing to do. Well, I think where the concerns were was the consumer never really consented to any of this. The reports that were about them could have been totally inaccurate or just full of rumors. And I think there was a sense in the Congress that there needs to be some limits on this because it isn't just creepy. It really felt unfair. Hence the Fair Credit Reporting Act of 1970.
+
+
+It's been amended a few times since then, but basically the law requires that credit bureaus make sure the information they have is accurate. Make sure consumers can access these reports and that people can dispute anything that's not accurate. And these credit bureaus can't just sell this data to anyone that wants it. It's for potential employers or potential lenders or potential insurers, that kind of thing. That is how our data is supposed to be managed. But when we actually look at today's economy, we see a lot of other companies who are essentially doing the same exact thing, Selling our background information, digging up dirt on us for companies that want to sell things to us using targeted marketing.
+
+
+And these data brokers, they don't usually consider themselves covered by this law. They say they're not credit bureaus, even though they might be selling things like info about our salaries. So, we are developing rules that will bring some sanity into how our personal data is handled, and in many cases, on whether it should be trafficked at all. The idea is for these new rules to extend some of the protections that are in the Fair Credit Reporting Act to the other companies that have a lot of our data. The CFPB says they're publishing these proposed rules soon, But for now, without more regulation, I guess this is on me.
+
+
+My data is out there doing God only knows what, and it seems there's not much I can do about it. The most obvious thing I can do is in that original letter from Ticketmaster, they have offered me free credit monitoring. I asked Jim, the lawyer to help me decide whether or not I should take it. You will have access to one or more credit monitoring services through one of the big three credit bureaus, TransUnion, Equifax, or Experian. So basically one of those big three credit bureaus will monitor my online info. In my case, it's going to be TransUnion. Yeah. If Spider Hunters sold your data to a bunch of scammers, they might try to get a credit card in your name, steal your identity, who knows?
+
+
+And this monthly report will let you know if something like that actually happens. By the way, spider hunters never did message me back. I will probably never know where my data ended up. So maybe credit monitoring is a good option. Jim and I look at the offer together. Okay, and I have a code. Be careful. So yeah. So should I not do this or should I put in my activate now? Well, Let's see. Hang on a second. Yeah, lemme just look here to see terms and conditions. Oh, This is so great to look at terms and conditions with a lawyer. Yeah, very helpful. It says right here, If, you click on it. The terms and conditions below contain an arbitration agreement and a class you action waiver. Yeah, There you go. So you're out of the class and you can't bring a class action against TransUnion.
+
+
+So basically, if I take the free credit monitoring service, I waive my right to Sue. Then Jim says, let us take a closer look at some of the other terms and conditions. Oh, by the way, by accessing credit view dashboard, do you agree that TransUnion may use and share your information? No. Yes. So the company that you're hiring to protect you is using this as a grab bag to sell your data. Jim points to the very bottom of TransUnion's website. In small font, there are the words, Privacy, Policy, If. you click that link, you'll find pages and pages about all the ways in which they disregard your privacy. So it says, when you enroll, TransUnion is collecting the usuals, my cell number, my date of birth, my social security number, and this Privacy Policy is saying that they may also start collecting and selling more personal information.
+
+
+My ethnicity, marital status, where I work, where I am, what I've been putting into online forms, how long it took me to fill in those online forms. Oh, and everything I buy everywhere I go and everything I do online. So you clicked in as something, as a result of a data breach to use their credit monitoring service, and you've just agreed for them to share all of your data and use it basically however they want. It's really bad, Jim. It's so bad. It's so cynical. It's so bad. It's bad. It's bad. We reached out to TransUnion. A spokesman said that the arbitration waiver, the part where Amanda had to waive her right to sue them, that was posted in error.
+
+
+We checked and it has now been removed. A spokesman also said, when Amanda logged in to get her credit monitoring, that she was using a product called My True Identity, and that the information TransUnion requests when consumers enroll in my true identity is quote, essential for verifying their identities and providing the requested services. And that my true identity does not sell consumer's personal information to any third party for any reason. End quote. So TransUnion is saying that, no, they will not sell my usuals, my cell number, my date of birth, my social security number. They won't sell the information that I gave them to enroll in this program, but I definitely had to agree to their Privacy Policy, which states pretty clearly that they're going to collect other personal information and maybe sell that.
+
+
+And who knows what if that data someday gets stolen in a data breach by a hacker, which I I mean it feels like we're back at the beginning of the episode, Amanda. Yeah, we might as well just start it again. Little Mobius strip. Planet. Money. There You go. We could just play it over and over and over again. Endlessly. How does it start? It starts like this. Okay. Hold on. Wait, wait. What's this over here? Oh, it's my letter from Ticket Master. Did you get one of these? Oh Yeah. I did get one of Those. Amanda, no, you don't lie. Oh, I didn't get one. Amanda. Let me tell you what it says right here. Notice of Data Breach. Oh, that sounds bad. It is bad.
+
+
+Today's episode was produced by Sam Yellow Horse Kessler, and edited by Meg Kramer, engineered by KO Takasu Chervin with an assist from Quai Lee and fact checked by Dania Suleman. Alex Goldmark is our executive Producer. Thanks this week to Brent Braly at Piper Sandler. Joel Fishbein at Truist Securities and Troy Hunt. I'm Keith Romer. And I'm Amanda Orick. This is NPR. Thanks for listening.
+
+
+This message comes from Capella University. With Capella's Flex Path learning format, you can set your own deadlines and learn on your schedule. A different future is closer than you think with Capella University. Learn more@capella.edu.
+
+
+Support for the following message. come from LinkedIn ads. With LinkedIn ads. you can reach professionals relevant to your business, Target them by job title, industry, company, and more by launching your next campaign with a free $100 ad credit at LinkedIn dot com slash results. Terms and conditions apply.
+
+
+This message comes from NPR sponsor Mint Mobile. From the gas pump to the grocery store, inflation is everywhere. So Mint Mobile is offering premium wireless starting at just $15 a month. To get your new phone plan for just $15, go to Mint Mobile dot com slash switch.

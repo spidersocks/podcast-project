@@ -1,0 +1,68 @@
+
+Hey, TED Talks Daily. Listeners, it's Elise. Thank you for making this show part of your daily routine. We really appreciate it and we wanna make it even better for you. So we put together a quick survey and we'd love to hear your thoughts. It's listener survey time. It only takes a few minutes, but it really helps us shape the show and get to know you. Our listeners, so much better head to the episode description to find the link to the listener survey. We would really appreciate you doing it. Thank you so much for taking the time to help the show.
+
+
+This episode is sponsored by Dayforce. Something about the way we're working just isn't working. When you're caught up in complex pay requirements or distracted by scheduling staff in multiple time zones or thinking about the complexity of working in Monterey, while based in Montreal, you're not doing the work you're meant to do. But with Dayforce, you get hr, pay time, talent, and analytics, all in a single AI powered people platform so you can do the work you're meant to do. Visit dayforce.com/do the work to learn more.
+
+
+If you love to travel, Capital One has a rewards credit card that's perfect for you. With the Capital One Venture X Card, you earn unlimited double miles on everything you buy. Plus you get premium benefits at a collection of luxury hotels when you book on Capital One travel and with Venture X, you get access to over 1000 airport lounges worldwide. Open up a world of travel possibilities with a Capital One Venture X Card. What's in your wallet Terms apply Lounge access is subject to change. See Capital One dot com for details.
+
+
+This episode is sponsored by SimpliSafe. If you're thinking about upgrading your home security, I cannot recommend SimpliSafe enough. I've been using it and their new active guard. Outdoor protection is seriously next level. AI powered cameras plus real live agents keeping an eye on things outside before anything bad happens. It's not just reacting after the fact. If someone's lurking, SimpliSafe steps in, agents can Talks, Odoo them, flip on spotlights, even call the police. It's like having an extra set of eyes watching over your home. For me, it's become a nightly ritual. Setting the system before bed and knowing everything's protected. Total peace of mind. You can get 50% off your new SimpliSafe system with professional monitoring and your first month free@simplisafe.com slash TED Talks Daily. That's simply safe.com/ TED Talks Daily. There's no safe like SimpliSafe.
+
+
+You're listening to TED Talks Daily where we bring you new ideas and conversations to spark your curiosity every day. I'm your host, Elise Hugh. I've got a nine month old golden retriever puppy at home, and I cannot tell you how many times a day. I wish I could understand what he's trying to say to me. Well, understanding our dogs and conversing with dolphins and deciphering whale song Howling with Wolves. At one point, this was all the stuff of fantasy, but With the help of AI, we may actually be closer to understanding animal conversations. In this dynamic talk software engineer and wolf whisperer Jeffrey T Reed shares what he's learned about wolf communication.
+
+
+Its vast implications for how we understand and interact with the world around us and reveals some exciting discoveries that you'll just have to hear to find out up. So good morning everybody. My name is Who, But I'm about to play you a real wolf's howl, not just any old wolf. This wolf was called 9 0 7. The typical wolf in Yellowstone National Park, only lives three and a half years. 9 0 7 was 11 and had one eye when she howled like this for over 30 minutes to her Pac mates five miles away.
+
+
+Close your eyes and just listen. With the help of AI trying to decode the wolf, how and rethink, how to protect and promote the world's last wild places. This was 9 0 7. She was the matriarch of the Junction Butte pack, but I like to call her the one eyed wonder.
+
+
+And this was me 50 years ago with my family in Yellowstone. There are three reasons you pee your pants. One, you're getting old like none of us in this room, right? Two, you're too young to know better. Or three, in my case, it was my first experience watching wildlife in one of America's grandest ideas, Yellowstone National Park and Public Lands. My buddies and I grew up hiking, hunting, and fishing the absor key mountains of my Montana youth and where whiskey is for drinking. But water and wolves are sometimes for fighting. Wolves were killed off in Yellowstone in the 1920s, reintroduced in 1995 and now contribute to over a half a billion dollar annual tourism economy where I live now.
+
+
+Recently, the media has been talking a lot about the use of artificial intelligence to decode animal communication from elephants to bats and everything in between. And a few of us are doing it with one of the most iconic sounds of the wild. In order to decode Wolfish, my company works with Yellowstone scientists to build autonomous recording units or aus. These battery operated devices use AI to record only the sound and motion that matters to the scientists, saving them time and money, but they can do a lot of other things like tell me the precise location of a sound.
+
+
+For example, the wear and win of a poacher's gunshot. Last year, researchers hiked into the back country to place a all across the greater Yellowstone, including one near this wolf den site. To study wolf communication, wolves have over 20 different call types, including barks, yelps, whimper wines, moans, woa, and even teeth clacking. And they're one of a few species who collectively communicate in what's called a chorus howl. Now the pups first hear this dictionary of sounds at their birth dens. And so we departed and one month later the pack arrived and the pregnant alpha female claimed the den.
+
+
+Her nose is poking out of the den and she's taking a well-deserved pregnancy now. Now, three months later, I created this visual representation of every sound recorded at the den site for the month of July. And AI looks for patterns in this data, and the Aus don't sleep at night. So they were able to record all of these wolf howls. But a howl isn't just a howl. These are spectograms of 50 individual wolf howls. A spectogram simply visualizes sound and your eyes and AI can see patterns in them. Here's the howl from just one of those wolves, and here's all 50 wolf howls at the same time.
+
+
+Software algorithms help us find signal in that noise. And researchers have already determined that wolves can identify one another just from their hows. But we do not know yet if they have names like Teddy or Rachel, or if it's more like you picking up the phone and recognizing that person's voice on the other end. Now, a howl basically means, here I am, where are you? But we've found five functions for different types of howls, including this one, which is used in context of distress. Now, this is where it gets interesting to me. A chorus howl is when a pack or family of wolves communicate as a group, often a signal that this is their territory.
+
+
+A wolf from the pack is off camera howling, but being totally ignored by his mates until something happens. As soon as the alpha female held, the rest of the wolves looked at her and the chorus began. She was the conductor of this chorus. And as it kicks off, the wolves come together in this mosh pit of dancing bodies making different types of calls. But some of the wolves, especially females, use a particular type of howl called a woa, and we think it's to strengthen family bonds. It's a wolf's version of, I love you, but it sounds like this.
+
+
+The entire event lasts about 60 seconds, and then everybody goes about their business. Now this is what a chorus hell looks like when 11 wolves from the same pack howl at the same time. And I don't know about you, but to me it looks like an angry doctor signature, but not to the wolves. We've learned that wolves from one pack can count or estimate the number of wolves howling in a rival pack without seeing them, and they make a decision. If they're outnumbered, they typically run for the hills. If not, they often approach that rival pack. We're using technology from Google DeepMind to see if we can count wolves just from audio recordings and improve census estimates of wildlife.
+
+
+Now, wolves also bark like your dog, but unlike most dogs, wolves combine barks with other sounds into sentence like structures. And in this video, a female wolf uses a bark howl after being chased and nearly killed by a rival pack. The barks and alarm and loosely translated means stranger danger and the modulated how send backup these secretive devices are teaching us that wolves communicate a lot in close quarters. Now, we recently put a tiny a RU on the first wild wolf ever and learned that she likes to vocalize roughly half as much as a typical American speaks in a given day.
+
+
+And here's just a sampling of the sounds they make. I love those mini howls. They make a lot more of those than we ever knew. They're close range contact calls. So remember the alpha female taking a nap by her den. 25 days later, her pup stepped outside the den, raised its tiny three inch snout and howled beside mom.
+
+
+With the help of AI, we're learning more about why wolf's howl, including that your dog might be barking at that emergency vehicle because it matches the pitch of a wolf pup. Now look, I don't know if AI will ultimately decode animal communication. Wolf fish is not the same thing as English, but I do know this. There has to be animals to decode. If your body represented the total weight of all the world's land mammals today, your right forearm would be what's left of the wild ones. The rest of your body is us, our livestock, and our pets. As for carnivores, things like lions, tigers, and wolves, it's less than my pinky.
+
+
+The challenge we collectively face as real humans, not artificial ones, goes far beyond individual opinions on wild wolves. It's about the future of wildness. It's itself for hunter like me and non hunter alike. So we're gonna close with a group chorus, hell no practice. And the next time you're at a party, I want you to down a shot of whiskey and try this. Now, here's a tip. Use the vowel. Ooh, as in boot. Wait till I count to three, and I'm gonna tune up your voices with this recently rediscovered recording from 1995. These are the first wild wolf howls in Yellowstone after 70 years of silence.
+
+
+Ready? 1, 2, 3. Woo. Well done. Thank you. That was Jeffrey T Reed at TED 2025. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today's show. TED Talks Daily is part of the TED Audio Collective.
+
+
+This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, Lucy, little Alejandra Salazar, and Tanika SanMar Nivo. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Rezo. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feed. Thanks for listening.
+
+
+This episode is sponsored by Dayforce. Something about the way we're working just isn't working. When you're caught up in complex pay requirements or distracted by scheduling staff in multiple time zones, or thinking about the complexity of working in Monterey, while based in Montreal, you're not doing the work you're meant to do. But with Dayforce, you get hr, pay time, talent, and analytics, all in a single AI powered people platform so you can do the work you're meant to do. Visit dayforce.com/do the work to learn more.
+
+
+Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts and no overdraft fees. Just ask the Capital One Bank guy. It's pretty much all he talks about In a good way. He'd also tell you that this podcast is his favorite podcast too. Ah, really? Thanks. Capital One Bank Guy. What's in your wallet terms? Apply. See Capital One dot com slash bank. Capital One, NA member FDIC.
+
+
+Change starts with listening. If You have a heart, activism is just a natural step into the next part of who you are gonna be as a person. But how do you turn that feeling into meaningful action? Don't Try to fight bad legislation. Write your own legislation On all about change. We Talks Odoo inspiring people about their purpose, what gives them hope and drives them to create change. So join us. Find stories that fuel your own journey. Listen to all about change wherever you get your podcasts.

@@ -1,0 +1,65 @@
+
+TED Audio Collective You are listening to TED Talks Daily, where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. I'm not sure the last time we had a couple of surfers take the TED stage, but Cliff Capo and Ulu Fox brought so much life knowledge and love for the land and waters where they spend so much of their time that I hope they're only the start of a wave of surfer speakers to come in their 2024 talk, the scientists introduce us to a solution to data storage that is rooted in the indigenous community of Hawaii.
+
+
+Please note that this episode contains some mature language. It's coming up after the break.
+
+
+If, you love iPhone, you'll love Apple Card. It comes with the privacy and security you expect from Apple. Plus you earn up to 3% daily cash back on every purchase, which can automatically earn interest when you open a high yield savings account through Apple. Card. Apply for Apple. Card in the wallet app. Subject to credit approval. Savings is available to Apple Card owners, subject to eligibility, Apple Card and savings by Goldman Sachs Bank, USA, salt Lake City, branch member FDIC terms and more at Apple Card dot com
+
+
+Teams with big ideas start in Jira. The only project management tool you need to plan and track work across any team. Jira even helps our team here at TED keeping us in sync to deliver the big ideas our listeners love. And there's a lot more that teams will love about Jira. It keeps cross-functional tasks organized with a project's timeline that's always really key so that we make our deadlines and cross-functional teams like TED. Working in one tool gives leaders the important visibility they need to make better business decisions. Get started on your next big idea. Today in Jira,
+
+
+your business is modern. So why aren't your operations? It's time for an operations intervention. The PagerDuty Operations Cloud is the essential platform for automating and accelerating critical work across your company through automation and ai. PagerDuty helps you operate with more resilience, more security, and more savings. Are you ready to transform your operations? Get started@pagerduty.com
+
+
+and now our TED talk of the day. So people are pretty surprised and I tell 'em I know the world's first native Hawaiian genome scientists, not because of all the texts he sends me about genome editing and DNA research, but mostly because they're dominated by cat memes. Oh, brother, you know there's plenty of surfing in there too. That's true. Those take up their own folder. There's something you should know about Cliff and I, we've known each other forever and we spend way too much time staring at our phones, looking at surf videos. He's one of those screen time people. You know, FaceTime only won't answer the phone unless he's giving us face to face.
+
+
+And if he is texting me, he's asking me to send him updates on what the waves look like or how the waves were. That's true. I love FaceTime, but that's because Cliff here is unique as the only professional surfer to have a PhD in analytical chemistry, no less. He gets to spend his time exploring and surfing some of the most incredible waves on the planet. And now that we have the capacity to share that information from anywhere in the world, why wouldn't we? Probably because it's using up all my monthly data, sending him images of what the waves look like whenever I'm on a surf trip. That brings up a good point. We do share and interact with terabytes of data almost every day, some more than others through text emails.
+
+
+And now this thing, I don't know, If, you guys heard about ai. We're entering a new phase of data production consumption and probably one of the most challenging issues of our generation data storage. But we think we have a solution, and the answer is an indigenous one. We believe we can package text images and even surf videos in the genomes of living organisms and access them at a later time because as Kyodo likes to remind me, what's a genome if not a giant hard drive? Our difference is we wanna put this information into local plants, sequestering, atmospheric CO2, and also reducing the energy required in a rapidly changing climate.
+
+
+You see, the climate crisis has a new problem. Data centers are rapidly contributing to this climate crisis and data forecasters estimate that by next year there will be over 50 billion IOT devices connected to one another, generating over 80 billion terabytes of information. And to put things into context, that new iPhone in your pocket that can hold a total of around one terabyte of information. But we're not just storing information on our phones anymore, we're uploading them onto that cloud, wherever it is. And heat is a byproduct of cloud storage. It's estimated between three to seven kilowatt hours of energy are needed for every gigabyte of information transferred and stor stored.
+
+
+To put that into context, watching about two minutes of 4K video, it's the same amount of energy that's required to power your phone for one year. And if we are continually to ask to back up this information as we are encouraged to do, the heat expenditure could increase exponentially moving into the future. Now, data centers combat these thermodynamic challenges by relying on cooling mechanisms, kind of like air conditioners, but they take up around 40% of their energy demands. And because of this, their energy footprint is greater than the airline industries as a whole.
+
+
+Imagine how much energy was required by the entire US alone. Funny you should ask Clifford. The data industry requires approximately 200 terawatt hours annually. And with the combination of smart devices like phones, watches, and personal computers, it accounts for 2% of global CO2 emissions. But here's the kicker. With the introduction of GPUs and large language models and deep learning, key emissions from data centers are poised to surpass the fossil fuel industry as the number one contributor to the climate crisis in our lifetimes.
+
+
+But there's a better way. DNA after all life has been storing information in the organisms genomes for billions of years, and storing text images and videos is nothing new. Working off the research by Daniel Gibson, a monumental study in 2017 led by Seth Shipman and Joe Davis showed the world that we can put a video into the genome of a bacteria. They showed us that every image pixel can be represented by a unique RGB color code and that color code can be cipher into the genetic code. And those sequences can be inserted into the non-coding portion of an organism's genome using genome editing techniques that many of you're familiar with.
+
+
+And all we need to do to access this information at a later time is to sequence the genes that hold that information and cipher it back into the pixeled image. And we see the potential of this research and we wanna expand beyond just single cellular organisms like bacteria and move into multicellular organisms. Multicellular organisms like sugar cane. What once was a symbol of colonialism across our islands can now be viewed as a symbol for a more sustainable future. And now back to the episode. If you're not catching the colonial reference there, let us remind you with some of the history.
+
+
+In 1893, a group of American sugar cane plantation owners illegally overthrew the Hawaiian kingdom, in part to avoid tax import on sugar production leaving behind 131 years of illegal occupation and systemic oppression across our islands. And for many of us, Hawaiians sugar has left a bitter taste in our mouths, but we wanna reshape this narrative and take back agency by putting data into the very thing that nearly wiped out our people. Additionally, we see sugar as something that is beyond just a way to decolonize the data industry, but also a way to show something practical.
+
+
+Its genome is enormous and it has multiple genes within it, which theoretically is great for data storage, duplication, and integrity. Imagine storing over 200,000 terabytes of information in a single gram of DNA. And you'd think with this sort of technology we'd be out there planting acres and acres of these sugar drives like those greedy fuckers of the past. But we think we have something different. We want do it differently. We believe that sugar drives are just a small part of the solution. We're also exploring other indigenous varieties of breadfruit, coconut, and other microbiota.
+
+
+We have an ambitious dream of revitalizing indigenous land systems that double as biological data centers. And we hope everyone remembers that indigeneity is just not about being native peoples. It's about understanding the unique roles that multiple species have within our ecosystem. All of us come from unique places with a tremendous amount of native species. Collectively, all of those species help those systems to function better. All of us indigenous beings have to reckon with the fact that we all must return to the earth. And that mega land is a place where we hope our data can go resting on the banks of our town's largest living estuary.
+
+
+This two acre parcel of land is a beacon of hope for indigenous people around the world. What was destined to be another hotel condominium Mar Marina is now becoming a thriving indigenous land use center Here. There exists a tremendous amount of information that can be digitized and stored locally, just like our community's oral histories, hula and chants. Biodiversity metrics can be taken alongside environmental observations by the people who depend on this area and put into organisms that potentially hold the key to environmental resilience. Data no longer need be taken away from these places and stored in hot, dark, noisy rooms miles away.
+
+
+It can remain connected to the land like the stories of old and the indigenous peoples of today. We are talking about doing something new that we know to be very, very old. And this might not solve the global data storage crisis, but as we move into a future where there's digital species and AI influencers, we hope that some of the solutions that we so desperately seek aren't only found in a deep algorithm in some supercomputer, but they might be in a community that is standing in front of you today.
+
+
+Well, you gotta be crazy, Chris, but probably the biggest hope for me at least of this whole experiment Is to one day be able to respond to kilo's annoying texts. How were the waves? We take a hike at the mega land sequence, some DNA, and see it for yourself. Thank you, thank you, thank you.
+
+
+This episode is brought to you by Progressive Insurance, fiscally responsible financial geniuses, monetary magicians. These are the things people say about drivers who switch their car insurance to Progressive and save hundreds. Visit progressive.com to see If. you could save progressive casualty insurance company and affiliates. Potential savings will vary not available in all states or situations.
+
+
+Does your AI model really know code? Its specific syntax, its structure, its logic. IBM's granite code models do they're purpose built for code and trained on 116 different programming languages to help you generate, translate, and explain code quickly. 'cause the more your AI model knows about code, the more it can help you do. Get started now at IBM dot com slash granite IBM. Let's create.
+
+
+That was Cliff Capo and Kelo Fox speaking at TED 2024. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Rezo. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feet. Thanks for listening.

@@ -1,0 +1,80 @@
+
+Your old or broken phone can let you down when you need it most. Ah, perfect. But at Verizon trade in any old phone from our top brands and get the most for it, up to $2,000 in value for an amazing new iPhone 16 pro with Apple Intelligence and a new line on my plan and iPad and Apple Watch Series 10. That's like a three for one, and you can get it on any plan at Verizon Trade in your old phone for a brand new iPhone 16 Pro iPad and Apple Watch. The other guys won't give you that. Visit verizon.com today. Additional terms apply service plan required for Apple Watch and iPad up to $2,000 value based on iPhone, iPad, and Apple Watch.
+
+
+This is a PSA or public sock
+
+
+announcement. Experts have declared Bombas socks as the best way to warm up chili feet. These pairs are super cushy, soft, and designed for maximum coziness. Plus for every pair purchased, another pair will be donated so someone in need of essential clothing can stay warm this winter. Go to bombas.com/acast and use code acast for 20% off your first purchase. That's BOM bs.com/acast and use code acast at checkout
+
+
+Goodday America. It's Tony and Ryan from the Tony and Ryan podcast. From down under
+
+
+This episode is sponsored by Boost Mobile, the newest 5G network in the country. These Guys are no longer the prepaid wireless company. You might remember. They've invested Billions Into building their own 5G towers across America, transforming the carrier into America's fourth major network alongside the other big dogs Whohoo. Yep. They're challenging the competitors by working harder and smarter. Like this amazing new network they've literally built. They have blazing Fast five gene and plans for all the latest devices. Visit your nearest Boost mobile store or find them online@boostmobile.com.
+
+
+You're listening to TED Talks Daily where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh. Scientists are getting closer and closer to giving the powers of telepathy to humans. Thanks to Brain Computer interfaces In his 2024 talk researcher Chin Tanglin shows us an EEG headset that can turn silent thought into words with rather remarkable accuracy. Check it out. How often are you frustrated by the time you take to accurately get things in your mind into a computer?
+
+
+It is even worse for people like me whose first language is not based on latest. I live and work in Australia, but I am originally from Taiwan. I moved to Sydney at years ago and now run and university research centered there. Most of us use keyboard every day to get things in our mind into the computer. We have to learn to type. The fact that you have to learn to do some things shows how our nature it is.
+
+
+The finger driven touch screen has been around for 60 years. It's convenient, but is also slow. There are other ways to control the computers joystick or gesture, but they are not very useful in capturing the words in your mind and it is worse. They are critical to communication for human beings. The problem is about to be over because of ai.
+
+
+Today I will show you how AI can turn the speech in your mind into words on screen. Getting from the brain to the computer efficiently is a real bottleneck for any computer application. It has been my patient for 25 years. Many of you or most of you have heard of brand computer Interface. BCII have been working on BCI for the direct communication between the brand and machine si.
+
+
+Since 2004, I developed a serious EEG headset that to this, but they are not new. What is new is an interface that work in a natural way based on how our brand is working naturally. Imagine reading words when someone is thinking, translating their brain signals into words. Today you'll see this in action and with no imprint.
+
+
+We are using AI to decode the brain signals on the top of your head and identify the biomarkers of speaking. That means that you can send the words in your mind into the computer With valuable technology, it's excited I and I believe it will open up the bottleneck of how we engage with computers. We are making exciting progress in decoding EEG to testers. It's nature. We have had very promising result in decoding EEG.
+
+
+When someone is speaking aloud, the frontier we are working on now is to called EEG. When the speech is not spoken aloud, the words flow in your mind When you are listening to others or when you are talking to yourself or thinking we are well and way to make it a reality. I'm going to invite two of my team, Charles and Daniel, to show it to us again. This is the first world premier for us.
+
+
+We are getting around 50% accuracy in decoding the brain signals into words when someone is speaking silently. Here shows how you will work. We have a correction of words that we have trained our technology with. They are combined into sentences. Charles will select one sentence and Daniel will read the sentence word by word, silently and produce the brain signals that will be picked up by our sensors.
+
+
+Our technology will decode the brain signals into words. We pick up the brain signals with sensors and amplify and filter them to reduce the noise and get the right biomarkers. We, we use AI for the task. We use the learning to decode the brain signal into the intended words, and then we use the large language model to make the match of the decoding world and make up for the mistakes. In EEG decoding, all of this is going on in the ai, but for the user, the interaction is nature through source and in nature language.
+
+
+We are very excited about the advances that we are making in understanding words and sentences. Another thing that is very nature to people is looking at something that has their attention. Imagine If you could select an item just by looking at it, not by picking it of the shell or punching a cord into the fend dem machine. Two years ago in a project about hands-free control of robot, we were very excited about the low back control via v ident identification of the freakers.
+
+
+We are now beyond that. We need not any freaker. The AI is making it nature. Daniel is going to look at the photos and select an item In his mind. If it is working as issue, you will see the select item pop up on screen. We use photos for this because they are very controllable to show that this is not all, but just build into my presentation. Just will pick up one item for Daniel to select in.
+
+
+Might please just is car is a car, so when Daniel was red, the car In his mind, Tim, he is incorrect. It is unlucky that the 30% error rates came with us. With us again. Let's invite Charles Daniel to show it again.
+
+
+When Daniel select an item In his mind, his brain recognize and identifies the object and trigger his EEGs, our technology decode the triggers. We are working on our way to the technical challenges. We will work on overcoming the interference issue. That's why I asked the phone to be turned off. Different people have different neural signatures, which are important to decoding accuracy.
+
+
+One reason I brought Daniel along here is because he can give off great neural signatures. Thank you. Yeah, he, he can give off the great neuro signature. As far as our technology is concerned, they are still cable here as well. It is not yet very portable. Probably one biggest barrier to people to use using this will be, how do I turn it off?
+
+
+Any one of you will have had the times when you are happy that people you are with don't know what you are really thinking. There are serious privacy and ethic issues that we have to be deal with. I am very passionate about how important this technology can be. One exciting point is thinking the brain computer interface to the available computers. You already have computer on your head. The brand will be a nature interface. It is not only about controlling a computer, the nature BCI also provide another way for people to communicate with people.
+
+
+For example, it allows people who are not able to speak can communicate with others or such us when privacy or silences are required. If your idea of nature is a lovely forest, you could wonder how nature this could be. My answer is, is nature Language is the nature thought process that you are using. They are no unnatural imprint in your body.
+
+
+I'm challenging you to think about what you regard as nature communications, turning the speech in your mind into words. There is a stand away to finish up when talking with people. You say, just think about it. I hope you are as excited as we are for the prospect of the future, in which when you just think about some things, the worst in your mind appear on screen.
+
+
+Thank you. That was Chin TED, L at TED AI Vienna in 2024. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines and that's it for today. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, autumn Thompson, and Alejandra Salazar. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Rezo. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feet. Thanks for listening.
+
+
+Your old or broken phone can let you down when you need it most. Ah, perfect. But at Verizon trade in any old phone from our top brands and get the most for it. Up to $2,000 in value for an amazing new iPhone 16 pro with Apple intelligence and a new line on my plan and iPad and Apple Watch Series 10. That's like a three for one, and you can get it on any plan at Verizon Trade in your old phone for a brand new iPhone 16 Pro iPad and Apple Watch. The other guys won't give you that. Visit verizon.com today. Additional terms. Apply service plan required for Apple Watch and iPad. Up to $2,000 value based on iPhone, iPad, and Apple Watch Race. The rudder race, the sales raise. The sales captain. An unidentified ship is approaching Over. Roger, wait.
+
+
+Is that an enterprise sales solution? Reach sales professionals, not professional sailors.
+
+
+With LinkedIn ads, you can target the right people by industry. Job title and more. We'll even give you a $100 credit on your next campaign. Get started today at LinkedIn dot com slash results. Terms and conditions apply.
+
+
+This episode is brought to you by Progressive Insurance. Do you ever think about switching insurance companies to see If you could save some cash? Progressive makes it easy to see If you could save. When you bundle your home and auto policies, try it@progressive.com. Progressive casualty insurance company and affiliates. Potential savings will vary. Not available in all states.

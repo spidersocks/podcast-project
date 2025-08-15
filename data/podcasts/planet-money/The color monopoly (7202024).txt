@@ -1,0 +1,125 @@
+
+This message comes from NPR sponsor Ultra Software by UL Solutions. Ultra Software helps companies drive innovation, meet regulatory requirements, and get safer, sustainable products to market. Learn more@ultrus.com slash npr.
+
+
+This is Planet Money from NPR. The day that Stewart Simple decided to become an artist, he was eight years old. His mom took him to a museum in London and from across the floor of the gallery he saw this beacon of yellow. You've never seen color like that before. The painting was sunflowers by Van Gogh. It just knocked me sideways and I was literally shaking and I think it was the colors that were doing it. To me, Those colors are what inspired Stewart to become an artist. These days he makes giant installation pieces with bright yellow, smiley faces made of steel, or he does these pop art collages with lots of neon colors.
+
+
+Stewart often designs his art on the computer, which is why it was a big deal two years ago when all of his colors disappeared. One day I switched my laptop on and All the colors in the files are black All, the colors are gone. And who had taken the colors? A company called Pantone. You see, Pantone owns the color palette that a lot of people use in programs like say Adobe Photoshop or Illustrator. The way to think about Pantone is this a language. So if I say cat to you, you can picture a cat. So if I say 2 4 9 C and you can open your book and look up 2 4 9 C and I can open my book and look up 2 4 9 C.
+
+
+We are talking the same language. We're talking about exactly the same color. Pantone books and Pantone Color palettes are the industry standard for how designers pretty much anywhere talk about color. Like if we wanted to make a bunch of Planet Money Frisbees, we would tell the manufacturer we want those Frisbees to be green. Number 3, 4, 8 C. And it's Pantone that created and owns that entire system of colors. But on that day, two years ago when Stewart's designs were all turned black, Pantone had decided that if people wanted to use Pantone colors in Adobe Photoshop and Illustrator, they'd have to start paying a monthly or annual fee until then All the colors in their artwork, in their designs and their projects would be gone.
+
+
+It's a huge thing, and it's not just me like this is, this is like a global problem that is not right Now. Pantone is this giant in the industry and Stewart is just one artist, but he wasn't just gonna sit back and do nothing. Stewart decides, I've got to do something about this. This is just wrong. He's gonna mount a rescue mission. He's gonna rescue the colors. Hello and welcome to Planet Money. I'm Sam Yellow Horse Kessler. And I'm Jeff Go. Stewart was going up against the Pantone monopoly. Pantone created the standard for how people talk about color.
+
+
+A standard that for Pantone has become incredibly lucrative Today on the show. How does an industry standard become the standard? how did Pantone come to control the language of the rainbow? And how did Pantone amassed so much power that they could one day turn? All the colors black.
+
+
+This message comes from Apple Card. Apple Card is the perfect card for your holiday shopping. When you use Apple Card on your iPhone, you'll learn up to 3% daily cash back on every purchase, including products at Apple, like a new iPhone 16 or Apple Watch Ultra. Apply now in the wallet app on your iPhone subject to credit approval. Apple Card issued by Goldman Sachs Bank, USA Salt Lake City branch terms and more@applecard.com.
+
+
+This message comes from Grammarly. 88% of the work week is spent communicating. So it's important your team gets it right. Enter Grammarly. Grammarly's AI helps teams communicate clearly the first time it goes beyond basic grammar. To help teams instantly create and revise drafts in just one click, all without leaving the page. There're on. Join the 70,000 teams and 30 million people who use Grammarly to move work forward. Go to Grammarly dot com slash enterprise to learn more Grammarly Enterprise ready ai.
+
+
+This message comes from Cook Unity. Who on your holiday list would love a break from the kitchen Gift an endless variety of food from all star chefs with Cook Unity. Get vibrant meals delivered directly to their door. Crafted from local farm fresh ingredients. There's no cooking required and it's way cheaper than other delivery options. Gift mouth watering flavors this holiday, go to cook unity.com/podcast or enter code podcast before checkout for 50% off the first week.
+
+
+The modern world could not function without standards. A bunch of people or companies deciding, okay, this is what A-U-S-B-C plug looks like, or this is the shape of a light bulb socket, or this bunch of dots and dashes will be the sign in Morse code for SOS. But the thing about standards is they only work if everyone is on the same standard, which kind of becomes this chicken or egg question, right? How do you make a standard into a standard? The story of how Pantone became a standard starts with one man about 60 years ago. A nice man, but a tough man. This is Richard Herbert. He's talking about his dad. Larry, the inventor of the Pantone standard.
+
+
+He used to always use the saying, takes a tough man to make a tender chicken. So he takes a tough man to make an accurate color. Now we did reach out to Larry for this episode, but he wasn't available. Richard though worked at Pantone for decades. He eventually became the president of the company And Richard tells us that back in the 1960s, his dad Larry worked at a printing company making brochures and signs and posters and he noticed this issue. It was really hard for people to talk about color. If some client wanted a certain shade of blue for their poster or A Magazine ad they, they'd have to actually send a sample of the color You know our famous thing was to cut a piece off their tie and send it into the print and say, match this color.
+
+
+And then every time they had to match that color, it would be custom mixing. They had their own ink formula books and they could get close, but it was very random And not just ties. People would hand Larry the wildest of references like, here's a piece of of vase, can you match that color? Or maybe this leaf from my backyard. I have heard anecdotally of people bringing in a dog You know match. Match my dog You know I want this brochure to be the color of Fido. Yeah, Exactly. All this made Larry's job pretty chaotic, right? This little scrap of a tie might get faded.
+
+
+It might get lost, the Dog might get lost. Yeah. Now, some printing companies and ink manufacturers had what are called color reference books with catalogs of different colors and how to mix them. But every color book had a different set of shades and used different formulas. Larry wanted designers to be able to go to any print shop and get the exact same color. He wanted to make a set of shades that everybody could use. A universal language for color, A standard. The purpose of a standard of Course is to help different parts of an industry all work together. Think of like a shipping container. Shipping containers mostly come in a standard size and shape. And now the whole supply chain is designed around those standard sized shipping containers from the cargo ships to the cranes, to the ports, to the trucks.
+
+
+And now a lot of times standards are created by the government or by a group of companies working together. But people in companies have also famously fought over whose standards would win out. Think like VHS versus Betamax. But in the case of Pantone, Larry was just one guy. How did he get his standard to succeed? Two things. First, he made a really thoughtful standard. He researched which colors were the most commonly used, and he narrowed the list down to about 500. And for each of those colors, he developed an ink recipe for how to reproduce that color consistently. There would be a number back in those days it was called PMS for Pantone matching system, PMSA number and underneath an ink formula.
+
+
+But what's even more important than coming up with a good standard is to really go out and sell your standard. And here is where Larry had a clever strategy. He started with the ink manufacturers, but he knew that the big ones weren't gonna give him the time of day. So he targeted the smaller ones. The mom and pop ink shops, You know, I think he knew enough that let me work with the small guys that I'm used to working with that I was buying ink from anyway. And You know he knew the community. So it was a better way to start low, low hanging fruit. you know, Pretty soon Larry gets 20 of those 21 smaller ink manufacturers onboard with his Pantone color standard. And from there it just kind of snowballed.
+
+
+'cause you see standards benefit from what are called network effects. The more people in the industry who started to use Pantone's way of talking about color, the more people who wanted to use Pantone's way of talking about color. Once he got a certain amount of US ink makers on board, then he hopped on the plane and he started in Europe and met with the ink companies there and did the same thing and got them to sign on and continue I, I guess onto the Middle East and then to Asia and then back. And because Larry was one of the first people to try to standardize this industry, he was quickly able to get everybody around the world to use his system. By 1968, he'd succeeded. He turned Pantone into an industry standard.
+
+
+And this is when Larry and the Pantone color system faced its biggest test copycats. Now, if you think about other standards, like say the metric system, no one owns the metric system. A lot of standards are open like that, they're free to use. But in Pantone's case, Larry always insisted that his company Pantone owned this standard. So When he noticed another company selling copycat books, he took them to court. These knockoff Pantone books were called Perone. They didn't even try to make it look different. The lawsuit was about whether Pantone could own the standard it had created, whether it could copyright the colors and codes in the Pantone system.
+
+
+Per tone's argument, at least one of them was that nobody can copyright colors. Colors are a natural phenomenon. One company can't own. The rainbow Pantone though said what it made was more like a dictionary or A novel. You can't copyright a word, but when you organize words in a specific way, it tells a story and a unique story. The same is true with color. You can't copyright a color. But You know if you create this arrangement of colors, that creates a system that's protectable and that's copyrightable. And the judge in this lawsuit sided with Pantone. The judge said Pantone was not copywriting or trying to own the rainbow.
+
+
+They had created a system, it created a standard. And that was really just the watershed moment that just said, okay, we have a court tested copyright on this system and don't mess with us. Since that lawsuit in 1968, Pantone has basically had a monopoly on how companies talk about color, a monopoly that has proven to be very lucrative After the break. How Pantone makes money off its standard and what happens when one person person tries to go up against the Pantone monopoly.
+
+
+This message comes from Capital. One banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply. See Capital One dot com slash bank for details. Capital One na member FDIC.
+
+
+This message comes from NPR sponsor Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Spanner and Smith Incorporated. Registered broker dealer. Registered investment advisor, member SIPC.
+
+
+This message comes from BetterHelp. It's important to take time to show gratitude towards others, but it's equally important to thank yourself. Life throws a lot of curve balls, and being grateful isn't always easy. Therapy can help remind you of all that you're worthy of and all that you do have. Let the gratitude flow with BetterHelp. Try at BetterHelp dot com slash npr today to get 10% off your first month.
+
+
+This message comes from Sun and ski sports. Soccer at six. Volleyball at seven. Parent life from Stanley Cups to bog bags. Sun and ski carries the gear. Parents need gear up and relax. Sun and ski sports. Where Parenthood meets game day?
+
+
+Hey, Darien Woods here. The company Nvidia dominates the AI chip market. Its success comes from designing computer chips and a software ecosystem. Thousands of people over decades there have been building middleware to enable AI developers to use the hardware. And that is all proprietary to Nvidia. In our latest bonus episode, it's my extended conversation with David Rosenthal, the co-host of the acquired podcast. We talk about NVIDIA's, CEO Jensen Huang, and how the company went from video game graphics cards to AI juggernaut. That's for Planet Money plus listeners. And if that's you, thanks. If it's not, it could be you could get sponsor free listing and support the work of Planet Money.
+
+
+Just go to plus.npr.org. Okay, so it has been about 60 years since Larry Herbert first created the Pantone Color Standard. And let us just show you how important this has become to the day-to-Day workings of the real World. We are in an industrial part of Queen New York walking into what's called a die house. How's It going? Good. Everything is good. Alright, this is Christian Drank Walter, owner of this place that You know dies fabric for customers like Calvin Klein, Mark Jacobs, thera Wang, big, big fashion houses. And this dye house. Imagine an industrial laundromat with what looked like washing machines, agitating clothes back and forth with different colored dyes, Like a very bright neon pink In there.
+
+
+One of the machines was overflowing with maybe the pinkest pink I've ever seen in my life. It looked like a heto abysmal waterfall. My sneakers get ruined, my clothes got ruined. So you made A bold choice with with the Y Sneakers. Luckily I own a dye house so I could just dye my clothes if they get ruined. Yeah. So the reason we're here is because for people in the fashion industry like Christian Pantone has become invaluable. It lets people quickly take an idea like color. And yet on the same page, So for example, Christian told us one of his clients, Disney recently ordered a bunch of felt fabric dyed a specific salmon color maybe for like a, a piglet costume. Now Disney could say, just watch a Winnie the Pooh movie and pause it on Piglet and then match that color.
+
+
+But what if Christian happens to pause the movie when Piglet is in shadow? Or what if Christian's screen has different color settings? This is where the Pantone standard comes in. And they could just send me an email that says, we want this to match Pantone 15 dash 1 6 2 6 and I can reference my book. And we're looking at the same exact thing You know. And so these days, almost every brand you can think of talks about themselves in the language that Pantone invented. Take Target's Red Bullseye logo. That is Pantone 180 6. Netflix is red though, that's Pantone 1795 C. But Kodak Red, that is Pantone 4 85 C.
+
+
+And each of these reds refers to a specific code that you can look up in the Pantone books and color palettes. Right? You know how, like there used to be this official kilogram that sat in a vault in Paris and this was the one kilogram to rule all the kilograms. These Pantone books are like that. They are the definitive authority on what any of these colors look like. We wanted to be in the presence of one of these books to hold it in our hand. You have a book here? Yeah, we have several Christian grabs, a couple books off a messy shelf. This One I haven't used in a long time. Oh wow. These Pantone books are thick binders full of thousands of these little fabric swatches each the size of a stamp. These are physical cotton chips.
+
+
+You see like it's the truest to color and it doesn't become subjective. And this is what I referenced to the most, these Books, they're like seeing that official kilogram in person. But unlike the official kilogram, this book, this color standard, is controlled by a corporation trying to make money. And the main way they make money is by selling these books. The books that Christian uses cost $3,000 brand new. This is, this is even a different book. Bigger fancier versions like the ones that include a set of plastic chips. Those go for $9,000. They're very expensive and it is a lot to keep having to buy new ones all the time.
+
+
+See, it's not enough to just buy a set. Once Pantone says the colors will fade over time and they're always adding new colors, new codes. But Christian says, you can't run a color business without the Pantone colors And Pantone. It's expanded its business beyond just physical books and swatches. They also make digital palettes. A lot of designers use those pallets in programs like Adobe Photoshop and Illustrator. And it's those digital palettes that became the center of the drama that day. Back in 2022 when artists around the world discovered that their designs had all turned black. Like what the artist Stewart Simple experienced at the beginning of the story. One day I switched my laptop on and All the colors in the files are black All, the colors are gone.
+
+
+For years and years, Adobe had been paying Pantone for the right to use Pantone digital color palettes in its software. But that deal ended in 2022, which is when everybody's Pantone colors and their Adobe files started to go black. So Pantone went directly to users and said, if you want your colors back, you have to pay $15 a month going forward. Now, some people blamed Adobe for this, but for Stewart, this was an ugly reminder of just how much power Pantone wielded 'cause it owned this standard and it could turn it off. Whenever Stewart decides he's going to liberate Pantone's digital color palette, what do you do? Well, here's the funny thing I I go get this right.
+
+
+I, I created a color palette of my own that was extremely similar to theirs. Aha. Why did you have to word that so carefully? Just, just certain things that could probably get me in trouble. Yeah. Stewart basically just made a free copy of Pantone's Palette. He calls his version free tone. It's this file that has pantone's colors and codes and when you add it as a plug into Adobe, suddenly your colors are back. Same as before, Stewart says Free tone was immediately popular.
+
+
+It's been downloaded hundreds of thousands of times. And Stewart does know that what he's doing is legally iffy, but to him it's almost like an act of civil disobedience. Has anyone from Pantone ever reached out to you about this? No. It is really weird. I haven't heard nothing from Pantone at all. Not, not, not one thing. Stewart says he'd actually welcomed the opportunity to go to court to stand up there and ask, is it fair for Pantone to hold a monopoly on the language of color? This is the question at the heart of this story. If you look at the standards that are out there in the world, a lot are overseen by a government or A nonprofit organization.
+
+
+For instance, a nonprofit manages the standard for USB plugs. The US government created the original standard for how color TV was broadcast over the air. Has any of this ever made you think, well, maybe we should just not use Pantone anymore. Maybe we should You know, get together and come up with something with a standard for color that's open, that's free, that is You know owned by all of us and not just one company? Yeah, I mean that's a beautiful idea and it's certainly something I've entertained. But to produce something like that, you need two things. You need mass adoption. There's no good having a language if you're the only person in the world who speaks it. And also the cost and the infrastructure of implementing something like that is massive.
+
+
+I can't create a whole new color standard and get everyone in the world to use it. The whole Pantone saga, it raises a lot of questions about the economics of standards. On one side, standards are incredibly valuable. They create efficiency and consistency. When Pantone invented this common language for color, there's no longer a need to cut up ties or walk Fido to the print shop. And creating that standard took a lot of work. It required research, testing, selling it to countries around the world. All that labor is what allowed Pantone to make an entire industry out of color. But on the other hand, the way that standards work is that they are monopolies. They kind of have to be a standard is only valuable when everybody uses it.
+
+
+But things can get messy when a single company like Pantone controls that standard. When we spoke with Richard Herbert, the former president of Pantone and the son of the man who created the Pantone color system, we did ask him what he thought about this criticism that Pantone wields its monopoly power in an unfair way. The Reality is, is you don't have to use Pantone. You could use whatever system works the best. And You know, we talk about a standard, Pantone became a defacto standard 'cause it worked the best. But it's also true that when everybody else in your industry adopts a standard like Pantone, you kind of have to use that standard too.
+
+
+By the way, we did reach out to Adobe for the story. Adobe eventually made it possible for those blacked out files to show up in color again. But they're not official Pantone colors. Now, Pantone is not just the owner of this color standard. They also have all these side hustles. They work with big brands to create custom colors. Like for the Minions movie Pantone created Minion Yellow. Yeah, and actually when we began reporting this story, I actually had this dream for Planet Money to have one of those colors for Planet Money to have our own spot on the Pantone system. Maybe even right next to the minion, Right where we Belong.
+
+
+Yeah. So, we asked Pantone and after three months, there's still been no word. So the other day we asked someone else who knows a thing or two about colors. We were wondering if you might consider making us a color. I'd love to make you a color. It'd be really fun. Yeah. of Course. Oh, okay. Amazing. Oh great. Okay, awesome. Stewart isn't just the creator of that digital color palette. Free tone. He also has a whole line of paints and pigments. So we're working with Stewart to get a Planet Money color made. The question is, now what color Aren't we in? Like a solid green territory? The planet is mostly blue ocean. Is it gold? I'm thinking gold.
+
+
+Listeners, send us your ideas. There's a link to a survey in the show notes. Gray, should we pick Gray? Is Gray a good color? Kenny, I should say is colorblind. That might be relevant. Yeah. I don't know why I'm in this meeting. This episode was produced by Willa Rubin with help from James Snead. It was edited by Jess Jang and Fact checked by Sierra Juarez, engineering by Debbie Daughtry, with help from Carl Kraft. Alex Goldmark is Planet Money's executive producer. Special thanks as well to Mary Claire, Pete, Peter Hayden, Kelly James, Dan Johnston, Avery Truffleman, Laurie Pressman, Hillary Tam Moore, and Jody Rosen. I'm Sam Yolo Horse Kessler.
+
+
+And I'm Jeff Go. This is NPR. Thanks for listening.
+
+
+This message comes from NPR sponsor, Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Spanner and Smith Incorporated. Registered broker dealer. Registered investment advisor, member SIPC.
+
+
+This message comes from Capella University. With Capella's FlexPath learning format, you can set your own deadlines and learn on your schedule. A different future is closer than you think with Capella University. Learn more@capella.edu.

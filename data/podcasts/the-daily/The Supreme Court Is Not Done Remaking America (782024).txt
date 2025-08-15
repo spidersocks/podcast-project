@@ -1,0 +1,125 @@
+
+Welcome to another round of drawing board or Miro board. Today we discuss technical diagramming with Systems Architect Meyer. Let's go. First question, you've spent 10 hours slogging over a sequence diagram that should have taken five drawing board or Miro board Drawing board. And if I'm being honest, Miro would probably cut that time down by half. You know, with its AI tools and ready to go templates. Next, your diagrams become so bulky. It's more complex than the solar system, but all it takes is a few clicks and It's Miro. I've used those technical shape packs way too many times. Now. The final question, everyone's brought in, but you have to make all these tasks all the way over in Jira. But wait, it's done.
+
+
+Is it Miro Easy with its two-way Jira sink, easy to plot dependencies. Everyone always knows what's up. And She's done it For a limited time. Visit miro.com/diagram now and get a free business plan trial to unlock even more features like Advanced Shapes dependency mapping at two-way Jira sinking. Get started today at mir.com/diagram. Now, From The New York Times. I'm Michael Bavaro. This is The Daily When. the Supreme Court wrapped up its term. last week, much of the focus was on the ruling that gave Donald Trump sweeping immunity from criminal prosecution.
+
+
+But as my colleague, Adam Liptak explains, a set of rulings that generated far less attention could have just as big an impact on American government and society. It is Monday, July 8th. Adam, welcome back. I mean, it hasn't been very long, but we wanna talk to you about the rest of the Supreme Court's decisions that happened over the past few weeks. The rest, meaning the non-Trump decisions. There were a lot of other cases, many of which we covered on the show over the past year, but we haven't yet talked about where the justices landed as they issued their rulings on these cases over the past few weeks.
+
+
+So I wonder if you can walk us through some of the bigger decisions and what taken as a whole this entire term really means. So where should we start? Well, this term had so many major cases, Michael, on so many important issues touching all aspects of American politics and society that it's a little hard to know where to start, but I think one way to think about the term is to ask how much is this a six three court? You know, the six conservatives in the majority, the three liberal justices in dissent? Are we gonna get that kind of classic lineup time after time after time?
+
+
+And one way to start answering that question is to look at two areas which are kind of part of the court's greatest hits areas where they've done a lot of work in the last few terms, guns and abortion. Okay, let's start with guns. The court had two big guns cases. One of them involved a Second Amendment and broke eight to one against Second Amendment rights only. Justice Clarence Thomas, the most avid supporter of gun rights was in dissent. So let me tell you just a little bit about this case, please. There's a federal law that says people subject to domestic violence, restraining orders, it's a crime for them to have guns.
+
+
+A guy named Zaki Rahimi was subject to such a domestic violence restraining order, but he goes to court and says, this law violates my second amendment rights. The Second Amendment protects me and allows me to have a gun even if I'm in this status. And that goes to the Supreme Court. And the way the Supreme Court analyzes this question is it looks to attest that it established only a couple years ago in 2022, which said, you judge the constitutionality of gun control laws using history. You kind of go back in time and you see whether the community and the founding era disarmed people in the same way that the current law disarms people.
+
+
+And you might think that actually back in the 17 hundreds, there were no such things as domestic violence restraining orders. So you might think that the answer is this contemporary law is unconstitutional, but Chief Justice John Roberts writing for an eight Justice majority says, no, that's not quite right. We're gonna kind of roll back the specificity of the test and look at very general principles. Can you disarm dangerous people back then? And if you can do that, then you can disarm rahimi even under this law that the founding generation could not have contemplated. That's really interesting. So the court is conservative, majority especially seems to be saying that our last big decision made it too hard to regulate guns.
+
+
+We need to fix that. So we're gonna search really hard for a way to make sure that somebody with a restraining order for domestic abuse can't legally have a gun. Right? On the other hand, there was a second guns case not involving the Second Amendment, but posing an important issue. The question in the case was whether the Trump administration was allowed to enact a gun control regulation. In 2017, after the Las Vegas shooting, in which at an outdoor music festival gunman killed 58 people wounded 500 more.
+
+
+And the Trump administration prompted by this massacre, they issue a regulation that tries to outlaw bump stocks. What are bump stocks? They're devices that turn semi-automatic weapons into weapons that can fire at rates, approaching a machine gun and drawing on the authority of a 1934 law, which bans for the most part, civilian ownership of machine guns. It said bump stocks are basically the same thing, and we will by regulation outlaw them. And the question for the court was, did the 1934 law authorize that?
+
+
+And here, and this is a typical split on this kind of stuff, the majority, the conservative majority, takes a textualist approach. It bears down on the particular words of the statute. And Justice Thomas looks at the words that Congress said, A machine gun is one where a single function of the trigger causes all of these bullets to fly. And a bump stock, he said, is not precisely that. Therefore, we're gonna strike down this regulation. So how do you reconcile these two divergent gun rulings? One where the court works really hard to allow for gun restrictions in the case of domestic abusers.
+
+
+And another where they seem to have no compunction about allowing for a bump stock that I think most of us practically speaking understand as making a semi-automatic weapon automatic in the real world. I think the court draws a real distinction between two kinds of cases. One is about interpreting the Constitution, interpreting the Second Amendment. And in that area it is plowing new ground. It has issued maybe four before major Second Amendment cases. And it's trying to figure out how that works and what the limits are.
+
+
+And the Rahimi case shows you that they're still finding their way. They're trying to find the right balance in that constitutional realm where they are the last word. The bump stocks case doesn't involve the Constitution, it involves an interpretation of a statute enacted by Congress. And the majority in those kinds of cases tends to read statutes narrowly. And they would say that that's acceptable because unlike in a constitutional case, if it's about a congressional statute, Congress can go back and fix it. Congress can say whatever it likes.
+
+
+Justice Samuel Alito said in the bump stocks case, this massacre was terrible. And it's a pity Congress didn't act. But if Congress doesn't act, a regulator can't step in and do what Congress didn't do. Hmm. That's interesting because it suggests a surprising level of open-mindedness among even the court's most conservative justices, to an interpretation of the Constitution that may allow for a greater level of gun regulation than perhaps we think of them as being interested in. Yeah. When we're talking about the Constitution, they do seem more open to regulating guns than you might have thought.
+
+
+Okay. You also mentioned Adam abortion. Let's talk about those decisions from this court. So the court in 2022 is everyone knows overturned Roe v. Wade eliminated the constitutional right to abortion, but in two cases this term, they effectively enhanced the availability of abortion. Hmm. One of them involves emergency rooms. There's a federal statute that says that emergency rooms that receive federal money have to treat patients and give them stabilizing care if they arrive in the emergency room. That seems to conflict with a strict Idaho law that prohibits abortions except to save the life of the mother.
+
+
+The court agrees to hear the case, it hears arguments, and then it dismisses the case. It dismisses it as imply granted, which is judicial speak for nevermind. But it's very tentative. The court merely dismissed the case. It said it, it was too early to hear it. They're gonna look at it later. So it's a very tentative sliver of a victory for abortion rights. But nonetheless, the effect of this is to suspend the Idaho law, at least to the extent it conflicts with the federal law. And it lets emergency abortions continue. Women in Idaho have more access to emergency abortions as a consequence of this decision than if the court had gone the other way.
+
+
+And of course, the other abortion case centered on the abortion pill miry stone. Right. And that pill is used in a majority of abortions, and the availability of that pill is crucial to what remains of abortion rights in the United States. Lower courts had said that the Food and Drug Administration exceeded its authority in approving these abortion pills. And the case comes to the Supreme Court, and here again, they rule in favor of abortion rights. They maintain the availability of these pills, but they do so again in a kind of technical way.
+
+
+Hmm. That does not assure that the bills will forever remain available. What the court says merely and unanimously is that the particular plaintiffs who challenged the law, doctors and medical groups who oppose abortion, didn't have standing, hadn't suffered the sort of direct injury that gave them the right to sue and it got rid of the case on standing grounds. But that's not a permanent decision. Other people, other groups can sue, have sued. And the court didn't decide whether the FDA approval was proper or not, only that the lawsuit couldn't go forward.
+
+
+And hereto this case is a victory for abortion rights, but maybe an ephemeral one and may well return to the court, which is not given an indication of how it will turn out if they actually address the merits. Got it. So this is a court, the one you're describing in these rulings acting with some nuance and some restraint? Yeah, this picture is complicated. This is not the court that we're used to thinking about. There are a lot of crosscurrents, there are a lot of surprises. And that was true in those cases on big issues on guns and abortion.
+
+
+But in another set of cases, the court moved aggressively to the right and really took on the very power and structure of the federal government. We'll be right back
+
+
+This year, a very important public figure turns 80. He sent us his wish for his birthday. My wish is for everyone to practice wildfire safety because only you can prevent wildfires. That sounds easy enough, but you don't know who it is. Nah, of course you do. It's smokey bear. Let's all make sure Smokey's wish comes true by learning his wildfire prevention tips@smokeybear.com. Because Smokey Bear lives within us, all brought to you by the USDA Forest Service, your state forester and the Ad Council.
+
+
+Hey everyone, it's Ted Herndon, political reporter for The New York Times. I think that journalism that is accurate and fair is a bedrock of democracy, is how folks make informed decisions. It's how we learn things that other people, many times people in power are trying to hide. And when you are taking the idea of fairness seriously, that means that you have made clear to both sides of the aisle, which you intend to report, you have made sure it's accurate, and that it lives up to the standards of independence that The New, York Times believes in. It's not just people can trust what we're saying has been vetted, it's that we have gone through that process without trying to calibrate or dilute that information to appease one side or the other. if you want to support the work that we do, you can subscribe to The New York Times at NY times.com/subscribe.
+
+
+So Adam, tell us about these cases where the court was less nuanced, less perhaps judicious, and really tried to move aggressively to the right and take on the power of government. So it's been a long term goal of the conservative legal movement to weaken the power of regulators, of taking on what they call the administrative state. And this term, the court really vindicated that decades old project, primarily by overruling the foundational precedent in this area, a precedent that gave expert agencies the power to interpret federal laws and enact regulations to protect consumers, investors, all manner of people.
+
+
+And the court overruled that decision called Chevron. It was as important as the court two years ago, overruling the right to abortion. Wow. One year ago overruling affirmative action in higher education. This decision will reshape the way the federal government does its work. Right. And Adam, as I recall, because we did a whole episode about this with you, Chevron created a framework whereby if a law has any ambiguity about how it's supposed to play out, that the experts within the federal government, within the EPA or the FDA, you name the agency that we collectively defer to them and their wisdom.
+
+
+And that that becomes the basis for how these laws get interpreted and carried out. That's right. And if you think about it, Michael, Congress can't anticipate every circumstance. Congress will on purpose sometimes, and inevitably at other times, leave gaps in the law. And those gaps need to be filled by someone. And the choice that the Chevron decision made was to say, we're gonna let the expert regulator fill in those gaps. If there are ambiguities in statutes, the reasonable interpretation of the regulator will get deference from courts experts, not judges will decide this matter is what Chevron said 40 years ago.
+
+
+Right. And it's really hard to overstate the consequences of overruling Chevron. It will open countless, countless regulations to judicial challenge. It may actually kind of swamp the courts. The courts have relied very heavily on Chevron to make difficult decisions about complicated stuff, questions about the environment and food safety and drugs and securities questions that really often require quite technical expertise. So what was the court's rationale for changing that Chevron framework that's been in place for so long?
+
+
+What the Sixth Justice Majority opinion written by Chief Justice Roberts says is that Chevron was a wrong turn from the outset. That unelected bureaucrats should not be empowered to say what the law means, that that's the job of judges. So it moves from the expert agency to federal judges the determination of all sorts of important issues. And it probably has the effect of deregulating much of American society. I mean, in the old world, the regulator had a thumb on the scale. The regulator's interpretation of an ambiguous statute was the one that counted, and now the judge will have a fresh look at it.
+
+
+That doesn't mean that in every case the challenger wins, and in every case the regulator loses. But it shifts the balance and it makes challenges more likely to succeed. Okay. Where else did we see this instinct by the court to challenge the government's authority in this term? So right after the court overturns Chevron, it issues a second decision that really amplifies the power of that decision because it says that challenges can be brought not only in the usual six year statute of limitations from when a regulation is issued, but six years from when it first affects a company.
+
+
+Hmm. And bear with me because that's a big difference. If I start a company tomorrow, I have six years to sue over a regulation that affects it, even though that regulation may have been in place for 30 years. So it restarts the clock on challenges and that one, two punch, both of them decided by six three majorities go even further in reshaping the ability of the federal government to regulate. I just wanna be sure I understand something. So in the past, let's say the Clean Water Act was passed in the 1970s, under the old statute of limitations, a company could sue and say that regulation is a problem for six years.
+
+
+But you're saying a new company formed right now could go back and sue over something in a 30 or 40-year-old law and how it's being interpreted. In other words, this ruling means there really isn't a statute of limitations on challenging these regulations any longer. That's right. And it's not as though you can't form a company just for the purpose of litigation. I mean, it completely opens up the ability of industries, trade groups, you know, just to set up a trivial nothing company that will then be said to be affected by the regulation and then Sue from now until the end of time. And the liberal justices sure understood what was happening here.
+
+
+That this one two punch, as justice kanji and Jackson wrote in dissent was a catastrophe for regulators. She wrote at the end of a momentous term, this much is clear that tsunami of lawsuits against agencies that the court's holdings in this case have authorized, has the potential to devastate the functioning of the federal government. Hmm. It's a pretty searing warning. Yeah. I mean, talking about regulations and administrative law might put some people to sleep, but this is a really big deal, Michael, and as if those two cases were not a substantial enough attack on the federal government's regulatory authority, the court also issues a third six three decision undoing.
+
+
+One of the main ways that regulators file enforcement actions against people who they say have violated the law, they don't always go to court. Sometimes they go to administrative tribunals within the agency. The court says, no, that's no good. Only courts can adjudicate these matters. So it's just another instance of the court being consistently hostile to the administrative state, Adam. All three of these decisions might sound pretty dangerous if you have a lot of confidence in the federal government and in the judgments of regulators and bureaucrats to interpret things.
+
+
+But if you're one of the many Americans who doesn't have a whole lot of faith in the federal government, I have to imagine all of these rulings might seem pretty constructive. That's an excellent point. Lots of people are skeptical of, regulators are skeptical of what they would call the deep state of unelected bureaucrats of even the idea of expertise. And so for those people, this is a step in the right direction. It's taking power away from bureaucrats and handing it to what we would hope our independent fair-minded judges.
+
+
+What does seem clear, Adam, is that even though this episode was supposed to be about the rest of the Supreme Court's rulings this year, the less sexy sounding decisions than Trump and immunity and how much power and protection all future presidents have, the rulings that you're describing around the government's administrative power, they seem like they're gonna have the greatest long-term impact on how our government functions, and in a sense, what our society looks like. Well, the biggest case of the term is obviously the Trump immunity case. That's a decision for the ages. But close behind these decisions reshaping the administrative state and vindicating a long held goal of the conservative legal movement.
+
+
+Going back to the Reagan administration, that the Federalist Society, the conservative legal group, has been pushing for decades and really unraveling a conception of what the federal government does. That's been in place since the administration of Franklin Delano Roosevelt and his new deal. Hmm. So as much as we've been talking about other cases where the court was tentative, surprising, nuanced, in the biggest cases of the term, all delivered by six to three votes, all controlled by the conservative super majority, the court was not nuanced, it was straightforward, and it reshaped American government In the end, A hard ride cord is going to, no matter how much it might deviate, operate like a hard ride court.
+
+
+Yes, Michael, it's possible to look at the balance of the decisions and draw all kinds of complicated conclusions about the court. But when you look at the biggest cases, the picture you see is a conservative court moving the law to the right. Well, Adam, thank you very much. We appreciate it. Thank you, Michael. We will be right back.
+
+
+Millions of small businesses and entrepreneurs rely on eBay because eBay has invested billions in prioritizing small business growth. It's a place where passion, not location dictates success, which is why 43% of sellers live in small towns and rural areas by enabling people to transform a good idea into a good living. eBay is powering America's small business economy. Learn more@ebaysmallb.com.
+
+
+I'm Julian Barnes. I'm an intelligence reporter at The New York Times. I try to find out what the US government is keeping secret. It takes a lot of time to find people willing to talk about those secrets. It requires talking to a lot of people to make sure that we are not misled and that we give a complete story to our readers. If The New, York Times was not reporting these stories, some of them might never come to light. if you wanna support this kind of work, you can do that by subscribing to The New, York Times. Here's what else you need to Notre Day. The Times reports that four senior Democratic House members have told colleagues that President Biden must step aside as the party's nominee over fears that he is no longer capable of winning.
+
+
+They include the top Democrats on the House Judiciary Committee, the Armed Services Committee, and the Veterans Affairs Committee. Those top Democrats joined five rank and file House Democrats who have publicly called for Biden to step down. The latest of those was Representative Angie Craig of Minnesota, who represents a swing district in the state. In a statement, Craig said that after watching Biden in the first debate, I do not believe that the President can effectively campaign and win against Donald Trump Senate. Democrats remain largely quiet on the question of Biden's future. You probably heard you had a little debate last week.
+
+
+Can't say it was my best performance. In several appearances over the weekend, Biden acknowledged the growing skepticism of his candidacy. But ever since then, there's been a lot of speculation. What's Joe gonna do? But emphatically rejected the calls to step aside. Well, Let me say this clearly as I can. I'm staying in a race. Yeah, I'll beat Donald Trump. I'll beat him again. And in a surprise, electoral, upset France's Political Left was projected to win the largest number of seats in the National Assembly after the latest round of voting.
+
+
+The anti-immigrant far right had been expected to make history by winning the most seats. But a last minute scramble by left-wing parties averted that result. Today's episode was produced by Ricky Nevsky, Shannon Lin and Rob Zko. It was edited by Devon Taylor and Lisa Chow contains original music by Dan Powell and Sophia Landman and was engineered by Chris Wood. Our theme music is by Jim Rundberg and Ben Landberg of Wonderland. That's it for The. Daily, I am Michael Bavaro.
+
+
+See you tomorrow.
+
+
+Welcome to another round of drawing board or Miro board. Today we talk brainstorms with UX Designer. Brian, let's go. First question, you thought you'd see everyone's idea in the team brainstorm, but you've got a grand total of one drawing board or Miro board Drawing board in Miro. The team can add ideas now or later. And with privacy mode, we can keep them anonymous until they're good to share. Correct. Next, you need the best way to explain your idea, but all you have is a few sticky notes, drawing board or Miro board, Drawing board and Miro. I could record videos at text images, links, and digital sticky notes. Of course, write Again. Now you are looking for a past idea you thought was just genius. Only you could find, oh, there it is, drawing board or Miro, or finished and unfinished work lives in one place And he's one For a limited time. Visit miro.com/brainstorm now and get a free business plan trial to unlock even more brainstorming tools like private mode and voting. That's MIR o.com/brainstorm. Now.

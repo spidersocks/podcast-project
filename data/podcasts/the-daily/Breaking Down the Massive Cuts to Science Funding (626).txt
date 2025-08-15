@@ -1,0 +1,158 @@
+
+Support for the perfect breakfast comes from Heinz breakfast had rules. It was sweet, it was savory, it was safe. Then someone brought out the ketchup, not your usual breakfast move. And that's the point. Suddenly ash brown's found their soulmate. Eggs got bold. Turns out ketchup is for breakfast. It has to be Heinz
+
+
+From The New York Times. I'm Natalie Kiro left. This is The Daily. In the months since taking office, President Trump has made billions of dollars in cuts to scientific research. Essentially saying science has become too woke. Today, my colleague Emily Anthes on what's being targeted, what's being cut, and how much the world of science is about to change. It's Thursday, June 26th.
+
+
+Emily? Hi. Hi. Are you, you're in your closet? I am in my closet, yes. This is the best recording space I have. Well, we're really grateful that you're here. Thanks so much for having me. I'm happy to be here. So we've been watching over the past several months as the Trump administration has done this blitz of spending cuts across the federal government. But it's been really hard to parse exactly what was being axed because all of this has been really fast and furious and you and a team of reporters spent months looking into a very specific set of cuts. Take me through that work.
+
+
+Well, I'm a science reporter and so my colleagues and I always have our eyes peeled for changes in the world of science disruption in scientific research. And from the very beginnings of the Trump administration, we were hearing quite clearly and loudly that the administration was cutting research. They've been putting out essentially press releases saying, we're cutting research on transgender health. We're cutting grants to Harvard. And so some of this was happening very publicly, but my colleagues and I also spend our days talking to a lot of researchers and scientists, and we started hearing from a lot of people that my study wasn't listed on this press release that was put out by the administration.
+
+
+But I've been waiting months for my next year of funding and I can't get anyone in the federal government to explain what's happening to me. I don't have any estimate for when the money is coming. And some of these scientists began wondering if their studies had essentially been quietly canceled, had their grants been terminated, and no one had even bothered to tell them. There's a sense that maybe beyond all that's been publicly announced, there's something under the surface going on as well. Absolutely. And up and down the entire sort of Byzantine scientific funding process, we were hearing of way more disruptions than were being announced.
+
+
+So my colleagues and I wanted to try to take a closer look at this to get a sense of what was happening behind the scenes, beyond the press releases and the announcements. And we decided to focus on one particular agency, the National Institute of Health. And it sounds like kind of a niche agency. It's maybe not one that Americans think about every day around the breakfast table, but it plays a huge role in American life and in the American economy, and even in the economy globally. Worldwide. It is the largest public funder of medical research. Wow. NIH funding has led to countless breakthroughs, countless Nobel prizes.
+
+
+Many of the drugs and medications we have on the market today would not exist if not for NIH funded research. So it has been this enormous engine of innovation and of medical discovery. Okay. So how did you go about figuring out what was going on with this funding and what did you find about what was being cut? Well, it was an enormous task, and so it was a huge team effort. I worked with other reporters on the science desk. We worked closely with our colleagues on the data team who are coding wizards and are amazing at sorting through enormous public databases.
+
+
+We worked with some colleagues on the graphics team to help us visualize what we were finding. But it all started with what is a public database, because NIH is publicly funded, it keeps a database of all of its grants, all of its awards online for anyone to look at. But it can be tricky to parse to know what you're looking at. These entries are basically a long string of grant numbers, maybe a project title and an abstract, and then a bunch of dates. You know, might say this project was funded on X date and it's last payment came three months ago, and it's scheduled to continue for another three years. So it's all really rich data, but hard to make sense of, especially at scale.
+
+
+But our data team combed through it and was able to look for anomalies essentially. So they were able to pull out examples of projects that, you know, the nihs own records showed should have gotten their funding three months ago, but it was still pending or projects where the end date that was listed in this database used to say 2027. And all of a sudden it had been changed to say 2025. And we started to piece together this bigger picture of what was happening outside of the headlines. So what'd you find? What were the patterns that you were able to draw out of this?
+
+
+Well, first we found that what was happening seemed profoundly abnormal. Typically, researchers get multi-year grants that might last three to five years, and it's extremely rare for them to be canceled midstream. The sources we talked to said that might happen fewer than 20 times a year, and it's often for extenuating circumstances like a researcher getting sick or being suspected of research misconduct. But in just the first few months of this administration, we found 1400 awards that were canceled midstream, and that was 1400 as of the time we first published our findings three weeks ago, that number's now gone up to 1700 canceled awards.
+
+
+Wow. And when we started to look at them a little more closely, some patterns did emerge. A lot of these grants were focused on marginalized groups, underrepresented groups, racial and ethnic minorities in some way. And when I say in some way, that's because there were sort of two different buckets of grants that we were seeing affected. One of these buckets are grants that focus on underrepresented and marginalized groups as the subjects of research. And these are often groups that haven't historically been included in research very much or studied very well. And the way NIH funding works is that researchers don't just send in whatever ideas they want.
+
+
+The NIH puts out requests for scientific proposals asking researchers to propose research on various topics. And some of these requests are very broad. At the broadest, they might just say, send us ideas for research that relates to human health. But some of these requests for proposals are asking researchers to submit ideas for studies on specific underrepresented groups or marginalized groups on gay men or bisexual women or non-binary adolescents. And although many of these groups might be small in number, in the case of non-binary adolescents, there are a lot of different groups in the US that are understudied.
+
+
+And some of these groups are quite large. Black women famously are understudied in medicine. And there've been a lot of efforts to encourage more research into health conditions that are of particular risk black women. And this focus on specific identity groups and populations is what the Trump administration sees as problematic. They have argued that these studies don't fit with the administration's scientific agenda, and they've essentially argued that using taxpayer funding to study particular subpopulations doesn't benefit the health of all Americans.
+
+
+Got it. And how does the administration go about targeting those studies, finding the ones that they wanna act for those reasons? So we've heard from some NIH insiders that what it seems like the administration is doing is essentially searching for keywords that it's decided are problematic. Some of these program officers will say they get lists of grants that have words like non-binary or racism in the title, and they've sort of gotten the impression that someone somewhere has just hit control F and looked for some of these keywords to pick out grants that it doesn't think fits with the agenda.
+
+
+You're essentially saying that these insiders believe the administration is subjecting these studies to like a search term test. That's right. That's what they've said looks like is happening. So what are some of the actual studies that you found the Trump administration canceled that fit under this umbrella? Well, they really run the gamut, and I can give you some exact studies if I scroll through our list here. Please do. Here's one study how racism affects dementia risk in older Asian Americans. Here I'm looking at the study on reducing suicide risk for transgender and gender diverse young adults.
+
+
+Here's one that was canceled on identifying COVID-19 misinformation, including misinformation related to vaccines in black and rural communities. Hmm. Here's one more I'll give you. Studying the genetic causes of bipolar disorder in east and South Asia. Yeah, some of these are really quite specific, honestly. They are. And I talked to the researchers conducting some of these studies. I'm a fifth year doctoral student, now doctoral candidate in the Department of Clinical Psychology at the University of Nebraska Lincoln. One of them is a doctoral student named Katherine Bogan. This is my focus.
+
+
+It's how do bisexual women experience sexual violence? How do they talk about it? What are the risks? And she has been studying post-traumatic stress disorder, alcohol use, and the risk of domestic violence specifically among bisexual women. Why that group? Why specifically bisexual women? That was a question I asked her too. Well, bisexual women experience more severe and more frequent sexual violence than either heterosexual or lesbian women. There are elevated Risk. She told me that bisexual women are actually at increased risk of intimate partner violence. And so one, this is a group that she thought there really needed to be more research and focus on, but two, she thought that studying bisexual women would be instructive.
+
+
+And that by understanding more about their experiences, she might learn things that could help all women. Like anytime you focus on the most marginalized people in a society and say, you know what? We wanna see how to make these folks lives better. Society in general improves when universities. So I see where she's coming from. But just to play devil's advocate for a moment here, it does seem like she is looking at a niche group here. And from the Trump administration's perspective, they're asking, wait, why would American taxpayer dollars go to fund work that involves such a small group of people?
+
+
+Yeah. And as devastated as she was to hear that her study was cut in some ways she wasn't totally surprised. My grant had bisexual women in the title, and I know two of the words on these band words list for federal funding were bisexual and women. So I certainly had concerns that it would be caught and flagged. She saw this coming to a certain extent, She, she hoped it wouldn't come, but she had a feeling that it might happen. But at the same time, she is unapologetic about her work and the focus of her research. She describes herself as a feminist scientist doing work that she hopes will advance equity.
+
+
+She is bisexual herself. And so given all that, I asked her did she see her own work as political? Good question. And she sent me a long and pretty thoughtful response, and I'll just read a little bit of it to you here. She said, I don't think it matters whether I see my work as political, given that it was initially funded for being critical sound, impactful science that could contribute to public wellbeing. She also added that, yes, her work is political quote in the sense that politics are played out in the stuff of people's lives. And then she added, but I also think sound science is sound science, regardless of which identities are the focus of that work.
+
+
+What do you make of that response as a science journalist, how do you see the way she views her work? Because I think a lot of us might think of science as something that kind of, you know, floats above the political fray. And that's not what she's saying here. No, that is definitely not what she's saying. And there are a lot of scientists out there who would agree with her. Not even just scientists who study identity. There are scientists in a lot of different fields who view their work as having a political element to it, and they don't view that as a bad thing. But there are also scientists who definitely would resist that characterization.
+
+
+Hmm. They view their work as sort of some quote unquote objective search for truth and finding facts and data and would just be happy to be left out of the political conversation altogether. Hmm. The other thing about some of these studies is that sure, they're focused on specific populations, but they're not necessarily small populations. We're seeing research cut that focuses on how to reduce maternal mortality in black women. And black women, of course, are a huge segment of the US population. Sure. And maternal mortality is a huge longstanding problem in that group.
+
+
+It's hard to dismiss those concerns as as niche. Totally. We're talking about broad swaths of America here. Absolutely. And when you really look at it historically, it's not like medical research once wasn't niche or was once extremely diverse and inclusive for most of history, medical research focused narrowly on a very specific population. And that is white men. Right. Niche is kind of in the eye of the beholder. Exactly. And in this case, the beholder is the Trump administration, but there was a whole other category of cuts we found that might be more surprising.
+
+
+And these are cuts to grants on some of the most critical health and disease issues we face. And these are studies that a lot of Americans, frankly, probably wouldn't find controversial in any way. We will be right back.
+
+
+Support for this podcast comes from GoodRx. GoodRx can help you save money and better manage your health. This summer. GoodRx lets you compare prescription prices at over 70,000 pharmacies and instantly find free coupons. You can find big savings at the pharmacy for the whole family pets too. GoodRx is not insurance, but maybe your copay. If you do have insurance, save at the pharmacy this summer. Go to goodrx.com/ The Daily
+
+
+Support for the perfect breakfast comes from Heinz breakfast had rules. It was sweet, it was savory, it was safe. Then someone brought out the ketchup, not your usual breakfast move. And that's the point. Suddenly ash browns found their soulmate. Eggs got bold. Turns out ketchup is for breakfast. It has to be Heinz.
+
+
+Emily, tell me about this other category of cuts to studies that you said most Americans probably wouldn't find all that controversial. Well, unlike that first bucket of studies where the research itself was focused on underrepresented groups or marginalized populations, these are studies that could be focused on literally anything, cancer, autoimmune disease, dementia. But what sets them apart is that they were all funded specifically through mechanisms designed to diversify the scientific workforce. So the NIH puts out calls for research proposals in some cases on specific topics, but they also put out proposals for research from specific types of researchers.
+
+
+So it could be scientists who are members of certain racial or ethnic groups, but it also includes scientists who grew up in rural areas, scientists with disabilities, scientists who meet one of these criteria can often apply for a separate pot of money that's set aside specifically to help diversify science. It's kind of like affirmative action in a way for science, Essentially. Yes. That is what it is though. It's not automatic by any means. Just like in other contexts, scientists who want to get this money still have to go through a rigorous application process, and they only are awarded these grants if peer reviewers decide that their project is important.
+
+
+But we've seen that the Trump administration very clearly doesn't want this kind of thing, doesn't want diversity and equity programs, it's anti DEI. And so it tracks that he and the administration wouldn't be pleased with funding being allocated based on people's identities. It absolutely tracks. We know that on day one of his administration, president Trump issued an executive order essentially putting an end to DEI and affirmative action programs throughout the federal government. But the thing is, those sorts of cuts are really sweeping.
+
+
+And researchers who were getting this grant money designated for underrepresented groups were studying all kinds of conditions and ailments that are of concern to many Americans. They were studying cancer, they were studying diabetes, they were studying dementia. In many cases, their work had nothing to do with specific populations or identities. It's just that they themselves happen to be from an underrepresented group. What do the scientists say? Yeah. I talked to some of the researchers whose studies were caught up in these cuts and a lot of them said that they were sort of blindsided.
+
+
+Hmm. A lot of them hadn't thought that their work was at risk, that it didn't seem to be the type of work that the administration would be targeting. Gimme an example of that. Hi. Hi. Yeah, so I'll just tell you, I mean mostly we just, so I spoke to a chemist at the University of Mississippi and her name is Eden Tanner. And what she and her colleagues have been doing is trying to find a novel treatment for glioblastoma that's an aggressive form of brain cancer that doesn't have a lot of good treatment options. And their work, she told me, has nothing to do with race or gender or specific subpopulations. No, there are no DEI aspects of the work itself at all.
+
+
+Like I would like to cure brain cancer. I think that's not particularly controversial, but Even, and her colleagues, the two lead investigators of the study had gotten their grant through a special funding mechanism that set aside money for researchers from underrepresented groups. Eden's colleague is black, and Eden herself has a disability. And so they qualified for this separate pool of money, but it wasn't the only option available to them. They could have applied through a more conventional request for proposals. And based on the very high peer review scores they got, it seems likely that they could have been funded through other routes as well.
+
+
+And it's been confusing in some ways for Eden To have work that's clearly not about DEI gender ideology to have work that is so clearly not that be stopped. It really feels like we're it kind of quite innocent bystander here. Now Eden wanted it to be clear that she didn't think that research that did focus on DEI or other hot button topics should be cut either. But it was confusing for her because the research that she was doing, she thought was the type of research that the administration wanted to prioritize. We've heard about how much the administration wants to make America healthier again, and that's what Eden thought that she and her colleagues were trying to do.
+
+
+The work that we're doing has pretty clear importance to the general public. And I think people should know that research that they probably would support is being canceled because of this broad brush that's being swapped. What happens to all these grants that have been eliminated now? Is there a world in which these scientists get to keep doing the exact same research through other kinds of grants or applying for the money? Again, you know, without using the key search terms that the administration doesn't wanna see, can they just tailor their pitch to what the NIH wants under this administration?
+
+
+Some can and, and some can't. I talked to some scientists who really thought that they were caught up in some of this, like purely by accident. For instance, they thought their study had been flagged because it included the word diversity, but what they really meant was genetic diversity. And so for them it could be as simple as, you know, avoiding that phrase and talking about variants instead. And that might be enough. But you can imagine for someone like Catherine Bogan, I mean you can't really do that study without mentioning bisexual women. And so some researchers, I think their topics of research just won't be acceptable to the NIH under this administration.
+
+
+Some might be able to reapply and pick up where they left off, but others might have to change their research topics, leave their academic programs, or maybe even leave science altogether. I wanna talk about the agenda that the Trump administration is pursuing. Obviously we've said they're abandoning what they view as a political perspective in science that they don't like. What are they replacing that with? What is this new version of the NIH seeking when it comes to scientific research? Well, we don't have a lot of data yet. It's still early, so it'll be interesting to see how the next months and years unfold.
+
+
+But we have seen some signals that priorities are, are definitely gonna change. The NIH recently reached an agreement with the FDA to begin funding more research on nutrition, including in particular ultra processed foods, which is we know a priority for Robert F. Kennedy Jr. The health secretary. We've also heard reports from some news outlets that the NIH has sent out a request for research on transition regret. So asking for studies on transgender people who have second thoughts about transitioning or negative consequences of transitioning, that seems to be something that the administration is actively seeking.
+
+
+Hmm. We've also heard about plans to study autism and a potential link to childhood vaccines, which we know is another issue that Robert F. Kennedy Jr. Is passionate about. There's now been a lot of research that debunks the idea that vaccines cause autism, but it seems like the administration wants to fund research that's going to reopen that question. It seems pretty clear from from what you're telling me, that even though the administration kind of says that it's going after politically motivated science, it's not as though they're creating a world in which science is apolitical. Like they're not taking the politics out of science.
+
+
+They seem to be just infusing scientific grant making with their politics. That's exactly right. It's just a different politics that's driving science. Do you think, Emily, that the administration had a point in any of what it's done thus far in terms of the review of the grant making? Like was there an issue of scientists tailoring their studies to the politics of the moment and being too guided by what the culture really wanted? So here's what is very clear.
+
+
+From months of reporting and talking to scientific insiders, including people who are very supportive of the NIH and government funding, nobody thinks the NIH is perfect. There is plenty of room for reform. The NIH has been criticized for a long time for all sorts of things, for not taking enough risks or being innovative enough for sending funds to the same researchers over and over again. You know, there are plenty of reforms that could be made, and I don't think scientists are disputing that, but I think scientists are nervous that these changes that are happening are not changes that are intended to produce good science.
+
+
+It's interesting because in one sense, both sides of this, the Trump administration and the scientists and others who are upset about the way these cuts have happened, they're making similar claims that politics is influencing science on one side or the other. But those who are angry about this have this other thing they're worried about, which is that they're saying this new direction. It isn't just political. It also seems to be about specifically trying to gather evidence to confirm some preconceived notions. Yeah, I think that's fair to say, and you can take a few of the examples that are actually at play here.
+
+
+I mean, most autism researchers say that they welcome more research into the causes of autism. We don't know enough about that. A lot of nutrition researchers welcome research into the potential dangers of ultra processed foods. But it's one thing to approach those topics with intellectual honesty and an open mind and being led by the data and it's something else to approach them seeking a specific conclusion with that endpoint already in mind. And I think that's what a lot of scientists are worried about happening. Now, Is there an apolitical science agenda or is that actually not possible?
+
+
+And and is it more the case that when you're spending a finite amount of money, your choices are always gonna be guided by whatever your values are? And the NIH is no different. The NIH is no different, and there is no science without politics. The questions you ask, the studies you fund, the topics you prioritize, all of those are reflections of politics, of values, of our societal concerns and priorities. And so I don't think what scientists are asking for is a science without politics. I think what they're nervous about is that the science itself becomes a servant of politics.
+
+
+That the quality of research declines, that research is solicited with sort of pre imagined or predestined conclusions in mind. And that science, as flawed as it is, has always been a way of at least crawling towards reaching for groping for some larger objective truth. And I think the concern now is that that entire process becomes so polluted that science loses a lot of what makes it so valuable.
+
+
+Emily, thanks so much. Thanks for having me. In the wake of two court rulings that take issue with the Trump administration's cuts to medical research, a senior official at the National Institutes of Health is directing the agency staff members not to cancel any more research projects, at least for now. The internal memo was sent on Tuesday and is a retreat by the agency. It's not clear how long the new directive will hold.
+
+
+We will be right back.
+
+
+Support for this podcast comes from good rx. Good RX can help you save money and better manage your health. This summer, GoodRx lets you compare prescription prices at over 70,000 pharmacies and instantly find free coupons. You can find big savings at the pharmacy for the whole family pets too. GoodRx is not insurance, but maybe eat your copay. If you do have insurance, save at the pharmacy this summer. Go to goodrx.com/ The Daily
+
+
+Support For the perfect breakfast comes from Heinz Breakfast Had rules. It was sweet, it was savory, it was safe. Then someone brought out the ketchup, not your usual breakfast move. And that's the point. Suddenly ash browns found their soulmate. Eggs got bold. Turns out ketchup is for breakfast. It has to be Heinz.
+
+
+Here's what else you need to know today. A NATO summit in the Netherlands ended on a high note for President Trump. On Wednesday after America's European allies agreed to raise their spending on the military to 5% of their national income by 2035. Trump has for years denigrated NATO allies as freeloaders and has pushed for them to increase military spending since his first term. And this was a tremendous summit and I enjoyed it very much. And thank you. I say through every one of those speeches. After the announcement, Trump enthusiastically praised his European counterparts saying he left the meeting thinking differently about an alliance he once threatened to abandon.
+
+
+I left here saying that these people really love their countries. It's not a ripoff, and we are here to help them protect their country. But the accomplishment for Trump was overshadowed by questions that swirled about how much damage the US had actually dealt to Iran's nuclear ambitions. In its recent attack, Trump pushed back on a leaked intelligence report that said the US had only set back the program a few months saying reporters who questioned the extent of the damage were betraying The pilots who had bombed the Iranian enrichment plant called Fordo trumpet, said those facilities had been obliterated. What? You can't do a nuclear weapon without a conversion facility.
+
+
+You can't. We can't even find where it is, where it used to be on the map. You can't even find where it used to be 'cause the whole thing is just blackened out. It's gone. It's wiped out. It's wiped Out. Secretary of State, Marco Rubio stepped in to back off the president with some specifics. He said that the American strike had destroyed a conversion facility, which is key to converting nuclear fuel into the form necessary to produce a nuclear weapon. In the midst of all this, on Wednesday, the head of the CIA offered a new assessment of the bombings, saying that based on new evidence, the damage to the Iranian nuclear program was in fact severe.
+
+
+Today's episode was produced by Alex Stern, Eric Kke, Alexandra Lee Young and Carlos Prieto. It was edited by MJ Davis Lynn Paige Coot and Maria Byrne contains original music by Etu and was engineered by Alyssa Moxley. Our theme music is by Jim Broberg and Ben Landsberg of Wanderly. Special thanks to Irena Wong and Ben Mueller. That's it for The Daily. I'm Natalie Rewe. See you tomorrow.
+
+
+Support for the Perfect Breakfast comes from the Heinz breakfast. Had rules. It was sweet, it was savory, it was safe. Then someone brought out the ketchup, not your usual breakfast move. And that's the point. Suddenly ash browns found their soulmate. Eggs got bold. Turns out ketchup is for breakfast. It has to be hinz.

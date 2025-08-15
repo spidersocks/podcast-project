@@ -1,0 +1,110 @@
+
+This message comes from Capella University. With Capella's FlexPath learning format, you can set your own deadlines and learn on your schedule. A different future is closer than you think with Capella University. Learn more@capella.edu.
+
+
+This Is Planet Money from NPR. In 2008, Nancy Skinner was elected to the California State legislature. So technically my term began in 2009. Nancy has witnessed the state's vision for clean energy firsthand. Soon after she was elected, bill was being considered to get more of their electricity than ever from renewables. But there was a problem. When the sun doesn't shine or the wind doesn't blow, there's no power. Several people approach Nancy to raise this issue. We're gonna have to figure out how to store it And one way to store energy. A battery, extra solar and wind electrons that aren't needed on the grid could flow into a battery.
+
+
+The problem was though grid scale storage wasn't really a thing. Nonetheless, Nancy was optimistic that eventually it would happen if you created a market signal. So she introduced a bill requiring utilities to purchase a certain percentage of battery storage when they bought electricity. Nancy remembers pushback That this was just pie in the sky. This is not real like another California pipe dream. Still. In 2010, the bill passed, although nothing really happened. Ritz scale batteries remained a pie in the sky concept For years, and then all of a sudden in 2021, batteries took off. Hello and welcome to Planet Money.
+
+
+I'm Cooper Katz McKim, And I'm Darien Woods. After years of nothing good scale, batteries are now widely used and growing fast. Basically the same tech that's in your phone is now helping power millions of homes across America. How did that happen and what does the newfound success mean for the grid? Today on the show, we go on a kind of road trip for electric battery storage. Two stories from two states. We'll begin In California where battery storage first took off in the US to see how the state supported its wind and solar energy markets. And then we'll look at how battery storage was put to the test. In Texas, these stories come from Planet Money Sister show The Indicator.
+
+
+But we just ran a miniseries on batteries and energy. And
+
+
+This message comes from Charles Schwab. When is the right time to sell a stock? What is the best way to steer your portfolio through an unsteady market? Financial decisions can be tricky. Financial Decoder is an original podcast from Charles Schwab. Host Mark Repe, head of the Schwab Center for Financial Research offers practical solutions to help overcome cognitive and emotional biases that may affect our investing decisions. Listen at schwab.com/financial decoder or wherever you get your podcasts.
+
+
+This message comes from Apple Card, searching for a hassle-free way to help you grow your savings. Then look no further than the high-yield savings account. You can open through Apple Card. Apply for Apple Card in the wallet app today and see a credit limit offer in minutes. Subject to credit approval. Savings is available to Apple Card owners subject to eligibility, savings, and Apple Card by Goldman Sachs Bank, USA, salt Lake City, branch member, FDIC terms and more at Apple Card dot com.
+
+
+Cou ka for Kim, producer extraordinaire with The Indicator, your back from your travels West. We set. You're on a journey to see these batteries firsthand. I am back indeed from the very sunny California where there are enough batteries to power 13 million homes. I wanted to go because I have no idea how batteries actually work. And I hope you learnt this on the trip. I did. I connected with a battery storage facility that's connected to a solar farm spread across 2,900 acres. That is huge. It's the equivalent of more than 2000 football fields. It really did feel huge. It took a long time to drive through. The whole operation is called Cal Flats. It's owned by an independent power producer called Revon.
+
+
+Justin Johnson is the Chief Operating Officer there. Can we grab my hard hat back there on? Yeah. Justin gave me a tour of the facility along with Anan Arvan, senior VP of Asset Management. I lost for a couple of hard hats. Okay. At the battery storage facility itself, there are rows of white containers. Not much taller than a person. I learned. This is where it all happens. It's like a series of They're shelves. Shelves like Imagine server racks, right? So it's a bunch of server racks. Like you have all your PCs and a bunch of like PCs stacked together, which have the batteries in them, the in water inside them. It's three per door. There's three per door. Yeah.
+
+
+So they're stacked. If you open up one of these doors, Could we open one of 'em up? No. Yeah, we, we don't have the keys unfortunately Operating. It'll Shut down. That was a pretty fast. No, I just wanted to open the door. I don't see the problem here. The do not press button was so tempting. If I see a button, I wanna press it. Either way. They told me that each one of these cabinets holds the batteries themselves. They're about the size of a large briefcase and are manufactured by Tesla. The batteries are similar to what would go in a Tesla car, which is also made up of lithium ion. And this site is packed with energy. Right. I heard that Cal Flats has enough storage capacity to power 60,000 homes over an afternoon. I know. Yeah. It is wild.
+
+
+Justin told me how this all works. There's excess solar in the middle of the day, so the power price can be low. So we can take the extra solar that's produced in the day from the arrays and store it for use later in the evening when it's needed most when the sun is going down. That hum. You're hearing behind Justin is the HVAC system keeping the batteries cool because they're charging from that solar energy and probably also the heat just from how hot it is outside. The sun was very strong when I visited. Yeah, let's move to the shade. Yeah. That's like rule number one in solar is don't visit in the summer either.
+
+
+Sounds like you might have got a bit of a California tan Cooper. Yeah. The sun is not my friend as a redheaded man. So it sounds like you'll be happier when the sun goes down, which is when Reon sells the power. When prices are high. VO then moves the renewable electrons onto underground cables to transmission lines to the grid for this power specifically, Yon has two customers that buy this power. Apple and PG and e. California's biggest electricity provider. It's such a big facility, there's so much power generated that it's hard to find one buyer to take it all. So we ended up splitting the output to two different buyers of electricity. That means that somebody's home, say in Fresno, they turn on their lights and Yeah.
+
+
+Or literally anyone who takes pg e. Exactly. Yeah. This power is kind of, I mean, an electron's an electron. It's hard to tell where it came, where it's going. It came from once it hits a transmission line. But All right, so how do we actually get here? Remember that utility providers were saying to Nancy Skinner that this was some kind of pie in the sky California dreaming concept? Yeah. We put that question to Justin, right? So like all the scale and advancements that went in the manufacturing to make it, to bring the scale up and then to drive the cost down just weren't there yet to do it economically. So we're at that really nice intersection where the technology's improved enough. The cost has come down at that intersection where you're meeting the demand at the price they need to be successful, where it allows us to build these sorts of plans to serve that need.
+
+
+And so what we're left with is a totally new way for renewables to interact with the electricity grid. The power created by the sun or winds can go further now tapped into whenever a customer like Apple or pg and e wants it. Very Significant. Yeah. So that, that was one of the big knock on renew. It is always has been. It's intermittent, but that hurt us financially as well. 'cause we were paid less for our power because we were intermittent. So when you pair storage with solar, now we can, the people we sell power to, it's more valuable to them because we can provide them power when they want it most. We can provide them a fix shape, meaning tell us how much power you want in any given hour of the day and we'll design a plant to meet your needs.
+
+
+Exactly. Hmm. This new reliability and renewables is very attractive to tech companies like Google, Microsoft, Amazon. They already use solar and wind power, but they have power hungry data centers to feed things like artificial intelligence. So they're buying up battery storage too. Tech companies aren't alone. Electricity demand is spiking worldwide due to data centers, but also electric cars, trains, cryptocurrency, mining demand is also coming from grid services like serving as a backup power. If there's ever a blackout due to maybe an overworked grid, what power They can get. I think if you have a solar plant or a battery plant or a combination anywhere in the US that's rated be built these days, you can find an offtaker, you know someone to sell the power, and there's just tremendous demand, tremendous demand for it.
+
+
+In 2019, California had limited battery storage capacity. In April of last year, batteries could power 10 million homes for a period of time. Just six months later, that number grew to 13 million homes. California has a long history of expanding its alternative energy sources. Historically, the Golden State has been way ahead of the curve on renewables going all the way back to the 1980s with support and subsidies from both Republican and Democratic governors. But when it comes to the ongoing battery expansion, Justin Johnson says, things are just getting started. But this phenomenon you've seen In California, it's gonna occur elsewhere in the us. Yeah, it's just 'cause California has the highest penetration level of renewables anywhere in the us and it created the demand for storage.
+
+
+As penetration levels increase throughout the US as they have in Texas and elsewhere, the storage market is gonna follow in those areas too. And everyone's ready for that. Arvan. Justin's company AR Arvan believes in Gridscale battery storage so much. It's invested $2 billion in the space. They already have five facilities In California, including Cal Flats, and it's looking at six more Now. California got where it was because of planning from politicians like Nancy Skinner, but in Texas, they take a bit more of a hands off free market rodeo type way of doing things. So let's go to Texas. I'm gonna hop out here and Darien let you and indicator co-host Waylan Wong.
+
+
+Pick it up after the break.
+
+
+This message comes from Charles Schwab. When it comes to managing your wealth, Schwab gives you more choices like full service, wealth management and advice. When you need it, you can also invest on your own and trade on Think or swim. Visit schwab.com to learn more.
+
+
+This message comes from American Express. With Amex Business Platinum, pursuing your passions is even more rewarding. With 1.5 times membership rewards points on select purchases, you earn rewards that can take your business further. And with complimentary access to more than 1400 airport lounges globally, including this interior lounge, you can keep running your business while you're on the go. That's the powerful backing of American Express terms and points cap apply. Learn more at American Express dot com slash MX business.
+
+
+This message comes from NPR sponsor at eo. ATT is the CRM for the AI era. Connect your email and ATT instantly builds your CRM with every company, every contact, and every interaction you've ever had. Enriched and organized. Build AI powered automations and use its research agents to tackle some of your most complex business processes, freeing you to focus on what matters the most. Building your company. Start your free trial@attio.com slash npr.
+
+
+This message comes from NPR sponsor LANs End Outfitters. Your brand is important and they create apparel your team will want to wear. Go to business dot lands end.com/pod 20 and use code Pod 20 for 20% off your first product.
+
+
+On a hot September day in 2023, the operators of Texas's power grid were getting nervous. The warmth from an unusually hot summer was pushing later into the year. That meant more air conditioners, more fans, and more staying inside. But keeping up with that thirst for electricity was a scramble. The sun was setting earlier as the summer gave way to fall, and that meant less solar power in the evening. That day, the wind was forecast to be low, so not much wind power, just when people got home and turned on their ACS and TVs and ovens. Also, a few power plants are out of commission. Watching all of this with Stephanie Smith.
+
+
+She's the chief operating Officer of eolian, which is a company that, among other things, builds battery plants in Texas. It was just one of those perfect storms of events where a few went offline at the same time. The DFW area For Texans, the deadly winter blackouts from a couple years earlier were front of mind. And the question that evening in September was, could Texas's grid batteries save the day? This time, Texas's approach to the power grid is rather different than the one In California. California takes more of a longer term planning approach. Project approval is finalized after more assessment of how generators might fit into these plans.
+
+
+And the state offers long-term contracts to give electricity generators certainty before they invest in, say, a new grid scale battery project. Texas, on the other hand, is a more boisterous free market. It's not that Texas has no regulation or government intervention whatsoever. It's just comparatively hands off. And that can put companies wanting to install batteries at the whim of the invisible hand. But to Stephanie Smith, the chief operating officer for Ian. That's the way her battery building company likes it. We'll Have more risk in some cases, but yeah, that's the idea. We're more risk, more reward In Texas. If the price goes very low, well then maybe some operators need to stop producing power.
+
+
+If there's a spike in the price of electricity, great. That gives operators like Olian the incentive to put more electricity onto the grid. And one opportunity for reward that Stephanie's company saw was in helping top up the grid for short periods of time when a lot of people wanted electricity, but there wasn't enough being generated. And the company sees that opportunity by building giant battery plants. Picture a football field full of shipping containers and you kind of know what a battery project looks like at the scale that we're building. Imagine rows and rows of those shipping containers filled with like hundreds of electric car batteries. The easiest use case to imagine is overnight when the sun's not shining on solar panels, you know, the price of electricity could be high and olian then releases some of its batteries.
+
+
+And then when the sun is shining the next day and electricity is cheap, it tops back up those batteries. But actually a big part of what Olian does is what's called ancillary services. This is kind of like top up and maintenance to ensure a steady stream of electricity through the wires, regardless of whether it was originally generated by renewable or fossil fuel sources. By putting a little juice into the wires when it's running low and taking it out when it could get overloaded, the overall grid becomes more stable. You don't want excitement on a grid, you don't want surprises. And batteries are amazing at doing all of those things and reacting within microseconds of whenever their need is.
+
+
+And that day in September, 2023 was the ultimate test of weather. Texas's free market batteries, like the ones that Stephanie's company owns, could stabilize the grid and avoid blackouts. And you remember these moments because for anyone in the company working on this stuff, it it gives you a heart attack every time it happens. Demand was high. Generation was low, at least in the places that needed it. The power grid operators pleaded with Texans to limit their power use minutes. They just issued another notice to conserve energy. Yeah, it's a step up from the weather. Watch The evening. As evening came, Texas' power reserves dwindled. A bunch of wind electricity was being produced in the south, but was overloading the wires, taking them to the north where a lot of the demand was.
+
+
+This was a dangerous situation of congestion. At one point, people in Stephanie's company noticed the signs of a huge gap in electricity needs. The grid operator sounded an elevated emergency alert. The alert just below the level of potential rolling blackouts and beyond just alerts the electricity market was going ballistic. A megawatt hour of electricity usually goes for a little over a hundred dollars. It was now hitting 5,000. If there was ever an incentive for companies to discharge their batteries, it was now, It was unexpected and went really fast. And because batteries can react within microseconds, a bunch of batteries jumped in, including ours, and stopped that frequency fall and brought the grid back into balance and kept the lights on.
+
+
+So that was a fun experience. Very stressful. Stephanie's got some threshold for fun. Yeah, Living on the edge of the grid. That should be their new company tagline. Ian's batteries drew down their electricity. Given that high electricity price of $5,000, they were presumably rewarded handsomely for doing so. As the night progressed, Texans turned off their washing machines and microwaves and went to bed. Partly thanks to batteries. There had been no blackouts in Texas. It's Like the duck paddling. You, you guys are the, are the feet paddling very fast and the and the DR just cruises along the pond. And that's exactly right. If we're doing our jobs, nobody knows I nearly had a heart attack, but you, you kept your AC on.
+
+
+So is this a story about the beauty of prices and visibly guiding company behavior all around Texas? Is this a free market fable Starring a duck and a battery Maybe called Friedrich High Quack? Oh, Darien. Lemme get you a book deal. Well, the debate isn't settled. Critics argue that Texas shouldn't have been that close to a blackout in the first place. That a little more central planning like In California might've been helpful. What's more batteries in Texas are agnostic about whether they're helping smooth out renewable or fossil fuel generators. More planning could ensure the batteries are specifically focused on helping wind and solar generators speeding up the energy transition to a low carbon grid.
+
+
+Whatever the case, the Texas system is encouraging companies to build a lot of grid scale batteries from basically nothing. In 2020. By 2024, the state had enough batteries to power an entire small city for a day. In the battery race of California, Texas is coming second, but it is catching up fast. Sounds like the tortoise and the hare. Yeah. Which one's the tortoise and which one's the hare? Ooh. Stay tuned. There's a third episode of The Indicator series all about what it takes to produce lithium batteries. You can find that at the link in our show notes. And if you want to hear about how this whole series came together, check out our next bonus episode for Planet Money Plus supporters.
+
+
+We take you inside our reporting and share some fun stuff that we just couldn't fit into the series. To hear that and get sponsor free listening, sign up for r plus. Just go to plus.npr.org. And finally, if you haven't already, go follow The Indicator from Planet Money in any podcast app. Five shows every week, always 10 minutes or less. These episodes of The Indicator were produced by me, Cooper Katz, McKim, and Corey Bridges. They were edited by Kate and Cannon and Fact Check by Sierra Juarez. They were engineered by Jimmy Keeley and Neil tva. Alex Goldmark is our executive producer. I'm Cooper Katz McKim. This is NPR. Thanks for listening.
+
+
+This message comes from Mint Mobile. Mint Mobile took what's wrong with wireless and made it right. They offer premium wireless plans for less. And all plans include high speed data, unlimited talk, and text, and nationwide coverage. See for yourself at Mint Mobile dot com slash switch.
+
+
+This message comes from s and p Global s and p Global has private companies covered. Whether you're looking for your next investment or m and a target performing peer comparables, assessing counterparty credit risk, or monitoring your supply chain s and p Capital IQ Pros, extensive private company data can give you the insights you need to gain a competitive edge. Learn how you can dive into the companies that matter most to you at s and p global.com/private company data.
+
+
+This message comes from Warby Parker. What makes a great pair of glasses at Warby Parker, it's all the invisible extras without the extra cost. Like free adjustments for life. Find your pair@warbyparker.com or visit one of their hundreds of stores around the country.
+
+
+I.

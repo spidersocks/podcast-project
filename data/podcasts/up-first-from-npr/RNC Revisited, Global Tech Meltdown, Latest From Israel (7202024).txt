@@ -1,0 +1,83 @@
+
+An unconventional Republican convention, Vivid details about last week's attempt on the life of former President Trump And little dissension about who the party nominee should be. I'm Scott Simon. I'm Aisha Roscoe. And this is Up First from NPR News. We will have NPRs Ron Eling on what was said and not said in Milwaukee this week, And even more pressure on President Biden to withdraw from his reelection campaign. And how one small mistake led to a cascade of technological problems around the world, What the CrowdStrike fiasco can teach us about computer security. Also, a different sort of error led to a drone evading Israel's air defenses.
+
+
+One person died, several were injured. Stay with us. We have the news. You need to start your weekend
+
+
+Support for this podcast and the following message come from better help. It's easy to compare your life to everyone else's, but comparison is the thief of Joy. Therapy can help you focus on what you need to live your best life. Instead of dreaming about someone else's, give better help online therapy a try. Just fill out a brief questionnaire to get matched with a licensed therapist and switch therapists anytime for no additional charge. Stop comparing and start focusing@betterhelp.com slash npr.
+
+
+Support for NPR and the following message come from Amazon Business. Everyone could use more time. Amazon Business offers smart business buying solutions so you can spend more time growing your business and less time doing the admin. Learn more@amazonbusiness.com.
+
+
+This message comes from NPR sponsor Capella University with their game changing, FlexPath learning format. Capella empowers you to fit education into your life without putting other priorities on hold. FlexPath lets you set your own deadlines and adjust them. If something comes up and depending on your schedule, you can take courses at your own speed and move on to the next one. When you're ready, imagine how a flexible program can make a difference in your life. At capella.edu,
+
+
+This message comes from NPR sponsor KeyBank from AI to modernizing payments. The financial industry's tech capabilities keep evolving. KeyBank monitors trends and provides insights to help businesses move forward More At key.com/tech trends,
+
+
+This message comes from NPR sponsor Mattress Firm. How do you sleep at night? Is your worn out mattress causing restless nights? Mattress Firm can help anyone sleep at night so you can wake up feeling refreshed, upgrade to the luxurious rest you deserve with mattress firm's premium selection of top brand mattresses plus rest easy with mattress firm 120 nights sleep trial, love it or your money back. Get matched at mattress firm's semi-annual sale and clearance, and sleep at night. Restrictions apply. See mattress firm.com or store for details.
+
+
+This message comes from NPR sponsor Shopify, the global commerce platform that helps you sell and show up exactly the way you want to customize your online store to your style. Sign up for a $1 per month trial period@shopify.com slash upfirst.
+
+
+The Republican party wrapped up its convention this week, solidly behind former President Donald Trump, But who will be his opponent on the Democratic side. NPR, senior Washington editor and correspondent Ron Eling joins us. Ron, thanks for being with us. Good to be with you. Scott. Let's Begin with the convention in Milwaukee. What were your impressions? It was not like the conventions of the past Scott, where party heavyweights beat up on the opposition party, but also traded blows with each other. There was no suggestion of dissent or discord anywhere the platform was rewritten. To repeat what Trump has said already on social media about abortion, about trade and taxes, about every salient issue, every speaker was either a longstanding Trump loyalist or a member of his family or a past or potential Trump rival who has recanted and pledged absolute fieldy to the leader.
+
+
+And Trump diverged from his prepared remarks a lot. For example, when he talked about the assassination attempt that occurred just a week ago, and here is I think what we can fairly call a a riff on international relations, And they were ready to make a deal, Iran was gonna make a deal with us, and then we had that horrible, horrible result that we'll never let happen again. The election result, we're never gonna let that happen again. They use Covid to cheat. You're never gonna let it happen again. What is, what is Trump really saying here? When he is talking about an Iran deal, he doesn't tell us anything about the deal, but he's mostly saying that the verified and certified vote of 2020 when he lost by 7 million votes was a horrible thing.
+
+
+And surely from his perspective, it must have been painful. but it was certified by 50 state governors, Republican and Democratic alike, and also by the US Congress. Trump's challenges in the courts failed and election experts in both parties and Trump era election officials called it the most secure election in US history. Then Trump refers to Democrats cheating with covid when he's talking about pandemic era voting by mail. Now that's a practice widespread in America. Well before anyone ever heard of covid voting early or by mail has historically been most popular among Republicans. And when he says, we're never going to let it happen again, ju just what does that mean?
+
+
+We assume he does not mean that we won't have elections or that we will only count the elections when he thinks they should. We assume that, but does he Meanwhile? President Biden recovers from Covid at his home in Delaware. We're told his case is mild, vital signs are fine, and that he's feeling calls for many in his party To step aside, what do a number of these major Democrats, which include dozens at this point, see that the President reportedly does not? Well, they see Biden's own performance and their hearing conversations and seeing polls in their own states and in their own races, polls nationwide and in the crucial states that decide our elections, they're seeing these polls say, the two thirds of Democrats want Biden to step aside.
+
+
+Now, these are people who may still vote for him in November if he's the candidate, but they think he should give way to a stronger candidate, and they're also drawing on their own experience as politicians. A, when a party's headliner fails in a statewide election or a national election, that party suffers all the way down the ballot. And when a party unites behind a strong national leader, they can gain or at least hold their own contests for other offices. Now, Biden can see all this, we think, but he claims at this point to be unmoved. He is reading the data selectively and listening to people he has trusted the most for the longest time. He may still think he can change the data with a rip roaring campaign this fall, but the consensus among party people not named Biden and not employed in the White House or in the Biden campaign is that Biden cannot win.
+
+
+But so many Americans have voted for him already in the primaries. Do are, are those votes just swept aside? No, they're not all for Naugh. They expressed the best hopes of the party at the time they were cast, but they may have been cast in the dark, so to speak during the primaries. Typical democratic voters were simply not as aware of Biden's age related diminishment as they are now. There is a palpable fear that he cannot drive the turnout needed to keep the White House and to maintain a strong democratic presence in Congress and in the States. Ron Elvin, thanks so much. Thank you, Scott.
+
+
+Hundreds of thousands of people face the blue screen of deaf yesterday. That's in computer lingo, the BSOD, That's when Microsoft Windows crashes. This time it was due to a faulty update from the cybersecurity company. CrowdStrike NPR cybersecurity correspondent. Jenna McLaughlin joins us now. Thanks for being with us. Of course, Scott, how much havoc? Quite a lot. Just yesterday we saw thousands of flight delays around the entire world, cancellations of non-emergency surgeries. There were outages for 9 1 1 emergency services. I'm actually in Aspen, Colorado for a family trip. The local public radio station had some issues broadcasting, but they pulled it off.
+
+
+I'm flying back home to DC today and hoping things are a little less chaotic. Well, good luck. Have we seen anything like this before In some ways? Sure. I cover cyber incidents all the time. Sometimes it's a technical error. It takes down a website for a few hours. Other times it's more malicious nation state hackers can wipe computers or steal data, or even more commonly, cyber criminals are looking to make money through ransomware attacks, for example. But in this case, the number of different companies impacted is just so massive. I'm not sure that I've seen this before. How can one mistake have such a far reaching impact? It's basically because of the unique position that CrowdStrike is in. It's one of the top cybersecurity vendors. It's worth billions though. It stock dropped a bit yesterday.
+
+
+So monitoring software has a very deep level of access to machines. They have that so that they can monitor everything happening on the devices to sniff out potential bad actors. But in part because of that access, Scott, the way the software interacts with the Windows operating system, one error in a routine automatic update, crashed servers all around the world. I talked to Andy Ellis about this. He's an expert who led security at the cloud company Akamai for 20 years. And he said that his team always worried about hackers, but they were really worried about mistakes like this one. He said he went through something really similar at Akamai, in Fact, 20 years ago, two months ago. And we spent years going through and hardening all of our systems because it was hard for would be, would've been hard for an adversary to inject, but we were far more worried about just accidental injections that we might do.
+
+
+By injections. He means lines of additional code that changed the way the program works or causes it to stop working. Now, CrowdStrike has pushed out a fix and many clients are back online, but people are not likely to forget just how disruptive this was. Doesn't appear to have been an attack, Jenna, but is this a wake up call about for how vulnerable tech systems can be? Absolutely. You know, it doesn't take a skill hacker to get this done just to slip up. In this case, it's probably a good idea for more testing of security updates before they go live more broadly. I've talked to a lot of cybersecurity experts who argue we need to get a better sense of what is critical when it comes to software. Just recently, we saw the entire healthcare industry disrupted for weeks because the digital payment platform got hit with a ransomware attack.
+
+
+We need to prioritize protecting these things like healthcare. Otherwise this is gonna keep happening. And George, Jen McLaughlin, thanks so much. Thank you. A drone came in from over the Mediterranean Sea yesterday and struck near the Tel Aviv beach front. Separately, the UN's highest court ruled against Israel saying its settlements in the West Bank are unlawful. And p Greg Myy is in Tel Aviv. Greg, thanks for being with us. Good To be here. Scott. First Israel appeared to be surprised by a drone attack in Tel Aviv yesterday. What happened?
+
+
+Yeah, Scott, when you're in Tel Aviv and the beach front in particular, you just don't feel the war that's taking place in Gaza. Less than 50 miles down the Mediterranean coast, surfers are out at dawn. Young people are playing volleyball under the lights until very late at night. The restaurants are full. But just after 3:00 AM Friday, a large drone came in over the Mediterranean. It crashed into an apartment building a block off the beach. Jonathan Carton and some friends were up late on the apartment balcony at the time of the attack. That friend of mine said, cool. What's that? What's that over there? I turned my head to sea and then I heard a buzzing like an F 35, but it was only maybe 30 meters above sea level, so it was strange.
+
+
+And then I saw a red and orange blast that felt this heat, a blowback. One man was killed and several people injured. The drone hit just a block from the US Embassy branch office and shattered windows for several blocks. And who claims responsibility for the attack? The Houthis militia in Yemen, which mean this drone traveled hundreds of miles to reach Tel Aviv. And this is not the kind of attack Israel has typically faced. It was dealing with thousands of Hamas rockets coming from the south. A Gaza, though that's been halted almost entirely, it's still combating Hezbollah rockets that rained down daily in the north from Lebanon.
+
+
+But until Friday, Tel Aviv hadn't really encountered an aerial attack coming from the Mediterranean to the West. And this apparently caught Israel off guard. The military said its air defense system did not detect the threat. There were no sirens or other warnings, and the military called it human air. Also, late this week, the UN's International Court of Justice ruled that settlements in the West Bank and East Jerusalem violate international law. What has been the reaction in in Israel and in the territories? Yeah, the Palestinian Authority President Mahmuda boss, who's based in the West Bank, called it historic. In contrast, Israel's prime minister Benjamin Netanyahu, rejected the ruling saying, quote, the Jewish people are not conquerors in their own land.
+
+
+A couple important points here. This is an advisory, a non-binding opinion. The UN General Assembly requested this formal opinion, though it's been saying essentially the same thing about Israeli settlements for decades, that they're un unlawful, illegal, and yet they just keep growing and they're expanding very rapidly right now. And the Palestinians say there's simply no way to create a viable state with all these settlers spread across these areas. And the ruling comes just as Prime Minister Netanyahu plans to visit the us. What are you gonna be watching for? Well, we should all be looking for signs of tension in the Usis Israel relationship.
+
+
+And I think the mixed reaction Netanyahu is likely to get. President Biden has, has grown frustrated with the way Israel has prosecuted the war in Gaza, especially the very high civilian death poll. Now, the two leaders are expected to meet if Biden has sufficiently recovered from his bout with COV. And yet Netanyahu is addressing a joint meaning of Congress on Wednesday. So expect strong report from Republicans and sharp criticism from at least some Democrats. And first, Greg Myy in Tel Aviv. Thanks so much for being with us. Sure thing, Scott. And that's Up First for Saturday, July 20th, 2024.
+
+
+I'm Scott Simon. And I'm aye. Roscoe Michael Radcliffe produced today's episode with help from Samantha Balaban. Danny Hensel and Fernando Naro. Andrew Craig is our director. Our editors Red McNulty, Andrew Sussman, mark Katko, Shannon Rhodes and Matthew Sherman. Hannah GL and Andy ER are our technical directors with engineering support from Nisha Highness, author Lauren and Ted, me Bain. Evie Stone is our senior supervising editor. Sarah Lucy Oliver is our executive producer. And Bob Little Steps in this week is our Deputy Managing editor Tomorrow on The Sunday Story podcast, a story about two Chinese dissidents living in the Netherlands.
+
+
+And you can listen to more news interviews, sports, all weekend long on your NPR station. You can find it too by going to stations.npr.org and we sure hope you'll Yes. Wanna hear this podcast without sponsor breaks. Amazon Prime members can listen to Up First sponsor free through Amazon Music. Or you can also Support NPR R'S Vital Journalism and get Up First plus@plus.npr.org. That's plus.npr.org.
+
+
+This message comes from NPR sponsor Mint Mobile. From the gas pump to the grocery store, inflation is everywhere. So Mint Mobile is offering premium wireless starting at just $15 a month. To get your new phone plan for just $15, go to mint mobile.com/switch.
+
+
+This message comes from NPR sponsor Shopify, the global commerce platform that helps you sell and show up exactly the way you want to customize your online store to your style. Sign up for a $1 per month trial period at shopify.com/npr.

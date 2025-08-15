@@ -1,0 +1,80 @@
+
+At Schwab, how you invest is your choice, not theirs. That's why when it comes to managing your wealth, Schwab gives you more choices. You can invest and trade on your own, plus, get advice and more comprehensive wealth solutions to help meet your unique needs. With award-winning service, low cost and transparent advice, you can manage your wealth your way at Schwab. Visit schwab.com to learn more.
+
+
+Hey folks, it's Mark Marin from WTF. It's spring, a time of renewal, of rebirth, of reintroducing yourself to your fitness goals, and Peloton has what you need to get started. You can take a variety of on demand and live classes that last anywhere from 10 minutes to an hour. There are thousands of Peloton members whose lives were changed by taking charge of their fitness routines. Now you can be one of them. Spring into action right now. Find your push, find your power with peloton@onepeloton.com.
+
+
+Thumbtack presents the ins and outs of caring for your home. Out uncertainty, self-doubt, stressing about not knowing where to start in plans and guides that make it easy to get home projects done out. Word art, sorry, live, laugh lovers in knowing what to do, when to do it, and who to hire. Start caring for your home with confidence. Download Thumbtack. Today.
+
+
+You are listening to TED Talks Daily where we bring you new ideas to spark your curiosity every day. I'm your host, Elise Hugh, neuroscience researcher, Ricardo Laconte specializes in something that is relevant across many fields, how to detect lies or lying. In his 2024 talk, he sheds light on how AI can be assistive and in some cases better than humans at lie detection, but he warns. There are also areas where AI has a ways to go. This is something you won't like, but here everyone is a liar and don't take it too personally.
+
+
+What I mean is that lying is very common and it is now well established that we lie on a daily basis. Indeed, scientists have estimated that we tell around two lies per day. Although of course, it's not that easy to establish those number with certainty. And well, I introduced myself. I'm Ricardo. I'm a psychologist and a PhD, PhD candidate, and for my research project I study how good are people at detecting lies. Seems cool, right? But I'm not joking. And you might wonder why a psychologist was then invited to give a TED talk about ai.
+
+
+And while I'm here today, because I'm about to tell you how AI could be used to detect lies, and you will be very surprised by the answer. But first of all, when is it relevant to the tech lies? A first clear example that comes to my mind is in the criminal investigation field. Imagine you are a police officer and you want to interview a suspect, and the suspect is providing some information to you, and those information are actually leading to the next steps on the investigation. We certainly want to understand if the suspect is reliable or if they are trying to deceiving us.
+
+
+Then another example comes to my mind, and I think this really affects all of us. So please raise your rent If you would like to know If you partner cheated on you. And don't be shy because I know and yeah, you see it's very relevant. However, I have to say that we as humans are very bad at detecting lies. In fact, many studies have already confirmed that when people are asked to judge if someone is lying or not, without knowing much about that person or the context, people's accuracy is no better than the chance level about the same as flipping a coin.
+
+
+And you might also wonder if experts such as police officers, prosecutors, experts, and even psychologists are better at detecting lies. And the answer is complex because experience alone doesn't seem to be enough to help detecting lies accurately. It might help, but it's not enough to give you some numbers. In a well known meta-analysis that previous scholars did in 2006, they found that naive judges accuracy was on average around 54%. Experts performed only slightly better with an accuracy rate around 55%.
+
+
+Not that impressive, right? And those numbers actually come from the analysis of the results or 100 and date studies, meaning that these findings are quite robust. And of course the debate is also much more complicated than this and also more nuance. But here the main tech message is that humans are not good at detecting lies. What if we are creating an AI tool where everyone can detect is someone else's lying? This is not possible yet, so please don't panic.
+
+
+But this is what we try to do In a recent study that I did together with my brilliant colleagues whom I need to thank and actually to let you understand what you need in what we did in our study, I need to first introduce you to some technical concepts and to the main characters of this story. Large language models. Large language models are AI systems designed to generate outputs in natural language in a way that almost mimics human communication. If you are wondering how we teach this AI systems to the tech lies, here is where something called fine tuning comes in.
+
+
+But let's use a metaphor. Imagine large language models being a student who have gone through years of school learning a little bit about everything such as language, concept, facts. But when it's time for them to specialize like in law school or in medical school, they need more focused training. Fine tuning is that extra education. And of course, large language models don't learn as humans do. But this is just to give you the main idea. Then as for training students, you need books, lectures, examples for training large language models.
+
+
+You need data sets. And for our study, we consider three data sets, one about personal opinions, one about past autobiographical memories, and one about future intentions. These data sets were already available from previous studies and contain both truthful and acceptive statements. Typically, you collect these type of statements by asking participants to tell the truth or to lie about something. For example, if I was a participant in the truthful condition and the task was tell me about your past holidays, then I will tell the researcher about my previous holidays in Vietnam For the septic condition, they will randomly pick some of you who have never been to Vietnam and they will ask you to make up a story and convince someone else that you've really been to Vietnam.
+
+
+And this is how it typically works. And as in all university courses, you might notice after lectures you have exams. And likewise, after training our AI models, we would like to test them. And the procedure that we followed that it's actually the typical one, is the following. So we took, we picked some statements randomly from each dataset and we took them apart. So the model never saw the statements during the training phase and only after the training was completed, we used them as a test, as the final exam.
+
+
+But who was our student then? In this case, it was a large language model developed by Google and called Flay five flay for France. And now that we have all the pieces of the process together, we can actually dig deep into our study. Our study was composed by three main experiments. For the first experiment, we fine tuned our model, our TI five on each single dataset separately. For the second experiment, we fine tuned our model on two pairs of dataset together and we test it on the third remaining one, and we use all three possible combinations.
+
+
+For the last final experiment, we fine tuned the model on a new larger training test set that we obtained by combining all the three datasets together. The results were quite interesting because what we found was that in the first experiment, TI five achieved an accuracy range across between 70 and 80%. However, in the second experiment, TI five dropped its accuracy to almost 50%. And then surprisingly in the third experiment, ti five rose back to almost 80%.
+
+
+But what does this mean? What can learn? What can we learn from these results from experiment one and three, we learn that language models can effectively classify statements as deceptive, outperforming human benchmarks and aligning with previous machine learning, deep learning models that previous studies trained on the same data sets. However, from the second experiment, we see that language models struggle in generalizing this knowledge, this learning across different contexts. And this is apparently because there is no one single universal rule of deception that we, we can easily apply in every context.
+
+
+But linguistic use of deception are context dependent. And from the third experiment, we learn that actually language model can generalize well across different contexts if only they have been previously exposed to examples during the training phase. And I think this sounds as a good news, but while this means that language models can be effectively applied for real life applications in lie detection, more application is needed because a single study is never enough. So that from tomorrow we can lo all have these AI systems on our smartphones and starting detecting other people's lives.
+
+
+But as a scientist, I have a vivid imagination and I would like to dream big. And also I would like to bring you with me this futuristic journey for a while. So please imagine with me living in a world where this lie detection technology is well integrated in our life, making everything from national security to social media a little bit safer. And imagine having this AI system that could actually spot fake opinions from tomorrow. We could say when a politician is actually saying one thing and truly believe something else. And what about the security board context where people are asked about their intentions and reasons for why they are crossing borders or boarding place?
+
+
+Yeah, planes. Well, with these systems, we could actually spot malicious intentions before they even happen. And what about the recruiting process? We heard about this already, but actually companies could employ this AI to distinguish those who are really passionate about the role from those who are just trying to say the right things to get a job. And finally, we have social media scammers trying to deceive you or to steal your identity, all gone. And someone else may claim something about fake news and where perfectly language model could automatically read the news, flag them as as deceptive or faked, and we could even provide users with a credibility score for the information they read.
+
+
+It sounds like a brilliant future, right? Yes. But all great progress comes with risks. As much as I'm excited about this future, I think we need be to be careful. If we're not cautious, in my view, we couldn't up in a world where people might just blindly believe AI outputs. And I'm afraid this means that people will just be more likely to accuse others of lying just because an AI say so. And I'm not the only one with this view because another study already proved it.
+
+
+In addition, if we totally rely on this lie detection technology to say someone else is lying or not, we risk losing another important key value in society. We lose trust. We won't need to trust people anymore because what we will do is just asking an AI to double check for us. But are we really willing to blindly believe AI and give up our critical thinking? I think that's the future we need to avoid. What I hope for the future is more interpretability, and I'm about to tell you what I mean similar to when we look at Travis online and we can both look at the total number of stars places, but also we can look at more in detail at the positive and negative reviews and trying to understand what were the positive sides, but also what might have gone wrong to eventually create our own and personal idea if that is the place where we want to go, where we want to be.
+
+
+Likewise, imagine a world where AI doesn't just offer conclusions, but also provide clear and understandable explanations behind its decisions. And I envision a future where this light detection technology wouldn't just provide us with a simple judgment, but also with clear explanations for why things someone else is lying. And I would like a future where, yes, this light detection technology is integrated in our life, or also AI technology in general, but still at the same time, we are able to think critically and decide when we want to trust an AI judgment or when we want to question it.
+
+
+To conclude, I think the future of using AI for lie detection is not just about technological advancement, but about announcing our understanding and fostering trust. It's about developing tools that don't replace human judgments, but empower it, ensuring that we remain in the end. Don't step into a future with blind reliance on technology. Let's commit to deep understanding and ethical use, and we'll pursue the truth. Thank you.
+
+
+That was Ricardo Laconte at TED AI Vienna in 2024. If you're curious about Ted's curation, find out more at TED dot com slash curation guidelines. And that's it for today's show. TED Talks Daily is part of the TED Audio Collective. This episode was produced and edited by our team, Martha Esnos, Oliver Friedman, Brian Green, Lucy, little Alejandra Salazar, and Tanika SanMar Nivo. It was mixed by Christopher Fay Bogan. Additional support from Emma Toner and Daniella Rezo. I'm Elise Hugh. I'll be back tomorrow with a fresh idea for your feed. Thanks for listening.
+
+
+Ever wonder what your lashes are Destined for? The cards have spoken. Maybelline New York mascara does it all. Whether you crave fully fan lashes with lash, sensational, big, bold volume from the colossal, a dramatic lift with falsies, lash lift, or natural looking volume from great lash, your perfect lash future awaits. Manifest your best mascara today. Shop Maybelline New York and discover your Lash Destiny Shop now at Walmart.
+
+
+If you wear glasses, you know how hard it is to find the perfect pair, but step into a Warby Parker store and you'll see it doesn't have to be. Not only will you find a great selection of frames, you'll also meet helpful advisors and friendly optometrists. Yep. Many Warby Parker locations also offer eye exams. So the next time you need glasses, sunglasses, contact lenses, or a new prescription, you know where to look. To find a Warby Parker store near you or to book an eye exam, head over to Warby Parker dot com slash retail.
+
+
+This episode is brought to you by Progressive Insurance. Do you ever think about switching insurance companies to see If you could save some cash? Progressive makes it easy to see If you could save. When you bundle your home and auto policies, try it@progressive.com. Progressive casualty insurance company and affiliates. Potential savings will vary. Not available in all states.

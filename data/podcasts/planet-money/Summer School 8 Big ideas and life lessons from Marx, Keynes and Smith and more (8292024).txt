@@ -1,0 +1,167 @@
+
+This message comes from NPR sponsor Ultra Software by UL Solutions. Ultra Software helps companies drive innovation, meet regulatory requirements, and get safer, sustainable products to market. Learn more@ultrus.com slash npr.
+
+
+This is Planet Money from NPR Graduating class of Planet Money Summer School 2024 Professors, parents, welcome to your commencement ceremony for your master's degree in the economic history of the world. We stand here on the great lawn of Planet Money University, a place that only exists in our minds, yet a place we return to every summer with a sincere desire to learn a bunch of facts that we can amuse our friends and family with during backyard barbecues today on the show, the greatest graduation in history because it features the greatest economic minds in history.
+
+
+We'll hear from Adam Smith, Karl, Marx, John, Maynard, Keynes, and some surprising guests as they provide a little bit of economics and a lot of life advice. It's been 5,000 years in the making. This is lesson eight today and beyond. I'm Robert Smith. While our graduation speakers are putting on their robes and sneaking extra glasses of champagne, I see you John, Maynard, Keynes. We have some business here to take care of because you have not yet proved to us that you are worthy of a completely bogus fake degree from a made up school. You have to pass a test.
+
+
+We have a fiendishly clever final quiz that we've now put up online. It's at npr.org/ Summer. School. Eight questions are all you need to answer, but you might need to go back and study a bit. This Summer School session has moved fast. It was like the economic history version of Billy Joel's 1989 hit. We didn't start the fire. We went from stone coins to spice shills to John Law, printing paper bills, stock trades, bonds made. Amsterdam was getting paid for plague survivors work was keen. Let express the new machines. Ricardo Biddle panics were the latest scene we didn't, sorry, almost embarrassed myself there and violated copyright law, but you get the idea.
+
+
+Study up, Take the test, and sit back and enjoy your last day in Summer. School coming up after the break, we desperately try to finish up the last 50 years of history and then the ceremony you've been waiting for. Hmm.
+
+
+This message comes from Apple Card. Apple Card is the perfect card for your holiday shopping. When you use Apple Card on your iPhone, you'll earn up to 3% daily cash back on every purchase, including products at Apple, like a new iPhone 16 or Apple Watch Ultra. Apply now in the wallet app on your iPhone subject to credit approval. Apple Card issued by Goldman Sachs Bank, USA Salt Lake City branch terms and more@applecard.com.
+
+
+This message comes from Grammarly. 88% of the work week is spent communicating. So it's important your team gets it right. Enter Grammarly Grammarly's AI helps teams communicate clearly the first time it goes beyond basic grammar to help teams instantly create and revise drafts in just one click, all without leaving the page there on. Join the 70,000 teams and 30 million people who use Grammarly to move work forward. Go to Grammarly dot com slash enterprise to learn more. Grammarly Enterprise ready, AI
+
+
+Welcome back graduates to be Adam Smith and Karl. Marx are backstage doing vocal warmups, the lips, the teeth, the tip of the tongue, But. first, we need to finish up the long stretch of economic timeline that we started in episode one. The reason we wanted to spend the summer talking about economic history is not just for the trivia, it's So. we can understand our current moment. Basically to answer the question, can economics make life better for us all? Has it lived up to its promise? That's the subject of an episode that aired on the Planet Money indicator in 2018. It used a very clever gimmick to figure out how we should look at the last 50 years of human achievement.
+
+
+Stacey Vanek Smith and Cardiff Garcia have the story from 2018. There's this idea we've been obsessed with recently. Destruction tends to happen quickly. Progress often is slow, and this combination of sudden bad things and slow good things, it kind of messes up the way we see the world. The news is all about bad things. Hurricanes, school shootings, fires, all the political fighting and in the background, these good things happen, kind of sorta invisibly. But what would happen if instead of us getting news updates every day or multiple times a day, or every Minutes, however long it takes from my Twitter feed to update? Yeah. What if we only got news updates every 50 years?
+
+
+Things would look really different. Can we get you just introduce yourself? Yeah. So hello, my name is Hannah Ritchi. Yeah, my name is Max Rosa. I'm a researcher at the University of Oxford. Hannah and Max work on this project at Oxford called Our World In Data. We got the idea for the 50 year newspaper from them. Max had written about the concept in an article he wrote for, ironically enough, the Washington Post, a daily newspaper, but he didn't actually make a version of this 50 year newspaper himself, So. we called up Max and Hannah and we put them on the spot And we said, okay, guys, the last version of this paper would've been published on January 1st, 1968. It is about to come out now, January 1st, 2018.
+
+
+What do we put on the front page? Well, Obviously there's gonna be a mix of good and bad news, and to be honest, I kind of just wanna get the bad news over with. So Yes, let's Do that. Let's start there. First headline, is it just me or is it hot in here? Carbon dioxide emissions, which contribute to global warming of more than doubled over the last 50 years. Hannah says this means we're on track to see the temperature increase by more than three and a half degrees over the next a hundred years, and we've heard a lot about the terrible things that that temperature increase will mean the next story, more bad news. Cardiff, you do the headline, Humans to Animals Drop Dead. We really are kind of eradicating biodiversity are really fast rate since 1970, the number of terrestrial animals is declined by 60%.
+
+
+Wow. Really? Yeah. Yeah. Wow. There's been kind of this new term coin that in Anthropocene and Ropo is human, so it's basically the humans are taking over the world and this geological period will be defined by us. 60% decline in the number of terrestrial animals. That is an astonishing figure and a little bit depressing A little bit. But the thing to know about all this bad news, Stacey, is that it's also kind of the side effect of really great news, and Max and Hannah argue that some of the stories on the front page of our paper really need to reflect that. So definitely also on the front page, the next headline, this one's yours, Poor No More.
+
+
+Over these five decades, we saw global poverty fall from well over 60% to below 10% in the latest figures. Wow, that's, That seems huge. It is huge. Like this development is really huge. We've gone from six in 10 people living in poverty, most of the people in the world to just one in 10 max has because the world has gotten wealthier, and that's meant a better life for most of the people on the planet. It really shows that modern economic growth can be and often is a positive sum game. Right. Next headline, child mortality plummets. Last Time when we had the newspaper out, we still lived in a world where one out of six children were dead before it was five years old.
+
+
+Today it's one in 22 kids who die before the age of five. And Max says, this is still unacceptably high. He's right of Course, but that is still profoundly better than it was 50 years ago. People have more access to healthcare education. Smallpox has been eradicated, and polio has almost been eradicated. More people have access to clean water and to food, and in fact, food brings us to our next headline. Blame It on the grain. The sheer of people that are defined as undernourished or hungry, fallen nearly two thirds in the last 50 years, Back in 1968, more than a third of the people living in developing countries didn't have enough to eat.
+
+
+Now it's about 12%. And this has really been driven by a range of factors such as fertilizer, improved crop varieties, irrigation, agricultural machinery. All of these have contributed to see this really dramatic yield increase. You know what's interesting about this, Hannah, is that when we think about technological advancement, we tend to think about like high tech stuff, like our iPhones or something. But actually it sounds like one of the most impressive and most significant innovations has actually been in this kind of boring sector of agriculture. But that is actually what's made a huge substantive difference in people's lives, Right?
+
+
+Together, they've probably saved the lives of three, 4 billion people. So the these are the really, really crucial technological advancements, I'd say. So if you read all five stories on the front of this 50 year newspaper, you'll sort of notice that the good news and the bad news are linked together. The bad news was the cost of the good news, because if you think about it, higher emissions and less biodiversity, these are the costs of the economic growth that made all of the good news possible. And the good news is really good. It's great I mean child mortality, falling, people getting wealthier, those are really good things, but they've come at a really big price. That's right.
+
+
+And so it seems like the challenge for the next 50 years is how do you keep the good news coming? How do you keep making things better for people while also not totally screwing up the planet? Oh wait, Stacy, should we have included the fall of communism on here? Oh, whatever. Do that one In 2068, Cardiff Garcia and Stacey Fannick Smith, let's call them our valedictorians for the class of 2024. They're also members of our Honor Society of Phi Beta Plana, which you too can join. If you get a perfect score on our final quiz, it's at npr.org/ Summer School.
+
+
+Okay. We'll let the Summer School Choir perform while we take a break and when we return, Adam Smith takes the stage.
+
+
+This message comes from Capital One banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply. See Capital One dot com slash bank for details. Capital One na member FDIC.
+
+
+This message comes from NPR sponsor, Merrill. Whatever your financial goals are, you want a straightforward path there. But the real world doesn't usually work that way. Merrill understands that. That's why with a dedicated Merrill advisor, you get a personalized plan and a clear path forward. Go to ml.com/bullish to learn more. Merrill a Bank of America company. What would you like the power to do? Investing involves risk. Merrill Lynch, Pierce Fenner and Smith Incorporated. Registered broker dealer. Registered investment advisor, member SIPC.
+
+
+This message comes from sun and ski sports. Soccer at six. Volleyball at seven. Parent life from Stanley Cups to bog bags. Sun and ski carries the gear. Parents' need gear up and relax. Sun and ski sports where Parenthood meets game day
+
+
+Owed to be a new graduate from a free podcast university. Oh, I remember it well, and I know that the world is scary out there for people with clearly fake credentials. But do not worry. Today, the most influential thinkers and economics will travel through time to give you some advice to take with you out into the real world. Here's how it's going to work. We will invite to the stage the people who have written biographies of the world's most famous economists, and they will give us a brief synopsis of where their subject fits into history and what that economist might tell the class of 2024 Warning. The economists don't always agree with each other. Fight, fight, fight.
+
+
+First up, the father of economics, the captain of capitalism, Adam Smith, Adam Smith, will be presented by Russ Roberts, who is the John and Jane alt research fellow at the Hoover Institution, and the author of the book, how Adam Smith Can Change Your Life Before You Change Our Lives. Russ, could you give the graduates a few words about how we should think of Adam Smith? Adam Smith was important in economics. Well, I mean more than just economics. Don't you think I mean? He really was the first social scientist. He understood that many of the things that we see in the world around us emerge without central design or planning by any one individual, but are the result of all of our actions in modernize.
+
+
+We would call an example of that a market. No one person decides what houses should cost in a particular city or how much a barber could charge for a haircut or A stylist. These are things that just happen. We take them for granted. And one of the things we take for granted more than anything else is that when we wanna go buy something, it's there waiting for us in countries that adopt a market-based economy. And Smith understood that in a way that was really not so obvious and reminded us to be aware of. Its magnificence. He's not, by the way, a free market ideologue, but nor is he a central planner. What he was trying to illuminate was the power of self-interest, not selfishness, but how self-interest combined crucially with competition could make our lives better.
+
+
+Now, you might expect an Adam Smith graduation speech to push everyone to pursue the profit, motive and self-interest in a free market. But this isn't business school today. And Adam Smith was also a moral philosopher who thought about human needs and desires beyond money. I know, I know. Russ Roberts Take the microphone and give us your interpretation of what Adam Smith would say. You know if Adam Smith were alive today and had a chance to give a commencement address to a group of of graduates, I think he would draw in his less famous book, the Theory of Moral Sentiments, which he published in 1759. And in there he wrote, man Naturally desires not only to be loved, but to be lovely.
+
+
+Now, he was writing in 1759, so he said, man, but by man, he meant men and women, human beings have two urges. The first is to be loved and by loved, he meant respected, praised to matter, to be honored. And by lovely he meant writing in 1759 to be worthy of praise, worthy of honor, worthy of respect. So he understood we were flawed. He understood that we often pursue our self-interest at the expense of other people. But he believed that deep down we also wanted to be decent because we understood that if we are to be respected, we have to earn it. And I think that's excellent advice for anyone who's just graduating and moving into the next stage of their life, which is be lovely, be worthy of honor, respect, and praise.
+
+
+Thank you very much. And thank you Russ Roberts, who I should say is one of the OG economics podcasters. His show Econ Talk is one of our favorites here, At Planet Money. Next up, a man who did not comb his hair or trim his substantial beard for the occasion. How could he? It's his trademark. I'm talking about the great Karl Marx. Now you may know him as the inspiration for proletariat revolutions around the world, but before that, Karl Marx was primarily a long-winded economic writer. He came 100 years after Adam Smith and said, yeah, that whole capitalism thing isn't working.
+
+
+To share his words of wisdom, please welcome to the graduation stage of Vanessa Wills professor of philosophy at the George Washington University. Professor. First, we need the world's shortest recap of Marxist thought. Karl Marx existed under capitalism like we do, and capitalism is a system where some people own the means of production factories, raw materials, technology and so on, and lots of people don't. And the people who don't sell their labor power, they sell their ability to work, which is the only thing that they have. And the result is that over time, the people who sell their labor power form a massive poor people who don't have meaningful control in their society and those who own the means of productions become quite wealthy, right?
+
+
+They they do. They do okay for themselves. Mark thought that this was a necessary result of capitalism, that this was something that could not be done away with under capitalism. And so what he advocated instead was socialism, sometimes called communism. And that is an economic system where workers own the means of production. there is shared democratic control over society's resources. So every person can develop their own interests, capacities, and talents, and they can do that as part of a community where people are helping one another to flourish as well.
+
+
+Karl Marx famously died before a lot of the revolutions that would happen in his name. But if he were to get the chance to stand in front of us now, what would be his advice? Vanessa, you may address the assembled crowd Graduates. Congratulations on making it to this point of completion of the Planet Money Summer School. I think that if Karl Marx were here with us today, he would give you the same advice he gave to a friend of his in a letter that he wrote during his lifetime. And that was to engage in the ruthless criticism of all that exists.
+
+
+Marx went on ruthless, both in the sense of not being afraid of the results it arrives at, and in the sense of being just as little afraid of conflict with the powers that be. Now we can ask, what does Marx mean by ruthless criticism? He doesn't just mean being a hater, although Marx could have been accused of being a hater at times. He's talking about really looking at the world around us and seeing it as a world that is in movement about which we can ask, how did this come to be? Why does this institution have legitimacy?
+
+
+Why does that person deserve our obedience? And those questions can lead us to answers, not just about how we got where we are, but also about where we want to be and how we can get there. So I, I think that we very much live in a time that is not so different from Marxist's time. And in fact, I would go so far as to say it is Marxist's time because we still live in a capitalist system and we still live in a world where human beings are pitted one against the other. And if we ever wanna change that, then I think we need to take up that advice. Thank you very much.
+
+
+Ho ho. The students love them. Some marks. He'll be signing dorm room posters and T-shirts after the ceremony. And thank you to Professor Wills author of Marx's Ethical Vision. Let's fit in one more speech before we take a quick break, and let's go a little less obvious this time. Sadie Alexander, born in 1898, a little after Karl Marx died. Sadie Alexander doesn't make it into a lot of economics textbooks. So, we have invited Nina Banks, a professor of economics at Bucknell University to sing her praises. Professor, tell the graduates why we should know the name Sadie Alexander. So Sadie Tanner, Marcel Alexander was the first African American economist.
+
+
+Unfortunately because of gender and racial discrimination, she was prevented from having a career in economics after she received her doctorate degree in 1921. But I found through going through her archival records, that she had actually spent her entire life focused on economic concerns facing African-Americans, and that she used the law as well as her knowledge of economics in order to challenge those inequities. She just happened to do it through the Civil Rights Movement rather than publishing long books of economic philosophy like our first two speakers. So professor, the lectern is open. The crowd is waiting for a life lesson from Sadie Alexander.
+
+
+So if Sadie Alexander were addressing a graduating class of students, she would want them to focus on the major economic and political challenges that our nation is currently facing During her lifetime, she lived through racial violence, she lived through the Great Depression, the New Deal era, McCarthyism, and the Civil Rights Movement. So Sadie Alexander would propose that government implement policies that would help to expand the rights of citizenship through providing job opportunities to everybody.
+
+
+And she believed that the government could provide full employment by creating public works projects that focused on pressing social needs, such as inadequate housing and food insecurity. And so Sadie Alexander would challenge you to remember all of the important lessons that you've learned about economic history through Planet Money. And she would encourage you to always remember that people have dignity and to promote their dignity. She would encourage you to be a person of integrity, and she would also most definitely encourage you to be outspoken and to challenge inequities and injustices that prevail within our society.
+
+
+Thank you very much, and good luck. Graduates. Marks and Smith may have had their theories, but never forget that there are real people and real injustices out there. Thank you, professor Nina Banks from Bucknell University. She edited the book, democracy, race and Justice, the speeches and writings of Sadie TM Alexander. For those of you here on the lawn, we will now read out the names of every single one of our Summer School listeners should only take a few hours. For those of you listening at home, we'll take a quick break. Before we hear from the great icons of the modern economy, John, Maynard, Keynes and Milton Friedman, please hold your applause everyone, as I read the graduate's names, Aaron Aronson Abel Aronson Ade Aaronson.
+
+
+This message comes from BetterHelp. It's important to take time to show gratitude towards others, but it's equally important to thank yourself. Life throws a lot of curve balls, and being grateful isn't always easy. Therapy can help remind you of all that you're worthy of and all that you do have. Let the gratitude flow with BetterHelp. Try at BetterHelp dot com slash NPR today to get 10% off your first month.
+
+
+Joe Biden's on his way out, and Donald Trump's on his way back, wanna know what's happening as the presidential transition is underway. The NPR Politics Podcast has you covered with the latest news and analysis. Listen to the NPR Politics podcast, Zara Ze and Ziggy Zub holder.
+
+
+I think that's it. You may now applaud. Whoa, sun's getting low in the sky, but we still have to learn about the contributions of three of the most brilliant economists of the 20th century. At this point, many great thinkers were realizing that capitalism would need some fixing if it was going to survive. First up, the genius and bonvan who reshaped economics after the Great Depression, John, Maynard, Keynes, we have with us one of his biographers, Zachary Carter. Zach, give us canes in a nutshell. Keynes established the basis for what we now call the macro economy, the idea that the dynamics that prevail across the whole economy could be different from those that apply to an individual household or business.
+
+
+And part of this is the observation that the economy does not necessarily tend toward any kind of naturally harmonious equilibrium in which things just generally work out for all of the individual actors. The active hand of the state is in fact required to ensure that things like everybody who wants a job can actually get one Graduates. You may remember we talked about Keyes in our episode about the Depression. He had the theory that the government can fight economic busts by spending more money. And when we hear about government stimulus during, say, the Covid pandemic, that's John Maynard Keynes guiding the hand of the state.
+
+
+Zachary, it is time for you to bring the spirit of John Maynard Keynes back to life for a few moments to help him share his wisdom. For the graduates Welcome graduates of Summer School 2024, congratulations on completing an achievement that Keynes himself never mastered the fulfillment of an entire series of coursework on economics. I'm sure he would be very proud of all of you today. He had a wonderful quote from the 1920s about what a great economist ought to be. And I'll read it for you now. Good or even competent economists are the rarest of birds. The master economist must be mathematician, historian, statesman, philosopher in some degree he must understand symbols and speak in words.
+
+
+He must contemplate the particular in terms of the general and touch, abstract and concrete in the same flight of thought. He must study the present in the light of the past for the purposes of the future. No part of man's nature or his institutions must be entirely outside his regard. He must be purposeful and disinterested in a simultaneous mood as aloof and incorruptible as an artist, yet sometimes as near to earth as a politician. And I'll leave you with that. Congratulations and thank you very much. Zachary Carter wrote the book, the Price of Peace, money, democracy, and the Life of John, Maynard Keynes. We now turn to the person called the greatest economist who never win a Nobel Prize.
+
+
+Joan Robinson. She was born in 1903 and lived 80 years. And here to share Joan's wisdom is Linda Yu, an Oxford University economist, and the author of the Great Economists, how their ideas can Help us Today in which Joan Robinson was featured. The graduates may not know as much about or Linda, so give us the highlights. Let me start actually with one of her sayings, which I think says quite a lot about her. So she once observed the purpose of studying economics is not to acquire a set of ready-made answers to economic questions, but to learn how to avoid being deceived by economists. So even though she was an economist at Cambridge University, she certainly had, I think, yeah, just a different view of the subject.
+
+
+So aside from her pithy sayings, the reason why I think Joan Robinson should be giving this commencement speech is because she changed our thinking about labor markets. She introduced the concept of monopsony So. we know the concept of monopoly. That's when there's only one business selling a thing. They control. The market can set the prices for consumers, but monopsony is different. What was Joan Robinson writing about when she talked about monopsony? It's The same concept but for the labor market. So it's an employer who has great market power, and so therefore they can set wages below what might be considered to be fair pay. And this concept of monopsony has been discussed as the reason why wages have lagged behind economic growth for decades in the United States.
+
+
+Well, our graduates are certainly concerned about their wages. You've put the fear into them. So let's get the spirit of Joan Robinson up here to inspire and address the graduates. I think the advice that Joan would offer all of you gathered here today is do not go down the usual path. Come up with something revolutionary. And that's what thinking is about. It's not whether or not the mathematics absolutely support a 100%. It's about engaging with the big, messy macroeconomic questions that could change our lives. She certainly did that. Thank you all very much.
+
+
+Linda Yu from Oxford University You know, looking out into the audience, I can see that you sense the intellectual tension between our speakers. We had the original free markets guy, Adam Smith, and then awkwardly the man ready to overthrow that system, Karl Marx. And then we had advocates for how the government can help capitalism work, be more compassionate. Sadie Alexander John, Maynard Keynes. For our last speaker, the man who wanted us to return to some of the original Adam Smith, free market spirit, Milton Friedman, a professor at the University of Chicago with us. Now to present the last speech is Jennifer Burns, an associate professor of history at Stanford and a fellow at the Hoover Institution.
+
+
+She wrote the book, Milton Friedman, the Last Conservative. Why does Milton Friedman deserve a place in this pantheon of speakers we've had here today? So Milton Friedman is known as a founder of Monetarism, which he summarized with the statement, inflation is always and everywhere, a monetary phenomenon. Now, what did he mean by a monetary phenomenon? He meant that it's fundamentally connected to the amount of money that is circulating in an economy and and money defined in various different ways. But what it really did was it drew the attention of observers to the role of the Federal Reserve system in the American economy. And specifically, Freedman looked at the Great Depression and said the Federal Reserve system contributed to the Great Depression by not providing enough liquidity in the system.
+
+
+And then he looked to what was happening in the 1970s, which was an emergence of sustained inflation, and said, what's happening here is that the Fed is being too loose with money, and this is what's causing inflation. Now, this was revolutionary at the time because many other economists thought inflation was caused by, let's say, labor unions bidding up wages or corporations waging prices. And he said, You know those are symptoms of inflation. Those are not the cause. The cause of inflation is going to be at the structural level and the policy decisions that are made that influence and affect the banking system and how much money the banking system is circulating throughout the general economy.
+
+
+To put his message simply, inflation comes from too much money. So, we know what his advice to governments might be, especially these days, but you all might be thinking, what does he have to say that's relevant to the graduates of an imaginary college? Jennifer Burns, take it away. Congratulations. If Milton Friedman were here speaking to you, he'd probably say Pay attention to the unseen, not just the scene. In other words, don't look for the visible and obvious explanations of events, but think about the invisible larger forces that may be working themselves out slowly in history. A good example of this from economics would be, don't blame the Great Depression on the stock market crash of 1929.
+
+
+Instead, look carefully at what the Federal Reserve is doing or not doing. And a good example of this from life in general would be instead of thinking, all social problems can be solved with a government program or A law, think about in fact, if this law or regulation might actually make the problem worse. But to make it clear, Freeman was not a pessimist, nor did he think the government could never do any good. It's just that he had supreme confidence in human creativity, human ingenuity, and the power of human freedom. So he would say it's in your hands and keep that in mind.
+
+
+Graduates as you Sally forth into the wide world. Thank you so much, And thank you to all of our distinguished and honored speakers here today, and the professors and historians who helped bring them back from the dead. I can say this, they would've all loved podcasting. Whoa, whoa, whoa, whoa, whoa. Before you throw your cap in the air and head out to the bars, remember you do have one last thing to do. Take, the Planet Money history quiz eight questions that will allow you to download that instrument of braggadocio, the virtual diploma suitable for framing, decorating your locker, or what the heck, put it on LinkedIn. No one will read the fine print.
+
+
+The quiz is at npr.org/ Summer. School. If this is your first year as a graduate of Summer School, we have four other seasons available. Search for our special Summer School podcast feed. We have degrees in microeconomics, macroeconomics investing, and an MBA program. Enough podcasts to get you through to next summer when we will return with another burst of academic learning. Until then, graduates congratulations and make your own history. Audrey Tilling is the producer of Planet Money, Summer School, and the one who figured out how to get 5,000 years of history into just eight episodes.
+
+
+Devin Miller is our project manager, Sophia Shov. Fact check this episode. And Alex Goldmark is our editor and executive producer. This episode was engineered by James Willits. Special thanks to Alison Hurt, Kristen Hume, Daria Boor, and Amber Kerns for their help on this series. And to the staff of Planet Money for listening to the episodes and giving us feedback before they aired. I'm Robert Smith. This is NPR. Thanks for listening.
+
+
+This message comes from Capella University. With Capella's Flex path learning format, you can set your own deadlines and learn on your schedule. A different future is closer than you think with Capella University. Learn more@capella.edu.
+
+
+Support for the following message. come from LinkedIn ads. With LinkedIn ads. you can reach professionals relevant to your business, Target them by job title, industry, company, and more by launching your next campaign with a free $100 ad credit at LinkedIn dot com slash results. Terms and conditions apply.

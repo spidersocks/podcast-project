@@ -1,0 +1,122 @@
+
+This message comes from Capital One. Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts. What's in your wallet terms? Apply. See Capital One dot com slash bank for details. Capital One, NA member FDIC.
+
+
+This is Planet Money from NPR R. Next month, a crucially important measure of the economy comes out. It's the measure, really gross domestic product. It's the total tally of all the goods and services bought and sold in the economy. In this case, it'll be for the first quarter of 2025. This one big number that tells us how the economy is doing after a pretty intense couple of months. And the report is right now being put together by these statistics nerds over at the Bureau of Economic Analysis, or the BEA And it's publication is kind of always a big deal.
+
+
+It is closely watched because people can see how hot the economy is running or how cold, like if we're tipping into a recession. But this release, this is gonna be even closer watched. And that is because earlier this month, Commerce Secretary Howard Lutnick, who oversees the BEA, he went on Fox News and made what was maybe a big pronouncement. You know, the governments historically have messed with GDP. They count government spending as part of GDP. So I'm gonna separate those two and make it transparent. In other words, Lutnick is saying he's gonna strip government spending out of GDP and the stated reason for this proposed change, he doesn't think that a lot of government spending is great for the economy.
+
+
+He doesn't want it incentivized and he doesn't want it included in GDP. The unstated reason seems to be the Trump administration is firing a whole bunch of government workers, shrinking budgets, canceling contracts, and if, or I guess when that shows up in GDP, it'll look bad. But like, can they do that? Can they change how we measure the economy? Just like that. Hello and welcome to Planet Money. I'm Mary Childs. And I'm Nick Fountain. So GDP, what exactly is it? How is it calculated? Does it ever change? We're gonna talk to the person who was the keeper of the stat for nearly 20 years. Turns out people from politicians to economists to special interest groups have been trying to bend GDP for decades to make whatever grand project they're working on look better today on the show.
+
+
+What's different this time and what is the same as it ever was?
+
+
+Support for this podcast and the following message come from LinkedIn marketing solutions. One of the hardest parts about B2B marketing is reaching the right audience. So when you wanna reach the right professionals, use LinkedIn ads. Target your buyers by job title, industry, company role, seniority skills, company revenue, all the professionals you need to reach in one place. LinkedIn will even give you a $100 credit on your next campaign, so you can try it yourself. Just go to LinkedIn dot com slash money. Terms and conditions apply only on LinkedIn ads.
+
+
+This message comes from Capital One with the Venture X Card. Earn unlimited double miles on everything you buy. Plus, get premium benefits at a collection of hotels when booking through Capital One travel. What's in your wallet terms? Apply details at Capital One dot com.
+
+
+This message comes from NPR sponsor, Shopify. Start selling with Shopify today. Whether you are a garage entrepreneur or IPO ready, Shopify's the only tool you need to start, run and grow your business without the struggle. Go to Shopify dot com slash npr.
+
+
+Okay, GDP, what is it to help us understand? We brought in someone who spent 20 years in charge at the Bureau of Economic Analysis, that federal agency that calculates GDP. Steve Feld, Imagine you're in front of a room of third graders. Define GDP for me. That's easy. My kids used to ask me that And I said, I'm not gonna do it. No, I kept refusing them un until one of 'em actually became an economist. Okay, so parents, take note. If you want your kids to follow in your footsteps, keep your job a mystery. Sure. But our job is to demystify. So we press Steve to give us a definition. GDP is a statistic that captures all final transactions in the US economy, buying and selling of goods and services within a one year period, All the goods and services in the economy.
+
+
+In one year. The Concept was developed in the 1930s, and there's a formula to calculate it that's basically remained the same for decades. Yeah, it's essentially arithmetic. Here's how you calculate it. You start by adding up everything. Regular old people buy what are called final goods. Every car, every meal, every tamagotchi. And You add to that everything businesses invest in every factory, every new machine, every important office, foosball table. Then add to that, most of what the government spends on things like schools and roads, but not on government transfers, things like social security. Those are excluded. And then finally combine all that with what's called net exports.
+
+
+Everything we export minus everything. We import the economist in crowd. People like Steve would say, the whole formula this way, Y equals C plus I plus G plus X minus M. Got it. Good. You add up all those things, consumption, investment, government spending, net exports, and you get a country's GDP. Last year, that number for the US was $29 trillion, which means if you account for inflation, the economy grew 2.8% from the year before, which is not bad. And GDP is important. Not only does it tell us how healthy the economy is if we're headed towards a recession or not, but also GDP influences how the government allocates money.
+
+
+It influences whether businesses build a new factory or hire more workers. A lot of decisions are made based on how our GDP is doing. And because of all these things, presidents are often judged on how GDP is doing on their watch. And so you could see why they would want their GDP numbers to look as good as they can. Now, Steve, Steve wanted GDP to be as accurate as possible. He was obsessed with that mission for 20 years. He was essentially the defender of G'S integrity. Did you ever get political pressure from a president to change GDP? How it's calculated?
+
+
+Never directly, but indirectly. Yes. Leading case was a president who, You're gonna have to name names today, I'm sorry. It was Clinton President Bill Clinton. The story goes, Steve and others at the bureau wanted to change how GDP accounted for inflation. They wanted to change how they calculated what's called real GDP or inflation adjusted GDP. Correcting GDP for inflation is really important. 'cause if you have 2% growth, but also 2% inflation, you don't really have growth. And Steve wanted to use a new measure of inflation that better reflected how prices were factored in, so GDP would be more accurate.
+
+
+So it's around 1995, and Steve and his team bring this idea to the higher ups at the Department of Commerce, And it eventually makes its way to Clinton. Basically, Clinton gets a note, like a written memo or whatever, explaining how they're planning on changing real GDP. Steve still remembers some of what the note said. Experts agree. It's a much more accurate measure of real GDP growth. But what it's gonna do is it gonna raise growth prior to your administration and lower it after you came into office. In other words, the note said, we are gonna make your predecessor look better and you look worse for the sake of sound statistics.
+
+
+You could see how he would not want that to happen. Yeah, right. So the joke is he hands it back to him and then he says, And I want you to do something about that. They walk out, not really much discussion of what's going on here, and they get back to the office and they look at it And it scrolled in. This is, and they couldn't figure out what the last word was. They were thinking, is it, anyway, it Turns out it said, this is crap. After our interview, Steve checked, and apparently it said, this is nuts. But regardless for Steve, this was a concerning moment. He ran this independent statistical agency and he was trying to make GDP more accurate, but the president of the United States had expressed his displeasure about this change.
+
+
+But Steve was the keeper of the stat. He thought this change was really important, like important enough that he was thinking he might quit over it. So he and his team went to his boss's boss, the then commerce secretary, and told him, listen, there are a bunch of reasons why we've got to do this. You know what? He bought the whole thing. He was great. He says, we're doing it. I go, woo Woo. Steve had stood up to the president of the United States. He'd held the line for statistical soundness because he believed that this methodological change would make GDP more accurate. And Steve was always protecting GDP.
+
+
+He says people from various industries would try to meet with him to get him to change how their industries were calculated. Yeah. He told us that representatives from the Motion Picture Association of America, or big companies like car manufacturers were always coming to him because they wanted their industries to look bigger. It's good for number to go up. Why Bigger's better? I don't know. Maybe you get more attention in Congress. Steve says he was always open to ideas as long as those ideas were about making GDP more accurate. In fact, he has this one story of when Alan Greenspan, legendary economist, chair of the Federal Reserve for nearly 20 years invited Steve to his office.
+
+
+I'm trying to get in my right in my head. The power dynamics here. Is this like, are you peers? Is he more important? Is this like sharks and jets? He's a God And I am. I'm a foot soldier in the Roman Army, you know? Okay. Okay, that's very clear. Thank you. It's around 1996. And Greenspan wanted to talk about an issue he was having with GDP. It boiled down to this Greenspan thought GDP wasn't counting a whole big portion of the economy correctly. The technical reason was that there had actually long been a problem with GDP. And that is, it's hard to capture changes in quality when something gets better, but it doesn't always show up in the price. Lemme go back to the most basic one, which is the computer.
+
+
+Yeah. A thousand dollars computer in 1990 and a thousand dollars computer in 2000 are extremely different. The new computer is just way more computer, more bang for your buck. It's way faster. It has more storage. It can easily connect to the internet like a OL dial up. It can accept CD rom, not those inefficient floppy disks. But as far as GDP was concerned, they both cost the same. They both cost a thousand dollars. And so they were counted the same. So the economists at BEA tried to account for this. They made what are called hedonic adjustments. Greenspan was fine with the hedonic adjustments.
+
+
+BEA was doing for goods, but he had a problem with how they were doing hedonic adjustments for services. He was worried they weren't accurately capturing all the improvements in the quality of the service sector. People were doing way more in a day in industries like healthcare, in education, and basically everything to do with the internet. And because GDP wasn't correctly capturing that, BEA was under counting productivity growth, and they should look into that. Now. Steve also knew that Greenspan wanted this because he had an agenda. He wanted to keep interest rates low to stimulate the economy. Greenspan was expanding the money supply faster than some people thought warranted.
+
+
+And a lot of people later on said, see, we told you. But any event, one thing that would allow him to do that would be if we were underestimating productivity growth in the services sector, then that would sort of justify what he was doing or what the Fed was doing. Greenspan as chair of the Federal Reserve had been lowering interest rates through a lot of the 1990s, which meant that there was a lot of money sloshing around in the economy. And Greenspan seemed to think if he could convince Steve to do this hedonic adjustment for services, then inflation would seem smaller and real GDP would look stronger, and that would justify keeping interest rates low.
+
+
+And so he wanted us to hopefully to go out and find a lot more productivity growth out there by correctly measuring the service industries. And we did find a lot, but it was all legit. So Greenspan was coming to you saying, Hey, it'd be really useful to my project of expanding the money supply if you could go out and find a little bit of productivity for me in those numbers? No, In a sort of gangsta tone. And you went and did it. No, No, no, no, no. But it did seem like he was putting the pressure on you. Well, yeah. Yeah. He was putting on the intellectual pressure.
+
+
+Steve says Greenspan would pepper him and his top economists with questions run circles around them. And yeah, they knew that Greenspan kind of had an agenda, so they made sure to do their own research and he wasn't wrong, so they made the changes. Now looking back, Greenspan's Easy Money era is often cited as one, just one of the reasons for the risky lending that led to the 2008 global financial crisis. Now that we know what we know about 2008, do you feel any regrets about making this change at his behest? So you don't, you don't think, no, His stuff was so long overdue For Steve.
+
+
+It's not even a question empirically it was the right thing to do. He says the BEA was trying to keep GDP up to date, and Greenspan, despite his other motives, did help with that. Coming up after the break, what Steve thinks of the Trump administration's proposal to strip government spending at a GDP and what he thinks the head of his former agency should do about it.
+
+
+This message comes from Charles Schwab. When is the right time to sell a stock? What is the best way to steer your portfolio through an unsteady market? Financial decisions can be tricky. Financial Decoder is an original podcast from Charles Schwab host Mark Repe, head of the Schwab Center for Financial Research offers practical solutions to help overcome cognitive and emotional biases that may affect our investing decisions. Listen at schwab.com/financial decoder or wherever you get your podcasts.
+
+
+This message comes from Apple Card, searching for a hassle-free way to help you grow your savings. Then look no further than the high-yield savings account. You can open through Apple Card, apply for Apple Card in the wallet app today and see a credit limit offer in minutes. Subject to credit approval. Savings is available to Apple Card owners, subject to eligibility, savings, and Apple Card by Goldman Sachs Bank, USA, salt Lake City, branch member, FDIC, terms and more at Apple Card dot com.
+
+
+This message comes from NPR sponsor, state Farm in the market for small business insurance. State Farm knows your business is your life. State Farm agents are small business owners too, so they know what it takes. They can help you create a personalized insurance plan that fits your small business needs and budget. Small business insurance from State Farm like a good neighbor State Farm is there. Talk to your local agent today.
+
+
+So far, we've talked about how economists calculate GDP and how sometimes they make changes to that methodology, incremental changes to capture an evolving economy. Economists think that changing the fundamental formula for GDP that is much more dangerous. GDP is often how we compare policies and leaders across time and across countries. In fact, there are international standards for what goes into it. Countries debate at these painfully long international meetings, what counts in GDP? They have to come to a consensus on it. The last update to these global standards was in 2008, and they are working on a new update right now, which could be finalized any day.
+
+
+But people have always known that the formula doesn't capture everything that's important. For instance, it doesn't capture any illegal activities. And in some countries, that is a big part of their economy. It also doesn't capture inequality or wellbeing or happiness. Steve Feld, the former head of the Bureau of Economic Analysis, says there is another category of people who have been trying to change what's counted in GDP outside groups. And you could see why if governments are judged by their GDP growth, they'll focus on whatever makes their GDP look better. They'll work their butts off to do more of the things that increase GDP.
+
+
+One group that Steve remembers pressuring him argued that all the unpaid household labor, the cooking and the cleaning, and the child rearing that often women were doing was not getting counted in GDP, but they argued it should be. It was a huge portion of the economy, and women were not getting their due, And he thought their argument had merit. So he tried, really tried to figure out how his agency could capture it all and how they calculated GDP. But because money wasn't changing hands, the math was fuzzy. It had to be based on estimates and theoretical numbers. Also, there was actually nothing for GDP to capture.
+
+
+GDP generally captures transactions that have happened. Stuff that generates receipts just because it could or should be priced, doesn't mean it makes it into GDP. So Steve never ended up changing GDP to include unpaid household labor. Another group that lobbied BEA was environmentalists. They argued that if environmental degradation were included in GDP, governments would not sit idly by, as you know, coal plants polluted. But since burning coal raised GDP, Then you didn't have much of an incentive to stop it. Steve was game, but instead of changing GDP, he tried something else. In the early nineties, he made a new separate measure that environmentalists and policymakers could look at if they wanted.
+
+
+But that didn't mess with the standard GDP. Steve and his team essentially created a green adjusted GDP. We released them, and that's when Congress specifically forbid our doing any more work on this stuff and proposed a 20% cut in our budget. Steve says, some very high ranking members of Congress who represented coal mining areas thought Steve's green adjusted GDP would make their regions look worse than regular GDP. And through the grapevine, he found out that Congress was proposing to slash their budget if they kept publishing their green GDP. And it wasn't just people who represented coal mining areas, even people from other areas, people he thought he had convinced became worried about how their states looked and they pulled their support.
+
+
+Yeah, I learned a very painful lesson that all politics are local. Did that surprise you? How did that feel? Well, you know, you know, I would've thought, you know, going into that, oh, I'll be, you know, really, really brave here. And I'll just say, you know, if you do this, you know I'm leaving or something. You, you can't suppress this stuff. But when it came down to it, And I thought it through, I thought, And I talked to a lot of people about it, it wasn't going anywhere anyway. So there was no point in inflicting that kind of harm on the Bureau. 'cause it probably just made it worse. Steve dropped it. He gave up on his green adjusted GDP project. Now, Steve left his job as director of the BEAA decade ago, but we were curious about what he thought about what's been happening recently with senior administration officials, with the Commerce Secretary wanting to totally strip government spending out of GDP.
+
+
+Is it like technically feasible to separate those two things out, government spending versus everything else? Yeah. Well, if you look at table two and the current press release, He points to a press release from the BEA about 2024 GDP. Table two shows how much each part of the formula contributed to GDP, so how much consumption and investment and net exports and government spending each contributed. And since all of those things are broken out, that means that if Trump's Commerce Secretary, Howard Lutnick wants to, he can just take the top line GDP number and subtract out the government spending portion of that. You subtract line 50 from line one and you got the number he wants.
+
+
+There you go. Technically pretty easy. Just arithmetic. Right? Well Then if you wanna be more serious about it, Yeah, if you wanna be more serious about it, he says there are several different measures of GDP that BEA already publishes, different slices of GDP that tell different stories. Like there's one that's GDP, just not including net exports. There are a bunch of these, There's 11 different variants of GDP in there already. Add another one and site it up in your first first line. You know, GDP did this, it was Boyd by the government sector or pulled down by it and private GDP did this. You're done.
+
+
+So just make up a new num, not make up, make up a new indicator. And if you want to talk about that new indicator, talk about that. But don't mess with GDP is sort of your stance, Right? Yeah, yeah. And that's historically the way these things have tended to be solved. We asked BEA about this, they declined to comment, but that's what Steve expects to see in the coming months. To be clear, he hasn't spoken with anyone there about this, but he expects BEA will whip up a new line and put it at the top of their quarterly press release. Steve says, if he looks at that press release next month and they've announced that GDP now does not include government spending, well that is a different story. If it were dramatically changed, I'd be very concerned.
+
+
+You know, we haven't talked about it, but a big, big issue behind all this is the autonomy of a nation's statistics. They have to be trusted, they have to be objective. And if there's even the perception that people are manipulating the numbers to produce particular outcomes of interest to them, that could be catastrophic. That's why Steve held the line for so many years, and that's why he like us, will have his alarm set. Quarter one GDP estimates come out at 8:30 AM on April 30th.
+
+
+Before we go, we wanted to let you know about a new perk for Planet Money plus supporters. We have made it easy for you to listen to some of our classic series from the Planet Money Archive, like when we wanted to understand the global financial crisis and bought a toxic asset we named to. You can now find all eight toxic episodes in one playlist with more playlists to come this year. If you're already a Planet Money plus supporter, check 'em out. If you are not, you can sign up@plus.npr.org. You also get bonus episodes, sponsor free listening, and know that you're supporting the work of Planet Money. This episode of Planet Money was produced by Emma Peasley and edited by Jess Jang. It was Fact-Check by Sierra Juarez and engineered by Robert Rodriguez. Alice Goldmark is our executive producer.
+
+
+I'm Nick Fountain. And I'm Mary Childs. This is NPR. Thanks for
+
+
+listening. This message comes from NPR sponsor Vanta. Whether you are a startup founder navigating your first audit, or a seasoned security professional scaling your GRC program, proving your commitment to security has never been more critical or more complex. A new IDC white paper found that Vanta customers achieve $535,000 per year in benefits, and the platform pays for itself in just three months. Join over 9,000 global companies like Atlassian, Quora, and Factory who use Vanta to manage risk and prove security in real time. Visit vanta.com/ planetmoney today to receive $1,000 off support
+
+
+for the following message comes from LinkedIn ads as a B2B marketer. You know how noisy the digital ad space can be. If your message isn't targeted to the right audience, it just disappears into the noise. By using LinkedIn ads, you can reach professionals who are more likely to find your ad relevant. Target them by job title, industry, company, and more. Get a $100 credit on your next campaign at LinkedIn dot com slash results. Terms and conditions apply.
