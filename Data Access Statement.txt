@@ -1,0 +1,17 @@
+Summary:
+
+This project analyzes news articles from NPR and PBS and podcast transcripts sources via PodScribe, originally transcribed from public podcasts feeds using Google's Speech-to-Text API.
+
+We respect all data owners' rights and applicable terms of use. We importantly do not redistribute copyrighted source audio.
+
+Sources and ownership:
+
+NPR and PBS news articles: Copyright with the respective news organizations
+
+Podcast audio/transcripts: Copyright to the audio remains with the original podcast publishers.
+
+Collection and access
+
+NPR and PBS: Articles were collected from public archives. We honored each site’s robots.txt and crawled conservatively with generous time delays.
+
+PodScribe: Transcripts were obtained via PodScribe and used under their terms.

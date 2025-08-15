@@ -11,6 +11,7 @@ This repo contains Jupyter notebooks, Python scripts, and data samples used to a
 - data: raw data, and all saved DataFrames unded 100MB.
 - requirements.txt # Python dependencies
 - README.md
+- Data Access Statement.txt
 
 ## Quick Start
 - Python (3.10+)
